@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-public-jobs
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -24,10 +28,15 @@ jobs:
       - name: Generate public feed
         run: python scripts/generate_feed.py
 
+      - name: Verify GitHub Pages feed copy
+        run: |
+          cmp data/jobs.json docs/data/jobs.json
+          cmp data/jobs.csv docs/data/jobs.csv
+
       - name: Commit updated feed
         run: |
           git config user.name "scoutjob-bot"
           git config user.email "scoutjob-bot@users.noreply.github.com"
-          git add data/jobs.json data/jobs.csv
+          git add data/jobs.json data/jobs.csv docs/data/jobs.json docs/data/jobs.csv README.md
           git diff --cached --quiet || git commit -m "Refresh public job feed"
           git push
