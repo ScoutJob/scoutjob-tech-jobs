@@ -20,6 +20,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered |
 |---|---|---|---|---|
+| Google | [Senior UX Quantitative Researcher Android Auto](https://www.scoutjob.me/jobs/google-senior-ux-quantitative-researcher-android-auto-128833649293304518) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Uber | [Senior Electrical Engineer - AV Labs](https://www.scoutjob.me/jobs/uber-senior-electrical-engineer-av-labs-159725) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
+| Uber | [Sr Staff Engineer - Core Infrastructure](https://www.scoutjob.me/jobs/uber-sr-staff-engineer-core-infrastructure-157198) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Uber | [Audio Video Engineer](https://www.scoutjob.me/jobs/uber-audio-video-engineer-147707) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Uber | [Senior Software Engineer- Uber Eats Search Experience](https://www.scoutjob.me/jobs/uber-senior-software-engineer-uber-eats-search-experience-155294) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Uber | [Graduate 2026 Software Engineer I, TOR](https://www.scoutjob.me/jobs/uber-graduate-2026-software-engineer-i-tor-158014) | SoftwareEngineeringIntern | Remote | Jun 05, 2026 |
+| Uber | [Staff Software Engineer- Earner Offer Experience](https://www.scoutjob.me/jobs/uber-staff-software-engineer-earner-offer-experience-158129) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
 | AMD | [Principal, Platform Thermal Engineer Lead](https://www.scoutjob.me/jobs/amd-principal-platform-thermal-engineer-lead-86869) | SeniorHardwareEngineering | India | Jun 05, 2026 |
 | AMD | [PMTS Software Applications Eng.](https://www.scoutjob.me/jobs/amd-pmts-software-applications-eng-84634) | SoftwareEngineering | Canada | Jun 05, 2026 |
 | Adobe | [Forward-Deployed AI Engineer](https://www.scoutjob.me/jobs/adobe-forward-deployed-ai-engineer-adobusr168316externalenus) | DataAiMl | United States | Jun 05, 2026 |
@@ -88,10 +95,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Google | [Senior Software Engineer Infrastructure Google Cloud Compute](https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-compute-129625778701640390) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
 | Google | [Fabrication Equipment Engineer Quantum AI](https://www.scoutjob.me/jobs/google-fabrication-equipment-engineer-quantum-ai-77644388666090182) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
 | Amazon | [Senior Software Development Engineer, AWS Identity and Access Management](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-aws-identity-and-access-management-10441337) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Apple | [Senior Site Reliability Engineer (SRE) - Apple Services Engineering / iCloud](https://www.scoutjob.me/jobs/apple-senior-site-reliability-engineer-sre-apple-services-engineering-icloud-200665825) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Apple | [Senior Operations Engineer, Retail Store Operations & Support - Retail & Marcom Engineering](https://www.scoutjob.me/jobs/apple-senior-operations-engineer-retail-store-operations-support-retail-marcom-engineering-200666650) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| American Express | [AML Compliance Analyst](https://www.scoutjob.me/jobs/americanexpress-aml-compliance-analyst-26008580) | Analyst | Argentina | Jun 05, 2026 |
-| Microsoft | [Critical Environment Mechanical Engineer](https://www.scoutjob.me/jobs/microsoft-critical-environment-mechanical-engineer-1970393556870041) | HardwareEngineering | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior Software Engineer, Mapping - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-mapping-autonomous-vehicles-893394210620) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
-| NVIDIA | [Senior Mapping Engineer - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-mapping-engineer-autonomous-vehicles-893393494383) | SeniorSoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior Firmware Engineer - Memory Subsystem](https://www.scoutjob.me/jobs/nvidia-senior-firmware-engineer-memory-subsystem-893395199928) | SeniorHardwareEngineering | Canada | Jun 05, 2026 |

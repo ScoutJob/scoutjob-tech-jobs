@@ -1,8 +1,120 @@
 {
-  "generatedAtUtc": "2026-06-05T22:56:50.142894+00:00",
+  "generatedAtUtc": "2026-06-05T23:00:16.796024+00:00",
   "publicDelayMinutes": 60,
-  "total": 3136,
+  "total": 3143,
   "jobs": [
+    {
+      "id": "e29cc412-2550-4269-8384-f1e7d8ded877",
+      "company": "Google",
+      "companySlug": "google",
+      "title": "Senior UX Quantitative Researcher Android Auto",
+      "roleCategory": "SeniorSoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:59:45.102489Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:45:52.898735Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-ux-quantitative-researcher-android-auto-128833649293304518",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/128833649293304518-senior-ux-quantitative-researcher-android-auto"
+    },
+    {
+      "id": "6f74b715-9011-4b9c-a1dc-b97c84e82f7c",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Senior Electrical Engineer - AV Labs",
+      "roleCategory": "SeniorHardwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:59:07.550818Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:45:08.381422Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-senior-electrical-engineer-av-labs-159725",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/159725"
+    },
+    {
+      "id": "42e83538-ebf4-46cf-8b4f-4033ef79d882",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Sr Staff Engineer - Core Infrastructure",
+      "roleCategory": "SeniorSoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:59:04.758795Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:45:06.468244Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-sr-staff-engineer-core-infrastructure-157198",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/157198"
+    },
+    {
+      "id": "dbc252a5-7594-48f5-a198-04126692bc30",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Audio Video Engineer",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:58:35.262253Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:44:48.035488Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-audio-video-engineer-147707",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/147707"
+    },
+    {
+      "id": "37915e58-dce2-4f31-ad2f-3c161ebed4f0",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Senior Software Engineer- Uber Eats Search Experience",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:58:12.756311Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:31:52.181722Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-senior-software-engineer-uber-eats-search-experience-155294",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/155294"
+    },
+    {
+      "id": "15e325b6-94c3-46a1-b8da-9d59d6445d1e",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Graduate 2026 Software Engineer I, TOR",
+      "roleCategory": "SoftwareEngineeringIntern",
+      "country": "Remote",
+      "location": "Remote",
+      "isRemote": true,
+      "isInternship": true,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:58:10.688192Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:44:20.951846Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-graduate-2026-software-engineer-i-tor-158014",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/158014"
+    },
+    {
+      "id": "9c60e8b2-3f56-4f76-9048-c280ef037ea2",
+      "company": "Uber",
+      "companySlug": "uber",
+      "title": "Staff Software Engineer- Earner Offer Experience",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-05T21:58:09.257353Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:44:20.590831Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-staff-software-engineer-earner-offer-experience-158129",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/158129"
+    },
     {
       "id": "3b5926b1-142e-4859-a1ad-9f31abc81bed",
       "company": "AMD",
@@ -47,7 +159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T21:42:10.242846Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:12.227225Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.377491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-forward-deployed-ai-engineer-adobusr168316externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer_R168316-1/apply"
     },
@@ -575,7 +687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T21:03:26.047125Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:17.843256Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:30.591131Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-data-migration-engineer-ii-336039",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336039"
     },
@@ -591,7 +703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T21:02:02.30654Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:36.408327Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.119744Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-335695",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335695"
     },
@@ -735,7 +847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T20:39:19.90832Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:24.404554Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.660758Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-director-solutions-engineer-meta-ciscisglobal2016524externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Director--Solutions-Engineer---Meta_2016524/apply"
     },
@@ -751,7 +863,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T20:39:17.438878Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:22.622633Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:08.658159Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-hardware-engineer-high-speed-io-testing-onsite-ciscisglobal2016448externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-Hardware-Engineer--High-speed-IO-Testing---Onsite-_2016448/apply"
     },
@@ -1743,7 +1855,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T18:52:32.086089Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:30:07.641163Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:14.276687Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineering-manager-digital-natives-ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9"
     },
@@ -5119,7 +5231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T05:11:47.396569Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:21.433076Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:28.544653Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-robotics-software-engineer-fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca"
     },
@@ -5135,7 +5247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T05:11:42.384503Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:15.367815Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:21.010697Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-firmware-lead-robotics-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722"
     },
@@ -6223,7 +6335,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T01:52:21.33745Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.875114Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:17.058364Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-adobusr167407externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R167407/apply"
     },
@@ -6239,7 +6351,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T01:52:19.877723Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.221735Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:14.143224Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr168236externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168236-1/apply"
     },
@@ -6255,7 +6367,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T01:52:09.438398Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:09.903079Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.386503Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-build-systems-pipeline-engineer-adobusr169413externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Build-Systems---Pipeline-Engineer_R169413-1/apply"
     },
@@ -7983,7 +8095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T23:36:03.369098Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:44.72676Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.392705Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-335700",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335700"
     },
@@ -7999,7 +8111,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T23:35:49.458308Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:33.466318Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:54.154009Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-ai-platform-engineering-335829",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335829"
     },
@@ -8015,7 +8127,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T23:35:45.358854Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:29.669928Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:53.529459Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-ai-platform-engineering-335828",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335828"
     },
@@ -8479,7 +8591,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:45:23.203371Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:34.419796Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:40.060568Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-design-engineer-ciscisglobal2016441externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Allentown-Pennsylvania-US/Senior-Design-Engineer_2016441-1/apply"
     },
@@ -8559,7 +8671,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:28:27.695002Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:19.548493Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:36.995416Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-director-software-development-335001",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335001"
     },
@@ -8575,7 +8687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:28:13.570168Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:59.404169Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:05.465579Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-healthcare-education-platform-335189",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335189"
     },
@@ -8591,7 +8703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:27:17.209756Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:34.775737Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:57.576196Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-network-developer-2-335758",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335758"
     },
@@ -8623,7 +8735,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:27:14.608834Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:28.693112Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:52.403305Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-ai-native-platform-engineering-335759",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335759"
     },
@@ -9215,7 +9327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T21:16:05.939538Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:36.04231Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:25.692538Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-verification-engineer-ciscisglobal2006886externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006886/apply"
     },
@@ -9231,7 +9343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T21:16:04.577569Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.895649Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:19.56826Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-datapath-ciscisglobal2015120externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Datapath_2015120-1/apply"
     },
@@ -10031,7 +10143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T19:37:17.141023Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:37.716567Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:41.49901Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-dpu-networking-stack-ciscisglobal2015096externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--DPU-Networking-stack_2015096/apply"
     },
@@ -10047,7 +10159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T19:37:16.20763Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:38.64593Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:49.211708Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-engineer-dpu-networking-software-stack-ciscisglobal2015097externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer--DPU-Networking-Software-Stack_2015097/apply"
     },
@@ -10063,7 +10175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T19:37:15.089013Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:33.621252Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:37.075396Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-verification-emulation-engineer-ciscisglobal2006884externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Emulation-Engineer_2006884/apply"
     },
@@ -10719,7 +10831,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T17:47:31.866581Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.194409Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:30.947168Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-design-verification-engineer-acacia-networks-ciscisglobal2014236externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Design-Verification-Engineer---Acacia-Networks_2014236/apply"
     },
@@ -10735,7 +10847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T17:47:31.003627Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.563097Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:17.061615Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-sales-compensation-analyst-spm-systems-ciscisglobal2013920externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Sales-Compensation-Analyst--SPM-Systems---Scrum-Master-_2013920-1/apply"
     },
@@ -10895,7 +11007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T17:33:40.364017Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:22.778373Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:30.950134Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-ai-platform-engineer-adobusr169399externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-AI-Platform-Engineer_R169399/apply"
     },
@@ -11055,7 +11167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T17:11:55.133091Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:39.426484Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:33.064497Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-silicon-photonics-packaging-technical-leader-hybrid-ciscisglobal2012895externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Carlsbad-California-US/Silicon-Photonics-Packaging-Technical-Leader_2012895/apply"
     },
@@ -11887,7 +11999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T13:43:51.771462Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.903277Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:11.092106Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-leader-engineering-project-program-management-ciscisglobal2015466externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Leader--Engineering-Project---Program-Management_2015466/apply"
     },
@@ -12863,7 +12975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T06:53:14.956207Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:16.300039Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:15.996638Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-finance-analyst-supporting-legal-strategy-hybrid-ciscisglobal2015429externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Finance-Analyst--Supporting-Legal---Strategy--Hybrid-_2015429/apply"
     },
@@ -13215,7 +13327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T03:56:26.05585Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:47.665825Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:55.461633Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-test-development-engineer-software-ciscisglobal2011806externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Test-Development-Engineer---Software_2011806/apply"
     },
@@ -13231,7 +13343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T03:56:24.873415Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:41.250316Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.294143Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-security-research-engineer-ciscisglobal2015173externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Security-Research-Engineer_2015173/apply"
     },
@@ -13247,7 +13359,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T03:56:22.468821Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:54.743686Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.128381Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2015413externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chicago-Illinois-US/Solutions-Engineer_2015413-1/apply"
     },
@@ -13263,7 +13375,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T03:56:16.432559Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:56.901581Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:07.350367Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2015414externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ann-Arbor-Michigan-US/Solutions-Engineer_2015414-1/apply"
     },
@@ -13279,7 +13391,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T03:56:14.457273Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:43.682351Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.964571Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-security-research-engineer-ciscisglobal2015176externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boston-Massachusetts-US/Security-Research-Engineer_2015176/apply"
     },
@@ -13535,7 +13647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T01:28:41.724551Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:29.700993Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:49.14761Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-staff-product-security-engineer-adobusr165755externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sr-Product-Security-Engineer_R165755/apply"
     },
@@ -13919,7 +14031,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T23:41:41.992143Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:26.71771Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:21.371312Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-people-products-5119468008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5119468008"
     },
@@ -13935,7 +14047,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T23:39:18.208557Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:35.354638Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.785687Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-5-335110",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335110"
     },
@@ -14063,7 +14175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T22:43:38.094582Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.974144Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:16.642052Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-infrastructure-asset-systems-5237762008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5237762008"
     },
@@ -14271,7 +14383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T21:57:03.284622Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:06.338053Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:12.055571Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-playback-qoe-engineer-334561",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334561"
     },
@@ -14895,7 +15007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T20:00:36.481977Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:37.352418Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.779272Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-335659",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335659"
     },
@@ -15167,7 +15279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T19:32:56.661003Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.444823Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:35.528896Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr166688externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166688/apply"
     },
@@ -15183,7 +15295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T19:32:55.497391Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.072929Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:32.976734Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr166329externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166329/apply"
     },
@@ -15407,7 +15519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T18:33:04.544391Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:42.482645Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:52.048561Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-information-security-engineer-ii-full-time-united-states-ciscisglobal2016214externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer-II--Full-Time----United-States_2016214/apply"
     },
@@ -15551,7 +15663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T18:21:06.399521Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:42.14447Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:00.674283Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-quality-engineer-ciscisglobal2013840externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Quality-Engineer_2013840-1/apply"
     },
@@ -15567,7 +15679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T18:20:58.156786Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:40.079873Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:16.445832Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-engineering-technical-leader-dft-ciscisglobal2009656externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2009656/apply"
     },
@@ -15839,7 +15951,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T17:36:54.791616Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:14.835884Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:29.201067Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-software-engineer-adobusr169112externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112/apply"
     },
@@ -16191,7 +16303,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T15:45:20.074857Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.684472Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:44.762628Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-sr-software-engineer-cloud-inference-5231496008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5231496008"
     },
@@ -16367,7 +16479,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T14:53:23.918849Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:53.396766Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:03.661179Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-engineer-technical-lead-ciscisglobal2007180externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2007180/apply"
     },
@@ -16527,7 +16639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T13:33:12.264846Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:39.177359Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:08.663431Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-us-citizenship-required-335636",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335636"
     },
@@ -17071,7 +17183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T10:18:33.197699Z",
-      "lastVerifiedAtUtc": "2026-06-05T20:37:47.88996Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:35.760033Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-architect-oracle-health-335447",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335447"
     },
@@ -19215,7 +19327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T02:38:13.529813Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:08.035512Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:37.644238Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-sr-software-engineer-ciscisglobal2010406externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Sr-Software-Engineer_2010406-1/apply"
     },
@@ -19231,7 +19343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T02:34:35.063537Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:54.76414Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:11.009818Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-director-335476",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335476"
     },
@@ -19295,7 +19407,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T01:31:26.010584Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:31.357175Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.398491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-adobusr169351externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R169351/apply"
     },
@@ -19407,7 +19519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T00:48:55.468371Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:42.9413Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:02.415109Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2010407externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2010407-1/apply"
     },
@@ -19663,7 +19775,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T22:37:18.625444Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:05.545776Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:52.63901Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-embedded-software-engineer-ciscisglobal2005636externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-Embedded-Software-Engineer_2005636/apply"
     },
@@ -19759,7 +19871,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:53:58.717867Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:07.246366Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:16.64495Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-us-commercial-md-dc-ciscisglobal2016105externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Fulton-Maryland-US/Solutions-Engineer---US-Commercial---MD-DC_2016105/apply"
     },
@@ -19775,7 +19887,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:53:57.425093Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:07.651342Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:13.898612Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-contact-center-partner-solutions-engineer-ciscisglobal2015433externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Dallas-Texas-US/Contact-Center---Partner-Solutions-Engineer_2015433/apply"
     },
@@ -19791,7 +19903,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:49:02.716028Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:02.389652Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:15.755037Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-ai-data-platform-330553",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330553"
     },
@@ -19871,7 +19983,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:29:57.180002Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.932856Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:00.843071Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-engineer-backend-adobusr169415externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer---Backend_R169415/apply"
     },
@@ -19887,7 +19999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:26:38.512365Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:15.786594Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:32.500826Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-development-engineer-oci-335446",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335446"
     },
@@ -19903,7 +20015,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:26:29.753981Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:01.738489Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:14.13588Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-lead-principal-software-engineer-334313",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334313"
     },
@@ -19999,7 +20111,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:06:36.547476Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:16.751694Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:34.462163Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-325988",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/325988"
     },
@@ -20927,7 +21039,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:50:30.585581Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:22.207382Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.086843Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-verification-technical-leader-acacia-hybrid-ciscisglobal2008311externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/ASIC-Design-Verification-Technical-Leader_2008311-1/apply"
     },
@@ -20943,7 +21055,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:50:13.859653Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:16.834271Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:59.116776Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2016035externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2016035/apply"
     },
@@ -20975,7 +21087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:49:55.261954Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:59.441816Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:28.816012Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-director-ai-research-and-engineering-efficiency-circuit-platform-ciscisglobal2013651externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Director---AI-Research-and-Engineering-Efficiency--Circuit-Platform-_2013651-1/apply"
     },
@@ -20991,7 +21103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:49:41.808869Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:58.943682Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:11.914796Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-verification-engineer-ciscisglobal2006883externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006883-1/apply"
     },
@@ -21023,7 +21135,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:49:35.785534Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:58.226853Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:10.314066Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2004009externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004009/apply"
     },
@@ -21039,7 +21151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:49:32.606541Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:57.679248Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:36.05369Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-site-reliability-engineer-ciscisglobal2014845externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845/apply"
     },
@@ -21055,7 +21167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:49:06.604915Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.18651Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:55.606368Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr168187externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1/apply"
     },
@@ -21103,7 +21215,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:35.708616Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:37.256311Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:08.665954Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-rl-data-5238606008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5238606008"
     },
@@ -21119,7 +21231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:20.411671Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:08.255237Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:30.939562Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-development-engineer-oci-334947",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334947"
     },
@@ -21135,7 +21247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:16.670957Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:05.612465Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:29.162503Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-oci-334948",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334948"
     },
@@ -21151,7 +21263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:11.932533Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:04.403759Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:22.981272Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-senior-manager-oci-332890",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332890"
     },
@@ -21167,7 +21279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:09.21134Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:03.565305Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:19.428165Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-engineer-oracle-health-335361",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335361"
     },
@@ -21183,7 +21295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:46:07.924041Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:59.201486Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.382901Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-oracle-health-335363",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335363"
     },
@@ -21935,7 +22047,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:32:29.513926Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:39.136575Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:49.203841Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-mechanical-engineer-physical-infrastructure-5135731007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5135731007"
     },
@@ -21951,7 +22063,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:32:11.186916Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:14.631487Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:15.033889Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-electrical-engineer-physical-infrastructure-5136043007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5136043007"
     },
@@ -22031,7 +22143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:26:48.558906Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:00.197217Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:51.640721Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-customer-facing-quality-leader-coherent-optical-pluggable-products-ciscisglobal2010248externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Customer-Facing-Quality-Leader---Coherent-Optical-Pluggable-Products_2010248/apply"
     },
@@ -22063,7 +22175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:24:16.867493Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:03.204806Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:10.807131Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-center-infrastructure-electrical-engineer-e602cd50-002d-4ace-bb30-19db0afcf635",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/e602cd50-002d-4ace-bb30-19db0afcf635"
     },
@@ -22079,7 +22191,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:22:33.99969Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:35.155758Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:35.793644Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-center-infrastructure-mechanical-engineer-8e856e36-075e-40b4-b617-0229b5c1a308",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/8e856e36-075e-40b4-b617-0229b5c1a308"
     },
@@ -22335,7 +22447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:25:16.077676Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:13.397256Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:55.960693Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-ai-ml-technical-leader-language-model-inference-ai-ops-ciscisglobal2016113externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-ML-Technical-Leader---Language-Model-Inference---AI-Ops_2016113-1/apply"
     },
@@ -22351,7 +22463,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:25:15.638314Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:10.474801Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:54.241105Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-integrated-photonic-test-engineer-ciscisglobal2010752externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer_2010752/apply"
     },
@@ -22367,7 +22479,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:25:15.221047Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:17.689215Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:01.163115Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-integrated-photonic-engineer-hybrid-ciscisglobal2010736externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Integrated-Photonic-Engineer--Hybrid-_2010736/apply"
     },
@@ -22783,7 +22895,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:07:36.312551Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:34.317112Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:05.129676Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-data-automation-engineer-adobusr169258externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Automation-Engineer_R169258/apply"
     },
@@ -22799,7 +22911,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:07:33.932787Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:36.042959Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:02.179462Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr169233externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R169233-1/apply"
     },
@@ -22815,7 +22927,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:07:28.740731Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:33.423856Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:03.959818Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-engineering-manager-express-ai-foundations-adobusr168914externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914/apply"
     },
@@ -22831,7 +22943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:06:46.534539Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:23.226687Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:45.036084Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-ai-security-engineer-ciscisglobal2013302externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Security-Engineer_2013302-1/apply"
     },
@@ -22879,7 +22991,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:06:37.21704Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:19.080975Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:03.222495Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-application-security-engineer-ciscisglobal2013304externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Application-Security-Engineer_2013304-1/apply"
     },
@@ -22895,7 +23007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:06:32.08883Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:25.808389Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.774687Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-engineering-technical-leader-onsite-ciscisglobal2015405externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader--Onsite-_2015405/apply"
     },
@@ -22943,7 +23055,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:04:58.40145Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:04.536097Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:12.074898Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-startups-71e7252f-abb1-4b74-8e69-318413042357",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357"
     },
@@ -22959,7 +23071,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:03:15.592509Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:49.702202Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.922008Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-principal-software-developer-334432",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334432"
     },
@@ -22975,7 +23087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:03:13.397074Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:45.6915Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.073387Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-manager-software-development-334269",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334269"
     },
@@ -22991,7 +23103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:03:01.882726Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:42.569862Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:55.653748Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-principal-software-developer-326123",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/326123"
     },
@@ -23007,7 +23119,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T21:02:56.774969Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:27.488941Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:49.393363Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-332892",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332892"
     },
@@ -23631,7 +23743,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T04:37:54.615403Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:29.784698Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:10.347586Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-analog-mixed-signal-ic-design-engineer-acacia-hybrid-ciscisglobal2015308externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Analog-mixed-signal-IC-Design-Engineer---Acacia--Hybrid-_2015308/apply"
     },
@@ -23775,7 +23887,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-31T21:59:14.534102Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:01.424841Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:04.723805Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-imagine-safety-5151022007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5151022007"
     },
@@ -23887,7 +23999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-30T17:27:29.396164Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:08.602293Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:13.999808Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-engineer-334279",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334279"
     },
@@ -24271,7 +24383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T23:04:59.653102Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:37.419588Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:46.98691Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-manager-engineering-power-generation-5150828007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5150828007"
     },
@@ -24303,7 +24415,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T22:44:31.524323Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:37.031923Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:35.812497Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-ai-operations-engineering-technical-leader-ciscisglobal2015442externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/AI-Operations-Engineering-Technical-Leader_2015442/apply"
     },
@@ -24319,7 +24431,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T22:44:19.756858Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:31.025511Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:20.791608Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-cloud-engineer-ciscisglobal2016055externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Senior-Cloud-Engineer_2016055/apply"
     },
@@ -24383,7 +24495,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T22:19:11.516838Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:56.498512Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.019991Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-it-controls-data-engineer-5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c"
     },
@@ -24431,7 +24543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T21:26:40.243071Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:37.032826Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.480059Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-engineer-graph-node-ecosystem-video-adobusr169260externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Software-Engineer---Graph-Node-Ecosystem--Video-_R169260/apply"
     },
@@ -24463,7 +24575,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T20:10:16.227251Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:01.359095Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.875204Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-oci-devops-engineer-329832",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/329832"
     },
@@ -24479,7 +24591,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T20:10:15.243823Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:59.949811Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.348406Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-optical-network-engineer-330406",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330406"
     },
@@ -24671,7 +24783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T18:45:15.57468Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:42.484824Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:51.549204Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-simulation-applications-engineer-39cd0dd8-520d-4932-80bf-7495a1d1d11b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b"
     },
@@ -24767,7 +24879,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T18:22:27.130316Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:38.362799Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:55.421957Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-software-engineer-ii-159804",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/159804"
     },
@@ -24863,7 +24975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T17:19:25.809146Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:40.913804Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:24.438543Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2015145externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Cary-North-Carolina-US/Solutions-Engineer_2015145/apply"
     },
@@ -25071,7 +25183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:50:44.999829Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:30.461181Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:13.93987Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-manager-site-reliability-engineering-fedramp-thousandeyes-ciscisglobal2001526externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Leader--Software-Engineering_2001526-1/apply"
     },
@@ -25087,7 +25199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:49:41.898354Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:40.371595Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.623042Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-analytics-engineer-smb-c3f437e7-034b-4ea0-a29e-c62eb23ca24f",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/c3f437e7-034b-4ea0-a29e-c62eb23ca24f"
     },
@@ -25103,7 +25215,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:29:25.972638Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:40.191465Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:09.101578Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-staff-software-development-engineer-adobusr169307externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Software-Development-Engineer_R169307/apply"
     },
@@ -25119,7 +25231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:29:24.698387Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:41.906988Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:13.984717Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr169298externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R169298/apply"
     },
@@ -25135,7 +25247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:29:22.715185Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:39.085933Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:07.04727Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-sde3-4-evergreen-adobusr167236externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--SDE3-4----Evergreen_R167236/apply"
     },
@@ -25487,7 +25599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T01:41:35.325654Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:37.810358Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:11.970188Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-full-stack-software-engineer-3-adobusr167823externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Full-Stack-Software-Engineer-3_R167823/apply"
     },
@@ -25567,7 +25679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T00:15:47.329126Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:54.62548Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:46.171312Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-test-development-engineering-technical-leader-ciscisglobal2014661externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Test-Development-Engineering-Technical-Leader_2014661/apply"
     },
@@ -25887,7 +25999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T20:53:07.612161Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:55.621843Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:27.480296Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-ui-developer-angular-v10-ciscisglobal2010543externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-UI-Developer--Angular-v10-_2010543/apply"
     },
@@ -25983,7 +26095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T19:30:21.193584Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:42.494539Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:19.824885Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-platform-ai-engineer-adobusr166072externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Data---AI-Engineer_R166072/apply"
     },
@@ -26559,7 +26671,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T15:16:08.641021Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:53.367936Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:35.197633Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-hardware-design-engineer-technical-lead-ciscisglobal2014522externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Design-Engineer-Technical-Lead_2014522-1/apply"
     },
@@ -26815,7 +26927,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T10:27:53.346821Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:22.236386Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:17.15076Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-large-enterprise-b904267b-6320-4469-93ce-e74da6586e6a",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/b904267b-6320-4469-93ce-e74da6586e6a"
     },
@@ -26991,7 +27103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T06:27:58.843947Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:56.171988Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.002181Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-principal-machine-learning-engineer-ciscisglobal2015058externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Principal-Machine-Learning-Engineer_2015058/apply"
     },
@@ -27023,7 +27135,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T03:14:55.070998Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:44.744712Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:53.042001Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-electrical-engineer-robotics-8eaa92fb-b908-4624-9b34-1ec7b5aa03d6",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/8eaa92fb-b908-4624-9b34-1ec7b5aa03d6"
     },
@@ -27055,7 +27167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T01:50:53.870762Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:47.6634Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:17.782529Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobe-genstudio-adobusr168257externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Adobe-GenStudio_R168257/apply"
     },
@@ -27071,7 +27183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T01:23:59.445746Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:20.977713Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:44.397081Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-334988",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334988"
     },
@@ -27119,7 +27231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T00:41:49.721531Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:34.082729Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:52.731243Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-claude-design-5229345008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008"
     },
@@ -27199,7 +27311,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-27T22:55:50.953064Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:56.71206Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:49.144047Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-qa-engineer-milpitas-ca-hybrid-ciscisglobal2014023externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-QA-Engineer--Milpitas--CA--Hybrid_2014023/apply"
     },
@@ -27487,7 +27599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-27T19:35:38.066242Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:57.721586Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.650773Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-customer-reliability-engineer-hypershield-remote-ciscisglobal2010720externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Customer-Reliability-Engineer--Hypershield--remote-_2010720/apply"
     },
@@ -28063,7 +28175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-27T02:46:27.128034Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:05.174807Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:10.540812Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-334632",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334632"
     },
@@ -28079,7 +28191,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-27T02:46:24.237727Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:03.349063Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:08.242839Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-334695",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334695"
     },
@@ -28639,7 +28751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T22:49:46.028998Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:18.53794Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:36.224769Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-engineering-manager-oracle-health-ai-reimbursement-platform-334068",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334068"
     },
@@ -28815,7 +28927,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T19:45:34.009823Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:00.458784Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:49.904914Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-product-security-engineer-adobusr165070externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Security-Engineer_R165070-1/apply"
     },
@@ -28831,7 +28943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T19:45:32.139124Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:57.039563Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:35.749056Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-sdk-cloud-data-platform-engineering-adobusr166590externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer--SDK---Cloud-Data-Platform-Engineering_R166590-1/apply"
     },
@@ -28975,7 +29087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T17:36:39.279589Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:54.740702Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:30.597818Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-applied-scientist-adobusr169113externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R169113-1/apply"
     },
@@ -29151,7 +29263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T15:32:27.971266Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:11.747128Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:11.074967Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-adobusr169199externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R169199-1/apply"
     },
@@ -30575,7 +30687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:40:08.760474Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:03.894976Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:14.406624Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-model-training-5086969007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5086969007"
     },
@@ -30591,7 +30703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:40:08.346251Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:04.414924Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:16.047377Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-model-training-5086324007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5086324007"
     },
@@ -30607,7 +30719,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:40:07.441751Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:03.270149Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:13.323115Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-mid-training-4965893007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4965893007"
     },
@@ -30639,7 +30751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:40:05.509801Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:02.682488Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:07.753239Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-media-4805874007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4805874007"
     },
@@ -30671,7 +30783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:40:01.444393Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:02.139348Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:05.916354Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-inference-4533894007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4533894007"
     },
@@ -30703,7 +30815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:59.839337Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:55.09619Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:59.334728Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-imagine-product-5052027007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5052027007"
     },
@@ -30735,7 +30847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:55.351837Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:52.790375Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:58.056117Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-imagine-model-5051985007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5051985007"
     },
@@ -30767,7 +30879,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:54.656546Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:50.93777Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:57.264364Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-grok-product-5051984007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5051984007"
     },
@@ -30799,7 +30911,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:53.777931Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:46.37378Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.453743Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-data-platform-4803862007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007"
     },
@@ -30831,7 +30943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:50.375082Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:45.05562Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:55.562875Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-compute-infrastructure-5052040007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5052040007"
     },
@@ -30863,7 +30975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:48.813172Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:44.112437Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:54.730667Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-cloud-infrastructure-5133071007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5133071007"
     },
@@ -30895,7 +31007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:43.20451Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:42.537427Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:53.862352Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-ads-4996796007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4996796007"
     },
@@ -30927,7 +31039,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:41.874943Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:41.081556Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:51.791421Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-member-of-technical-staff-5044403007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5044403007"
     },
@@ -30943,7 +31055,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:41.323822Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:37.972267Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.595313Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-material-flow-engineer-data-center-operations-5123360007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5123360007"
     },
@@ -30975,7 +31087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:40.263382Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:36.88749Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:41.368037Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-legal-operations-analyst-5101856007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5101856007"
     },
@@ -31007,7 +31119,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:38.964568Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:36.339568Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:35.180826Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-it-systems-engineer-4871633007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4871633007"
     },
@@ -31039,7 +31151,7 @@
       "isInternship": true,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:37.171623Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:35.737403Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:31.106159Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-internal-tools-front-end-5052038007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5052038007"
     },
@@ -31055,7 +31167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:34.177811Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:34.631008Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:30.325385Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-infrastructure-security-engineer-5090998007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5090998007"
     },
@@ -31071,7 +31183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:33.592598Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:34.089342Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:29.465944Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-gas-pipeline-engineer-5136064007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5136064007"
     },
@@ -31087,7 +31199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:33.174185Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:20.670513Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:25.153815Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-exceptional-software-engineer-4956028007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4956028007"
     },
@@ -31119,7 +31231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:32.130616Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:33.295861Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:26.722244Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-exceptional-software-engineer-4956070007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4956070007"
     },
@@ -31135,7 +31247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:30.572401Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:19.034951Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:21.500715Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-environmental-health-safety-engineer-5116111007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5116111007"
     },
@@ -31167,7 +31279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:29.140415Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:17.839679Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:19.467523Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-environmental-engineer-5116194007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5116194007"
     },
@@ -31183,7 +31295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:27.069672Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:16.724358Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:16.045196Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-engineering-lead-consumer-subscriptions-5109691007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5109691007"
     },
@@ -31231,7 +31343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:24.844798Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:12.880133Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:14.298994Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-dispute-analyst-x-payments-4959599007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4959599007"
     },
@@ -31263,7 +31375,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:21.157203Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:10.603261Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:10.813781Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-detection-response-engineer-4559148007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4559148007"
     },
@@ -31295,7 +31407,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:18.532694Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:08.178272Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:08.637201Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-data-science-tutor-4925835007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4925835007"
     },
@@ -31311,7 +31423,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:16.764622Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:06.291851Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:07.55537Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-data-engineer-5120884007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5120884007"
     },
@@ -31359,7 +31471,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:15.644174Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:04.481345Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:03.308565Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-data-analyst-physical-infrastructure-5112514007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5112514007"
     },
@@ -31391,7 +31503,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:14.110133Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:02.368543Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:01.179059Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-controls-engineer-5116056007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5116056007"
     },
@@ -31407,7 +31519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:12.135943Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:00.519445Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:59.248715Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-chemical-engineering-tutor-4925847007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4925847007"
     },
@@ -31423,7 +31535,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:11.389188Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:59.751414Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:55.743927Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-backend-engineer-enterprise-5006477007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5006477007"
     },
@@ -31471,7 +31583,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:10.949795Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:59.137033Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:54.19944Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-backend-engineer-api-5120536007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5120536007"
     },
@@ -31503,7 +31615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:07.134778Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:56.368461Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:52.642086Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-backend-engineer-4991448007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4991448007"
     },
@@ -31535,7 +31647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:05.624861Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:50.649063Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.767997Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-application-security-engineer-4559147007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4559147007"
     },
@@ -31583,7 +31695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:39:01.890048Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:46.611121Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.125591Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-ai-tutor-software-engineering-specialist-5063490007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5063490007"
     },
@@ -32911,7 +33023,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:26.742547Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:35.329272Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:50.463299Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-tpu-kernel-engineer-4720576008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
     },
@@ -32943,7 +33055,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:24.457099Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:34.291754Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:46.619438Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-threat-collections-engineer-5074937008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074937008"
     },
@@ -32975,7 +33087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:23.394139Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:33.331963Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:45.610289Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-ui-software-engineer-claude-ai-consumer-product-5026097008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008"
     },
@@ -33007,7 +33119,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:22.922114Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:03.924856Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:55.647559Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-sr-software-engineer-inference-deployment-5111745008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5111745008"
     },
@@ -33039,7 +33151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:22.404452Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:03.209582Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:52.069555Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-sr-software-engineer-inference-4951696008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008"
     },
@@ -33103,7 +33215,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:19.874633Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.330653Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:40.988722Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-sr-software-engineer-ai-reliability-5113224008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5113224008"
     },
@@ -33135,7 +33247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:19.434956Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:31.435483Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:36.055399Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-security-engineer-5120512008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5120512008"
     },
@@ -33167,7 +33279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:17.562513Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.833666Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:30.867003Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-public-sector-5205704008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5205704008"
     },
@@ -33215,7 +33327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:14.355806Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.295975Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:28.813884Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-privacy-5159146008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5159146008"
     },
@@ -33247,7 +33359,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:11.360837Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:29.767801Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:27.69648Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-platform-5157847008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008"
     },
@@ -33375,7 +33487,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:34:00.107123Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:24.712709Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:19.856706Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-ios-4572744008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008"
     },
@@ -33423,7 +33535,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:57.814752Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.297207Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:12.861185Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-inference-5150472008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008"
     },
@@ -33455,7 +33567,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:55.141022Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:22.701422Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:11.069235Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-full-stack-5174747008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008"
     },
@@ -33487,7 +33599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:50.291717Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:21.879856Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:08.831047Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-developer-productivity-5110511008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5110511008"
     },
@@ -33503,7 +33615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:48.122483Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:30:09.300075Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:15.919152Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-data-infrastructure-research-b7a2e30f-c5f6-4710-b53e-64d64bcce189",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/b7a2e30f-c5f6-4710-b53e-64d64bcce189"
     },
@@ -33519,7 +33631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:47.951125Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:18.382576Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.999865Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-databases-5151069008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5151069008"
     },
@@ -33535,7 +33647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:47.617286Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:30:06.256662Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:13.331313Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-research-developer-productivity-e6d5ca02-f30b-4ac5-a69d-c947efb430f9",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/e6d5ca02-f30b-4ac5-a69d-c947efb430f9"
     },
@@ -33551,7 +33663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:47.026624Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:30:02.627025Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:07.751443Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-engineer-detection-and-response-3728b144-f640-42be-84af-94f6b0743d7c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/3728b144-f640-42be-84af-94f6b0743d7c"
     },
@@ -33567,7 +33679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:45.520554Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:12.33856Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.445933Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-billing-platform-5146298008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5146298008"
     },
@@ -33583,7 +33695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:45.40036Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:30:00.013347Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:05.541756Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-center-controls-network-engineer-68f7ef0f-97a4-47ce-ac0a-a442572ab7a7",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/68f7ef0f-97a4-47ce-ac0a-a442572ab7a7"
     },
@@ -33599,7 +33711,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:44.823933Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:58.724982Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:02.598005Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-support-systems-architect-782db0f6-a03d-4f9f-9eb2-191831b37939",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/782db0f6-a03d-4f9f-9eb2-191831b37939"
     },
@@ -33615,7 +33727,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:44.546802Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:11.762029Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:05.538219Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-backend-5174755008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008"
     },
@@ -33631,7 +33743,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:42.158169Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:10.932479Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:04.031387Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-android-4899511008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008"
     },
@@ -33647,7 +33759,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:42.150079Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:56.059299Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:58.68126Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-protection-scientist-engineer-integrity-529feb11-4b9b-4baf-9b3f-f2b100156c5a",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/529feb11-4b9b-4baf-9b3f-f2b100156c5a"
     },
@@ -33663,7 +33775,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:41.066968Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:05.621489Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:02.773979Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-ai-reliability-engineering-5101169008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008"
     },
@@ -33679,7 +33791,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:40.792977Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:54.210861Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:57.710648Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-gov-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f"
     },
@@ -33695,7 +33807,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:35.301251Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:05.044632Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.82733Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-ai-reliability-engineering-5101173008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
     },
@@ -33711,7 +33823,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:34.861297Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:53.389284Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.825942Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-cloud-infrastructure-29c2c171-fb63-4985-9ac5-229b2ff5ced6",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/29c2c171-fb63-4985-9ac5-229b2ff5ced6"
     },
@@ -33727,7 +33839,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:34.388745Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:04.477892Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.068021Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-accessibility-4673416008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4673416008"
     },
@@ -33743,7 +33855,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:31.763193Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:50.051356Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.015947Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-full-stack-software-engineer-growth-77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca"
     },
@@ -33759,7 +33871,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:28.67455Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:02.595196Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:49.313244Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-research-engineer-discovery-team-4593216008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008"
     },
@@ -33775,7 +33887,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:28.637461Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:47.842653Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:55.232014Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-infrastructure-reliability-621bb104-9daa-4c9e-949a-03d5730334e8",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8"
     },
@@ -33791,7 +33903,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:27.450459Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:46.663134Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:54.102451Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-engineering-manager-chatgpt-infra-5a4ba7cb-4ba2-41d3-8e02-840617a0f571",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/5a4ba7cb-4ba2-41d3-8e02-840617a0f571"
     },
@@ -33807,7 +33919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:27.388612Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:02.037644Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:38.729465Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-senior-staff-infrastructure-engineer-cluster-infrastructure-5206978008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5206978008"
     },
@@ -33823,7 +33935,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:25.056401Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:01.414275Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:41.059465Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-infrastructure-engineer-cluster-infrastructure-5211297008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5211297008"
     },
@@ -33839,7 +33951,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:20.987411Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:55.338451Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:35.81668Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-fiber-network-engineer-5219454008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5219454008"
     },
@@ -33855,7 +33967,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:20.840645Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:41.546184Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:49.204647Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-success-engineer-tokyo-ed35af5d-0bb2-457a-bbeb-ca04a1412d0e",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/ed35af5d-0bb2-457a-bbeb-ca04a1412d0e"
     },
@@ -33871,7 +33983,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:19.908146Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:52.725039Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:33.129076Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-engineer-datacenter-server-lifecycle-5139038008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5139038008"
     },
@@ -33887,7 +33999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:19.735897Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:39.252512Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:46.987101Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-quality-developer-tools-consumer-devices-1ba666a4-0be2-4bd0-ad51-39ed7164c241",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1ba666a4-0be2-4bd0-ad51-39ed7164c241"
     },
@@ -33903,7 +34015,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:17.877839Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:32.005954Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:40.578504Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-fullstack-engineer-intelligence-systems-52c72cb9-7c44-4cba-b440-e05262a38491",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491"
     },
@@ -33919,7 +34031,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:17.387018Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:46.39443Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:29.352423Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-solutions-architect-national-security-5126080008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126080008"
     },
@@ -33951,7 +34063,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:15.153649Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:45.023435Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:24.568184Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-solutions-architect-applied-ai-5117581008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008"
     },
@@ -33967,7 +34079,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:13.019015Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:30.449867Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:34.439152Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-risk-analyst-corporate-security-8ec58023-f644-4e92-b384-72f8db83cd33",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/8ec58023-f644-4e92-b384-72f8db83cd33"
     },
@@ -33983,7 +34095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:12.062175Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:43.916892Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:17.1508Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-systems-claude-code-5218395008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5218395008"
     },
@@ -33999,7 +34111,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:10.086343Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:29.485837Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:31.026184Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-research-engineer-codex-793964ae-d40b-45e3-9798-84f4b6da48c5",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5"
     },
@@ -34015,7 +34127,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:08.067387Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:42.018116Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:14.762506Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-sandboxing-systems-5025591008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008"
     },
@@ -34031,7 +34143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:04.534775Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:28.237107Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:30.168459Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-research-engineer-privacy-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9"
     },
@@ -34047,7 +34159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:01.199791Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:27.467547Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:27.483092Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-it-solutions-engineer-6c6c1ace-12d6-48f0-88f0-488ff8521571",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/6c6c1ace-12d6-48f0-88f0-488ff8521571"
     },
@@ -34063,7 +34175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:01.02648Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:40.352225Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.922229Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-safeguards-infrastructure-5074908008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008"
     },
@@ -34079,7 +34191,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:00.436078Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:26.814164Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:25.166832Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-cloud-infrastructure-12342ebb-dcd4-45e2-b875-fc5447fdb7d8",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/12342ebb-dcd4-45e2-b875-fc5447fdb7d8"
     },
@@ -34095,7 +34207,7 @@
       "isInternship": true,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:33:00.397829Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:38.799706Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:11.545435Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-safeguards-foundations-internal-tooling-5191433008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5191433008"
     },
@@ -34111,7 +34223,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:59.622809Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:26.25903Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:21.469846Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-privacy-8a1b804f-b070-4c61-bd3d-cdf39ef9d935",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/8a1b804f-b070-4c61-bd3d-cdf39ef9d935"
     },
@@ -34127,7 +34239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:59.619603Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:37.804813Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.563034Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-safeguards-4951844008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008"
     },
@@ -34143,7 +34255,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:47.639138Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:25.651635Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:17.851336Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-scientist-infrastructure-e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb"
     },
@@ -34159,7 +34271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:46.822852Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:36.892654Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.76637Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-research-data-platform-5191226008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008"
     },
@@ -34175,7 +34287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:44.573099Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:19.197117Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:15.779205Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-caching-infrastructure-a20b7fc6-6f01-4618-ba35-37b40083f93e",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/a20b7fc6-6f01-4618-ba35-37b40083f93e"
     },
@@ -34191,7 +34303,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:44.570004Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:36.337862Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.923339Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-human-data-interface-5109273008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5109273008"
     },
@@ -34207,7 +34319,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:39.457829Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:11.54754Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:14.922895Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-core-services-21bfde35-ffec-42d2-a2c6-8a03dad789d5",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/21bfde35-ffec-42d2-a2c6-8a03dad789d5"
     },
@@ -34223,7 +34335,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:38.400578Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:35.681578Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:58.547582Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-cybersecurity-products-5063007008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008"
     },
@@ -34239,7 +34351,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:34.622717Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:29:07.525544Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:14.045143Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-database-systems-2b5e8e15-7952-4170-a927-2ad68e318ed6",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6"
     },
@@ -34255,7 +34367,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:32.013673Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:34.630964Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:53.956838Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-compute-efficiency-5108982008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5108982008"
     },
@@ -34271,7 +34383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:26.969015Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:59.366056Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:08.661293Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-engineer-agent-security-e9bea775-7eb6-438a-ab96-27d5f941e69d",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d"
     },
@@ -34287,7 +34399,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:24.492445Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:33.299635Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:49.428849Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-software-engineer-account-abuse-5123039008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5123039008"
     },
@@ -34303,7 +34415,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:24.054569Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:55.816081Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:07.552762Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-fleet-hardware-health-57551641-208c-48d9-bfb8-9a298d7e7510",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/57551641-208c-48d9-bfb8-9a298d7e7510"
     },
@@ -34335,7 +34447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:20.89291Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:54.668027Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:03.21877Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-scientist-support-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e"
     },
@@ -34367,7 +34479,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:16.497203Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:53.472608Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:01.185396Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-codex-ecosystem-enterprise-c1c8b058-2f0d-4192-8a9e-c21d0f24952c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/c1c8b058-2f0d-4192-8a9e-c21d0f24952c"
     },
@@ -34399,7 +34511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:12.976495Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:52.605075Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:59.271242Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-payments-0da75470-7e1e-44c3-90df-6f93cf90b968",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968"
     },
@@ -34431,7 +34543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:10.125693Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:51.600318Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:55.914219Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-developer-experience-engineer-bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6"
     },
@@ -34463,7 +34575,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:32:04.902824Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:50.231196Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:54.205131Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-integrity-foundations-london-46703db4-6023-4ac6-93a8-22dc95009945",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945"
     },
@@ -34495,7 +34607,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:57.071111Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:48.515813Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:52.630277Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-identity-infrastructure-engineering-551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db"
     },
@@ -34527,7 +34639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:56.525725Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:47.23175Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.760687Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-post-training-research-f381868f-7b0a-4b22-b215-71c7f5c1b498",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498"
     },
@@ -34559,7 +34671,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:54.886276Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:45.241284Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:50.675026Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-gpu-infrastructure-hpc-f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11"
     },
@@ -34591,7 +34703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:51.691772Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:42.691674Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:47.92844Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-public-sector-federal-civilian-be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a"
     },
@@ -34623,7 +34735,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:48.696248Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:41.373614Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:45.822952Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-research-human-data-4d6a5951-9838-434c-830a-22cb938ea228",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228"
     },
@@ -34655,7 +34767,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:36.267198Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:39.664484Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:44.856155Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-inference-multi-modal-4d14449e-5e7f-45d4-b103-8776a6c87086",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086"
     },
@@ -34671,7 +34783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:30.349225Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:37.951293Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:40.982183Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-chatgpt-performance-engineer-38ddaa2c-a490-427a-8457-0e92bf00138c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c"
     },
@@ -34703,7 +34815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:18.822498Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:32.56264Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:35.87458Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-engineering-manager-multimodal-api-1d7f4747-54a3-4141-a39a-c6e7700e969b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1d7f4747-54a3-4141-a39a-c6e7700e969b"
     },
@@ -34735,7 +34847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:16.832986Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:26.288252Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:30.837004Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-research-engineer-research-scientist-rl-reasoning-7e198d81-34e0-48b6-b64e-a501a75f9d53",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53"
     },
@@ -34767,7 +34879,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:12.883245Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:18.600821Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:27.59601Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-accelerators-f386b209-1259-4b79-bf5a-aa97fc7ce77b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b"
     },
@@ -34783,7 +34895,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:07.486948Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:14.332984Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:19.841859Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-habitat-online-data-460b4295-3803-4dda-983d-3b0fea0b0fc4",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/460b4295-3803-4dda-983d-3b0fea0b0fc4"
     },
@@ -34799,7 +34911,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:06.393028Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:12.68694Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:17.778192Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-engineer-detection-and-response-f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
     },
@@ -34815,7 +34927,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:01.278564Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:11.356Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:14.014596Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-privacy-fb5862cc-244c-410b-b287-47df89ad1e43",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/fb5862cc-244c-410b-b287-47df89ad1e43"
     },
@@ -34863,7 +34975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:57.952554Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:03.268641Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:10.77571Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-privacy-infrastructure-07153f7c-7e8b-4283-a879-cb07a224e083",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/07153f7c-7e8b-4283-a879-cb07a224e083"
     },
@@ -34879,7 +34991,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:56.387496Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:02.219764Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:08.284761Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-ai-safety-b9dee2a0-9bb3-447e-9bce-2b1bed784e5b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b"
     },
@@ -34911,7 +35023,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:55.351965Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:00.722188Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.897378Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-backend-cooperative-ai-bd190cad-99ec-4fe7-8f8f-de96b5aa5969",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/bd190cad-99ec-4fe7-8f8f-de96b5aa5969"
     },
@@ -34943,7 +35055,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:52.218094Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:59.771427Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.332406Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-tokyo-51b17595-3a70-43be-a333-3a3952303284",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/51b17595-3a70-43be-a333-3a3952303284"
     },
@@ -34959,7 +35071,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:51.446633Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:53.352552Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:05.477761Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-global-safety-response-operations-analyst-9e77e103-6b70-4b45-a344-d87c4a2d7e12",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/9e77e103-6b70-4b45-a344-d87c4a2d7e12"
     },
@@ -34975,7 +35087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:49.992458Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:51.782788Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:03.955649Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-engineer-application-security-ec5a5d98-6314-44d9-9466-8d4d7ee866f6",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6"
     },
@@ -35007,7 +35119,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:44.926398Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:50.193756Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:02.134475Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-engineer-application-security-1e110226-448a-4c0b-b0e4-d0f5df579fbf",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1e110226-448a-4c0b-b0e4-d0f5df579fbf"
     },
@@ -35039,7 +35151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:37.262978Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:46.226701Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:01.298109Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-munich-05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef"
     },
@@ -35055,7 +35167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:36.379584Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:43.563566Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:59.610034Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-tlm-machine-learning-integrity-4e60d650-47a7-44fb-8031-02976c7ddc55",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55"
     },
@@ -35087,7 +35199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:35.757502Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:41.146258Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:52.291691Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-full-stack-engineer-fleet-scheduling-9d11e1d8-af1d-413b-873f-d8fac2bdee99",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/9d11e1d8-af1d-413b-873f-d8fac2bdee99"
     },
@@ -35119,7 +35231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:31.847155Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:39.103548Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:49.386838Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-tokyo-4762783e-61e1-4d36-af1d-8dee3c5f70e2",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/4762783e-61e1-4d36-af1d-8dee3c5f70e2"
     },
@@ -35167,7 +35279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:22.182825Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:37.324599Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:41.052507Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-paris-9ddb1bd1-3ee0-4350-88f7-3710057b8c93",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93"
     },
@@ -35183,7 +35295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:16.439019Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:36.066444Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:37.665784Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-dublin-b40efa93-da3c-4593-bc98-03d203cd0488",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488"
     },
@@ -35215,7 +35327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:15.292592Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:34.047816Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:33.060978Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-fde-nyc-cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1"
     },
@@ -35247,7 +35359,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:05.659137Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:32.643414Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:31.082896Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-engineer-fde-sf-305a4b22-7ff9-4fa5-9229-c6a22c9aa64f",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f"
     },
@@ -35263,7 +35375,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:04.01252Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:31.972083Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:29.348045Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-data-scientist-product-579e2994-ec43-4869-8ad1-8cda8088f74b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/579e2994-ec43-4869-8ad1-8cda8088f74b"
     },
@@ -35295,7 +35407,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:03.276216Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:23.476516Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:24.565756Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-hardware-health-d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/d7efc55b-2fde-4d3f-ae34-2e467f02a57c"
     },
@@ -35327,7 +35439,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:58.16539Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:21.686755Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:14.58433Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-senior-staff-software-engineer-gov-a90cdb7c-1c33-4fca-9a96-26c236006f14",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/a90cdb7c-1c33-4fca-9a96-26c236006f14"
     },
@@ -35359,7 +35471,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:49.537408Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:19.346024Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.644548Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-software-engineer-paris-961f6c58-1572-48a8-bb8b-2bffdf82a5cc",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc"
     },
@@ -35391,7 +35503,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:45.969513Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:14.993623Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.89338Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-machine-learning-engineer-integrity-ecf1abec-898c-4acb-a984-42858836a1ff",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff"
     },
@@ -35407,7 +35519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:41.943827Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:09.869844Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:09.941869Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-reliability-1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7"
     },
@@ -35439,7 +35551,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:32.947321Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:04.430589Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.771252Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-forward-deployed-software-engineer-sf-00207abc-49b7-465c-a219-f7c1140f8047",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047"
     },
@@ -35471,7 +35583,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:31.337355Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:00.47016Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.922305Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-solutions-engineer-pre-sales-98a36c10-3497-4955-9cc0-a6f211e4dc1b",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/98a36c10-3497-4955-9cc0-a6f211e4dc1b"
     },
@@ -35503,7 +35615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:28.270581Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:54.012123Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:56.040206Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-compute-storage-7649205e-20dc-4bb4-9358-69474a851132",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/7649205e-20dc-4bb4-9358-69474a851132"
     },
@@ -35535,7 +35647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:22.017021Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:51.886948Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:53.608671Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-research-engineer-research-scientist-post-training-1c516e9f-c97d-4a40-8529-9871dac615a5",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5"
     },
@@ -35583,7 +35695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:20.78391Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:51.025429Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:52.642511Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-model-inference-83b6755d-7785-4186-9050-5ef3ad127941",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941"
     },
@@ -35615,7 +35727,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:17.546111Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:49.248053Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:49.529772Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-software-engineer-frontier-clusters-infrastructure-770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64"
     },
@@ -37183,7 +37295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:24:15.941346Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:50.938378Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:31.075126Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-staff-application-security-engineer-4502508008-918b01a7",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008"
     },
@@ -37455,7 +37567,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T00:30:06.472617Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:33.926311Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:49.529803Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-defensive-security-analyst-bc803bd5-7793-452d-9ae5-9301ee24615a",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/bc803bd5-7793-452d-9ae5-9301ee24615a"
     },
@@ -38031,7 +38143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-25T01:15:41.182965Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:01.854192Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.234705Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-software-development-engineer-5-5-adobusr168185externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Development-Engineer-55_R168185-1/apply"
     },
@@ -38079,7 +38191,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-24T14:35:51.274956Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:01.483909Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:54.018683Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-observability-platforms-remote-or-hybrid-ciscisglobal2015712externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader---Observability-Platforms--Remote-or-Hybrid-_2015712/apply"
     },
@@ -38991,7 +39103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:32:50.693371Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:07.943192Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:52.727384Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-product-engineer-ios-adobusr169116externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----iOS_R169116/apply"
     },
@@ -39007,7 +39119,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:32:50.268541Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:56.269301Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:37.381735Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-adobusr168882externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882/apply"
     },
@@ -39023,7 +39135,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:32:49.706662Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:07.341792Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:51.825136Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-quality-engineer-adobusr168402externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1/apply"
     },
@@ -39039,7 +39151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:32:45.624487Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:59.561272Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:44.471581Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-5-adobusr169102externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102/apply"
     },
@@ -39119,7 +39231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T19:47:36.26292Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:58.943042Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:45.380383Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-5-adobusr169103externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103/apply"
     },
@@ -39135,7 +39247,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T19:47:35.133646Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:06.228625Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:59.212723Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-machine-learning-engineer-4-adobusr166104externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104/apply"
     },
@@ -39199,7 +39311,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T17:33:15.531687Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:09.43077Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:54.205376Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-staff-platform-and-product-security-ai-engineer-adobusr169084externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Staff-Platform-and-Product-Security-AI-engineer_R169084/apply"
     },
@@ -39215,7 +39327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T17:33:14.812115Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:05.319636Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:01.190357Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-adobusr168831externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----Android_R168831-1/apply"
     },
@@ -39263,7 +39375,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T17:01:00.707204Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:03.1811Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:55.327948Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-hardware-engineering-technical-leader-ciscisglobal2013529externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineering-Technical-Leader_2013529/apply"
     },
@@ -39375,7 +39487,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T06:11:30.547866Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:06.392696Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:33.341785Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-site-reliability-engineer-ciscisglobal2013342externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2013342-1/apply"
     },
@@ -39423,7 +39535,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T01:35:41.168602Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:20.656068Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:14.779534Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-principal-ai-systems-engineer-agentic-and-productivity-systems-adobusr167724externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-AI-Systems-Engineer--Agentic-and-Productivity-Systems_R167724/apply"
     },
@@ -39439,7 +39551,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T01:35:40.002206Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:17.629541Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:08.637131Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-full-stack-engineer-agentic-product-adobusr169065externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Full-Stack-Engineer---Agentic-Product_R169065/apply"
     },
@@ -39471,7 +39583,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T01:35:20.203409Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:08.482193Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:55.809758Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr168601externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R168601/apply"
     },
@@ -39855,7 +39967,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T21:17:56.620231Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:37.033514Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:54.100246Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-staff-software-engineer-155303",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/155303"
     },
@@ -40479,7 +40591,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:46:22.378475Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:16.619962Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:07.560306Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-engineering-manager-agentic-product-adobusr169066externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Engineering-Manager---Agentic-Product_R169066/apply"
     },
@@ -40495,7 +40607,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:46:20.838886Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:27.319325Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:41.04447Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-machine-learning-engineer-firefly-foundry-adobusr169106externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer--Firefly-Foundry_R169106/apply"
     },
@@ -40511,7 +40623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:46:20.46882Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:10.689403Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:03.377064Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-software-engineer-ai-adobusr157878externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R157878/apply"
     },
@@ -40975,7 +41087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:22:52.948998Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:19.670865Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:15.541844Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-agent-workflows-firefly-boards-adobusr169100externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer--Agent-Workflows--Firefly-Boards_R169100/apply"
     },
@@ -40991,7 +41103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:22:51.551464Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:18.354183Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:10.906826Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-4-agentic-ai-personalization-adobusr169074externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer--4---Agentic-AI---Personalization-_R169074-1/apply"
     },
@@ -41215,7 +41327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T12:14:14.915839Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:16.297223Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:27.978889Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-site-reliability-developer-4-334399",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334399"
     },
@@ -41279,7 +41391,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T01:49:34.594149Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:06.046518Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:57.308113Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2010705externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2010705-1/apply"
     },
@@ -41503,7 +41615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T23:09:47.085605Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:09.900674Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:53.627982Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-hardware-diagnostics-ciscisglobal2007387externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer---Hardware-Diagnostics-_2007387/apply"
     },
@@ -41535,7 +41647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T21:58:06.140843Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:11.742797Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:56.036847Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-forwarding-l2-l3-ciscisglobal2008055externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Forwarding--L2-L3-_2008055-1/apply"
     },
@@ -41663,7 +41775,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T18:30:18.862433Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:50.60174Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:25.394445Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-leader-solutions-engineer-apple-nvidia-ciscisglobal2014666externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Leader--Solutions-Engineer---Apple--Nvidia_2014666/apply"
     },
@@ -41679,7 +41791,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T17:55:59.990863Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:50.700239Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:27.981491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-and-test-engineer-adobusr168923externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-and-Test-Engineer_R168923-1/apply"
     },
@@ -41919,7 +42031,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T02:51:54.78468Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:13.078117Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:15.032957Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-hardware-engineer-high-speed-io-testing-onsite-ciscisglobal2015154externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--High-speed-IO-Testing---Onsite-_2015154/apply"
     },
@@ -42031,7 +42143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T19:19:03.184149Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:28.844586Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:25.27157Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-researcher-ml-engineer-adobusr169016externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Researcher-ML-Engineer_R169016/apply"
     },
@@ -42047,7 +42159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T19:19:01.865803Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:25.505301Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:21.445621Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-product-security-engineer-adobusr168782externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Security-Engineer_R168782/apply"
     },
@@ -42079,7 +42191,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T18:09:43.628392Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:09.4118Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:07.711712Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-engineer-ciscisglobal2011898externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2011898/apply"
     },
@@ -42095,7 +42207,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T18:09:42.397036Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:21.856288Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:01.422362Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-ai-researcher-efficiency-engineer-hybrid-ciscisglobal2010918externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Researcher---Efficiency--Engineer--Hybrid_2010918/apply"
     },
@@ -42127,7 +42239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T18:09:39.415293Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:15.46537Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:13.318753Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2008854externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2008854-1/apply"
     },
@@ -42159,7 +42271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T18:09:37.859833Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:15.960564Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:58.553061Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-test-development-engineer-hybrid-2010121-ciscisglobal2010121externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Carlsbad-California-US/Test-Development-Engineer--onsite----2010121_2010121-1/apply"
     },
@@ -42175,7 +42287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T18:09:35.620642Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:07.798272Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:05.142238Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-physical-design-engineer-ciscisglobal2011519externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Physical-Design-Engineer_2011519/apply"
     },
@@ -42207,7 +42319,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T17:22:35.664946Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:22.920795Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:17.856335Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-machine-learning-engineer-adobe-firefly-services-adobusr168917externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer--Adobe-Firefly-Services_R168917/apply"
     },
@@ -42223,7 +42335,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T13:41:30.323205Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:19.923622Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:19.71936Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-developer-engineer-4-adobusr164352externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Developer-Engineer_R164352/apply"
     },
@@ -42271,7 +42383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-19T01:00:11.070421Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:05.312324Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:21.605351Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2004130externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004130/apply"
     },
@@ -43727,7 +43839,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-17T05:33:23.317882Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:36.966409Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:35.192828Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-applied-machine-learning-engineer-adobusr166553externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Machine-Learning-Engineer--Typographic-Intelligence_R166553/apply"
     },
@@ -44527,7 +44639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T19:00:20.771793Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:41.952966Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:58.08888Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-software-engineer-ii-153611-16b87d20",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/153611"
     },
@@ -44879,7 +44991,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T08:00:09.460688Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:33.845493Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.455103Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-staff-software-engineer-152580-de09632f",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/152580"
     },
@@ -45807,7 +45919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:38:43.872182Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:21.762338Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.778218Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-development-engineer-in-test-sdet-hybrid-rtp-nc-ciscisglobal2012000externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET---Hybrid--RTP--NC_2012000/apply"
     },
@@ -45823,7 +45935,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:38:43.637746Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:51.86255Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:30.999947Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2012180externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--Hybrid-_2012180/apply"
     },
@@ -45967,7 +46079,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:37:58.475853Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:30.899362Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:31.026737Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-machine-learning-engineer-adobusr160087externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R160087/apply"
     },
@@ -46127,7 +46239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:37:42.208087Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:29.561614Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:27.533776Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr167963externalenus-38e52ed6",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R167963/apply"
     },
@@ -46319,7 +46431,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:18:22.750175Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:03.503628Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:11.769312Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-backend-software-engineer-infrastructure-6fe5515f-f677-4d98-8ac2-1775a425f5e7",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/6fe5515f-f677-4d98-8ac2-1775a425f5e7"
     },
@@ -46415,7 +46527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:18:13.327343Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:12.290258Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:19.834135Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-us-citizenship-required-330620",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330620"
     },
@@ -46431,7 +46543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:18:05.233483Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:24.02363Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:39.825925Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-332746",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332746"
     },
@@ -46447,7 +46559,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:18:04.841386Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:58.84765Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:04.219582Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-storage-332907",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332907"
     },
@@ -46639,7 +46751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:03:18.621949Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:40.538331Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.805859Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-staff-software-engineer-158764-04c499f3",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/158764"
     },
@@ -47087,7 +47199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:49:11.426139Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:51.225011Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:30.179324Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-engineer-hybrid-sdwan-ciscisglobal2012175externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Senior-Software-Engineer--Hybrid---SDWAN_2012175/apply"
     },
@@ -47215,7 +47327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:49:01.042835Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:56.305011Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:06.731823Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2007184externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007184-1/apply"
     },
@@ -47343,7 +47455,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:57.063863Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:22.138846Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:25.623261Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-adobusr167868externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R167868/apply"
     },
@@ -47407,7 +47519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:54.866517Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:21.786926Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:46.03Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-leader-software-engineering-ciscisglobal2009468externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Leader--Software-Engineering_2009468/apply"
     },
@@ -47519,7 +47631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:38.58658Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:57.116056Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:02.577246Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr167970externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Development-Engineer_R167970-1/apply"
     },
@@ -47551,7 +47663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:35.550063Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:53.465219Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.020503Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-3-adobusr164610externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-3_R164610/apply"
     },
@@ -47567,7 +47679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:32.139243Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:51.027855Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:51.860349Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr168225externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168225/apply"
     },
@@ -47583,7 +47695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:31.260197Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:44.534526Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.912175Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-engineer-in-quality-engineering-adobusr168364externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer-in-Quality-Engineering_R168364-1/apply"
     },
@@ -47599,7 +47711,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:31.021949Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:50.253276Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:49.212247Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-5-enterprise-genai-adobusr168731externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-5--Enterprise-GenAI_R168731/apply"
     },
@@ -47615,7 +47727,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T04:48:28.283405Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:39.759597Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:46.054043Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-data-engineer-adobusr168558externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Engineer_R168558/apply"
     },
@@ -47727,7 +47839,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-13T18:44:56.235695Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:50.70524Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:05.397847Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2007185externalenglobal-eace7938",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007185-2/apply"
     },
@@ -47743,7 +47855,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-13T18:08:17.127763Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:56.086993Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:02.798439Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-principal-software-developer-ic5-333551-46d75860",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/333551"
     },
@@ -47839,7 +47951,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-12T19:33:13.784712Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:54.809359Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.823283Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-staff-software-engineer-ai-ml-systems-and-reliability-adobusr168745externalenus-523f5c95",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Software-Engineer---AI-ML-Systems-and-Reliability_R168745/apply"
     },
@@ -47855,7 +47967,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-12T15:19:51.655179Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:52.617216Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:55.25089Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr167456externalenus-7651646e",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167456/apply"
     },
@@ -47887,7 +47999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-12T02:37:48.029851Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:25.335321Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:41.495593Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-3-332896-bdd2210a",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332896"
     },
@@ -47903,7 +48015,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-11T23:31:14.972804Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:36.115975Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:52.078121Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-332909-5df92e76",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332909"
     },
@@ -47919,7 +48031,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-11T23:26:26.109698Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:56.369218Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:58.732913Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr168566externalenus-4166beb6",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R168566-1/apply"
     },
@@ -47935,7 +48047,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-11T22:49:12.012847Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:28.390547Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:52.616997Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-ai-ml-engineer-hybrid-ciscisglobal2012654externalenglobal-bd00ae5a",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-ML-Engineer--Hybrid-_2012654-1/apply"
     },
@@ -47983,7 +48095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-11T22:32:25.514072Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:41:14.388866Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:21.59129Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-platform-engineering-330000-24482063",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330000"
     },
@@ -48063,7 +48175,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-11T01:23:35.59435Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:55.809582Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:57.784933Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr167244externalenus-be3bbd78",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167244/apply"
     },
@@ -48159,7 +48271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:04:12.015806Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:47.580877Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:15.18947Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2005146externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2005146/apply"
     },
@@ -48175,7 +48287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:04:05.545677Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:30.298436Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.018327Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-sr-software-engineer-data-center-ciscisglobal2014074externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Sr-Software-Engineer---Data-Center_2014074/apply"
     },
@@ -48239,7 +48351,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:29.196016Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:30.281617Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:30.182518Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-engineer-web-development-platform-adobusr167973externalenus-4e9fd4dc",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R167973/apply"
     },
@@ -48271,7 +48383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:24.624367Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:57.857341Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:46.481699Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-engineer-adobusr168193externalenus-aaf25729",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Software-Engineer--Test-Automation_R168193/apply"
     },
@@ -48383,7 +48495,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:19.627268Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:03.577032Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:15.15133Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr168116externalenus-4cd52510",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R168116/apply"
     },
@@ -48399,7 +48511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:18.43326Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:02.773838Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:13.807418Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-software-development-engineer-adobusr168548externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R168548-1/apply"
     },
@@ -48415,7 +48527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:18.279289Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:51.863085Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:54.117725Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-machine-learning-engineer-ai-platform-adobusr166678externalenus-2e3f0669",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R166678/apply"
     },
@@ -48431,7 +48543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:17.004041Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:00.188662Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:07.603471Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-sr-software-development-engineer-adobusr168173externalenus-6a95df8d",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Sr-Software-Development-Engineer_R168173/apply"
     },
@@ -48495,7 +48607,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:53:19.153832Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:43.487581Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:05.080345Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-sr-software-engineer-backend-147199-398f8cfe",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/147199"
     },
@@ -48559,7 +48671,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:53:17.623872Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:47.768518Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:09.75229Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-sr-staff-software-engineer-147313-371445f8",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/147313"
     },
@@ -48575,7 +48687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:53:16.511633Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:50.702841Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:15.039418Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-software-engineer-ii-mobile-149683-64f6891e",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/149683"
     },
@@ -48607,7 +48719,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:53:15.119827Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:42.512896Z",
+      "lastVerifiedAtUtc": "2026-06-05T23:00:00.380873Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-senior-software-engineer-backend-155997-c0819172",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/155997"
     },
@@ -48639,7 +48751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:53:10.390329Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:33.164407Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:46.525965Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-staff-software-engineer-156729-1e942694",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/156729"
     },
@@ -49055,7 +49167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:47:27.067288Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:01.025535Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:09.938525Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-software-engineer-substrate-26176860-7b27-412a-9959-d8b8705acf53",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/26176860-7b27-412a-9959-d8b8705acf53"
     },
@@ -49071,7 +49183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:47:26.6504Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:57.141393Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:06.657206Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-edge-autonomous-systems-27bf5707-96fa-460e-8a5b-53bc192ca87b-17fd8eed",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/27bf5707-96fa-460e-8a5b-53bc192ca87b"
     },
@@ -49087,7 +49199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:47:26.370027Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:39.160716Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:57.570849Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-apollo-systems-832e4652-5088-4e5b-aeac-1e82ec3ebad4",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/832e4652-5088-4e5b-aeac-1e82ec3ebad4"
     },
@@ -49199,7 +49311,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-07T23:24:40.855091Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:40.255003Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:47.052703Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-5-adobusr164903externalenus-de73cfd1",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-5_R164903-1/apply"
     },
@@ -49327,7 +49439,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-06T00:53:48.062397Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:04.488324Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:12.922679Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-us-government-84131e3f-455e-47fc-9c11-898d95f09048-5211fdad",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/84131e3f-455e-47fc-9c11-898d95f09048"
     },
@@ -49343,7 +49455,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-06T00:53:47.740919Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:40:02.020367Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.721042Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-software-engineer-network-infrastructure-89a77547-8b74-45b2-8590-f04b16e19a59-6147fc65",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/89a77547-8b74-45b2-8590-f04b16e19a59"
     },
@@ -49359,7 +49471,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-06T00:53:46.093353Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:45.233491Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.888436Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-edge-397fb983-47b7-4a53-a7df-f080f43f7720-3aadd6a6",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/397fb983-47b7-4a53-a7df-f080f43f7720"
     },
@@ -49375,7 +49487,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-06T00:53:45.53433Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:36.619906Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:53.978955Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-apollo-systems-e47d4410-2542-47d8-b558-b5295fc28821-a976d414",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/e47d4410-2542-47d8-b558-b5295fc28821"
     },
@@ -49391,7 +49503,7 @@
       "isInternship": true,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-06T00:53:45.349311Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:39:34.982102Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:52.89386Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-315f695d-04d1-4a9a-848e-cb2bec7a997e-19119eab",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
@@ -49487,7 +49599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:58:06.909709Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:01.558659Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:19.82215Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2004007externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004007/apply"
     },
@@ -49503,7 +49615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:58:05.5223Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:00.336485Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:27.97299Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-principal-software-engineer-ciscisglobal2004135externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Principal-Software-Engineer_2004135/apply"
     },
@@ -49519,7 +49631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:58:03.264237Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:12.3352Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:56:49.527511Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2009458externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2009458/apply"
     },
@@ -49551,7 +49663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:58:01.948522Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:31.282254Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:14.562413Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-qa-engineer-ii-full-time-ciscisglobal2002838externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-QA-Engineer-II--Full-Time----United-States_2002838/apply"
     },
@@ -49583,7 +49695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:57:58.626347Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:44:04.206637Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:56.455678Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-development-engineer-in-test-sdet-ciscisglobal2011992externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-in-Test--SDET-_2011992/apply"
     },
@@ -49615,7 +49727,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:57:57.465393Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:08.901276Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:48.037278Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal1443405externalenglobal-a8de2945",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_1443405-1/apply"
     },
@@ -49631,7 +49743,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:57:57.2798Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:18.380002Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:05.924013Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-principal-software-engineer-isovalent-ciscisglobal2012410externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Principal-Software-Engineer---Isovalent_2012410/apply"
     },
@@ -49647,7 +49759,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:57:56.969234Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:43:20.171208Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:07.557642Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal1443404externalenglobal-9155f184",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineering-Technical-Leader_1443404-1/apply"
     },
@@ -49663,7 +49775,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:57:55.065818Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:23.22304Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:10.514913Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-software-engineer-alerts-thousandeyes-hybrid-ciscisglobal2010337externalenglobal-a07fd2c0",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Senior-Software-Engineer--Alerts---ThousandEyes-Hybrid-_2010337/apply"
     },
@@ -49727,7 +49839,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:05:32.474337Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:24.535976Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:37.447602Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-ios-development-engineer-genai-adobusr165868externalenus-a0f15f38",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/iOS-Development-Engineer--GenAI_R165868/apply"
     },
@@ -49791,7 +49903,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:05:29.209363Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:43.10775Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:58:21.583904Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-3-acrobat-web-adobusr168301externalenus-609fc43f",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-3--Acrobat-Web_R168301/apply"
     },
@@ -49807,7 +49919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T21:05:28.780282Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:32.733591Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:57:52.242229Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-engineering-manager-ui-development-adobusr167726externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Engineering-Manager--Software-Development_R167726/apply"
     },
@@ -50031,7 +50143,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-05T00:30:30.957091Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:42:36.069614Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:59:49.374799Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-software-engineer-ii-154824-1bbda7e9",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/154824"
     },
