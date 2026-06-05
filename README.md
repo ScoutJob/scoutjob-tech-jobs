@@ -4,8 +4,6 @@
 
 ScoutJob continuously monitors company career pages directly so you can discover newly posted tech jobs earlier. Instead of repeatedly checking multiple career sites or waiting for roles to appear elsewhere, use ScoutJob to find fresh opportunities sooner and apply while they are still new.
 
-This repository publishes a delayed public feed of engineering, data, AI, and internship roles. The delayed feed refreshes automatically every hour.
-
 For faster access, better filtering, and job-tracking tools, use ScoutJob:
 
 **Try ScoutJob:** https://www.scoutjob.me/
