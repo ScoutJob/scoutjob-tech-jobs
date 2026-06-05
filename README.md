@@ -20,9 +20,7 @@ ScoutJob continuously monitors company career pages so you do not have to.
 
 ## Recent delayed public jobs
 
-When a company-provided posting date is unavailable, the displayed date is the date ScoutJob first discovered the role.
-
-| Company | Job | Category | Location | Date posted or discovered |
+| Company | Job | Category | Location | Date posted |
 |---|---|---|---|---|
 | Google | [Senior UX Quantitative Researcher Android Auto](https://www.scoutjob.me/jobs/google-senior-ux-quantitative-researcher-android-auto-128833649293304518) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
 | Uber | [Senior Electrical Engineer - AV Labs](https://www.scoutjob.me/jobs/uber-senior-electrical-engineer-av-labs-159725) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
