@@ -1,3 +1,5 @@
+<img src="REdditBanner.png" alt="ScoutJob logo" width="170" />
+
 # Fresh Tech Jobs Found by ScoutJob
 
 ScoutJob continuously monitors company career pages directly so you can discover newly posted tech jobs earlier. Instead of repeatedly checking multiple career sites or waiting for roles to appear elsewhere, use ScoutJob to find fresh opportunities sooner and apply while they are still new.
