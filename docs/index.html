@@ -1,39 +1,292 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ScoutJob Public Tech Jobs</title>
-  <meta name="description" content="Delayed public feed of fresh tech jobs found by ScoutJob." />
-  <link rel="stylesheet" href="./styles.css" />
-</head>
-<body>
-  <main class="container">
-    <header>
-      <h1>Fresh Tech Jobs Found by ScoutJob</h1>
-      <p>Delayed public feed of engineering, data, AI, and internship roles.</p>
-      <p><a href="https://www.scoutjob.me/" target="_blank" rel="noopener">Try ScoutJob for earlier access</a></p>
-    </header>
+  <meta charset="UTF-8" />
 
-    <section class="filters" aria-label="Job filters">
-      <input id="search" type="search" placeholder="Search title, company, or location" />
-      <select id="company"><option value="">All companies</option></select>
-      <select id="country"><option value="">All countries</option></select>
-      <select id="category"><option value="">All role categories</option></select>
-      <select id="remote">
-        <option value="">Remote or on-site</option>
-        <option value="true">Remote only</option>
-        <option value="false">On-site only</option>
-      </select>
-      <select id="internship">
-        <option value="">Jobs and internships</option>
-        <option value="true">Internships only</option>
-        <option value="false">Jobs only</option>
-      </select>
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Fresh Tech Jobs Found by ScoutJob</title>
+
+  <meta
+    name="description"
+    content="Browse a delayed public feed of fresh engineering, data, AI, and internship roles found directly from company career pages by ScoutJob."
+  />
+
+  <link
+    rel="stylesheet"
+    href="./styles.css"
+  />
+</head>
+
+<body>
+  <main class="page-shell">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">
+          Delayed public job feed
+        </p>
+
+        <h1>
+          Fresh Tech Jobs Found by ScoutJob
+        </h1>
+
+        <p class="hero-description">
+          ScoutJob continuously monitors company career pages directly so you
+          can discover newly posted tech roles earlier. Instead of repeatedly
+          checking multiple career sites or waiting for roles to appear
+          elsewhere, use ScoutJob to find fresh opportunities sooner and apply
+          while they are still new.
+        </p>
+
+        <p class="hero-description">
+          This public feed is delayed and refreshed automatically every hour.
+          For faster access, better filtering, and job-tracking tools, use
+          ScoutJob.
+        </p>
+
+        <div class="hero-actions">
+          <a
+            class="primary-button"
+            href="https://www.scoutjob.me/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Use ScoutJob for faster access and better filtering
+          </a>
+
+          <a
+            class="secondary-link"
+            href="https://www.scoutjob.me/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Visit ScoutJob
+          </a>
+        </div>
+      </div>
     </section>
 
-    <p id="status">Loading jobs...</p>
-    <section id="jobs" class="jobs"></section>
+    <section class="browser-card">
+      <div class="browser-header">
+        <div>
+          <p class="eyebrow">
+            Public browser
+          </p>
+
+          <h2>
+            Browse delayed public jobs
+          </h2>
+        </div>
+
+        <p
+          id="generated-summary"
+          class="generated-summary"
+        >
+          Loading the latest public feed…
+        </p>
+      </div>
+
+      <div class="filter-grid">
+        <label class="filter-field">
+          <span>
+            Search
+          </span>
+
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search title, company, or location"
+            autocomplete="off"
+          />
+        </label>
+
+        <label class="filter-field">
+          <span>
+            Company
+          </span>
+
+          <select id="company-filter">
+            <option value="">
+              All companies
+            </option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>
+            Country
+          </span>
+
+          <select id="country-filter">
+            <option value="">
+              All countries
+            </option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>
+            Role category
+          </span>
+
+          <select id="category-filter">
+            <option value="">
+              All role categories
+            </option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>
+            Work arrangement
+          </span>
+
+          <select id="remote-filter">
+            <option value="">
+              Remote or on-site
+            </option>
+
+            <option value="remote">
+              Remote only
+            </option>
+
+            <option value="onsite">
+              On-site only
+            </option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>
+            Job type
+          </span>
+
+          <select id="internship-filter">
+            <option value="">
+              Jobs and internships
+            </option>
+
+            <option value="jobs">
+              Full-time roles
+            </option>
+
+            <option value="internships">
+              Internships only
+            </option>
+          </select>
+        </label>
+      </div>
+
+      <div class="results-toolbar">
+        <p
+          id="result-count"
+          class="result-count"
+        >
+          Loading jobs…
+        </p>
+
+        <button
+          id="clear-filters"
+          class="clear-button"
+          type="button"
+        >
+          Clear filters
+        </button>
+      </div>
+
+      <div
+        id="loading-state"
+        class="loading-state"
+      >
+        <div
+          class="spinner"
+          aria-hidden="true"
+        ></div>
+
+        <p>
+          Loading the latest delayed public jobs…
+        </p>
+      </div>
+
+      <div
+        id="empty-state"
+        class="empty-state hidden"
+      >
+        <h3>
+          No jobs match the selected filters
+        </h3>
+
+        <p>
+          Try clearing one or more filters, or use ScoutJob for a more complete
+          and faster job-search experience.
+        </p>
+      </div>
+
+      <div
+        id="table-wrapper"
+        class="table-wrapper hidden"
+      >
+        <table class="jobs-table">
+          <thead>
+            <tr>
+              <th>
+                Company
+              </th>
+
+              <th>
+                Job
+              </th>
+
+              <th>
+                Category
+              </th>
+
+              <th>
+                Location
+              </th>
+
+              <th>
+                Date posted or found
+              </th>
+
+              <th>
+                Links
+              </th>
+            </tr>
+          </thead>
+
+          <tbody id="jobs-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="bottom-cta">
+      <p class="eyebrow">
+        Find fresh roles sooner
+      </p>
+
+      <h2>
+        Apply while the role is still new
+      </h2>
+
+      <p>
+        ScoutJob checks company career pages continuously and surfaces matching
+        opportunities earlier. Use ScoutJob for faster visibility, improved
+        filtering, and job-tracking tools.
+      </p>
+
+      <a
+        class="primary-button"
+        href="https://www.scoutjob.me/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Try ScoutJob
+      </a>
+    </section>
   </main>
 
   <script src="./app.js"></script>
