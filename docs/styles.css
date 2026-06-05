@@ -4,39 +4,24 @@ body {
   background: #f7faf8;
   color: #18352b;
 }
-
-.container {
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 32px 18px;
-}
-
+.container { max-width: 1180px; margin: 0 auto; padding: 32px 18px; }
 header { margin-bottom: 24px; }
 a { color: #0f6b50; }
-
 .filters {
   display: grid;
-  grid-template-columns: 1fr 220px 240px;
+  grid-template-columns: minmax(260px, 1.4fr) repeat(5, minmax(150px, 1fr));
   gap: 12px;
   margin: 20px 0;
 }
-
 input, select {
   padding: 12px;
   border: 1px solid #bdd6cc;
   border-radius: 10px;
   background: white;
 }
-
 .jobs { display: grid; gap: 14px; }
-.job-card {
-  border: 1px solid #d7e7e0;
-  border-radius: 14px;
-  padding: 18px;
-  background: white;
-}
+.job-card { border: 1px solid #d7e7e0; border-radius: 14px; padding: 18px; background: white; }
 .job-card h2 { margin-top: 0; font-size: 20px; }
-
-@media (max-width: 760px) {
-  .filters { grid-template-columns: 1fr; }
-}
+.company { font-weight: 700; }
+@media (max-width: 1100px) { .filters { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .filters { grid-template-columns: 1fr; } }

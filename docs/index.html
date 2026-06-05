@@ -15,10 +15,21 @@
       <p><a href="https://www.scoutjob.me/" target="_blank" rel="noopener">Try ScoutJob for earlier access</a></p>
     </header>
 
-    <section class="filters">
-      <input id="search" type="search" placeholder="Search title or company" />
+    <section class="filters" aria-label="Job filters">
+      <input id="search" type="search" placeholder="Search title, company, or location" />
+      <select id="company"><option value="">All companies</option></select>
       <select id="country"><option value="">All countries</option></select>
       <select id="category"><option value="">All role categories</option></select>
+      <select id="remote">
+        <option value="">Remote or on-site</option>
+        <option value="true">Remote only</option>
+        <option value="false">On-site only</option>
+      </select>
+      <select id="internship">
+        <option value="">Jobs and internships</option>
+        <option value="true">Internships only</option>
+        <option value="false">Jobs only</option>
+      </select>
     </section>
 
     <p id="status">Loading jobs...</p>
