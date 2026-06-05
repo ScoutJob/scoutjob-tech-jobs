@@ -2,6 +2,8 @@
 
 # Fresh Tech Jobs Found by ScoutJob
 
+Find fresh software engineering, backend, full-stack, data engineering, data science, AI/ML, applied scientist, and internship opportunities in one place. Browse roles across leading companies without repeatedly checking dozens of career pages, and use ScoutJob to quickly filter the jobs that match your interests.
+
 ScoutJob continuously monitors company career pages directly so you can discover newly posted tech jobs earlier. Instead of repeatedly checking multiple career sites or waiting for roles to appear elsewhere, use ScoutJob to find fresh opportunities sooner and apply while they are still new.
 
 For faster access, better filtering, and job-tracking tools, use ScoutJob:
