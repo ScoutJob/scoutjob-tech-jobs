@@ -1,4 +1,4 @@
-<img src="REdditBanner.png" alt="ScoutJob logo" width="170" />
+<img src="REdditBanner.png" alt="ScoutJob logo"/>
 
 # Fresh Tech Jobs Found by ScoutJob
 
