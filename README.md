@@ -16,4 +16,78 @@ Try ScoutJob: https://www.scoutjob.me/
 
 | Company | Job | Category | Location |
 |---|---|---|---|
-| — | The first hourly refresh will publish delayed public jobs here. | — | — |
+| AMD | [Principal, Platform Thermal Engineer Lead](https://www.scoutjob.me/jobs/amd-principal-platform-thermal-engineer-lead-86869) | SeniorHardwareEngineering | India |
+| AMD | [PMTS Software Applications Eng.](https://www.scoutjob.me/jobs/amd-pmts-software-applications-eng-84634) | SoftwareEngineering | Canada |
+| Adobe | [Forward-Deployed AI Engineer](https://www.scoutjob.me/jobs/adobe-forward-deployed-ai-engineer-adobusr168316externalenus) | DataAiMl | United States |
+| Microsoft | [Principal Software Engineer - Architect](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-architect-1970393556872959) | SeniorSoftwareEngineering | Canada |
+| NVIDIA | [Senior Software Engineer, CUDA Deep Learning Systems](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-cuda-deep-learning-systems-893395142941) | SeniorDataAiMl | Canada |
+| NVIDIA | [Senior Software Engineer, Deep Learning - MLIR TRT](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-deep-learning-mlir-trt-893392493845) | SeniorDataAiMl | Canada |
+| NVIDIA | [Senior C++ Software Engineer, Developer Tools](https://www.scoutjob.me/jobs/nvidia-senior-c-software-engineer-developer-tools-893392673445) | SeniorSoftwareEngineering | Poland |
+| NVIDIA | [Senior Deep Learning Engineer - AI for Wireless Systems](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-engineer-ai-for-wireless-systems-893392104136) | SeniorDataAiMl | Vietnam |
+| NVIDIA | [Senior Deep Learning Software Engineer, TensorRT Performance](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-software-engineer-tensorrt-performance-893394206124) | SeniorDataAiMl | Canada |
+| NVIDIA | [Senior Applied Deep Learning Research Scientist, Efficiency](https://www.scoutjob.me/jobs/nvidia-senior-applied-deep-learning-research-scientist-efficiency-893393240345) | SeniorDataAiMl | Canada |
+| NVIDIA | [Software Manager, Networking](https://www.scoutjob.me/jobs/nvidia-software-manager-networking-893394620692) | SeniorSoftwareEngineering | Canada |
+| American Express | [Senior Analyst-Corporate Card Product Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-corporate-card-product-management-26008994) | SeniorAnalyst | United States |
+| NVIDIA | [Senior Software QA Test Development Engineer](https://www.scoutjob.me/jobs/nvidia-senior-software-qa-test-development-engineer-893392034416) | SeniorSoftwareEngineering | United Kingdom |
+| NVIDIA | [Software Development Engineer in Test - SDET](https://www.scoutjob.me/jobs/nvidia-software-development-engineer-in-test-sdet-893392681228) | SoftwareEngineering | Vietnam |
+| NVIDIA | [Senior Mixed Signal Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-mixed-signal-design-engineer-893395462145) | SeniorHardwareEngineering | India |
+| NVIDIA | [Senior ICV CAD Engineer](https://www.scoutjob.me/jobs/nvidia-senior-icv-cad-engineer-893382659631) | SeniorSoftwareEngineeringExtensive | Canada |
+| NVIDIA | [Manufacturing Test Engineer](https://www.scoutjob.me/jobs/nvidia-manufacturing-test-engineer-893393906029) | SoftwareEngineeringExtensive | Canada |
+| NVIDIA | [Senior HPC Cluster Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hpc-cluster-engineer-893393995112) | SeniorDataAiMl | Canada |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556631180) | SeniorSoftwareEngineering | India |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556752777) | SeniorSoftwareEngineering | Canada |
+| NVIDIA | [Senior HPC and LSF Operations Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hpc-and-lsf-operations-engineer-893393995121) | SeniorDataAiMl | Canada |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556862761) | SeniorSoftwareEngineering | India |
+| NVIDIA | [CAD Tools Developer](https://www.scoutjob.me/jobs/nvidia-cad-tools-developer-893391915449) | SoftwareEngineeringExtensive | Canada |
+| NVIDIA | [Senior CAD Engineer](https://www.scoutjob.me/jobs/nvidia-senior-cad-engineer-893394948751) | SeniorSoftwareEngineeringExtensive | Canada |
+| NVIDIA | [EDA Workflow Optimization Engineer](https://www.scoutjob.me/jobs/nvidia-eda-workflow-optimization-engineer-893391565812) | SoftwareEngineeringExtensive | Canada |
+| NVIDIA | [Staff System Software Engineer, RTL-to-GDS Flow Platform](https://www.scoutjob.me/jobs/nvidia-staff-system-software-engineer-rtl-to-gds-flow-platform-893395231401) | SeniorSoftwareEngineering | Canada |
+| NVIDIA | [HPC Operations Engineer](https://www.scoutjob.me/jobs/nvidia-hpc-operations-engineer-893391951606) | DataAiMl | Canada |
+| NVIDIA | [Senior Software Engineer - Developer Tools for Deep Learning](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-developer-tools-for-deep-learning-893393653939) | SeniorDataAiMl | Canada |
+| NVIDIA | [Software DevOps Engineer, Networking](https://www.scoutjob.me/jobs/nvidia-software-devops-engineer-networking-893392882402) | SoftwareEngineering | Canada |
+| Google | [Manufacturing Test Development Engineer Cloud Hardware](https://www.scoutjob.me/jobs/google-manufacturing-test-development-engineer-cloud-hardware-107314119383622342) | HardwareEngineering | United States |
+| Google | [Semiconductor Product Operations Engineer Raxium](https://www.scoutjob.me/jobs/google-semiconductor-product-operations-engineer-raxium-116391968702898886) | HardwareEngineering | Canada |
+| Google | [Data Center Quality Engineering Manager](https://www.scoutjob.me/jobs/google-data-center-quality-engineering-manager-95710361142862534) | EngineeringManagement | United States |
+| Google | [Robotics Automation Technical Lead Manager Platforms Infrastructure](https://www.scoutjob.me/jobs/google-robotics-automation-technical-lead-manager-platforms-infrastructure-134492644515422918) | SeniorDataAiMl | United States |
+| Google | [Manufacturing Test Engineer](https://www.scoutjob.me/jobs/google-manufacturing-test-engineer-136078698628424390) | SoftwareEngineeringExtensive | United States |
+| Amazon | [Software Development Engineer, Alexa Connected Devices](https://www.scoutjob.me/jobs/amazon-software-development-engineer-alexa-connected-devices-10441444) | SoftwareEngineering | United States |
+| Oracle | [Data Migration Engineer II](https://www.scoutjob.me/jobs/oracle-data-migration-engineer-ii-336039) | SoftwareEngineeringExtensive | United States |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335695) | SoftwareEngineering | United States |
+| Oracle | [Principal Electrical Engineer- Data Center Design and Innovation](https://www.scoutjob.me/jobs/oracle-principal-electrical-engineer-data-center-design-and-innovation-336069) | SeniorHardwareEngineering | United States |
+| Oracle | [Senior Software Developer](https://www.scoutjob.me/jobs/oracle-senior-software-developer-336111) | SeniorSoftwareEngineering | United States |
+| Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-336047) | SoftwareEngineering | United States |
+| NVIDIA | [Senior Software Development Engineer in Test - SDET](https://www.scoutjob.me/jobs/nvidia-senior-software-development-engineer-in-test-sdet-893394620782) | SeniorSoftwareEngineering | Canada |
+| AMD | [CPU Tools and Diagnostics Development Engineer](https://www.scoutjob.me/jobs/amd-cpu-tools-and-diagnostics-development-engineer-86743) | SoftwareEngineeringExtensive | India |
+| Apple | [Mechanical Design Engineer, AppleCare Engineering - Hardware Tool & Packaging Design](https://www.scoutjob.me/jobs/apple-mechanical-design-engineer-applecare-engineering-hardware-tool-packaging-design-200665693) | HardwareEngineering | United States |
+| American Express | [Analyst - Go-to-Market (Enablement)](https://www.scoutjob.me/jobs/americanexpress-analyst-go-to-market-enablement-26006666) | Analyst | United States |
+| Amazon | [Senior Data Engineer, Amazon Customer Service](https://www.scoutjob.me/jobs/amazon-senior-data-engineer-amazon-customer-service-10441355) | SeniorDataAiMl | United States |
+| Cisco | [Director, Solutions Engineer - Meta](https://www.scoutjob.me/jobs/cisco-director-solutions-engineer-meta-ciscisglobal2016524externalenglobal) | SeniorSoftwareEngineeringExtensive | United States |
+| Cisco | [Senior Hardware Engineer (High-speed IO/Testing) (Onsite)](https://www.scoutjob.me/jobs/cisco-senior-hardware-engineer-high-speed-io-testing-onsite-ciscisglobal2016448externalenglobal) | SeniorHardwareEngineering | United States |
+| NVIDIA | [Senior Software Architect, Cyber Security](https://www.scoutjob.me/jobs/nvidia-senior-software-architect-cyber-security-893383489996) | SeniorSoftwareEngineering | Israel |
+| NVIDIA | [Senior Cyber Security Threat Intelligence Analyst](https://www.scoutjob.me/jobs/nvidia-senior-cyber-security-threat-intelligence-analyst-893392676561) | SeniorAnalyst | Israel |
+| NVIDIA | [Principal Cyber Security Engineer - Agentic Identity and Security](https://www.scoutjob.me/jobs/nvidia-principal-cyber-security-engineer-agentic-identity-and-security-893394830937) | SeniorSoftwareEngineeringExtensive | Canada |
+| Snowflake | [STRATEGIC FINANCE ANALYST](https://www.scoutjob.me/jobs/snowflake-strategic-finance-analyst-sncousedf02fd3d1604785bf399a50fe4f4e40externalenus7c53d7f51a7f4fdba8c1b59060d9551d) | Analyst | United States |
+| NVIDIA | [Cyber Security Analyst](https://www.scoutjob.me/jobs/nvidia-cyber-security-analyst-893393640464) | Analyst | Remote |
+| NVIDIA | [Cyber Security Analyst](https://www.scoutjob.me/jobs/nvidia-cyber-security-analyst-893393640453) | Analyst | Remote |
+| Google | [Senior Software Engineer Labs](https://www.scoutjob.me/jobs/google-senior-software-engineer-labs-82591555067486918) | SeniorSoftwareEngineering | United States |
+| Google | [Software Engineering Manager II AIml Google Workspace](https://www.scoutjob.me/jobs/google-software-engineering-manager-ii-aiml-google-workspace-133035035694375622) | EngineeringManagement | United States |
+| Google | [Senior Software Engineer Performance Platforms Infrastructure Engineering](https://www.scoutjob.me/jobs/google-senior-software-engineer-performance-platforms-infrastructure-engineering-77514678506267334) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Software Engineer AIml Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-youtube-107794365983662790) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Software Engineer AIml Recommendations Rankings Predictions Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-recommendations-rankings-predictions-youtube-129280004709065414) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Software Engineer Mobile Android Google Workspace](https://www.scoutjob.me/jobs/google-senior-software-engineer-mobile-android-google-workspace-122159068251857606) | SeniorSoftwareEngineering | United States |
+| Google | [Imaging And Display Silicon Architect Android Xr Ecosystem](https://www.scoutjob.me/jobs/google-imaging-and-display-silicon-architect-android-xr-ecosystem-94288486449717958) | SeniorHardwareEngineering | United States |
+| Google | [Senior Software Engineer Mobile Ios Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-mobile-ios-youtube-85658787171443398) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Software Engineer Infrastructure Google Cloud Platforms](https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-platforms-99903660053406406) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Software Engineer AIml Google Workspace](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-google-workspace-95902381614473926) | SeniorSoftwareEngineering | United States |
+| Google | [Senior Hardware Systems Design Engineer Board And Systems](https://www.scoutjob.me/jobs/google-senior-hardware-systems-design-engineer-board-and-systems-112195173353431750) | SeniorHardwareEngineering | United States |
+| Google | [Senior Signal Integrity Engineer Platform](https://www.scoutjob.me/jobs/google-senior-signal-integrity-engineer-platform-76643671755104966) | SeniorSoftwareEngineeringExtensive | United States |
+| Google | [Senior Software Engineer Infrastructure Google Cloud Compute](https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-compute-129625778701640390) | SeniorSoftwareEngineering | United States |
+| Google | [Fabrication Equipment Engineer Quantum AI](https://www.scoutjob.me/jobs/google-fabrication-equipment-engineer-quantum-ai-77644388666090182) | SoftwareEngineeringExtensive | United States |
+| Amazon | [Senior Software Development Engineer, AWS Identity and Access Management](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-aws-identity-and-access-management-10441337) | SeniorSoftwareEngineering | United States |
+| Apple | [Senior Site Reliability Engineer (SRE) - Apple Services Engineering / iCloud](https://www.scoutjob.me/jobs/apple-senior-site-reliability-engineer-sre-apple-services-engineering-icloud-200665825) | SeniorSoftwareEngineeringExtensive | United States |
+| Apple | [Senior Operations Engineer, Retail Store Operations & Support - Retail & Marcom Engineering](https://www.scoutjob.me/jobs/apple-senior-operations-engineer-retail-store-operations-support-retail-marcom-engineering-200666650) | SeniorSoftwareEngineeringExtensive | United States |
+| American Express | [AML Compliance Analyst](https://www.scoutjob.me/jobs/americanexpress-aml-compliance-analyst-26008580) | Analyst | Argentina |
+| Microsoft | [Critical Environment Mechanical Engineer](https://www.scoutjob.me/jobs/microsoft-critical-environment-mechanical-engineer-1970393556870041) | HardwareEngineering | Canada |
+| NVIDIA | [Senior Software Engineer, Mapping - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-mapping-autonomous-vehicles-893394210620) | SeniorSoftwareEngineering | India |
+| NVIDIA | [Senior Mapping Engineer - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-mapping-engineer-autonomous-vehicles-893393494383) | SeniorSoftwareEngineeringExtensive | Canada |
+| NVIDIA | [Senior Firmware Engineer - Memory Subsystem](https://www.scoutjob.me/jobs/nvidia-senior-firmware-engineer-memory-subsystem-893395199928) | SeniorHardwareEngineering | Canada |
