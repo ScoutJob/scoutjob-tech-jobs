@@ -1,11 +1,40 @@
-# Replace and push
+# GitHub Pages public feed publishing fix
 
-Copy the contents of this folder into the root of the existing `scoutjob-tech-jobs` repository, replacing matching files. Then run:
+The live GitHub Pages site publishes from `docs/`. The refresh workflow must therefore update both:
+
+- `data/jobs.json` and `data/jobs.csv`
+- `docs/data/jobs.json` and `docs/data/jobs.csv`
+
+This version does that twice for safety:
+
+1. `scripts/generate_feed.py` copies the generated feed into `docs/data/`.
+2. `.github/workflows/refresh-jobs.yml` repeats the copy and verifies that the files match before committing.
+
+## Replace the repository files and push
+
+From your local `scoutjob-tech-jobs` repository folder, replace the files with the contents of this ZIP, then run:
 
 ```bash
 git add .
-git commit -m "Fix delayed public job feed generation"
+git commit -m "Publish generated feed to GitHub Pages"
+git pull --rebase origin main
 git push origin main
 ```
 
-After pushing, open the repository on GitHub and run **Actions → Refresh public jobs → Run workflow** once. The hourly schedule remains enabled.
+## Run the workflow manually
+
+Open GitHub → **Actions** → **Refresh public jobs** → **Run workflow**.
+
+Wait for both workflows to finish successfully:
+
+- `Refresh public jobs`
+- `pages build and deployment`
+
+Then verify:
+
+```text
+https://scoutjob.github.io/scoutjob-tech-jobs/data/jobs.json
+https://scoutjob.github.io/scoutjob-tech-jobs/
+```
+
+The JSON URL should show a non-zero `total`, and the browser page should display jobs.
