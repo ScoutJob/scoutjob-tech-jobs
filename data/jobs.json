@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-05T22:38:41.234533+00:00",
+  "generatedAtUtc": "2026-06-05T22:40:55.429308+00:00",
   "publicDelayMinutes": 60,
   "total": 3134,
   "jobs": [
@@ -509,7 +509,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T21:02:02.30654Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:32.736629Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:36.408327Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-335695",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335695"
     },
@@ -524,7 +524,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T21:01:31.59827Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:08.03539Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:09.456659Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-electrical-engineer-data-center-design-and-innovation-336069",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336069"
     },
@@ -539,7 +539,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T21:01:26.26747Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:03.651926Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:07.490671Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-336111",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336111"
     },
@@ -554,7 +554,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T21:01:21.476894Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:02.472566Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:05.771542Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-3-336047",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336047"
     },
@@ -5684,7 +5684,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T02:29:27.766687Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:56.551817Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:00.54795Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-backend-focus-335834",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335834"
     },
@@ -5729,7 +5729,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-05T02:03:27.960846Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:01.278148Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:03.5764Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-backend-focus-335833",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335833"
     },
@@ -7439,7 +7439,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T23:36:03.369098Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:40.375779Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:44.72676Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-335700",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335700"
     },
@@ -7454,7 +7454,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T23:35:49.458308Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:27.901876Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:33.466318Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-ai-platform-engineering-335829",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335829"
     },
@@ -7469,7 +7469,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T23:35:45.358854Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:23.493605Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:29.669928Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-ai-platform-engineering-335828",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335828"
     },
@@ -8009,7 +8009,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:27:17.209756Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:29.967108Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:34.775737Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-network-developer-2-335758",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335758"
     },
@@ -8039,7 +8039,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:27:14.608834Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:22.029213Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:28.693112Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-ai-native-platform-engineering-335759",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335759"
     },
@@ -8054,7 +8054,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:27:12.838724Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:21.105491Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:26.402152Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-ai-expert-software-engineer-healthcare-analytics-335760",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335760"
     },
@@ -8069,7 +8069,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:27:08.964883Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:10.387785Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:13.336261Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-engineer-335100",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335100"
     },
@@ -8084,7 +8084,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:27:02.008506Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:15.743668Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:20.011988Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-oci-334932",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334932"
     },
@@ -8099,7 +8099,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T22:26:55.851089Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:13.679565Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:18.146112Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-oci-334929",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334929"
     },
@@ -9944,7 +9944,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T18:06:32.302828Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:07.372319Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:43.483746Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-research-engineer-text-generation-input-experience-200666539",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666539/machine-learning-research-engineer-text-generation-input-experience"
     },
@@ -11309,7 +11309,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T11:48:43.569712Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:05.429722Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:40.616355Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-data-engineer-200666757",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666757/senior-data-engineer"
     },
@@ -11894,7 +11894,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T07:47:34.242341Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:09.119185Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:10.399692Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-335151",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335151"
     },
@@ -12284,7 +12284,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T04:21:18.197809Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:14.208746Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:57.185673Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/salesforce-forward-deployed-engineering-lead-jr343280",
       "sourceUrl": "https://careers.salesforce.com/en/jobs/jr343280/forward-deployed-engineering-lead"
     },
@@ -12299,7 +12299,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T04:20:37.643232Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:09.081637Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:44.232783Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-software-engineer-software-developer-foundation-200666694",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666694/senior-software-engineer-software-developer-foundation"
     },
@@ -12434,7 +12434,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T03:03:24.438338Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:11.404771Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:44.790777Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-supply-chain-solutions-analyst-200666544",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666544/supply-chain-solutions-analyst"
     },
@@ -12614,7 +12614,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T01:34:50.216913Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:12.41255Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:53.027586Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-machine-learning-platform-engineer-evaluation-privacy-200666705",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666705/senior-machine-learning-platform-engineer-evaluation-privacy"
     },
@@ -12689,7 +12689,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T00:52:27.689581Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:14.242662Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:54.383342Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-large-machine-learning-model-optimization-engineer-siml-200626700",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml"
     },
@@ -12764,7 +12764,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-04T00:33:48.492418Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:15.60475Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:57.195817Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-firmware-sensors-engineer-home-and-audio-devices-200666695",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666695/firmware-sensors-engineer-home-and-audio-devices"
     },
@@ -13019,7 +13019,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T23:39:18.208557Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:30.703479Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:35.354638Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-5-335110",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335110"
     },
@@ -13724,7 +13724,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T20:57:32.93831Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:16.830459Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:00.630747Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ios-location-engineer-sensing-connectivity-200666514",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666514/ios-location-engineer-sensing-connectivity"
     },
@@ -13919,7 +13919,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T20:00:36.481977Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:36.323761Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:37.352418Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-335659",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335659"
     },
@@ -14039,7 +14039,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T19:39:50.023098Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:17.814042Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:02.23297Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-g-a-solutions-engineering-gse-200666196",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666196/software-engineer-g-a-solutions-engineering-gse"
     },
@@ -14309,7 +14309,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T18:39:21.284214Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:22.493317Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:02.870625Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-aiml-ml-engineer-responsible-ai-200642026",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200642026/aiml-ml-engineer-responsible-ai"
     },
@@ -15494,7 +15494,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T13:33:12.264846Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:39.429271Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:39.177359Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-us-citizenship-required-335636",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335636"
     },
@@ -15854,7 +15854,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T11:49:03.223117Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:27.760979Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:08.99311Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-data-architect-emeia-sales-200664442",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200664442/data-architect-emeia-sales"
     },
@@ -15869,7 +15869,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T11:49:00.708084Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:25.35921Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:07.492568Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-data-scientist-emeia-sales-200664445",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200664445/data-scientist-emeia-sales"
     },
@@ -16049,7 +16049,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T09:07:17.496677Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:34.723267Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:09.954146Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ai-software-engineer-siri-user-experiences-200666380",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666380/ai-software-engineer-siri-user-experiences"
     },
@@ -16064,7 +16064,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T08:45:12.297313Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:36.464264Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:11.194431Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-test-automation-200666549",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666549/software-engineer-test-automation"
     },
@@ -16244,7 +16244,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T06:31:49.967459Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:39.795184Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:14.749817Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sre-engineering-manager-200657773",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200657773/sre-engineering-manager"
     },
@@ -18029,7 +18029,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T02:34:35.063537Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:41.469378Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:54.76414Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-director-335476",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335476"
     },
@@ -18059,7 +18059,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-03T01:47:51.625189Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:47.253775Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:18.6112Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-thermal-engineer-200666154",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666154/thermal-engineer"
     },
@@ -18449,7 +18449,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T22:34:37.765112Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:45.959397Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:25.001496Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-life-sciences-5239733008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5239733008"
     },
@@ -18554,7 +18554,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:49:02.716028Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:46.231822Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:02.389652Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-ai-data-platform-330553",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330553"
     },
@@ -18614,7 +18614,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:32:55.994044Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:54.641702Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:20.144703Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-build-security-engineer-200666261",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666261/build-security-engineer"
     },
@@ -18644,7 +18644,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:26:38.512365Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:51.691117Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:15.786594Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-development-engineer-oci-335446",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335446"
     },
@@ -18659,7 +18659,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:26:29.753981Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:43.539463Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:01.738489Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-lead-principal-software-engineer-334313",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334313"
     },
@@ -18749,7 +18749,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:06:36.547476Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:52.57274Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:16.751694Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-325988",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/325988"
     },
@@ -18764,7 +18764,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T21:04:40.525333Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:57.462042Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:22.175327Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-display-module-optical-engineer-200633414",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200633414/display-module-optical-engineer"
     },
@@ -19799,7 +19799,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:46:20.411671Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:50.443364Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:08.255237Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-development-engineer-oci-334947",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334947"
     },
@@ -19814,7 +19814,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:46:16.670957Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:49.239619Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:05.612465Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-development-engineer-oci-334948",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334948"
     },
@@ -19829,7 +19829,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:46:11.932533Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:47.977167Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:04.403759Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-senior-manager-oci-332890",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332890"
     },
@@ -19844,7 +19844,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:46:09.21134Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:47.387995Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:03.565305Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-engineer-oracle-health-335361",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335361"
     },
@@ -19859,7 +19859,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:46:07.924041Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:42.435698Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:59.201486Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-oracle-health-335363",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335363"
     },
@@ -19889,7 +19889,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:43:38.717816Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:23.468525Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:44.404166Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-product-engineer-computer-use-5238637008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008"
     },
@@ -19979,7 +19979,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T20:17:46.617538Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:06.045846Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:25.124383Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-computer-vision-and-machine-learning-engineer-200633612",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200633612/computer-vision-and-machine-learning-engineer"
     },
@@ -19994,7 +19994,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T19:59:24.198304Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:07.096274Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:26.609318Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-ruby-on-rails-engineer-ase-200636171",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200636171/sr-ruby-on-rails-engineer-ase"
     },
@@ -20099,7 +20099,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T16:14:15.373511Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:08.53983Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:29.769615Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-forward-deployed-engineer-maps-client-qe-intelligence-200647290",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200647290/forward-deployed-engineer-maps-client-qe-intelligence"
     },
@@ -20114,7 +20114,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-02T15:17:09.421089Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:09.997669Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:34.744337Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-camera-tuning-image-quality-engineer-200666140",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666140/camera-tuning-image-quality-engineer"
     },
@@ -21524,7 +21524,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-01T21:03:15.592509Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:22.060768Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:49.702202Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-principal-software-developer-334432",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334432"
     },
@@ -21539,7 +21539,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-01T21:03:13.397074Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:20.635114Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:45.6915Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-manager-software-development-334269",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334269"
     },
@@ -21554,7 +21554,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-01T21:03:01.882726Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:14.998224Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:42.569862Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-principal-software-developer-326123",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/326123"
     },
@@ -21569,7 +21569,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-01T21:02:56.774969Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:04.583199Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:27.488941Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-332892",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332892"
     },
@@ -21794,7 +21794,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-06-01T20:58:21.925193Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:23.610373Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:05.784235Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-engineer-proactive-200622577",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200622577/machine-learning-engineer-proactive"
     },
@@ -23999,7 +23999,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-28T23:53:19.563546Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:59.856514Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:02.301155Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-334471",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334471"
     },
@@ -26294,7 +26294,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-27T02:46:37.873213Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:19.347487Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:25.093495Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-oit-enterprise-engineering-oit-enterprise-engineering",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/OIT - Enterprise Engineering"
     },
@@ -26849,7 +26849,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T22:49:46.028998Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:55.758952Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:18.53794Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-engineering-manager-oracle-health-ai-reimbursement-platform-334068",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334068"
     },
@@ -29564,7 +29564,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:39:05.624861Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:27.392336Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:50.649063Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-application-security-engineer-4559147007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4559147007"
     },
@@ -29609,7 +29609,7 @@
       "isRemote": true,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:39:01.890048Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:28:25.603838Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:46.611121Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-ai-tutor-software-engineering-specialist-5063490007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5063490007"
     },
@@ -32519,7 +32519,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:31:19.937593Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:04.15412Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:54.303357Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-security-software-engineer-detection-response-platform-4595463008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008"
     },
@@ -32549,7 +32549,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:31:17.230711Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:02.901666Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:47.700014Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-security-labs-engineer-5153564008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5153564008"
     },
@@ -32579,7 +32579,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:31:16.233039Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:01.538157Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:44.075388Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-security-engineer-threat-intel-5195705008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008"
     },
@@ -32654,7 +32654,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:31:00.010013Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:59.860506Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:38.063041Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-safeguards-policy-analyst-fraud-scams-5174857008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174857008"
     },
@@ -32669,7 +32669,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:58.370233Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:56.555268Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:34.943861Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-safeguards-enforcement-analyst-safety-evaluations-5137183008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5137183008"
     },
@@ -32714,7 +32714,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:55.427926Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:50.914767Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:26.614671Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-societal-impacts-5076616008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076616008"
     },
@@ -32744,7 +32744,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:54.45195Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:43.782516Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:23.89193Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-interpretability-4980427008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008"
     },
@@ -32804,7 +32804,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:45.929462Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:33.097381Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:18.005659Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-universes-5061517008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008"
     },
@@ -32834,7 +32834,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:38.733122Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:26.627427Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:16.66522Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-societal-impacts-5076606008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076606008"
     },
@@ -32879,7 +32879,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:36.27115Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:24.44447Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:14.560453Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-frontier-red-team-cyber-5076477008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076477008"
     },
@@ -32909,7 +32909,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:35.687199Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:22.219827Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:06.376621Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-alignment-science-london-4610158008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008"
     },
@@ -32939,7 +32939,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:31.844998Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:18.182846Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:04.481154Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-alignment-science-4631822008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
     },
@@ -32954,7 +32954,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:22.185266Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:16.762978Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:03.503352Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-science-of-scaling-5126127008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126127008"
     },
@@ -32999,7 +32999,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:16.031232Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:08.820651Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:02.017546Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-safeguards-labs-5191785008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5191785008"
     },
@@ -33029,7 +33029,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:07.280744Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:07.055169Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:07.917113Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-knowledge-foundations-5197337008-7ceee261",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197337008"
     },
@@ -33074,7 +33074,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:03.516426Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:07.052965Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:00.969646Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-tokens-4951814008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008"
     },
@@ -33104,7 +33104,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:30:02.810462Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:03.99622Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:57.143303Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-pre-training-4616971008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
     },
@@ -33134,7 +33134,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:55.215512Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:59.864575Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:45.248944Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-pre-training-5135168008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008"
     },
@@ -33209,7 +33209,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:41.632334Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:53.81351Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:39.382393Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-production-model-post-training-4613592008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008"
     },
@@ -33239,7 +33239,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:32.945277Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:52.659541Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:38.030619Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-production-model-post-training-5112018008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008"
     },
@@ -33269,7 +33269,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:30.235127Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:44.436177Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:36.395803Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-scaling-london-4938436008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008"
     },
@@ -33299,7 +33299,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:24.411958Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:39.423988Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:34.863249Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-scaling-4938432008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008"
     },
@@ -33329,7 +33329,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:22.016134Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:34.697635Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:33.45127Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-5119713008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008"
     },
@@ -33344,7 +33344,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:20.783958Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:31.786538Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:29.326969Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-performance-rl-5160330008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5160330008"
     },
@@ -33374,7 +33374,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:18.541347Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:24.474994Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:26.595257Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-model-evaluations-5198255008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008"
     },
@@ -33404,7 +33404,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:12.943324Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:21.100014Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:24.971153Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-rl-velocity-5198074008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008"
     },
@@ -33434,7 +33434,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:29:02.11083Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:17.075155Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:20.465827Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-rl-velocity-5198108008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008"
     },
@@ -33449,7 +33449,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:59.933838Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:14.89356Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:18.579477Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-reinforcement-learning-4613568008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008"
     },
@@ -33479,7 +33479,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:53.513027Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:10.12913Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:11.211177Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-reinforcement-learning-5115935008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008"
     },
@@ -33509,7 +33509,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:49.07959Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:08.543382Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:09.572552Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-knowledge-team-4017331008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008"
     },
@@ -33539,7 +33539,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:46.376945Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:24:04.674983Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:06.56052Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-interpretability-4980430008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008"
     },
@@ -33584,7 +33584,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:39.530597Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:55.216893Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:03.656153Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-environment-scaling-4951064008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951064008"
     },
@@ -33614,7 +33614,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:33.289762Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:53.580035Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:02.207168Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-economic-research-data-platform-5071132008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008"
     },
@@ -33644,7 +33644,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:27.756894Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:39.892264Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:00.267753Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-discovery-4669581008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008"
     },
@@ -33659,7 +33659,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:25.087117Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:36.34143Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:55.635783Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-cybersecurity-reinforcement-learning-5025624008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008"
     },
@@ -33689,7 +33689,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:20.920345Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:28.393535Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:53.383646Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-ai-observability-5125083008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5125083008"
     },
@@ -33719,7 +33719,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:18.659624Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:25.512568Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:52.249653Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-protective-intelligence-analyst-5227121008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5227121008"
     },
@@ -33794,7 +33794,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:10.529529Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:18.648414Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:43.917134Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-performance-engineer-inference-systems-5224564008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008"
     },
@@ -33824,7 +33824,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T02:28:09.795018Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:23:17.156835Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:42.895058Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-performance-engineer-gpu-4926227008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008"
     },
@@ -35114,7 +35114,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-26T00:30:06.472617Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:28.652276Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:33.926311Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-defensive-security-analyst-bc803bd5-7793-452d-9ae5-9301ee24615a",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/bc803bd5-7793-452d-9ae5-9301ee24615a"
     },
@@ -43394,7 +43394,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:22.750175Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:47.400599Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:03.503628Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-backend-software-engineer-infrastructure-6fe5515f-f677-4d98-8ac2-1775a425f5e7",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/6fe5515f-f677-4d98-8ac2-1775a425f5e7"
     },
@@ -43409,7 +43409,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:18.578516Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:10.174198Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:11.341402Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-internship-poland-d582cd84-14fd-4aa3-b413-15982d286bd9",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/d582cd84-14fd-4aa3-b413-15982d286bd9"
     },
@@ -43424,7 +43424,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:18.333156Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:08.635441Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:09.732986Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-tactical-edge-3d0d9d92-0321-4459-a17d-fa1a76636a43",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/3d0d9d92-0321-4459-a17d-fa1a76636a43"
     },
@@ -43439,7 +43439,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:17.697006Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:02.934122Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:05.780885Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-year-at-palantir-forward-deployed-software-engineer-internship-commercial-e6789b17-62fb-4226-a079-f8c17ff19e2d",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/e6789b17-62fb-4226-a079-f8c17ff19e2d"
     },
@@ -43454,7 +43454,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:17.462124Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:01.662104Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:02.431954Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-year-at-palantir-forward-deployed-software-engineer-internship-usg-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
     },
@@ -43469,7 +43469,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:17.222844Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:00.277293Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:00.635268Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-year-at-palantir-software-engineer-internship-655f9937-a4ce-4e7d-80e2-a6659af07329",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/655f9937-a4ce-4e7d-80e2-a6659af07329"
     },
@@ -43499,7 +43499,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-16T05:18:05.233483Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:58.353397Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:24.02363Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-4-332746",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332746"
     },
@@ -44654,7 +44654,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-14T18:47:47.128795Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:42.372189Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:43.836399Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-year-at-palantir-forward-deployed-software-engineer-internship-commercial-e24202f1-fccd-470f-b001-e24d901735a4-3b9a25d3",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/e24202f1-fccd-470f-b001-e24d901735a4"
     },
@@ -44669,7 +44669,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-14T18:47:46.628856Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:31.306503Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:40.622525Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-year-at-palantir-forward-deployed-software-engineer-5c4c65c5-77da-4d36-856c-4ade87631019",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/5c4c65c5-77da-4d36-856c-4ade87631019"
     },
@@ -44864,7 +44864,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-12T02:37:48.029851Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:03.419826Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:25.335321Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-developer-3-332896-bdd2210a",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332896"
     },
@@ -44879,7 +44879,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-11T23:31:14.972804Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:27:09.872528Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:36.115975Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-332909-5df92e76",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/332909"
     },
@@ -45959,7 +45959,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:27.067288Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:42.778296Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:01.025535Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-software-engineer-substrate-26176860-7b27-412a-9959-d8b8705acf53",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/26176860-7b27-412a-9959-d8b8705acf53"
     },
@@ -45974,7 +45974,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:26.6504Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:41.775085Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:57.141393Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-edge-autonomous-systems-27bf5707-96fa-460e-8a5b-53bc192ca87b-17fd8eed",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/27bf5707-96fa-460e-8a5b-53bc192ca87b"
     },
@@ -45989,7 +45989,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:26.370027Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:36.858246Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:39.160716Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-apollo-systems-832e4652-5088-4e5b-aeac-1e82ec3ebad4",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/832e4652-5088-4e5b-aeac-1e82ec3ebad4"
     },
@@ -46004,7 +46004,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:25.953117Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:24.625456Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:29.753091Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-us-government-d83fac1c-353e-4b77-a586-3276b1090b6e",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/d83fac1c-353e-4b77-a586-3276b1090b6e"
     },
@@ -46019,7 +46019,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:25.534204Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:18.213184Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:22.18975Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-autonomous-systems-c2-c62264f5-5da8-40fe-9b44-f7f0f0012e11",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/c62264f5-5da8-40fe-9b44-f7f0f0012e11"
     },
@@ -46034,7 +46034,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:24.692913Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:04.173726Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:07.70387Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-ac0dc094-2480-43c2-8495-26ade227ff4f",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/ac0dc094-2480-43c2-8495-26ade227ff4f"
     },
@@ -46049,7 +46049,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-10T05:47:24.275034Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:59.008647Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:56.647135Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-backend-software-engineer-application-development-7177acab-5c64-4005-9b28-93f33b3e172a",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/7177acab-5c64-4005-9b28-93f33b3e172a"
     },
@@ -46214,7 +46214,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:48.062397Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:48.45547Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:04.488324Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-us-government-84131e3f-455e-47fc-9c11-898d95f09048-5211fdad",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/84131e3f-455e-47fc-9c11-898d95f09048"
     },
@@ -46229,7 +46229,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:47.740919Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:46.06729Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:40:02.020367Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-software-engineer-network-infrastructure-89a77547-8b74-45b2-8590-f04b16e19a59-6147fc65",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/89a77547-8b74-45b2-8590-f04b16e19a59"
     },
@@ -46244,7 +46244,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:46.093353Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:40.389664Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:45.233491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-edge-397fb983-47b7-4a53-a7df-f080f43f7720-3aadd6a6",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/397fb983-47b7-4a53-a7df-f080f43f7720"
     },
@@ -46259,7 +46259,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:45.53433Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:33.011966Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:36.619906Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-apollo-systems-e47d4410-2542-47d8-b558-b5295fc28821-a976d414",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/e47d4410-2542-47d8-b558-b5295fc28821"
     },
@@ -46274,7 +46274,7 @@
       "isRemote": false,
       "isInternship": true,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:45.349311Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:30.796605Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:34.982102Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-315f695d-04d1-4a9a-848e-cb2bec7a997e-19119eab",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
@@ -46289,7 +46289,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:44.414675Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:22.187724Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:26.626159Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-core-interfaces-cf76738e-3030-42fa-92ac-a9446df956fc-6127bfb2",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/cf76738e-3030-42fa-92ac-a9446df956fc"
     },
@@ -46304,7 +46304,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:44.151001Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:21.104217Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:25.200832Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-forward-deployed-software-engineer-autonomous-systems-c2-0edf7365-49f0-4263-818a-19409ec4f430-a9acc801",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/0edf7365-49f0-4263-818a-19409ec4f430"
     },
@@ -46319,7 +46319,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:43.597678Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:26:15.7702Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:39:18.922965Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-software-engineer-defense-applications-f7dbfdf1-0bb1-4c11-ac15-6a139cee3410-82ee6eb7",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410"
     },
@@ -46334,7 +46334,7 @@
       "isRemote": false,
       "isInternship": false,
       "firstDiscoveredAtUtc": "2026-05-06T00:53:39.917663Z",
-      "lastVerifiedAtUtc": "2026-06-05T22:25:53.992982Z",
+      "lastVerifiedAtUtc": "2026-06-05T22:38:53.5546Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/palantir-senior-backend-software-engineer-infrastructure-b5ad6660-8145-4be5-97e2-3799f2912f5b-541ba9da",
       "sourceUrl": "https://www.palantir.com/careers/open-positions/b5ad6660-8145-4be5-97e2-3799f2912f5b"
     },
