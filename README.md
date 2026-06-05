@@ -10,11 +10,11 @@ For faster access, better filtering, and job-tracking tools, use ScoutJob:
 
 **Try ScoutJob:** https://www.scoutjob.me/
 
-## Browse and filter jobs
+<div align="center">
 
-- Interactive public job browser: https://scoutjob.github.io/scoutjob-tech-jobs/
-- JSON feed: [`data/jobs.json`](data/jobs.json)
-- CSV feed: [`data/jobs.csv`](data/jobs.csv)
+[![Try ScoutJob](https://img.shields.io/badge/Try%20ScoutJob-Faster%20Access%20%26%20Better%20Filtering-0E6246?style=for-the-badge)](https://www.scoutjob.me/)
+
+</div>
 
 ## Recent delayed public jobs
 
