@@ -12,7 +12,11 @@ For faster access, better filtering, and job-tracking tools, use ScoutJob:
 
 <div align="center">
 
-[![Try ScoutJob](https://img.shields.io/badge/Try%20ScoutJob-Faster%20Access%20%26%20Better%20Filtering-0E6246?style=for-the-badge)](https://www.scoutjob.me/)
+### Want to see fresh jobs sooner?
+
+ScoutJob continuously monitors company career pages so you do not have to.
+
+[![Try ScoutJob Now](https://img.shields.io/badge/Try%20ScoutJob%20Now-Free%20to%20Use-0E6246?style=for-the-badge)](https://www.scoutjob.me/)
 
 </div>
 
