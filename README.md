@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Software Development Manager](https://www.scoutjob.me/jobs/oracle-software-development-manager-335783) | EngineeringManagement | United States | Jun 06, 2026 | Jun 06, 2026 20:41 UTC |
+| NVIDIA | [Senior Solutions Architect, Edge AI and Professional Visualization](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-edge-ai-and-professional-visualization-893395004021) | SeniorSoftwareEngineeringExtensive | United States | Jun 06, 2026 | Jun 06, 2026 20:36 UTC |
+| Apple | [ML Video Codec Algorithm Engineer](https://www.scoutjob.me/jobs/apple-ml-video-codec-algorithm-engineer-200652180) | SoftwareEngineeringExtensive | United States | Jun 06, 2026 | Jun 06, 2026 20:13 UTC |
+| Qualcomm | [IT Software Developer](https://www.scoutjob.me/jobs/qualcomm-it-software-developer-446718853144) | SoftwareEngineering | India | Jun 06, 2026 | Jun 06, 2026 19:59 UTC |
+| Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446718812491) | SoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 19:59 UTC |
+| Qualcomm | [Senior Engineer - AI Data Center Security work](https://www.scoutjob.me/jobs/qualcomm-senior-engineer-ai-data-center-security-work-446718771421) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 19:59 UTC |
 | Oracle | [Principal Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-platform-software-engineer-334443) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 19:40 UTC |
 | NVIDIA | [Senior Solutions Architect, NPN](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-npn-893393843290) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 19:33 UTC |
 | NVIDIA | [Field Applications Engineer, Embedded Systems - NALA](https://www.scoutjob.me/jobs/nvidia-field-applications-engineer-embedded-systems-nala-893393931057) | HardwareEngineering | Canada | Jun 06, 2026 | Jun 06, 2026 19:33 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Uber | [Staff Software Engineer, Ad Serving & Attribution Infra](https://www.scoutjob.me/jobs/uber-staff-software-engineer-ad-serving-attribution-infra-154429) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:44 UTC |
 | Uber | [Senior Software Engineer - Data Storage](https://www.scoutjob.me/jobs/uber-senior-software-engineer-data-storage-157995) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:43 UTC |
 | Apple | [Senior Software Engineer](https://www.scoutjob.me/jobs/apple-senior-software-engineer-200654516) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:36 UTC |
-| American Express | [Senior Analyst - Product Management (SBS Prop Lend Cards)](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-product-management-sbs-prop-lend-cards-26009048) | SeniorAnalyst | United States | Jun 05, 2026 | Jun 05, 2026 22:35 UTC |
-| Workday | [Senior Site Reliability Engineer (US Federal)](https://www.scoutjob.me/jobs/workday-senior-site-reliability-engineer-us-federal-jr-0105509) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:33 UTC |
-| Microsoft | [Principal Software Engineer Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-manager-1970393556853171) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 | Jun 05, 2026 22:32 UTC |
-| Amazon | [Software Development Engineer, DynamoDB Storage](https://www.scoutjob.me/jobs/amazon-software-development-engineer-dynamodb-storage-10441531) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:31 UTC |
-| Apple | [iOS Software Engineer (MSO)](https://www.scoutjob.me/jobs/apple-ios-software-engineer-mso-200665666) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:20 UTC |
-| NVIDIA | [Senior Software Engineer, DOCA SDK](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-doca-sdk-893395092958) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 | Jun 05, 2026 22:18 UTC |
