@@ -20,6 +20,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered |
 |---|---|---|---|---|
+| Uber | [Staff Software Engineer, Uber Eats Search Experience](https://www.scoutjob.me/jobs/uber-staff-software-engineer-uber-eats-search-experience-157003) | SeniorSoftwareEngineering | United States | Jun 06, 2026 |
 | Apple | [Detection and Response Software Engineer \|](https://www.scoutjob.me/jobs/apple-detection-and-response-software-engineer-200655126) | SoftwareEngineering | United States | Jun 06, 2026 |
 | Qualcomm | [CPU Firmware Verification and Validation / Sr Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-firmware-verification-and-validation-sr-staff-engineer-446718807116) | SeniorHardwareEngineering | India | Jun 06, 2026 |
 | Qualcomm | [System Engineer, Staff/Senior Staff (Robotics)](https://www.scoutjob.me/jobs/qualcomm-system-engineer-staff-senior-staff-robotics-446718783561) | SeniorDataAiMl | Japan | Jun 06, 2026 |
@@ -94,4 +95,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Software Engineer, Deep Learning - MLIR TRT](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-deep-learning-mlir-trt-893392493845) | SeniorDataAiMl | Canada | Jun 05, 2026 |
 | NVIDIA | [Senior C++ Software Engineer, Developer Tools](https://www.scoutjob.me/jobs/nvidia-senior-c-software-engineer-developer-tools-893392673445) | SeniorSoftwareEngineering | Poland | Jun 05, 2026 |
 | NVIDIA | [Senior Deep Learning Engineer - AI for Wireless Systems](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-engineer-ai-for-wireless-systems-893392104136) | SeniorDataAiMl | Vietnam | Jun 05, 2026 |
-| NVIDIA | [Senior Deep Learning Software Engineer, TensorRT Performance](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-software-engineer-tensorrt-performance-893394206124) | SeniorDataAiMl | Canada | Jun 05, 2026 |
