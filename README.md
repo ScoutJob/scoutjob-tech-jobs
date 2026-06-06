@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Solutions Architect, Ethernet Networking – NPN](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-ethernet-networking-npn-893394633694) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 22:01 UTC |
+| NVIDIA | [Senior Solutions Architect, AI Compute – NPN](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-ai-compute-npn-893394633691) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 22:01 UTC |
+| Oracle | [Principal Software Engineer - Media Ads Service](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-media-ads-service-334556) | SeniorSoftwareEngineering | India | Jun 06, 2026 | Jun 06, 2026 21:25 UTC |
+| Oracle | [Software Development Snr Manager](https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-334803) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 21:25 UTC |
+| Oracle | [Senior Director Software Development (OCI-Compute)](https://www.scoutjob.me/jobs/oracle-senior-director-software-development-oci-compute-335106) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 21:25 UTC |
+| Oracle | [Software Development Director](https://www.scoutjob.me/jobs/oracle-software-development-director-335101) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 21:25 UTC |
+| Oracle | [Sr Software Engineer](https://www.scoutjob.me/jobs/oracle-sr-software-engineer-335122) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 21:25 UTC |
+| Oracle | [Software Developer 5](https://www.scoutjob.me/jobs/oracle-software-developer-5-335112) | SoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 21:23 UTC |
 | Oracle | [Software Development Manager](https://www.scoutjob.me/jobs/oracle-software-development-manager-335783) | EngineeringManagement | United States | Jun 06, 2026 | Jun 06, 2026 20:41 UTC |
 | NVIDIA | [Senior Solutions Architect, Edge AI and Professional Visualization](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-edge-ai-and-professional-visualization-893395004021) | SeniorSoftwareEngineeringExtensive | United States | Jun 06, 2026 | Jun 06, 2026 20:36 UTC |
 | Apple | [ML Video Codec Algorithm Engineer](https://www.scoutjob.me/jobs/apple-ml-video-codec-algorithm-engineer-200652180) | SoftwareEngineeringExtensive | United States | Jun 06, 2026 | Jun 06, 2026 20:13 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-334998) | SeniorSoftwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 23:10 UTC |
 | Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-334925) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:10 UTC |
 | Oracle | [Software Development Snr Manager](https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-335107) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:10 UTC |
-| Oracle | [Principal AI Expert Software Engineer – Healthcare Analytics](https://www.scoutjob.me/jobs/oracle-principal-ai-expert-software-engineer-healthcare-analytics-336136) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:56 UTC |
-| Oracle | [Senior Software Developer – Healthcare Analytics & AI](https://www.scoutjob.me/jobs/oracle-senior-software-developer-healthcare-analytics-ai-336128) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:56 UTC |
-| Apple | [Materials Engineer](https://www.scoutjob.me/jobs/apple-materials-engineer-200666944) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:50 UTC |
-| Apple | [Technical Enablement Engineer](https://www.scoutjob.me/jobs/apple-technical-enablement-engineer-200666578) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:50 UTC |
-| NVIDIA | [Senior ML Platform Engineer](https://www.scoutjob.me/jobs/nvidia-senior-ml-platform-engineer-893393611223) | SeniorDataAiMl | Canada | Jun 05, 2026 | Jun 05, 2026 22:48 UTC |
-| Uber | [Staff Software Engineer, Ad Serving & Attribution Infra](https://www.scoutjob.me/jobs/uber-staff-software-engineer-ad-serving-attribution-infra-154429) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:44 UTC |
-| Uber | [Senior Software Engineer - Data Storage](https://www.scoutjob.me/jobs/uber-senior-software-engineer-data-storage-157995) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:43 UTC |
-| Apple | [Senior Software Engineer](https://www.scoutjob.me/jobs/apple-senior-software-engineer-200654516) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:36 UTC |
