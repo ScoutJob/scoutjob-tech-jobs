@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Engineer - Camera](https://www.scoutjob.me/jobs/qualcomm-engineer-camera-446718854057) | SoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 14:16 UTC |
 | NVIDIA | [Senior Systems Software Engineer, Data Center Infrastructure Management - EngOps](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-data-center-infrastructure-management-engops-893394337989) | SeniorSoftwareEngineering | Remote | Jun 06, 2026 | Jun 06, 2026 13:53 UTC |
 | NVIDIA | [Senior System Architecture Engineer – End-to-End Data and Control Flows](https://www.scoutjob.me/jobs/nvidia-senior-system-architecture-engineer-end-to-end-data-and-control-flows-893394425824) | SeniorSoftwareEngineeringExtensive | Israel | Jun 06, 2026 | Jun 06, 2026 13:53 UTC |
 | NVIDIA | [AI Benchmarking and Telemetry Engineer - NVIS](https://www.scoutjob.me/jobs/nvidia-ai-benchmarking-and-telemetry-engineer-nvis-893393562552) | SoftwareEngineeringExtensive | Remote | Jun 06, 2026 | Jun 06, 2026 13:53 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Workday | [Sr Site Reliability Engineer, Operations (US Federal)](https://www.scoutjob.me/jobs/workday-sr-site-reliability-engineer-operations-us-federal-jr-0103681) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
 | Qualcomm | [Staff, Engineer – RISC-V Software](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-risc-v-software-446718178603) | SeniorSoftwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
 | Snowflake | [SENIOR SOLUTION ENGINEER](https://www.scoutjob.me/jobs/snowflake-senior-solution-engineer-sncous791cc674d6d94605a6e26bc2317a2960externalenus2b9a81075a1e4145974b3116f5bb3560) | SeniorSoftwareEngineeringExtensive | Singapore | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
-| Workday | [Sr Site Reliability Engineer (US Federal)](https://www.scoutjob.me/jobs/workday-sr-site-reliability-engineer-us-federal-jr-0103569) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
