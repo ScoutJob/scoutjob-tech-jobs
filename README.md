@@ -1,29 +1,84 @@
-<img src="REdditBanner.png" alt="ScoutJob logo"/>
-
 # Fresh Tech Jobs Found by ScoutJob
 
-Find fresh software engineering, backend, full-stack, data engineering, data science, AI/ML, applied scientist, and internship opportunities in one place. Browse roles across leading companies without repeatedly checking dozens of career pages, and use ScoutJob to quickly filter the jobs that match your interests.
-
 ScoutJob continuously monitors company career pages directly so you can discover newly posted tech jobs earlier. Instead of repeatedly checking multiple career sites or waiting for roles to appear elsewhere, use ScoutJob to find fresh opportunities sooner and apply while they are still new.
+
+This repository publishes a delayed public feed of engineering, data, AI, and internship roles. The delayed feed refreshes automatically every hour.
 
 For faster access, better filtering, and job-tracking tools, use ScoutJob:
 
 **Try ScoutJob:** https://www.scoutjob.me/
 
-<div align="center">
+## Browse and filter jobs
 
-### Want to see fresh jobs sooner?
-
-ScoutJob continuously monitors company career pages so you do not have to.
-
-[![Try ScoutJob Now](https://img.shields.io/badge/Try%20ScoutJob%20Now-Free%20to%20Use-0E6246?style=for-the-badge)](https://www.scoutjob.me/)
-
-</div>
+- Interactive public job browser: https://scoutjob.github.io/scoutjob-tech-jobs/
+- JSON feed: [`data/jobs.json`](data/jobs.json)
+- CSV feed: [`data/jobs.csv`](data/jobs.csv)
 
 ## Recent delayed public jobs
 
-| Company | Job | Category | Location | Date posted |
+When a company-provided posting date is unavailable, the displayed date is the date ScoutJob first discovered the role.
+
+| Company | Job | Category | Location | Date posted or discovered |
 |---|---|---|---|---|
+| Apple | [Detection and Response Software Engineer \|](https://www.scoutjob.me/jobs/apple-detection-and-response-software-engineer-200655126) | SoftwareEngineering | United States | Jun 06, 2026 |
+| Qualcomm | [CPU Firmware Verification and Validation / Sr Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-firmware-verification-and-validation-sr-staff-engineer-446718807116) | SeniorHardwareEngineering | India | Jun 06, 2026 |
+| Qualcomm | [System Engineer, Staff/Senior Staff (Robotics)](https://www.scoutjob.me/jobs/qualcomm-system-engineer-staff-senior-staff-robotics-446718783561) | SeniorDataAiMl | Japan | Jun 06, 2026 |
+| Qualcomm | [DSP / NPU Design Verification Sr Lead Engineer](https://www.scoutjob.me/jobs/qualcomm-dsp-npu-design-verification-sr-lead-engineer-446718678142) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 |
+| Qualcomm | [DSP / NPU Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-dsp-npu-design-verification-sr-engineer-446718674245) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 |
+| Qualcomm | [Linux/Bootloader Development Engineer- Staff](https://www.scoutjob.me/jobs/qualcomm-linux-bootloader-development-engineer-staff-446718531599) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 |
+| Intuit | [Principal Software Engineer](https://www.scoutjob.me/jobs/intuit-principal-software-engineer-96056131808-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates) | SeniorSoftwareEngineering | United States | Jun 06, 2026 |
+| American Express | [Senior AI Engineer I - Agentic AI](https://www.scoutjob.me/jobs/americanexpress-senior-ai-engineer-i-agentic-ai-26002766) | SeniorDataAiMl | United States | Jun 06, 2026 |
+| Microsoft | [Principal Applied Scientist](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-1970393556873566) | SeniorDataAiMl | Canada | Jun 06, 2026 |
+| NVIDIA | [Solutions Architect, DevOps](https://www.scoutjob.me/jobs/nvidia-solutions-architect-devops-893395461151) | SeniorSoftwareEngineeringExtensive | Germany | Jun 06, 2026 |
+| Microsoft | [Multidisciplinary Manager (Data Science) - FDE](https://www.scoutjob.me/jobs/microsoft-multidisciplinary-manager-data-science-fde-1970393556873462) | SeniorDataAiMl | United Kingdom | Jun 06, 2026 |
+| AMD | [Failure Analysis Engineer - Power & Design](https://www.scoutjob.me/jobs/amd-failure-analysis-engineer-power-design-86591) | HardwareEngineering | India | Jun 05, 2026 |
+| Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-335679) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Principal Application Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-application-software-engineer-332765) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-336050) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Software Development Snr Director](https://www.scoutjob.me/jobs/oracle-software-development-snr-director-336159) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Apple | [Senior Backend Engineer, Retail Interactive Technology](https://www.scoutjob.me/jobs/apple-senior-backend-engineer-retail-interactive-technology-200667027) | SeniorSoftwareEngineeringExtensive | United Kingdom | Jun 05, 2026 |
+| Apple | [Software Engineer (AML), AI & Data Platforms (AiDP)](https://www.scoutjob.me/jobs/apple-software-engineer-aml-ai-data-platforms-aidp-200667037) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Apple | [Data Platform SRE, AI & Data Platforms (AiDP)](https://www.scoutjob.me/jobs/apple-data-platform-sre-ai-data-platforms-aidp-200667035) | DataAiMl | United States | Jun 05, 2026 |
+| Apple | [Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)](https://www.scoutjob.me/jobs/apple-software-engineer-framework-solutions-ai-data-platforms-aidp-200667030) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Microsoft | [Multidisciplinary Manager (Software Engineering) - FDE](https://www.scoutjob.me/jobs/microsoft-multidisciplinary-manager-software-engineering-fde-1970393556873460) | SeniorSoftwareEngineering | Netherlands | Jun 05, 2026 |
+| Apple | [Software Engineer (Data Solutions), AI & Data Platforms (AiDP)](https://www.scoutjob.me/jobs/apple-software-engineer-data-solutions-ai-data-platforms-aidp-200667022) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Senior Director, Engineering – OCI Infrastructure Planning & Capacity Management](https://www.scoutjob.me/jobs/oracle-senior-director-engineering-oci-infrastructure-planning-capacity-management-334764) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-334820) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-334981) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
+| Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-335004) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
+| Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-334998) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
+| Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-334925) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Software Development Snr Manager](https://www.scoutjob.me/jobs/oracle-software-development-snr-manager-335107) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Principal AI Expert Software Engineer – Healthcare Analytics](https://www.scoutjob.me/jobs/oracle-principal-ai-expert-software-engineer-healthcare-analytics-336136) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Oracle | [Senior Software Developer – Healthcare Analytics & AI](https://www.scoutjob.me/jobs/oracle-senior-software-developer-healthcare-analytics-ai-336128) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Apple | [Materials Engineer](https://www.scoutjob.me/jobs/apple-materials-engineer-200666944) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Apple | [Technical Enablement Engineer](https://www.scoutjob.me/jobs/apple-technical-enablement-engineer-200666578) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| NVIDIA | [Senior ML Platform Engineer](https://www.scoutjob.me/jobs/nvidia-senior-ml-platform-engineer-893393611223) | SeniorDataAiMl | Canada | Jun 05, 2026 |
+| Uber | [Staff Software Engineer, Ad Serving & Attribution Infra](https://www.scoutjob.me/jobs/uber-staff-software-engineer-ad-serving-attribution-infra-154429) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Uber | [Senior Software Engineer - Data Storage](https://www.scoutjob.me/jobs/uber-senior-software-engineer-data-storage-157995) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| Apple | [Senior Software Engineer](https://www.scoutjob.me/jobs/apple-senior-software-engineer-200654516) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
+| American Express | [Senior Analyst - Product Management (SBS Prop Lend Cards)](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-product-management-sbs-prop-lend-cards-26009048) | SeniorAnalyst | United States | Jun 05, 2026 |
+| Workday | [Senior Site Reliability Engineer (US Federal)](https://www.scoutjob.me/jobs/workday-senior-site-reliability-engineer-us-federal-jr-0105509) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Microsoft | [Principal Software Engineer Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-manager-1970393556853171) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 |
+| Amazon | [Software Development Engineer, DynamoDB Storage](https://www.scoutjob.me/jobs/amazon-software-development-engineer-dynamodb-storage-10441531) | SoftwareEngineering | United States | Jun 05, 2026 |
+| Apple | [iOS Software Engineer (MSO)](https://www.scoutjob.me/jobs/apple-ios-software-engineer-mso-200665666) | SoftwareEngineering | United States | Jun 05, 2026 |
+| NVIDIA | [Senior Software Engineer, DOCA SDK](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-doca-sdk-893395092958) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 |
+| NVIDIA | [Senior Software and DevOps Engineer, DOCA Verification](https://www.scoutjob.me/jobs/nvidia-senior-software-and-devops-engineer-doca-verification-893394771434) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 |
+| NVIDIA | [Software Embedded Engineer, DOCA](https://www.scoutjob.me/jobs/nvidia-software-embedded-engineer-doca-893394619410) | SoftwareEngineering | Israel | Jun 05, 2026 |
+| NVIDIA | [Formal Verification Engineer - New College Graduate](https://www.scoutjob.me/jobs/nvidia-formal-verification-engineer-new-college-graduate-893395110077) | HardwareEngineeringIntern | India | Jun 05, 2026 |
+| Qualcomm | [CPU Software Engineer staff](https://www.scoutjob.me/jobs/qualcomm-cpu-software-engineer-staff-446718389711) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
+| Workday | [Sr Site Reliability Engineer, Operations (US Federal)](https://www.scoutjob.me/jobs/workday-sr-site-reliability-engineer-operations-us-federal-jr-0103681) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Qualcomm | [Staff, Engineer – RISC-V Software](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-risc-v-software-446718178603) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
+| Snowflake | [SENIOR SOLUTION ENGINEER](https://www.scoutjob.me/jobs/snowflake-senior-solution-engineer-sncous791cc674d6d94605a6e26bc2317a2960externalenus2b9a81075a1e4145974b3116f5bb3560) | SeniorSoftwareEngineeringExtensive | Singapore | Jun 05, 2026 |
+| Workday | [Sr Site Reliability Engineer (US Federal)](https://www.scoutjob.me/jobs/workday-sr-site-reliability-engineer-us-federal-jr-0103569) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Qualcomm | [Virtual Platform- Senior Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-virtual-platform-senior-staff-engineer-446717738739) | SeniorSoftwareEngineeringExtensive | India | Jun 05, 2026 |
+| Qualcomm | [CPU Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-design-verification-sr-engineer-446716929276) | SeniorSoftwareEngineeringExtensive | India | Jun 05, 2026 |
+| Qualcomm | [Staff Engineer - QNX and Linux Kernel Development](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-qnx-and-linux-kernel-development-446716897220) | SeniorSoftwareEngineeringExtensive | India | Jun 05, 2026 |
+| Apple | [Graphics Architect, Platform Architecture](https://www.scoutjob.me/jobs/apple-graphics-architect-platform-architecture-200667058) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
+| Apple | [Director of Engineering, AiDP Data Services](https://www.scoutjob.me/jobs/apple-director-of-engineering-aidp-data-services-200667043) | EngineeringManagement | United States | Jun 05, 2026 |
+| Square / Block | [Silicon Product and Test Engineer](https://www.scoutjob.me/jobs/block-silicon-product-and-test-engineer-5012353008) | HardwareEngineering | Canada | Jun 05, 2026 |
+| Square / Block | [Silicon Product and Test Engineer](https://www.scoutjob.me/jobs/block-silicon-product-and-test-engineer-5012351008) | HardwareEngineering | Remote | Jun 05, 2026 |
+| Microsoft | [Principal Quantum Engineer](https://www.scoutjob.me/jobs/microsoft-principal-quantum-engineer-1970393556868374) | SeniorSoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
 | Google | [Senior UX Quantitative Researcher Android Auto](https://www.scoutjob.me/jobs/google-senior-ux-quantitative-researcher-android-auto-128833649293304518) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
 | Uber | [Senior Electrical Engineer - AV Labs](https://www.scoutjob.me/jobs/uber-senior-electrical-engineer-av-labs-159725) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
 | Uber | [Sr Staff Engineer - Core Infrastructure](https://www.scoutjob.me/jobs/uber-sr-staff-engineer-core-infrastructure-157198) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
@@ -40,62 +95,3 @@ ScoutJob continuously monitors company career pages so you do not have to.
 | NVIDIA | [Senior C++ Software Engineer, Developer Tools](https://www.scoutjob.me/jobs/nvidia-senior-c-software-engineer-developer-tools-893392673445) | SeniorSoftwareEngineering | Poland | Jun 05, 2026 |
 | NVIDIA | [Senior Deep Learning Engineer - AI for Wireless Systems](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-engineer-ai-for-wireless-systems-893392104136) | SeniorDataAiMl | Vietnam | Jun 05, 2026 |
 | NVIDIA | [Senior Deep Learning Software Engineer, TensorRT Performance](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-software-engineer-tensorrt-performance-893394206124) | SeniorDataAiMl | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior Applied Deep Learning Research Scientist, Efficiency](https://www.scoutjob.me/jobs/nvidia-senior-applied-deep-learning-research-scientist-efficiency-893393240345) | SeniorDataAiMl | Canada | Jun 05, 2026 |
-| NVIDIA | [Software Manager, Networking](https://www.scoutjob.me/jobs/nvidia-software-manager-networking-893394620692) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 |
-| American Express | [Senior Analyst-Corporate Card Product Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-corporate-card-product-management-26008994) | SeniorAnalyst | United States | Jun 05, 2026 |
-| NVIDIA | [Senior Software QA Test Development Engineer](https://www.scoutjob.me/jobs/nvidia-senior-software-qa-test-development-engineer-893392034416) | SeniorSoftwareEngineering | United Kingdom | Jun 05, 2026 |
-| NVIDIA | [Software Development Engineer in Test - SDET](https://www.scoutjob.me/jobs/nvidia-software-development-engineer-in-test-sdet-893392681228) | SoftwareEngineering | Vietnam | Jun 05, 2026 |
-| NVIDIA | [Senior Mixed Signal Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-mixed-signal-design-engineer-893395462145) | SeniorHardwareEngineering | India | Jun 05, 2026 |
-| NVIDIA | [Senior ICV CAD Engineer](https://www.scoutjob.me/jobs/nvidia-senior-icv-cad-engineer-893382659631) | SeniorSoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [Manufacturing Test Engineer](https://www.scoutjob.me/jobs/nvidia-manufacturing-test-engineer-893393906029) | SoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior HPC Cluster Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hpc-cluster-engineer-893393995112) | SeniorDataAiMl | Canada | Jun 05, 2026 |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556631180) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556752777) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior HPC and LSF Operations Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hpc-and-lsf-operations-engineer-893393995121) | SeniorDataAiMl | Canada | Jun 05, 2026 |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556862761) | SeniorSoftwareEngineering | India | Jun 05, 2026 |
-| NVIDIA | [CAD Tools Developer](https://www.scoutjob.me/jobs/nvidia-cad-tools-developer-893391915449) | SoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior CAD Engineer](https://www.scoutjob.me/jobs/nvidia-senior-cad-engineer-893394948751) | SeniorSoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [EDA Workflow Optimization Engineer](https://www.scoutjob.me/jobs/nvidia-eda-workflow-optimization-engineer-893391565812) | SoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| NVIDIA | [Staff System Software Engineer, RTL-to-GDS Flow Platform](https://www.scoutjob.me/jobs/nvidia-staff-system-software-engineer-rtl-to-gds-flow-platform-893395231401) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 |
-| NVIDIA | [HPC Operations Engineer](https://www.scoutjob.me/jobs/nvidia-hpc-operations-engineer-893391951606) | DataAiMl | Canada | Jun 05, 2026 |
-| NVIDIA | [Senior Software Engineer - Developer Tools for Deep Learning](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-developer-tools-for-deep-learning-893393653939) | SeniorDataAiMl | Canada | Jun 05, 2026 |
-| NVIDIA | [Software DevOps Engineer, Networking](https://www.scoutjob.me/jobs/nvidia-software-devops-engineer-networking-893392882402) | SoftwareEngineering | Canada | Jun 05, 2026 |
-| Google | [Manufacturing Test Development Engineer Cloud Hardware](https://www.scoutjob.me/jobs/google-manufacturing-test-development-engineer-cloud-hardware-107314119383622342) | HardwareEngineering | United States | Jun 05, 2026 |
-| Google | [Semiconductor Product Operations Engineer Raxium](https://www.scoutjob.me/jobs/google-semiconductor-product-operations-engineer-raxium-116391968702898886) | HardwareEngineering | Canada | Jun 05, 2026 |
-| Google | [Data Center Quality Engineering Manager](https://www.scoutjob.me/jobs/google-data-center-quality-engineering-manager-95710361142862534) | EngineeringManagement | United States | Jun 05, 2026 |
-| Google | [Robotics Automation Technical Lead Manager Platforms Infrastructure](https://www.scoutjob.me/jobs/google-robotics-automation-technical-lead-manager-platforms-infrastructure-134492644515422918) | SeniorDataAiMl | United States | Jun 05, 2026 |
-| Google | [Manufacturing Test Engineer](https://www.scoutjob.me/jobs/google-manufacturing-test-engineer-136078698628424390) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Amazon | [Software Development Engineer, Alexa Connected Devices](https://www.scoutjob.me/jobs/amazon-software-development-engineer-alexa-connected-devices-10441444) | SoftwareEngineering | United States | Jun 05, 2026 |
-| Oracle | [Data Migration Engineer II](https://www.scoutjob.me/jobs/oracle-data-migration-engineer-ii-336039) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335695) | SoftwareEngineering | United States | Jun 05, 2026 |
-| Oracle | [Principal Electrical Engineer- Data Center Design and Innovation](https://www.scoutjob.me/jobs/oracle-principal-electrical-engineer-data-center-design-and-innovation-336069) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
-| Oracle | [Senior Software Developer](https://www.scoutjob.me/jobs/oracle-senior-software-developer-336111) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-336047) | SoftwareEngineering | United States | Jun 05, 2026 |
-| NVIDIA | [Senior Software Development Engineer in Test - SDET](https://www.scoutjob.me/jobs/nvidia-senior-software-development-engineer-in-test-sdet-893394620782) | SeniorSoftwareEngineering | Canada | Jun 05, 2026 |
-| AMD | [CPU Tools and Diagnostics Development Engineer](https://www.scoutjob.me/jobs/amd-cpu-tools-and-diagnostics-development-engineer-86743) | SoftwareEngineeringExtensive | India | Jun 05, 2026 |
-| Apple | [Mechanical Design Engineer, AppleCare Engineering - Hardware Tool & Packaging Design](https://www.scoutjob.me/jobs/apple-mechanical-design-engineer-applecare-engineering-hardware-tool-packaging-design-200665693) | HardwareEngineering | United States | Jun 05, 2026 |
-| American Express | [Analyst - Go-to-Market (Enablement)](https://www.scoutjob.me/jobs/americanexpress-analyst-go-to-market-enablement-26006666) | Analyst | United States | Jun 05, 2026 |
-| Amazon | [Senior Data Engineer, Amazon Customer Service](https://www.scoutjob.me/jobs/amazon-senior-data-engineer-amazon-customer-service-10441355) | SeniorDataAiMl | United States | Jun 05, 2026 |
-| Cisco | [Director, Solutions Engineer - Meta](https://www.scoutjob.me/jobs/cisco-director-solutions-engineer-meta-ciscisglobal2016524externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Cisco | [Senior Hardware Engineer (High-speed IO/Testing) (Onsite)](https://www.scoutjob.me/jobs/cisco-senior-hardware-engineer-high-speed-io-testing-onsite-ciscisglobal2016448externalenglobal) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
-| NVIDIA | [Senior Software Architect, Cyber Security](https://www.scoutjob.me/jobs/nvidia-senior-software-architect-cyber-security-893383489996) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 |
-| NVIDIA | [Senior Cyber Security Threat Intelligence Analyst](https://www.scoutjob.me/jobs/nvidia-senior-cyber-security-threat-intelligence-analyst-893392676561) | SeniorAnalyst | Israel | Jun 05, 2026 |
-| NVIDIA | [Principal Cyber Security Engineer - Agentic Identity and Security](https://www.scoutjob.me/jobs/nvidia-principal-cyber-security-engineer-agentic-identity-and-security-893394830937) | SeniorSoftwareEngineeringExtensive | Canada | Jun 05, 2026 |
-| Snowflake | [STRATEGIC FINANCE ANALYST](https://www.scoutjob.me/jobs/snowflake-strategic-finance-analyst-sncousedf02fd3d1604785bf399a50fe4f4e40externalenus7c53d7f51a7f4fdba8c1b59060d9551d) | Analyst | United States | Jun 05, 2026 |
-| NVIDIA | [Cyber Security Analyst](https://www.scoutjob.me/jobs/nvidia-cyber-security-analyst-893393640464) | Analyst | Remote | Jun 05, 2026 |
-| NVIDIA | [Cyber Security Analyst](https://www.scoutjob.me/jobs/nvidia-cyber-security-analyst-893393640453) | Analyst | Remote | Jun 05, 2026 |
-| Google | [Senior Software Engineer Labs](https://www.scoutjob.me/jobs/google-senior-software-engineer-labs-82591555067486918) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Software Engineering Manager II AIml Google Workspace](https://www.scoutjob.me/jobs/google-software-engineering-manager-ii-aiml-google-workspace-133035035694375622) | EngineeringManagement | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer Performance Platforms Infrastructure Engineering](https://www.scoutjob.me/jobs/google-senior-software-engineer-performance-platforms-infrastructure-engineering-77514678506267334) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer AIml Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-youtube-107794365983662790) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer AIml Recommendations Rankings Predictions Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-recommendations-rankings-predictions-youtube-129280004709065414) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer Mobile Android Google Workspace](https://www.scoutjob.me/jobs/google-senior-software-engineer-mobile-android-google-workspace-122159068251857606) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Imaging And Display Silicon Architect Android Xr Ecosystem](https://www.scoutjob.me/jobs/google-imaging-and-display-silicon-architect-android-xr-ecosystem-94288486449717958) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer Mobile Ios Youtube](https://www.scoutjob.me/jobs/google-senior-software-engineer-mobile-ios-youtube-85658787171443398) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer Infrastructure Google Cloud Platforms](https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-platforms-99903660053406406) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer AIml Google Workspace](https://www.scoutjob.me/jobs/google-senior-software-engineer-aiml-google-workspace-95902381614473926) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Hardware Systems Design Engineer Board And Systems](https://www.scoutjob.me/jobs/google-senior-hardware-systems-design-engineer-board-and-systems-112195173353431750) | SeniorHardwareEngineering | United States | Jun 05, 2026 |
-| Google | [Senior Signal Integrity Engineer Platform](https://www.scoutjob.me/jobs/google-senior-signal-integrity-engineer-platform-76643671755104966) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Google | [Senior Software Engineer Infrastructure Google Cloud Compute](https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-compute-129625778701640390) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
-| Google | [Fabrication Equipment Engineer Quantum AI](https://www.scoutjob.me/jobs/google-fabrication-equipment-engineer-quantum-ai-77644388666090182) | SoftwareEngineeringExtensive | United States | Jun 05, 2026 |
-| Amazon | [Senior Software Development Engineer, AWS Identity and Access Management](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-aws-identity-and-access-management-10441337) | SeniorSoftwareEngineering | United States | Jun 05, 2026 |
