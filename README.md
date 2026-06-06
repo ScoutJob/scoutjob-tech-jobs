@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Principal Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-platform-software-engineer-334443) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 19:40 UTC |
+| NVIDIA | [Senior Solutions Architect, NPN](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-npn-893393843290) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 19:33 UTC |
+| NVIDIA | [Field Applications Engineer, Embedded Systems - NALA](https://www.scoutjob.me/jobs/nvidia-field-applications-engineer-embedded-systems-nala-893393931057) | HardwareEngineering | Canada | Jun 06, 2026 | Jun 06, 2026 19:33 UTC |
+| NVIDIA | [Solutions Architect, NPN](https://www.scoutjob.me/jobs/nvidia-solutions-architect-npn-893384068158) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 19:04 UTC |
+| NVIDIA | [Senior Solutions Architect, NPN](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-npn-893380353414) | SeniorSoftwareEngineeringExtensive | Canada | Jun 06, 2026 | Jun 06, 2026 19:04 UTC |
+| NVIDIA | [ASIC Design Engineer](https://www.scoutjob.me/jobs/nvidia-asic-design-engineer-893395004020) | HardwareEngineering | India | Jun 06, 2026 | Jun 06, 2026 18:35 UTC |
 | NVIDIA | [Senior Systems Software Engineer, AI Stack and Performance - DGX Station](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-ai-stack-and-performance-dgx-station-893395380570) | SeniorSoftwareEngineering | Canada | Jun 06, 2026 | Jun 06, 2026 17:08 UTC |
 | Qualcomm | [Engineer - Camera](https://www.scoutjob.me/jobs/qualcomm-engineer-camera-446718854057) | SoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 14:16 UTC |
 | NVIDIA | [Senior Systems Software Engineer, Data Center Infrastructure Management - EngOps](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-data-center-infrastructure-management-engops-893394337989) | SeniorSoftwareEngineering | Remote | Jun 06, 2026 | Jun 06, 2026 13:53 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, DynamoDB Storage](https://www.scoutjob.me/jobs/amazon-software-development-engineer-dynamodb-storage-10441531) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:31 UTC |
 | Apple | [iOS Software Engineer (MSO)](https://www.scoutjob.me/jobs/apple-ios-software-engineer-mso-200665666) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 22:20 UTC |
 | NVIDIA | [Senior Software Engineer, DOCA SDK](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-doca-sdk-893395092958) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 | Jun 05, 2026 22:18 UTC |
-| NVIDIA | [Senior Software and DevOps Engineer, DOCA Verification](https://www.scoutjob.me/jobs/nvidia-senior-software-and-devops-engineer-doca-verification-893394771434) | SeniorSoftwareEngineering | Israel | Jun 05, 2026 | Jun 05, 2026 22:18 UTC |
-| NVIDIA | [Software Embedded Engineer, DOCA](https://www.scoutjob.me/jobs/nvidia-software-embedded-engineer-doca-893394619410) | SoftwareEngineering | Israel | Jun 05, 2026 | Jun 05, 2026 22:18 UTC |
-| NVIDIA | [Formal Verification Engineer - New College Graduate](https://www.scoutjob.me/jobs/nvidia-formal-verification-engineer-new-college-graduate-893395110077) | HardwareEngineeringIntern | India | Jun 05, 2026 | Jun 05, 2026 22:17 UTC |
-| Qualcomm | [CPU Software Engineer staff](https://www.scoutjob.me/jobs/qualcomm-cpu-software-engineer-staff-446718389711) | SeniorSoftwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
-| Workday | [Sr Site Reliability Engineer, Operations (US Federal)](https://www.scoutjob.me/jobs/workday-sr-site-reliability-engineer-operations-us-federal-jr-0103681) | SeniorSoftwareEngineeringExtensive | United States | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
-| Qualcomm | [Staff, Engineer – RISC-V Software](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-risc-v-software-446718178603) | SeniorSoftwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 22:15 UTC |
