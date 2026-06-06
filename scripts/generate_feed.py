@@ -1,8 +1,9 @@
 """Refresh ScoutJob's delayed public GitHub job feed.
 
-The ScoutJob website remains the source of truth. This script downloads only
-jobs that have already passed ScoutJob's public/free visibility delay and
-writes:
+The ScoutJob website remains the source of truth.
+
+This script downloads only jobs that have already passed ScoutJob's
+public/free visibility delay and writes:
 
 - data/jobs.json
 - data/jobs.csv
@@ -10,10 +11,11 @@ writes:
 - docs/data/jobs.csv
 - README.md
 
-The /docs copies are required because GitHub Pages publishes the public browser
-from the /docs folder.
+The /docs copies are required because GitHub Pages publishes the
+public browser from the /docs folder.
 
 Safety properties:
+
 - understands the API envelope: { "total": ..., "jobs": [...] }
 - follows pagination so the feed keeps working above the server page limit
 - deduplicates jobs before publishing
@@ -22,6 +24,7 @@ Safety properties:
 - generates a README preview containing recent jobs
 - includes a company-provided posting date when available
 - falls back to ScoutJob's discovery date when the source posting date is absent
+- includes the exact ScoutJob discovery time in UTC
 """
 
 from __future__ import annotations
@@ -29,6 +32,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+
 import csv
 import json
 import os
@@ -36,6 +40,7 @@ import shutil
 import urllib.error
 import urllib.parse
 import urllib.request
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -69,7 +74,12 @@ def bool_env(name: str, default: bool = False) -> bool:
     if value is None:
         return default
 
-    return value.strip().lower() in {"1", "true", "yes", "on"}
+    return value.strip().lower() in {
+        "1",
+        "true",
+        "yes",
+        "on",
+    }
 
 
 def int_env(name: str, default: int) -> int:
@@ -81,16 +91,21 @@ def int_env(name: str, default: int) -> int:
     try:
         parsed = int(value)
     except ValueError as exc:
-        raise RuntimeError(f"{name} must be an integer") from exc
+        raise RuntimeError(
+            f"{name} must be an integer"
+        ) from exc
 
     if parsed <= 0:
-        raise RuntimeError(f"{name} must be greater than zero")
+        raise RuntimeError(
+            f"{name} must be greater than zero"
+        )
 
     return parsed
 
 
 def normalize_bool(value: Any) -> bool:
     """Safely normalize bool-like API values."""
+
     if isinstance(value, bool):
         return value
 
@@ -98,19 +113,35 @@ def normalize_bool(value: Any) -> bool:
         return value != 0
 
     if isinstance(value, str):
-        return value.strip().lower() in {"1", "true", "yes", "on"}
+        return value.strip().lower() in {
+            "1",
+            "true",
+            "yes",
+            "on",
+        }
 
     return False
 
 
-def with_page_query(endpoint: str, offset: int, limit: int) -> str:
+def with_page_query(
+    endpoint: str,
+    offset: int,
+    limit: int,
+) -> str:
     parsed = urllib.parse.urlsplit(endpoint)
-    query = urllib.parse.parse_qs(parsed.query, keep_blank_values=True)
+
+    query = urllib.parse.parse_qs(
+        parsed.query,
+        keep_blank_values=True,
+    )
 
     query["offset"] = [str(offset)]
     query["limit"] = [str(limit)]
 
-    encoded = urllib.parse.urlencode(query, doseq=True)
+    encoded = urllib.parse.urlencode(
+        query,
+        doseq=True,
+    )
 
     return urllib.parse.urlunsplit(
         (
@@ -133,13 +164,18 @@ def fetch_payload(url: str) -> Any:
     )
 
     try:
-        with urllib.request.urlopen(request, timeout=90) as response:
+        with urllib.request.urlopen(
+            request,
+            timeout=90,
+        ) as response:
             if response.status != 200:
                 raise RuntimeError(
                     f"ScoutJob API returned HTTP {response.status}"
                 )
 
-            return json.loads(response.read().decode("utf-8"))
+            return json.loads(
+                response.read().decode("utf-8")
+            )
 
     except urllib.error.HTTPError as exc:
         raise RuntimeError(
@@ -159,7 +195,11 @@ def fetch_payload(url: str) -> Any:
 
 def extract_jobs(
     payload: Any,
-) -> tuple[list[dict[str, Any]], int | None, int | None]:
+) -> tuple[
+    list[dict[str, Any]],
+    int | None,
+    int | None,
+]:
     """Return jobs, server total, and public delay from either supported shape."""
 
     if isinstance(payload, list):
@@ -190,6 +230,7 @@ def extract_jobs(
     ]
 
     total = payload.get("total")
+
     total_value = (
         total
         if isinstance(total, int) and total >= 0
@@ -197,6 +238,7 @@ def extract_jobs(
     )
 
     delay = payload.get("publicDelayMinutes")
+
     delay_value = (
         delay
         if isinstance(delay, int) and delay >= 0
@@ -209,7 +251,10 @@ def extract_jobs(
 def fetch_all_jobs(
     endpoint: str,
     page_size: int,
-) -> tuple[list[dict[str, Any]], int | None]:
+) -> tuple[
+    list[dict[str, Any]],
+    int | None,
+]:
     offset = 0
     all_jobs: list[dict[str, Any]] = []
     public_delay: int | None = None
@@ -224,6 +269,7 @@ def fetch_all_jobs(
         )
 
         payload = fetch_payload(url)
+
         batch, total, delay = extract_jobs(payload)
 
         if expected_total is None and total is not None:
@@ -233,7 +279,11 @@ def fetch_all_jobs(
             public_delay = delay
 
         batch_signature = "|".join(
-            str(item.get("id") or item.get("sourceUrl") or "")
+            str(
+                item.get("id")
+                or item.get("sourceUrl")
+                or ""
+            )
             for item in batch[:25]
         )
 
@@ -248,6 +298,7 @@ def fetch_all_jobs(
             )
 
         previous_batch_signature = batch_signature
+
         all_jobs.extend(batch)
 
         print(
@@ -272,7 +323,10 @@ def fetch_all_jobs(
     return all_jobs, public_delay
 
 
-def first_non_empty(raw: dict[str, Any], *names: str) -> Any:
+def first_non_empty(
+    raw: dict[str, Any],
+    *names: str,
+) -> Any:
     for name in names:
         value = raw.get(name)
 
@@ -282,7 +336,9 @@ def first_non_empty(raw: dict[str, Any], *names: str) -> Any:
     return ""
 
 
-def clean_job(raw: dict[str, Any]) -> dict[str, Any]:
+def clean_job(
+    raw: dict[str, Any],
+) -> dict[str, Any]:
     cleaned = {
         field: raw.get(field, "")
         for field in FIELDS
@@ -337,7 +393,10 @@ def dedupe_jobs(
 
         if not key:
             key = "|".join(
-                str(job.get(field) or "")
+                str(
+                    job.get(field)
+                    or ""
+                )
                 .strip()
                 .lower()
                 for field in (
@@ -356,16 +415,25 @@ def dedupe_jobs(
     return deduped
 
 
-def parse_datetime(value: Any) -> datetime | None:
-    text = str(value or "").strip()
+def parse_datetime(
+    value: Any,
+) -> datetime | None:
+    text = str(
+        value
+        or ""
+    ).strip()
 
     if not text:
         return None
 
     try:
         return datetime.fromisoformat(
-            text.replace("Z", "+00:00")
+            text.replace(
+                "Z",
+                "+00:00",
+            )
         )
+
     except ValueError:
         return None
 
@@ -373,11 +441,19 @@ def parse_datetime(value: Any) -> datetime | None:
 def sort_jobs(
     jobs: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    def key(job: dict[str, Any]) -> datetime:
+    def key(
+        job: dict[str, Any],
+    ) -> datetime:
         return (
-            parse_datetime(job.get("datePostedUtc"))
-            or parse_datetime(job.get("firstDiscoveredAtUtc"))
-            or datetime.min.replace(tzinfo=timezone.utc)
+            parse_datetime(
+                job.get("datePostedUtc")
+            )
+            or parse_datetime(
+                job.get("firstDiscoveredAtUtc")
+            )
+            or datetime.min.replace(
+                tzinfo=timezone.utc
+            )
         )
 
     return sorted(
@@ -429,23 +505,71 @@ def write_csv(
         writer.writerows(jobs)
 
 
-def markdown_escape(value: Any) -> str:
+def markdown_escape(
+    value: Any,
+) -> str:
     return (
-        str(value or "")
-        .replace("|", "\\|")
-        .replace("\n", " ")
+        str(
+            value
+            or ""
+        )
+        .replace(
+            "|",
+            "\\|",
+        )
+        .replace(
+            "\n",
+            " ",
+        )
         .strip()
     )
 
 
-def display_date(value: Any) -> str:
+def display_date(
+    value: Any,
+) -> str:
+    """Display a date without inventing a precise posting time."""
+
     parsed = parse_datetime(value)
 
     if parsed is None:
-        text = str(value or "").strip()
+        text = str(
+            value
+            or ""
+        ).strip()
+
         return text or "—"
 
-    return parsed.strftime("%b %d, %Y")
+    return parsed.strftime(
+        "%b %d, %Y"
+    )
+
+
+def display_datetime_utc(
+    value: Any,
+) -> str:
+    """Display the exact ScoutJob discovery timestamp in UTC."""
+
+    parsed = parse_datetime(value)
+
+    if parsed is None:
+        text = str(
+            value
+            or ""
+        ).strip()
+
+        return text or "—"
+
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(
+            tzinfo=timezone.utc
+        )
+
+    return parsed.astimezone(
+        timezone.utc
+    ).strftime(
+        "%b %d, %Y %H:%M UTC"
+    )
 
 
 def write_readme(
@@ -455,12 +579,16 @@ def write_readme(
 
     for job in jobs[:75]:
         title = (
-            markdown_escape(job.get("title"))
+            markdown_escape(
+                job.get("title")
+            )
             or "Untitled role"
         )
 
         company = (
-            markdown_escape(job.get("company"))
+            markdown_escape(
+                job.get("company")
+            )
             or "Unknown company"
         )
 
@@ -478,6 +606,10 @@ def write_readme(
             or job.get("firstDiscoveredAtUtc")
         )
 
+        added_at = display_datetime_utc(
+            job.get("firstDiscoveredAtUtc")
+        )
+
         url = str(
             job.get("scoutJobUrl")
             or job.get("sourceUrl")
@@ -492,17 +624,23 @@ def write_readme(
 
         rows.append(
             f"| {company} | {linked_title} | "
-            f"{category} | {location} | {displayed_date} |"
+            f"{category} | {location} | "
+            f"{displayed_date} | {added_at} |"
         )
 
     table = (
         "\n".join(rows)
         if rows
-        else "| — | No delayed public jobs are available yet. | — | — | — |"
+        else (
+            "| — | No delayed public jobs are available yet. "
+            "| — | — | — | — |"
+        )
     )
 
     README_PATH.write_text(
-        """# Fresh Tech Jobs Found by ScoutJob
+        """<img src="REdditBanner.png" alt="ScoutJob logo"/>
+
+# Fresh Tech Jobs Found by ScoutJob
 
 ScoutJob continuously monitors company career pages directly so you can discover newly posted tech jobs earlier. Instead of repeatedly checking multiple career sites or waiting for roles to appear elsewhere, use ScoutJob to find fresh opportunities sooner and apply while they are still new.
 
@@ -512,18 +650,22 @@ For faster access, better filtering, and job-tracking tools, use ScoutJob:
 
 **Try ScoutJob:** https://www.scoutjob.me/
 
-## Browse and filter jobs
+<div align="center">
 
-- Interactive public job browser: https://scoutjob.github.io/scoutjob-tech-jobs/
-- JSON feed: [`data/jobs.json`](data/jobs.json)
-- CSV feed: [`data/jobs.csv`](data/jobs.csv)
+### Want to see fresh jobs sooner?
+
+ScoutJob continuously monitors company career pages so you do not have to.
+
+[![Try ScoutJob Now](https://img.shields.io/badge/Try%20ScoutJob%20Now-Free%20to%20Use-0E6246?style=for-the-badge)](https://www.scoutjob.me/)
+
+</div>
 
 ## Recent delayed public jobs
 
-When a company-provided posting date is unavailable, the displayed date is the date ScoutJob first discovered the role.
+When a company-provided posting date is unavailable, the displayed date is the date ScoutJob first discovered the role. The **Time added (UTC)** column shows when ScoutJob first added the role to its feed.
 
-| Company | Job | Category | Location | Date posted or discovered |
-|---|---|---|---|---|
+| Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
+|---|---|---|---|---|---|
 """
         + table
         + "\n",
