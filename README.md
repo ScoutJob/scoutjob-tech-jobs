@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Firmware Engineer - Ethernet Switching](https://www.scoutjob.me/jobs/nvidia-firmware-engineer-ethernet-switching-893394013955) | HardwareEngineering | Israel | Jun 07, 2026 | Jun 07, 2026 19:07 UTC |
+| NVIDIA | [Senior Software Advanced Development Engineer](https://www.scoutjob.me/jobs/nvidia-senior-software-advanced-development-engineer-893393336528) | SeniorSoftwareEngineering | Israel | Jun 07, 2026 | Jun 07, 2026 19:07 UTC |
+| NVIDIA | [NBU Manufacturing Test Engineer](https://www.scoutjob.me/jobs/nvidia-nbu-manufacturing-test-engineer-893395193469) | SoftwareEngineeringExtensive | Vietnam | Jun 07, 2026 | Jun 07, 2026 19:07 UTC |
+| NVIDIA | [ICT Test Engineer](https://www.scoutjob.me/jobs/nvidia-ict-test-engineer-893395193467) | SoftwareEngineeringExtensive | Vietnam | Jun 07, 2026 | Jun 07, 2026 19:07 UTC |
+| NVIDIA | [Tegra Manufacturing Test Engineer](https://www.scoutjob.me/jobs/nvidia-tegra-manufacturing-test-engineer-893395193464) | SoftwareEngineeringExtensive | Vietnam | Jun 07, 2026 | Jun 07, 2026 19:07 UTC |
+| Uber | [Staff Software Engineer, Evaluation & Simulation - AV Labs](https://www.scoutjob.me/jobs/uber-staff-software-engineer-evaluation-simulation-av-labs-158782) | SeniorSoftwareEngineering | United States | Jun 07, 2026 | Jun 07, 2026 18:42 UTC |
 | Amazon | [Software Developer Engineer, Last Mile Delivery Technology](https://www.scoutjob.me/jobs/amazon-software-developer-engineer-last-mile-delivery-technology-10441659) | SoftwareEngineering | United States | Jun 07, 2026 | Jun 07, 2026 18:39 UTC |
 | Amazon | [Sr. Software Development Engineer, Smart Delivery Tech](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-smart-delivery-tech-10441661) | SeniorSoftwareEngineering | United States | Jun 07, 2026 | Jun 07, 2026 18:39 UTC |
 | Oracle | [Senior AI Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-ai-site-reliability-engineer-335814) | SeniorSoftwareEngineeringExtensive | United States | Jun 07, 2026 | Jun 07, 2026 18:33 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [DSP / NPU Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-dsp-npu-design-verification-sr-engineer-446718674245) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 00:41 UTC |
 | Qualcomm | [Linux/Bootloader Development Engineer- Staff](https://www.scoutjob.me/jobs/qualcomm-linux-bootloader-development-engineer-staff-446718531599) | SeniorSoftwareEngineeringExtensive | India | Jun 06, 2026 | Jun 06, 2026 00:41 UTC |
 | Intuit | [Principal Software Engineer](https://www.scoutjob.me/jobs/intuit-principal-software-engineer-96056131808-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates) | SeniorSoftwareEngineering | United States | Jun 06, 2026 | Jun 06, 2026 00:34 UTC |
-| American Express | [Senior AI Engineer I - Agentic AI](https://www.scoutjob.me/jobs/americanexpress-senior-ai-engineer-i-agentic-ai-26002766) | SeniorDataAiMl | United States | Jun 06, 2026 | Jun 06, 2026 00:32 UTC |
-| Microsoft | [Principal Applied Scientist](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-1970393556873566) | SeniorDataAiMl | Canada | Jun 06, 2026 | Jun 06, 2026 00:30 UTC |
-| NVIDIA | [Solutions Architect, DevOps](https://www.scoutjob.me/jobs/nvidia-solutions-architect-devops-893395461151) | SeniorSoftwareEngineeringExtensive | Germany | Jun 06, 2026 | Jun 06, 2026 00:15 UTC |
-| Microsoft | [Multidisciplinary Manager (Data Science) - FDE](https://www.scoutjob.me/jobs/microsoft-multidisciplinary-manager-data-science-fde-1970393556873462) | SeniorDataAiMl | United Kingdom | Jun 06, 2026 | Jun 06, 2026 00:02 UTC |
-| AMD | [Failure Analysis Engineer - Power & Design](https://www.scoutjob.me/jobs/amd-failure-analysis-engineer-power-design-86591) | HardwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 23:42 UTC |
-| Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-335679) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:39 UTC |
