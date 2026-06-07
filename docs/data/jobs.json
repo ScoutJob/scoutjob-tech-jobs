@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-06-07T03:57:57.276665+00:00",
+  "generatedAtUtc": "2026-06-07T07:55:49.859880+00:00",
   "publicDelayMinutes": 60,
-  "total": 2868,
+  "total": 2790,
   "jobs": [
     {
       "id": "ff99b4c9-067c-4864-a6db-c531c627fdd5",
@@ -6996,38 +6996,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008692"
     },
     {
-      "id": "793380d7-c534-45c5-9131-1cbc91f09f88",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Software Engineer – Platform Test",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T05:45:21.990556Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:24.892426Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-software-engineer-platform-test-446717131362",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717131362"
-    },
-    {
-      "id": "1e6653de-e709-47b6-b58e-ff2dbabc35a7",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Sr. Software Engineer – Platform Test",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T05:45:20.782Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:24.230297Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-sr-software-engineer-platform-test-446717189677",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717189677"
-    },
-    {
       "id": "9adcaccf-8746-4ad3-985a-fe70c8ea195e",
       "company": "AMD",
       "companySlug": "amd",
@@ -7108,22 +7076,6 @@
       "sourceUrl": "https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722"
     },
     {
-      "id": "eb15bc70-4156-4a95-96e2-d0fa24808bf1",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "System Level Test Engineer, Sr.",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:55:38.151642Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:37:59.344803Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-system-level-test-engineer-sr-446717645780",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717645780"
-    },
-    {
       "id": "70401af0-e66d-42b4-bd67-a28e86d3274c",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -7154,22 +7106,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:58:00.424629Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-ai-machine-learning-researcher-staff-ai-research-446715439476",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446715439476"
-    },
-    {
-      "id": "15342ca3-fe4c-404d-bee7-0f2c2ceb8bd3",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Sr. Engineer, CPU Software Test Engineer (Server)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:55:22.838599Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:22.867509Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-sr-engineer-cpu-software-test-engineer-server-446717192310",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717192310"
     },
     {
       "id": "22cd46b7-04de-4ec7-9529-cf17d750bd94",
@@ -7236,22 +7172,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008522"
     },
     {
-      "id": "d93e4aec-412d-4535-83d8-328a8c77e7f3",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Test Engineer – SerDes high speed IP ATE Test Development & Characterization",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Singapore",
-      "location": "Singapore",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:29:36.843118Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:19:40.094737Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-test-engineer-serdes-high-speed-ip-ate-test-development-characterization-446718707280",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718707280"
-    },
-    {
       "id": "1ecdd77c-8986-49a3-aec8-2b45b3dffc3a",
       "company": "AMD",
       "companySlug": "amd",
@@ -7300,86 +7220,6 @@
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666913/software-engineer-regulatory-ai-connected-data"
     },
     {
-      "id": "5a8b9fd5-f52d-4398-804d-71e6cec9e27f",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Financial Analyst, Senior",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:05:19.506772Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:19.508573Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-financial-analyst-senior-446717870629",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717870629"
-    },
-    {
-      "id": "e88122df-bccb-49c8-a77b-b177369a2781",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "SoC Systems Performance Engineer, Senior Staff",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:05:10.071631Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:10.073081Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-soc-systems-performance-engineer-senior-staff-446716568218",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446716568218"
-    },
-    {
-      "id": "7c374570-3c19-4812-87ca-a52af987baa5",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "SOC Systems Performance Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:05:07.306496Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:07.308097Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-soc-systems-performance-engineer-446718361775",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718361775"
-    },
-    {
-      "id": "60048d7c-9e08-45fd-9f24-ba6719f07b8a",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior SoC Performance Architect",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:05:05.977009Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:05.978499Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-soc-performance-architect-446718412275",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718412275"
-    },
-    {
-      "id": "2f2c0b7d-d590-483b-8539-3ad563da0cf0",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior SoC Performance Architect",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:05:05.120839Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:05.122257Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-soc-performance-architect-446716247636",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446716247636"
-    },
-    {
       "id": "06e89a9a-d569-4e0b-b42f-1126672e3ff4",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -7410,38 +7250,6 @@
       "lastVerifiedAtUtc": "2026-06-05T21:48:15.62438Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-cpu-sta-sr-lead-staff-sr-staff-engineer-446717259811",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446717259811"
-    },
-    {
-      "id": "80b49d77-e3ef-47e6-9b23-fbdbea582c8e",
-      "company": "OpenAI",
-      "companySlug": "openai",
-      "title": "AI Deployment Engineer - Startups",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Germany",
-      "location": "Germany",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T03:39:34.717249Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:54:37.242837Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-startups-75cdb2fe-5841-4649-8d88-a133deb94696",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/75cdb2fe-5841-4649-8d88-a133deb94696"
-    },
-    {
-      "id": "aa63141b-b8d1-4c8b-b92d-9f358ec982be",
-      "company": "OpenAI",
-      "companySlug": "openai",
-      "title": "AI Deployment Engineer - Startups",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T03:39:33.697691Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:54:36.875773Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-startups-980bc2ea-2c35-4546-bb48-5496a4e6847f",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
     },
     {
       "id": "d7d5dfde-5aea-4237-9714-d90f6209d3be",
@@ -7844,22 +7652,6 @@
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335833"
     },
     {
-      "id": "f9d9c1f0-5d55-47fa-a74b-b286446db002",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Lead Engineer- Product Security tools, AI",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:58:40.063268Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:30:00.707221Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-lead-engineer-product-security-tools-ai-446718281830",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718281830"
-    },
-    {
       "id": "4418f9ce-a177-492f-8aa0-e021c071e2dc",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -7938,22 +7730,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:49:45.180979Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-build-systems-pipeline-engineer-adobusr169413externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Build-Systems---Pipeline-Engineer_R169413-1/apply"
-    },
-    {
-      "id": "91f8d199-35cc-41fe-9e3d-4419658695a6",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Manager Systems Design Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:41:57.814302Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:45:41.033746Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-manager-systems-design-engineer-86607",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86607"
     },
     {
       "id": "3c4cb50b-2730-47ef-9a5c-37d0d821a574",
@@ -8466,22 +8242,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:58:04.263979Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274920158313",
       "sourceUrl": "https://paypal.eightfold.ai/careers/job/274920158313"
-    },
-    {
-      "id": "2eb11ded-6ea1-48b4-9d20-6a86c0a60ada",
-      "company": "PayPal",
-      "companySlug": "paypal",
-      "title": "Senior Software Engineer - Backend (Java)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:33:18.159169Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:37:13.532596Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-senior-software-engineer-backend-java-274918042754",
-      "sourceUrl": "https://paypal.eightfold.ai/careers/job/274918042754"
     },
     {
       "id": "5d771b6d-6e20-4c68-9a78-15f21cb13eb2",
@@ -9236,22 +8996,6 @@
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446716680029"
     },
     {
-      "id": "4ae4ae93-3f36-4d43-b63f-e402136b2fa7",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "HSIO ATE Test Development and Characterization Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Mexico",
-      "location": "Mexico",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:08:39.140451Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:19:38.043433Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-hsio-ate-test-development-and-characterization-engineer-446718428749",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718428749"
-    },
-    {
       "id": "98fe2b58-c095-466b-af4d-c7f450c04dbb",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -9538,22 +9282,6 @@
       "lastVerifiedAtUtc": "2026-06-05T12:01:09.083428Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-agentic-safety-and-ecosystem-architect-trust-and-safety-104767489493082822",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/104767489493082822-agentic-safety-and-ecosystem-architect-trust-and-safety"
-    },
-    {
-      "id": "279aa637-a8f1-4077-94a0-ab2cefdeeae1",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Silicon Design Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "Malaysia",
-      "location": "Malaysia",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T23:42:47.688312Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:45:41.418725Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-silicon-design-engineer-86845",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86845"
     },
     {
       "id": "32ac5897-29a9-48fe-8e1f-353751c4b74e",
@@ -10372,22 +10100,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556754947"
     },
     {
-      "id": "dc3c2297-24dc-45b0-8ece-9fe478f25601",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Software System Design Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T22:03:53.165015Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:42:21.919061Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-software-system-design-engineer-86504",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86504"
-    },
-    {
       "id": "545af869-d29f-4e0d-bf0d-77c62ebc9614",
       "company": "Apple",
       "companySlug": "apple",
@@ -10434,22 +10146,6 @@
       "lastVerifiedAtUtc": "2026-06-05T14:41:49.83952Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-kubernetes-platform-engineer-technical-lead-26009220",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009220"
-    },
-    {
-      "id": "85481ea0-0d27-4d56-a3bc-3cbc2dbff1c7",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Staff Functional Safety Engineer Robotics Compute Deepmind",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:52:41.535751Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:35.809053Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-staff-functional-safety-engineer-robotics-compute-deepmind-73246032917340870",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/73246032917340870-staff-functional-safety-engineer-robotics-compute-deepmind"
     },
     {
       "id": "bd93fa00-b6b2-4db2-bca5-45cbc6ffe152",
@@ -10580,22 +10276,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009216"
     },
     {
-      "id": "86defdc0-7984-48d8-b13d-b13c86099b91",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Hardware Validation Engineer Engineering Labs",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:23:38.654544Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:01:43.105567Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-hardware-validation-engineer-engineering-labs-79587519917630150",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/79587519917630150-hardware-validation-engineer-engineering-labs"
-    },
-    {
       "id": "90e56a40-e607-44f4-8cbc-ca6b78d577f7",
       "company": "Google",
       "companySlug": "google",
@@ -10610,22 +10290,6 @@
       "lastVerifiedAtUtc": "2026-06-05T08:43:26.101196Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-hardware-validation-engineer-ml-products-university-graduate-107128442041836230",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/107128442041836230-hardware-validation-engineer-ml-products-university-graduate"
-    },
-    {
-      "id": "b184abd7-8492-43c3-a8ff-2622b7c599c2",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Hardware Systems Design Engineer Platforms Infrastructure",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:23:36.933774Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:36:50.580961Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-hardware-systems-design-engineer-platforms-infrastructure-111314398236025542",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/111314398236025542-hardware-systems-design-engineer-platforms-infrastructure"
     },
     {
       "id": "f2a20225-48de-42cd-b390-650faa0f3624",
@@ -10740,22 +10404,6 @@
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395446535"
     },
     {
-      "id": "e51535c7-e43e-4081-9591-ed0dee4dc685",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "UEFI/BIOS Firmware Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:04:37.848681Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:16:56.994948Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-uefi-bios-firmware-engineer-86859",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86859"
-    },
-    {
       "id": "8db19326-3d3b-42b7-870e-d051f974cae6",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -10770,22 +10418,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:37:27.125996Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-storage-10440288",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10440288/software-development-engineer-storage"
-    },
-    {
-      "id": "aea2baee-b983-4003-9263-2f83ba13a015",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Failure Analysis Engineering Manager, GPU ASIC and PCBA Debug",
-      "roleCategory": "EngineeringManagement",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:04:35.127327Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:17:02.129602Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-failure-analysis-engineering-manager-gpu-asic-and-pcba-debug-86701",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86701"
     },
     {
       "id": "f57f112c-0fd4-40fd-94cb-303e40307ef6",
@@ -10834,22 +10466,6 @@
       "lastVerifiedAtUtc": "2026-06-05T17:50:50.159687Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-ai-products-7976961",
       "sourceUrl": "https://careers.airbnb.com/positions/7976961"
-    },
-    {
-      "id": "f0f04d0c-8616-4d6d-a0a1-e24da53e2f62",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Modem Power Firmware Engineer Pixel",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T20:54:58.124051Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:52:29.981026Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-modem-power-firmware-engineer-pixel-93560687061541574",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/93560687061541574-modem-power-firmware-engineer-pixel"
     },
     {
       "id": "55ba19a9-8170-467b-872a-cb182f1ae4c8",
@@ -10914,22 +10530,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:37:23.447314Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-software-builder-experience-asbx-10440236",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10440236/software-development-engineer-ii-amazon-software-builder-experience-asbx"
-    },
-    {
-      "id": "0e8ab011-0403-4ed8-85b3-6f9718d4da5e",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Data Center Controls Engineer Global Data Centers",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T20:24:55.03396Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:01:45.309795Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-data-center-controls-engineer-global-data-centers-119147112913871558",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/119147112913871558-data-center-controls-engineer-global-data-centers"
     },
     {
       "id": "90f3a10d-f853-4d7f-9ce7-86bb4ec2b21b",
@@ -11252,22 +10852,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556642302"
     },
     {
-      "id": "6f6aafa6-18e6-4ec6-a336-37c81aa354bd",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Staff Systems Design Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T19:23:15.824992Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:13:50.106102Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-staff-systems-design-engineer-86867",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86867"
-    },
-    {
       "id": "591b4fc6-411f-4dc3-a709-c8cc3b7317e9",
       "company": "Cloudflare",
       "companySlug": "cloudflare",
@@ -11410,22 +10994,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:59:48.341515Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-machine-learning-engineer-perception-autonomous-driving-893395420328",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395420328"
-    },
-    {
-      "id": "8c144061-8d45-4431-90c0-6540e2657db2",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Memory Subsystem Architect and Design Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T18:43:02.733728Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:13:50.474867Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-memory-subsystem-architect-and-design-engineer-85518",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/85518"
     },
     {
       "id": "409c7f76-ded1-4bfb-a3ee-d702966e4122",
@@ -12212,22 +11780,6 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/95740086712181446-senior-software-engineer-managed-spark-opensource"
     },
     {
-      "id": "e650b216-8888-476f-b8f6-9c713dee1834",
-      "company": "Salesforce",
-      "companySlug": "salesforce",
-      "title": "Senior Manager, Solution Engineering Mid-Market Commercial",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T12:25:14.619752Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:45:52.80507Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/salesforce-senior-manager-solution-engineering-mid-market-commercial-jr344460",
-      "sourceUrl": "https://careers.salesforce.com/en/jobs/jr344460/senior-manager-solution-engineering-mid-market-commercial"
-    },
-    {
       "id": "2b2c2a6f-3ec1-41fb-89ed-538282cc86bb",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -12948,22 +12500,6 @@
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7956849"
     },
     {
-      "id": "601e8de5-4a4c-4692-af67-41adbea9568e",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Financial Analyst",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T23:50:38.767742Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:17.158404Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-financial-analyst-446718796152",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718796152"
-    },
-    {
       "id": "bcc8f197-2f6b-4bcc-8f6c-e153937e82e9",
       "company": "Anthropic",
       "companySlug": "anthropic",
@@ -13620,22 +13156,6 @@
       "sourceUrl": "https://www.palantir.com/careers/open-positions/7a9600be-cdcb-4311-bb5c-65b6939b5956"
     },
     {
-      "id": "2f6b37c2-866f-49a0-96d2-2e8d850933c3",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "ML Software Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T19:39:51.091044Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:09:06.286491Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ml-software-engineer-200666649",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666649/ml-software-engineer"
-    },
-    {
       "id": "2c7d327d-b8fb-4e73-86e3-3a4e85cfa818",
       "company": "Apple",
       "companySlug": "apple",
@@ -13650,22 +13170,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:56:45.8424Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-g-a-solutions-engineering-gse-200666196",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666196/software-engineer-g-a-solutions-engineering-gse"
-    },
-    {
-      "id": "2120c8cd-b491-4ebd-a4eb-e0ff54c6e3c4",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Engineer - Analytics & Data Engineering",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T19:39:46.133544Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:49:11.651674Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-analytics-data-engineering-200651399",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200651399/software-engineer-analytics-data-engineering"
     },
     {
       "id": "2a55e3e4-4dea-4677-9ea0-f413e326f1d2",
@@ -13938,22 +13442,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:49:59.800183Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-information-security-engineer-ii-full-time-united-states-ciscisglobal2016214externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer-II--Full-Time----United-States_2016214/apply"
-    },
-    {
-      "id": "f7f3e02e-181d-428b-80b5-255dbe41c7a6",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst - Compliance",
-      "roleCategory": "Analyst",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T18:26:53.934308Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:14:46.349487Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-compliance-26008791",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008791"
     },
     {
       "id": "b231821e-41f2-48d2-9e30-8f69ce4a06cf",
@@ -14276,22 +13764,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10438826/software-development-engineer-iii-aws-elasticache"
     },
     {
-      "id": "c5195050-dd8e-4dc5-8a3d-551d021e0c36",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst-Control Management",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T17:00:16.872851Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:31:59.371539Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-control-management-26009206",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009206"
-    },
-    {
       "id": "30299659-76f7-4ef4-b18a-8c6853e26141",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -14498,22 +13970,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:55:27.101286Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-engineering-manager-guest-host-7532824",
       "sourceUrl": "https://careers.airbnb.com/positions/7532824"
-    },
-    {
-      "id": "b72b75b2-bd6f-499b-a0bd-512089635f54",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Data Scientist JR - Digital Analytics",
-      "roleCategory": "DataAiMl",
-      "country": "Mexico",
-      "location": "Mexico",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T14:58:05.686888Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:49:48.446631Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-data-scientist-jr-digital-analytics-26008687",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008687"
     },
     {
       "id": "9d89abcc-42db-4be5-9472-1789268445c0",
@@ -14738,22 +14194,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:56:35.165395Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/snowflake-data-engineer-sncousc05fe5bfe34145cfb1219826b1d71bb1externalenuse386e09980b847afbb7ae3e8a1571d5f",
       "sourceUrl": "https://careers.snowflake.com/us/en/job/SNCOUSC05FE5BFE34145CFB1219826B1D71BB1EXTERNALENUSE386E09980B847AFBB7AE3E8A1571D5F/Data-Engineer"
-    },
-    {
-      "id": "acab541c-ddcc-4fa2-95a9-94e4c51a2980",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Financial Systems Analyst I",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T12:11:06.729518Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:43:13.614061Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-financial-systems-analyst-i-26009194",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009194"
     },
     {
       "id": "7d9fa85e-ff86-4f27-9f8e-84ed34bbb3cf",
@@ -15106,22 +14546,6 @@
       "lastVerifiedAtUtc": "2026-06-05T17:18:49.946821Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-compiler-engineer-112714656459432646",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/112714656459432646-compiler-engineer"
-    },
-    {
-      "id": "123cc02f-3789-44e8-b710-a14c7aca2350",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Senior Analyst - Control Management",
-      "roleCategory": "SeniorAnalyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T07:37:17.742644Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:33:00.313845Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-analyst-control-management-26009060",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009060"
     },
     {
       "id": "fef6a8c3-f30b-4979-b771-0d71b2d808c1",
@@ -15652,38 +15076,6 @@
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893394949861"
     },
     {
-      "id": "53d19896-7093-40e6-9d34-83801f433f18",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Financial Analyst, Staff",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:16:04.069982Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:17.790775Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-financial-analyst-staff-446718460639",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718460639"
-    },
-    {
-      "id": "8bae90ca-92dc-4782-a5f6-b6fa8c342e0a",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Accounting/Financial Analyst, Senior",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:16:03.235928Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:17.473637Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-accounting-financial-analyst-senior-446718424187",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718424187"
-    },
-    {
       "id": "d1530ba5-3c91-4e5a-85b5-078f870f7d13",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -15700,22 +15092,6 @@
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893394960175"
     },
     {
-      "id": "20852af1-648e-401d-b2c0-1e498d37e263",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Analyst / Marketing Manager",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:16:00.670519Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:30:10.632487Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-analyst-marketing-manager-446718373320",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718373320"
-    },
-    {
       "id": "52de3849-76ce-4a9e-a283-0373e2f62626",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -15730,86 +15106,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:59:42.722386Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-performance-893395177484",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395177484"
-    },
-    {
-      "id": "24ba9b7f-1f0f-4026-8600-6ceb49db7619",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "RF product and Test Engineer, Staff",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Mexico",
-      "location": "Mexico",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:52.471783Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:19:38.607629Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-rf-product-and-test-engineer-staff-446718285287",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718285287"
-    },
-    {
-      "id": "3765d7db-13a6-4250-aea7-025f219c00d5",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Product Test Engineer - Digital Processors and Sensors characterization, up to Staff",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:48.682885Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:32.753847Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-product-test-engineer-digital-processors-and-sensors-characterization-up-to-staff-446718155611",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718155611"
-    },
-    {
-      "id": "ba0634fe-16d0-4b49-8c79-24f2cbe28109",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "RF Product and Bench Test Engineer, Staff",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:47.849515Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:33.94486Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-rf-product-and-bench-test-engineer-staff-446718350883",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718350883"
-    },
-    {
-      "id": "a0583f2f-5618-4d90-9e5e-edf9c22ad53c",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Digital Product and Test Development Engineer, Senior",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:45.320728Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:28.630822Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-digital-product-and-test-development-engineer-senior-446716037922",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446716037922"
-    },
-    {
-      "id": "48d28c6b-1184-403f-98c7-46eb7d06893a",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Product and Test Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:44.021447Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:35.960775Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-product-and-test-engineer-446718350178",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718350178"
     },
     {
       "id": "f6bd9c1b-33a5-4a59-a266-299632efc773",
@@ -15922,22 +15218,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:59:30.98341Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dl-libraries-infrastructure-893392882390",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893392882390"
-    },
-    {
-      "id": "00a0e577-afc5-4b19-abc9-540e6c1b0dab",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Principal Software Engineer – Mobile Software Architecture",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:30.295923Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:51.228077Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-principal-software-engineer-mobile-software-architecture-446718350545",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718350545"
     },
     {
       "id": "6bb52b31-214f-4054-bd66-7fe01c922396",
@@ -16932,22 +16212,6 @@
       "sourceUrl": "https://block.xyz/careers/jobs/5231964008"
     },
     {
-      "id": "e8b95ac8-c466-4ccd-9bbf-9dba910d39e3",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Senior Analyst - New Product Governance",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T02:39:09.719785Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:25:23.976306Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-analyst-new-product-governance-26008742",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008742"
-    },
-    {
       "id": "0997739b-ddfc-4e54-9870-ad5f8186543e",
       "company": "Cisco",
       "companySlug": "cisco",
@@ -17124,22 +16388,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10387072/system-development-engineer-ai-ml-accelerator-server"
     },
     {
-      "id": "be32123b-d9b5-4f4b-ab84-6f8b05b8eb95",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Product and Test Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T23:54:38.705074Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:32.552473Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-product-and-test-engineer-446718350164",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718350164"
-    },
-    {
       "id": "2410c296-c536-433c-9732-2e01c8dd48d8",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -17170,22 +16418,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:37:44.465717Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solu-10438080",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10438080/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services"
-    },
-    {
-      "id": "275eca14-de6e-4437-8d6d-586fa23fabdb",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior AI Software Engineer, Kernel Libraries",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T23:35:49.303048Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:23:57.772161Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-ai-software-engineer-kernel-libraries-893393994913",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893393994913"
     },
     {
       "id": "6b3284fb-90a6-4a8b-9a40-bf75ad858bcf",
@@ -18370,22 +17602,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:37:41.301128Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-data-platform-prime-video-personalization-discovery-10437831",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10437831/software-development-engineer-data-platform-prime-video-personalization-discovery"
-    },
-    {
-      "id": "6f79570c-0326-46fe-bb79-6538125e2b9c",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Hardware Engineering Technical Leader",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T20:53:19.828709Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:36:17.491649Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-hardware-engineering-technical-leader-ciscisglobal2016375externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Hardware-Engineering-Technical-Leader_2016375/apply"
     },
     {
       "id": "f84b6bdb-3391-46ad-ba32-d074acf03bee",
@@ -19604,22 +18820,6 @@
       "sourceUrl": "https://explore.jobs.netflix.net/careers/job/790316165142"
     },
     {
-      "id": "4b4b5cd3-877a-4316-a878-10afd37ac05f",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "AIML - Sr Machine Learning Engineer - Data and ML Innovation",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-01T21:41:54.231799Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:50:07.59286Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-aiml-sr-machine-learning-engineer-data-and-ml-innovation-200666135",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666135/aiml-sr-machine-learning-engineer-data-and-ml-innovation"
-    },
-    {
       "id": "43839214-f29a-4963-8998-30e9e36d229d",
       "company": "Apple",
       "companySlug": "apple",
@@ -19650,22 +18850,6 @@
       "lastVerifiedAtUtc": "2026-06-05T16:09:43.999665Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-development-engineer-in-test-893395376178",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395376178"
-    },
-    {
-      "id": "a0b98a01-7a57-4695-94ea-4bd6f85369ae",
-      "company": "Workday",
-      "companySlug": "workday",
-      "title": "Software Engineer and Senior Software Engineer - AI Platform",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-01T21:36:16.173306Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:44:25.912475Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-software-engineer-and-senior-software-engineer-ai-platform-jr-0106467",
-      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Engineer-and-Senior-Software-Engineer---AI-Platform_JR-0106467"
     },
     {
       "id": "838f4b7d-c035-4f47-a004-045e1e4168ca",
@@ -21316,22 +20500,6 @@
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395318590"
     },
     {
-      "id": "94df1c6d-e963-49c8-924c-c9c7525c13cc",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Financial Analyst",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-29T22:34:24.218465Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:18.25585Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-financial-analyst-446718717520-94df1c6d",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718717520"
-    },
-    {
       "id": "3bbe31c5-7635-40c7-b5ef-7009dcb49d90",
       "company": "Cisco",
       "companySlug": "cisco",
@@ -22658,22 +21826,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:56:03.844158Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-engineer-mid-market-25244",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25244/solutions-engineer%2c-mid-market/job"
-    },
-    {
-      "id": "41d7d5b7-3168-4457-ad65-baa41375aec2",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Full Stack Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-28T21:56:22.297523Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:02:31.273733Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-full-stack-engineer-1970393556860229",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860229"
     },
     {
       "id": "189ea0da-6eda-4723-9edd-248ee92ea585",
@@ -25604,22 +24756,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556753224"
     },
     {
-      "id": "7d1a5b6b-7b08-46b9-88e0-ca87a853f0bf",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Network Systems Engineer I (Full Time) - United States",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T17:12:02.723098Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:45:00.209006Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-network-systems-engineer-i-full-time-united-states-ciscisglobal2015726externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Network-Systems-Engineer-I--Full-Time----United-States_2015726/apply"
-    },
-    {
       "id": "4659aeb5-e338-4a01-80f3-6be2126e9579",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -25842,22 +24978,6 @@
       "lastVerifiedAtUtc": "2026-06-05T17:26:56.698987Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-application-developer-microsoft-power-platform-114272",
       "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
-      "id": "1673b320-5f0d-4e2e-a150-8219ef99b265",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "GPU Kernel Development Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T07:44:30.801251Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:58:45.839698Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-gpu-kernel-development-engineer-86544",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86544"
     },
     {
       "id": "4a9e1bf2-eed7-42b0-aca4-5d39b0c39ec7",
@@ -35076,22 +34196,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26000601"
     },
     {
-      "id": "407b1fdf-6601-4cdb-9c44-9f86b76e9840",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Connectivity Integration & Automation Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-22T21:36:14.541442Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:57.699265Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-connectivity-integration-automation-engineer-446718632396-407b1fdf",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718632396"
-    },
-    {
       "id": "7060d491-74b1-48b0-87c5-362618ab9ed9",
       "company": "Microsoft",
       "companySlug": "microsoft",
@@ -35202,22 +34306,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:38:58.749136Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-sr-product-design-mechanical-engineer-data-center-engineering-electrical-products-and-serv-10428653",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10428653/sr-product-design-mechanical-engineer-data-center-engineering-electrical-products-and-services"
-    },
-    {
-      "id": "0ea127cd-8e63-45a1-a6a1-2246c60c5fd5",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Senior Sensors Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-22T19:56:08.182199Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:25.731787Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-sensors-software-engineer-446718591158-0ea127cd",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718591158"
     },
     {
       "id": "8ec4e8d5-bf78-47d0-9ef7-0f7302917981",
@@ -35972,54 +35060,6 @@
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446716735216"
     },
     {
-      "id": "fc5ad97a-683f-4722-81dd-23cc7464b75d",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Digital Product and Test Development Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T20:18:37.5574Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:33.342756Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-digital-product-and-test-development-engineer-446717607792",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717607792"
-    },
-    {
-      "id": "ce95ec26-a299-467b-ad57-e693289b2000",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "PMIC Product Test Engineer, Sr.",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T20:18:36.872872Z",
-      "lastVerifiedAtUtc": "2026-06-05T05:19:39.454514Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-pmic-product-test-engineer-sr-446717637450",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717637450"
-    },
-    {
-      "id": "bbaa51b8-eb58-4fa8-8c93-c9d51a6e608d",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Sr. Staff Engineer, CPU Software Test Engineer (Server)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T20:18:36.408657Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:23.525304Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-sr-staff-engineer-cpu-software-test-engineer-server-446717262500",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717262500"
-    },
-    {
       "id": "26b882e6-8f26-4777-98fe-d993752f7937",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -36596,22 +35636,6 @@
       "sourceUrl": "https://jobs.apple.com/en-us/details/200661273/software-engineer-apps"
     },
     {
-      "id": "d84e47c8-66bb-47e1-bd17-c92f295f224a",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Financial Analyst, Senior– Pricing & Commercial Analytics (Datacenter BU)",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T19:28:14.609795Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:18.722197Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-financial-analyst-senior-pricing-commercial-analytics-datacenter-bu-446717374403",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717374403"
-    },
-    {
       "id": "07f04eb9-fb18-45f8-989f-5865fac92a0b",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -36626,22 +35650,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:57:56.113344Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-robotics-ai-engineer-sr-staff-principal-engineer-embodied-ai-vision-language-action-models-446716129041",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446716129041"
-    },
-    {
-      "id": "39391376-534d-4a56-9f02-3841b64db27e",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff XR Distributed Compute Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T19:28:02.518486Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:52.988266Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-xr-distributed-compute-engineer-446718079909",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718079909"
     },
     {
       "id": "7a65cdf6-619c-49b5-a56c-3d6eb4d4ffe6",
@@ -36898,22 +35906,6 @@
       "lastVerifiedAtUtc": "2026-06-05T17:19:47.631597Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-senior-quantum-engineer-cryo-cmos-analog-circuit-design-1970393556864491",
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556864491"
-    },
-    {
-      "id": "8c031d77-b3ca-4052-aa9c-6bfe4eaf5272",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Software Engineer II or Senior Software Engineer - Simulation Platform",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T19:26:57.243605Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:02:34.432186Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-or-senior-software-engineer-simulation-platform-1970393556851852",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556851852"
     },
     {
       "id": "9f2c73fe-2b35-4b10-8672-3d3a9be9e904",
@@ -37332,22 +36324,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10426101/member-of-technical-staff-robotics-mechanical-engineer-frontier-ai-robotics"
     },
     {
-      "id": "1b7c6091-250d-4400-a14f-a81476d732a7",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "AI/ML Platform Architect - Engineer, Principal",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T00:21:20.883393Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:07.85316Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-ai-ml-platform-architect-engineer-principal-446717050269-1b7c6091",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717050269"
-    },
-    {
       "id": "39cb30a5-7985-4d11-8189-c4234d1286e8",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -37588,22 +36564,6 @@
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Forwarding--L2-L3-_2008055-1/apply"
     },
     {
-      "id": "703702a0-ca09-43db-af8b-988bd56e3424",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Sr AI/ML Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-20T21:57:58.506516Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:36:07.60093Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-sr-ai-ml-software-engineer-ciscisglobal2002482externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Sr-AI-ML-Software-Engineer_2002482/apply"
-    },
-    {
       "id": "2b4e3c55-ec54-4ec4-b6cf-592c3e3ecb6a",
       "company": "Workday",
       "companySlug": "workday",
@@ -37618,22 +36578,6 @@
       "lastVerifiedAtUtc": "2026-06-05T15:03:43.039652Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-analytics-sr-software-engineer-us-federal-s-com",
       "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105489-1"
-    },
-    {
-      "id": "1417f194-634d-4b7f-b19c-e2f9d74d171e",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Solutions Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-20T20:17:09.840785Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:36:01.723875Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2014816externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer_2014816/apply"
     },
     {
       "id": "dabbc1b2-3f8f-4715-bce7-3961e07a4e61",
@@ -38338,22 +37282,6 @@
       "lastVerifiedAtUtc": "2026-06-05T22:53:07.871347Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-ai-agents-automation-maps-data-tooling-200663946",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200663946/software-engineer-ai-agents-automation-maps-data-tooling"
-    },
-    {
-      "id": "4804294c-28cf-4445-96fb-1f9f92f35234",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Senior Embedded Software Engineer, Cloud Edge and Data Center Machine Learning",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-18T23:02:28.250791Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:27.456557Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-embedded-software-engineer-cloud-edge-and-data-center-machine-learning-446718509229-4804294c",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718509229"
     },
     {
       "id": "9bf2ed0d-ab9a-47ee-b7f3-f68b0470d3f8",
@@ -39140,22 +38068,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556749361"
     },
     {
-      "id": "88b5246a-b16e-4544-90c0-7751bffa149e",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Machine Learning Engineer – Computer Vision - Madrid",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "Spain",
-      "location": "Spain",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-17T20:20:26.044484Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:16.209002Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-machine-learning-engineer-computer-vision-madrid-446717487478",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717487478"
-    },
-    {
       "id": "77af6f6f-fea6-490f-8c64-872cd4309373",
       "company": "Microsoft",
       "companySlug": "microsoft",
@@ -39538,22 +38450,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:57:34.422224Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-hw-soc-asic-physical-design-engineer-senior-us-citizenship-required-446715135001",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446715135001"
-    },
-    {
-      "id": "d176d9a2-0092-4b16-b690-84d799a4b432",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Software Engineer – Senior Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-17T20:19:49.722208Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:33.88959Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-software-engineer-senior-engineer-446718385910",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718385910"
     },
     {
       "id": "ebb19c69-25a6-4473-bfa8-60f75688b320",
@@ -40562,22 +39458,6 @@
       "lastVerifiedAtUtc": "2026-06-05T21:23:08.628912Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-cpu-post-si-validation-sr-engineer-446717387164-094bb959",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446717387164"
-    },
-    {
-      "id": "8b745673-2962-4ba4-a2ff-560c71eb14b0",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Modem Integration & Test Engineer (Automation + AI/ML)",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-16T12:41:13.986619Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:29:59.591967Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-rfsw-integration-test-engineer-446718550851-8b745673",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718550851"
     },
     {
       "id": "8bd63c05-4483-4488-a2b9-ccb1cc038205",
@@ -43188,22 +42068,6 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168098/apply"
     },
     {
-      "id": "553253df-c111-4699-a540-f27d9b725aaa",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Development Engineer II (Full Time) – United States",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-16T04:48:42.094194Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:45:38.89473Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-development-engineer-ii-full-time-united-states-ciscisglobal2014387externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-II--Full-Time----United-States_2014387/apply"
-    },
-    {
       "id": "4f5075f7-e209-41a5-b26c-16b5b6bb81bc",
       "company": "Adobe",
       "companySlug": "adobe",
@@ -43362,22 +42226,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:51:28.836793Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ethernet-switching-ciscisglobal2002711externalenglobal-7e6b7119",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Ethernet-Switching_2002711/apply"
-    },
-    {
-      "id": "cf708f17-693e-4011-8aeb-cd580c676ca7",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Modem Machine Learning Engineer",
-      "roleCategory": "DataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-14T20:56:10.78387Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:30:06.355961Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-modem-machine-learning-engineer-446718488995-cf708f17",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718488995"
     },
     {
       "id": "3b9a25d3-2a22-4836-8769-f29da6f9a897",
@@ -43684,22 +42532,6 @@
       "sourceUrl": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Backend-Software-Engineer-Native-Apps"
     },
     {
-      "id": "76351c09-8904-4914-ae11-c456bde69b65",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "#Software Engineer – Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-11T22:38:37.552167Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:04:33.312152Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-software-engineer-engineer-446718385909-76351c09",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718385909"
-    },
-    {
       "id": "24482063-ec06-40c3-be14-b518a3176a50",
       "company": "Oracle",
       "companySlug": "oracle",
@@ -43714,22 +42546,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:49:25.940977Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-oracle-health-platform-engineering-330000-24482063",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/330000"
-    },
-    {
-      "id": "e465a04b-5857-4615-89bc-7313f5092154",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Applied Scientist",
-      "roleCategory": "DataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-11T20:23:56.592779Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:02:47.004524Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-applied-scientist-1970393556864459-e465a04b",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556864459"
     },
     {
       "id": "c2fb6b0e-0ef5-4b34-ac9b-ad555df7dee9",
@@ -43794,22 +42610,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:51:12.411086Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-development-engineer-adobusr167244externalenus-be3bbd78",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167244/apply"
-    },
-    {
-      "id": "345f868c-9b46-40ad-84f2-aa62cd66da78",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Machine Learning Engineer",
-      "roleCategory": "DataAiMl",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-10T22:04:31.372641Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:15.279422Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-machine-learning-engineer-446718440907",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718440907"
     },
     {
       "id": "a774c664-e479-4270-9306-074230d650ca",
@@ -44580,22 +43380,6 @@
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446718036581"
     },
     {
-      "id": "128a3cdd-df54-4ac3-87f8-be284f92cb84",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Machine Learning R&D",
-      "roleCategory": "DataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-10T05:50:14.527683Z",
-      "lastVerifiedAtUtc": "2026-06-05T04:05:12.487675Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-machine-learning-r-d-446717130791-128a3cdd",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717130791"
-    },
-    {
       "id": "bc631a1e-9294-4226-8924-2ab165a0eb07",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -44610,22 +43394,6 @@
       "lastVerifiedAtUtc": "2026-06-05T10:49:39.636853Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-embedded-npu-software-engineer-senior-staff-446717029563",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446717029563"
-    },
-    {
-      "id": "1cbf74b9-cd05-42d9-af5c-da54d229bf62",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Engineer, CPU Software Test Engineer (Server)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-10T05:50:12.80708Z",
-      "lastVerifiedAtUtc": "2026-06-05T07:27:22.255259Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-engineer-cpu-software-test-engineer-server-446718158424",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718158424"
     },
     {
       "id": "d8018300-3002-4354-8267-608befc5a1c0",
@@ -45314,22 +44082,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:49:41.717503Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-qa-engineer-ii-full-time-ciscisglobal2002838externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-QA-Engineer-II--Full-Time----United-States_2002838/apply"
-    },
-    {
-      "id": "179871ab-1cfa-4377-bff2-ebc09a0ca029",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Associate Application Engineer II Fall (Co-Op) - United States",
-      "roleCategory": "SoftwareEngineeringIntern",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": true,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-05T21:58:01.41443Z",
-      "lastVerifiedAtUtc": "2026-06-05T06:45:29.940393Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-associate-application-engineer-ii-fall-co-op-united-states-ciscisglobal2011705externalenglobal-179871ab",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Application-Engineer-II--Co-Op----United-States_2011705/apply"
     },
     {
       "id": "8fec675f-2ab6-45ff-abcd-557cc9d195e1",
