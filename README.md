@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Developer Engineer, Last Mile Delivery Technology](https://www.scoutjob.me/jobs/amazon-software-developer-engineer-last-mile-delivery-technology-10441659) | SoftwareEngineering | United States | Jun 07, 2026 | Jun 07, 2026 18:39 UTC |
+| Amazon | [Sr. Software Development Engineer, Smart Delivery Tech](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-smart-delivery-tech-10441661) | SeniorSoftwareEngineering | United States | Jun 07, 2026 | Jun 07, 2026 18:39 UTC |
+| Oracle | [Senior AI Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-ai-site-reliability-engineer-335814) | SeniorSoftwareEngineeringExtensive | United States | Jun 07, 2026 | Jun 07, 2026 18:33 UTC |
+| Oracle | [Principal AI Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-principal-ai-site-reliability-engineer-335813) | SeniorSoftwareEngineeringExtensive | United States | Jun 07, 2026 | Jun 07, 2026 18:33 UTC |
+| Oracle | [Senior AI Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-ai-site-reliability-engineer-335812) | SeniorSoftwareEngineeringExtensive | United States | Jun 07, 2026 | Jun 07, 2026 18:33 UTC |
 | NVIDIA | [Partner Solutions Architect – DACH and CEE Region](https://www.scoutjob.me/jobs/nvidia-partner-solutions-architect-dach-and-cee-region-893394016822) | SeniorSoftwareEngineeringExtensive | Germany | Jun 07, 2026 | Jun 07, 2026 01:00 UTC |
 | NVIDIA | [Senior Solutions Architect, NVIDIA Cloud Partners - Mexico](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-nvidia-cloud-partners-mexico-893394926409) | SeniorSoftwareEngineeringExtensive | Mexico | Jun 07, 2026 | Jun 07, 2026 01:00 UTC |
 | NVIDIA | [Senior Solutions Architect, NVIDIA Cloud Partners](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-nvidia-cloud-partners-893394361184) | SeniorSoftwareEngineeringExtensive | Remote | Jun 07, 2026 | Jun 07, 2026 00:59 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Multidisciplinary Manager (Data Science) - FDE](https://www.scoutjob.me/jobs/microsoft-multidisciplinary-manager-data-science-fde-1970393556873462) | SeniorDataAiMl | United Kingdom | Jun 06, 2026 | Jun 06, 2026 00:02 UTC |
 | AMD | [Failure Analysis Engineer - Power & Design](https://www.scoutjob.me/jobs/amd-failure-analysis-engineer-power-design-86591) | HardwareEngineering | India | Jun 05, 2026 | Jun 05, 2026 23:42 UTC |
 | Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-335679) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:39 UTC |
-| Oracle | [Principal Application Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-application-software-engineer-332765) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:39 UTC |
-| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-336050) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:39 UTC |
-| Oracle | [Software Development Snr Director](https://www.scoutjob.me/jobs/oracle-software-development-snr-director-336159) | SeniorSoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:39 UTC |
-| Apple | [Senior Backend Engineer, Retail Interactive Technology](https://www.scoutjob.me/jobs/apple-senior-backend-engineer-retail-interactive-technology-200667027) | SeniorSoftwareEngineeringExtensive | United Kingdom | Jun 05, 2026 | Jun 05, 2026 23:36 UTC |
-| Apple | [Software Engineer (AML), AI & Data Platforms (AiDP)](https://www.scoutjob.me/jobs/apple-software-engineer-aml-ai-data-platforms-aidp-200667037) | SoftwareEngineering | United States | Jun 05, 2026 | Jun 05, 2026 23:36 UTC |
