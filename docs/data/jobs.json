@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-06-07T10:25:06.370862+00:00",
+  "generatedAtUtc": "2026-06-07T12:17:36.280114+00:00",
   "publicDelayMinutes": 60,
-  "total": 2772,
+  "total": 2748,
   "jobs": [
     {
       "id": "ff99b4c9-067c-4864-a6db-c531c627fdd5",
@@ -6708,38 +6708,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009204"
     },
     {
-      "id": "d89ad798-98ac-4212-96fe-daa5d97185bd",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Security Engineer National Security",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T08:18:02.179421Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:48:35.512994Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-security-engineer-national-security-79083636602610374",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/79083636602610374-senior-security-engineer-national-security"
-    },
-    {
-      "id": "9de28842-69e4-4869-b544-1b41d73974c0",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Staff Silicon Physical Design Engineer Quantum AI",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T08:18:01.298655Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:37:50.407434Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-staff-silicon-physical-design-engineer-quantum-ai-129450915651297990",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/129450915651297990-staff-silicon-physical-design-engineer-quantum-ai"
-    },
-    {
       "id": "fcdde976-2d0d-4dbb-8623-f49e32af2169",
       "company": "AMD",
       "companySlug": "amd",
@@ -8996,22 +8964,6 @@
       "sourceUrl": "https://careers.snowflake.com/us/en/job/SNCOUS950427122E3C4E93B8E788CC61A14C7AEXTERNALENUSD0C0305C5F294785AABF13BF9FCC3329/Solution-Engineer"
     },
     {
-      "id": "339a4307-445d-40c1-a2a1-1105b849e62c",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Director Engineering Gemini On Devices Deepmind",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:07:28.537698Z",
-      "lastVerifiedAtUtc": "2026-06-05T12:01:08.554901Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-director-engineering-gemini-on-devices-deepmind-129515846966878918",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/129515846966878918-director-engineering-gemini-on-devices-deepmind"
-    },
-    {
       "id": "365ae1c7-f83c-4e79-86b0-9685da59f657",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -9202,22 +9154,6 @@
       "lastVerifiedAtUtc": "2026-06-05T20:32:03.227432Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-hardware-modeling-architect-lpu-893395449356",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395449356"
-    },
-    {
-      "id": "88ee7604-508a-4b56-9656-dbf30f0ba72b",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Agentic Safety And Ecosystem Architect Trust And Safety",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T23:45:31.96149Z",
-      "lastVerifiedAtUtc": "2026-06-05T12:01:09.083428Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-agentic-safety-and-ecosystem-architect-trust-and-safety-104767489493082822",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/104767489493082822-agentic-safety-and-ecosystem-architect-trust-and-safety"
     },
     {
       "id": "32ac5897-29a9-48fe-8e1f-353751c4b74e",
@@ -10084,38 +10020,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009220"
     },
     {
-      "id": "983b6e02-e960-4ba5-8139-0191712100f9",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Network Implementation Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:52:25.112835Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:37:52.084105Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-network-implementation-engineer-92953844689838790",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/92953844689838790-network-implementation-engineer"
-    },
-    {
-      "id": "6837580a-690e-4611-8bba-60955d70eb49",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Network Implementation Engineer Network Delivery Implementation",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:52:24.037209Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:37:51.340647Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-network-implementation-engineer-network-delivery-implementation-141085883171250886",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/141085883171250886-network-implementation-engineer-network-delivery-implementation"
-    },
-    {
       "id": "fd157d1b-c5ee-4823-a885-5fe0727bab6f",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -10194,22 +10098,6 @@
       "lastVerifiedAtUtc": "2026-06-05T14:52:17.907388Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-iii-26009216",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009216"
-    },
-    {
-      "id": "65168ba7-7c19-473f-8897-ea4ebc9610ad",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Staff Software Engineer Agent Data Quality Deepmind",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:23:32.545964Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:13:21.647289Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-staff-software-engineer-agent-data-quality-deepmind-72588207136350918",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/72588207136350918-senior-staff-software-engineer-agent-data-quality-deepmind"
     },
     {
       "id": "1d33eef0-3586-4d93-b484-33e87749e6f4",
@@ -13204,22 +13092,6 @@
       "sourceUrl": "https://jobs.apple.com/en-us/details/200642026/aiml-ml-engineer-responsible-ai"
     },
     {
-      "id": "38ae1c1d-37f1-4a8c-84e4-8094eeb1bf9f",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Director - AI Engineering - Agentic AI",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T18:38:45.920624Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:02:11.30124Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-director-ai-engineering-agentic-ai-26007179",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26007179"
-    },
-    {
       "id": "9ed93433-b9b4-44f4-be73-d9eb03e9c25f",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -13620,22 +13492,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10438826/software-development-engineer-iii-aws-elasticache"
     },
     {
-      "id": "30299659-76f7-4ef4-b18a-8c6853e26141",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Business Analyst",
-      "roleCategory": "Analyst",
-      "country": "Mexico",
-      "location": "Mexico",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T16:42:44.259934Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:26:35.541171Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-business-analyst-26006517",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26006517"
-    },
-    {
       "id": "4e995bbc-dbfc-4d39-b202-8511558caed6",
       "company": "Google",
       "companySlug": "google",
@@ -13954,22 +13810,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:48:23.167734Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-developer-oracle-health-us-citizenship-required-335636",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335636"
-    },
-    {
-      "id": "c654787e-6f12-4001-b2bb-302101973e64",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Software Engineer, Linux Kernel",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T13:26:31.19379Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:49:41.666609Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-software-engineer-linux-kernel-446717245584",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717245584"
     },
     {
       "id": "08aa6762-6bca-4e3e-a896-d9ff68e4ee4c",
@@ -14404,22 +14244,6 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/112714656459432646-compiler-engineer"
     },
     {
-      "id": "fef6a8c3-f30b-4979-b771-0d71b2d808c1",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Staff Research Data Scientist Devie",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T07:33:47.783174Z",
-      "lastVerifiedAtUtc": "2026-06-05T12:01:11.085837Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-staff-research-data-scientist-devie-104471617785995974",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/104471617785995974-senior-staff-research-data-scientist-devie"
-    },
-    {
       "id": "267fd5c9-3cf9-4338-b5fd-c92d937293f4",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -14498,38 +14322,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:53:35.993237Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-codex-korea-47aaae94-69e8-464b-a7f6-ffe898ee1731",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731"
-    },
-    {
-      "id": "a3773a16-d968-4bc8-9924-43bd50c79e97",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Software Engineer II",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T05:47:02.235304Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:26:36.886905Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-ii-26006662",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26006662"
-    },
-    {
-      "id": "48a19eac-9ece-417c-9b07-c46d968c84e3",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Senior Software Engineer I",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T05:46:55.579072Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:26:36.281939Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-i-26006661",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26006661"
     },
     {
       "id": "703ef02c-a31f-444f-99dd-0f744d7a2661",
@@ -15010,22 +14802,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:59:25.223275Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-cutlass-platform-893395379554",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395379554"
-    },
-    {
-      "id": "1a59a70d-1b98-4ee5-a908-ca899a9ea427",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Fullstack Software Engineer Genai Deepmind",
-      "roleCategory": "DataAiMl",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:15:32.282249Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:38:02.637112Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-fullstack-software-engineer-genai-deepmind-143997935523111622",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/143997935523111622-fullstack-software-engineer-genai-deepmind"
     },
     {
       "id": "a156286d-5ada-48c7-b53c-51372c9ce7e1",
@@ -22420,22 +22196,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10421410/data-engineer-ii-amz26497-1"
     },
     {
-      "id": "61c809b8-2822-487f-a14c-09edd742da95",
-      "company": "IBM",
-      "companySlug": "ibm",
-      "title": "Client Engineering Sales Associate- AI Engineer - IBM Italy",
-      "roleCategory": "DataAiMl",
-      "country": "Italy",
-      "location": "Italy",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-28T14:28:52.950223Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:27:57.30752Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-client-engineering-sales-associate-ai-engineer-ibm-italy-116016",
-      "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
       "id": "d67e29fb-8f20-47a7-878a-422354607d97",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -22514,22 +22274,6 @@
       "lastVerifiedAtUtc": "2026-06-05T13:04:21.74743Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-lead-system-software-engineer-platform-server-embedded-firmware-893393907055",
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893393907055"
-    },
-    {
-      "id": "18a65fb9-7dac-4bcb-8612-8be33169bb62",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Disruption Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-28T12:30:50.142663Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:13:10.854845Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-disruption-engineer-119061063244096198-18a65fb9",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/119061063244096198-disruption-engineer"
     },
     {
       "id": "1680b2cb-b764-430d-8dda-cd628a7ff33c",
@@ -22674,22 +22418,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:53:59.757606Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-software-engineer-infrastructure-google-cloud-compute-infrastructure-118541857264149190",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/118541857264149190-senior-software-engineer-infrastructure-google-cloud-compute-infrastructure"
-    },
-    {
-      "id": "55009279-613a-4b55-a6fa-60b5cf4628df",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Network Implementation Engineer Network Delivery Implementation",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-28T08:31:52.790312Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:37:53.603695Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-network-implementation-engineer-network-delivery-implementation-92785758997226182",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/92785758997226182-network-implementation-engineer-network-delivery-implementation"
     },
     {
       "id": "71d89d84-90d0-4866-88b6-839c6f1ed22b",
@@ -23442,22 +23170,6 @@
       "lastVerifiedAtUtc": "2026-06-05T15:04:00.74484Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-software-engineer-head-tracking-beam-ai-ml-116602434985304774",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/116602434985304774-senior-software-engineer-head-tracking-beam-aiml"
-    },
-    {
-      "id": "ac00f178-077a-4193-9b9d-3b0d98803a4b",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Edge Metro Capacity Delivery Network Implementation Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-27T08:18:58.008188Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:37:52.971624Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-edge-metro-capacity-delivery-network-implementation-engineer-99588214099976902",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/99588214099976902-edge-metro-capacity-delivery-network-implementation-engineer"
     },
     {
       "id": "942c8bd9-8a71-42ec-974e-f0f63ff1c08b",
@@ -24450,22 +24162,6 @@
       "lastVerifiedAtUtc": "2026-06-06T22:13:59.091316Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-salt-lake-city-associate-quantitative-engineering-046336-174841",
       "sourceUrl": "https://higher.gs.com/roles/174841"
-    },
-    {
-      "id": "1e4bf669-900f-4789-88a7-e5bf1325ec12",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Senior Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T17:18:23.671519Z",
-      "lastVerifiedAtUtc": "2026-06-05T12:02:44.659308Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556753224-1e4bf669",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556753224"
     },
     {
       "id": "4659aeb5-e338-4a01-80f3-6be2126e9579",
@@ -33892,22 +33588,6 @@
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7729700"
     },
     {
-      "id": "2404b3d8-1f58-48f6-8dd4-39f04af44b52",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Software Engineer II",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-22T21:45:34.199113Z",
-      "lastVerifiedAtUtc": "2026-06-05T11:41:30.04859Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-ii-26000601-2404b3d8",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26000601"
-    },
-    {
       "id": "7060d491-74b1-48b0-87c5-362618ab9ed9",
       "company": "Microsoft",
       "companySlug": "microsoft",
@@ -35380,22 +35060,6 @@
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446715134999"
     },
     {
-      "id": "ea2db4e6-a538-42cf-90e0-8f0e473093f7",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Software Engineer - Qualcomm Advanced Robotics Team",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T19:27:57.964228Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:49:40.884844Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-software-engineer-qualcomm-advanced-robotics-team-446718412918",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718412918"
-    },
-    {
       "id": "06613a2c-bfb7-4236-a0b7-da0be37ee01b",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -35522,22 +35186,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:57:29.934881Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-principal-camera-sensors-engineer-446717741001",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446717741001"
-    },
-    {
-      "id": "b99ddde5-8aa5-434a-b618-bb8cfe565785",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Server Power, Performance, and Limits Management Software & Firmware Architect",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-21T19:27:44.154242Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:49:41.347536Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-server-power-performance-and-limits-management-software-firmware-architect-446717660096",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717660096"
     },
     {
       "id": "a6459417-ec94-46f8-b153-fa06cf73bff3",
@@ -43090,38 +42738,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:57:52.524312Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-machine-learning-engineer-446718036581-f6a21610",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446718036581"
-    },
-    {
-      "id": "bc631a1e-9294-4226-8924-2ab165a0eb07",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Embedded NPU Software Engineer, Senior Staff",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-10T05:50:13.278117Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:49:39.636853Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-embedded-npu-software-engineer-senior-staff-446717029563",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717029563"
-    },
-    {
-      "id": "d8018300-3002-4354-8267-608befc5a1c0",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Senior Staff Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-10T05:50:12.497286Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:49:40.101871Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-staff-software-engineer-446717306095-d8018300",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446717306095"
     },
     {
       "id": "25ef9253-4dd5-4959-98b4-b85cf1bde4a2",
