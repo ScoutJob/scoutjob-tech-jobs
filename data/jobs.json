@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-06-07T07:55:49.859880+00:00",
+  "generatedAtUtc": "2026-06-07T10:25:06.370862+00:00",
   "publicDelayMinutes": 60,
-  "total": 2790,
+  "total": 2772,
   "jobs": [
     {
       "id": "ff99b4c9-067c-4864-a6db-c531c627fdd5",
@@ -6964,22 +6964,6 @@
       "sourceUrl": "https://careers.amd.com/careers-home/jobs/86819"
     },
     {
-      "id": "24a769af-ee4f-4e56-a765-cf67e5d1e8a6",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "PERFORMANCE ANALYSIS ENGINEER",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T05:54:18.735375Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:52:27.885426Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-performance-analysis-engineer-84806",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/84806"
-    },
-    {
       "id": "2d2848a4-f3cb-454c-9123-a5fc87b96737",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -7170,38 +7154,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:54:51.646718Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-associate-technology-operations-engineering-26008522",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008522"
-    },
-    {
-      "id": "1ecdd77c-8986-49a3-aec8-2b45b3dffc3a",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "DC-GPU Performance Modeling Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:13:55.270689Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:14:45.721804Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-dc-gpu-performance-modeling-engineer-80196",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/80196"
-    },
-    {
-      "id": "a15fa368-0e36-4d3b-9c62-ba856df18630",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Lead Power and Performance Attainment Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:13:51.284199Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:01:15.812523Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-lead-power-and-performance-attainment-engineer-86700",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86700"
     },
     {
       "id": "6a77083c-213f-496f-8166-47b3fc41f0d2",
@@ -8034,22 +7986,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:58:24.168604Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-staff-software-engineer-274920158645",
       "sourceUrl": "https://paypal.eightfold.ai/careers/job/274920158645"
-    },
-    {
-      "id": "afc4cb2e-bcde-4ef9-913a-82797c8b6774",
-      "company": "PayPal",
-      "companySlug": "paypal",
-      "title": "Staff Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Sweden",
-      "location": "Sweden",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:33:42.674753Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:59:50.343081Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-staff-software-engineer-274918532192",
-      "sourceUrl": "https://paypal.eightfold.ai/careers/job/274918532192"
     },
     {
       "id": "d6c884b3-2aad-4ddf-a463-3565e3728d04",
@@ -10148,22 +10084,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009220"
     },
     {
-      "id": "bd93fa00-b6b2-4db2-bca5-45cbc6ffe152",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Network Implementation Engineer Network Deployment Engineering Lab Solutions And Architecture",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:52:32.038093Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:43:20.526032Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-network-implementation-engineer-network-deployment-engineering-lab-solutions-and-architect-129235194375742150",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/129235194375742150-network-implementation-engineer-network-deployment-engineering-lab-solutions-and-architecture"
-    },
-    {
       "id": "983b6e02-e960-4ba5-8139-0191712100f9",
       "company": "Google",
       "companySlug": "google",
@@ -10274,38 +10194,6 @@
       "lastVerifiedAtUtc": "2026-06-05T14:52:17.907388Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-iii-26009216",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009216"
-    },
-    {
-      "id": "90e56a40-e607-44f4-8cbc-ca6b78d577f7",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Hardware Validation Engineer ML Products University Graduate",
-      "roleCategory": "HardwareEngineeringIntern",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": true,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:23:37.801258Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:43:26.101196Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-hardware-validation-engineer-ml-products-university-graduate-107128442041836230",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/107128442041836230-hardware-validation-engineer-ml-products-university-graduate"
-    },
-    {
-      "id": "f2a20225-48de-42cd-b390-650faa0f3624",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Hardware Validation Engineer Cloud Platforms",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T21:23:36.079929Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:32:37.916162Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-hardware-validation-engineer-cloud-platforms-135325114404086470",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/135325114404086470-hardware-validation-engineer-cloud-platforms"
     },
     {
       "id": "65168ba7-7c19-473f-8897-ea4ebc9610ad",
@@ -12324,22 +12212,6 @@
       "sourceUrl": "https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml"
     },
     {
-      "id": "fa2e2e5c-9b31-41de-966b-f4dcc95e1a30",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Vision Pro Display Technology Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T00:33:51.372567Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:36:20.144731Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-vision-pro-display-technology-engineer-200666698",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666698/vision-pro-display-technology-engineer"
-    },
-    {
       "id": "98364e94-e32f-41d9-b9f8-41628c57cca3",
       "company": "Apple",
       "companySlug": "apple",
@@ -12642,22 +12514,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:55:29.218344Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-communications-lead-infrastructure-and-engineering-5239391008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5239391008"
-    },
-    {
-      "id": "5210d827-b7f3-4bb8-976a-d067e7116e2a",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Portfolio Analyst-AMEX Ventures",
-      "roleCategory": "Analyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T22:05:18.263705Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:20:25.674861Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-portfolio-analyst-amex-ventures-26007577",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26007577"
     },
     {
       "id": "bd65b958-b493-4ac3-ac9b-52aaec672969",
@@ -14676,38 +14532,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26006661"
     },
     {
-      "id": "6cbe72a4-871a-426e-951a-1ed5ffc17051",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst-Data Science",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T05:10:25.984527Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:31:58.275436Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-data-science-26007966",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26007966"
-    },
-    {
-      "id": "6ef371c1-30e1-4c74-a7bb-8871d7fd940f",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst-Risk Management",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T05:10:02.61097Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:31:57.625459Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-risk-management-26007954",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26007954"
-    },
-    {
       "id": "703ef02c-a31f-444f-99dd-0f744d7a2661",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -15442,22 +15266,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:56:40.09871Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/snowflake-sr-manager-technical-delivery-ai-machine-learning-sncousb927ad24c1eb493f9221f5011be15635externalenus2f09ebe4ba37409e8d0ca2eccb91bfac",
       "sourceUrl": "https://careers.snowflake.com/us/en/job/SNCOUSB927AD24C1EB493F9221F5011BE15635EXTERNALENUS2F09EBE4BA37409E8D0CA2ECCB91BFAC/Sr-Manager-Technical-Delivery-AI-Machine-Learning"
-    },
-    {
-      "id": "e3c11d9b-7daa-43dc-bf2f-ddbf511095d0",
-      "company": "PayPal",
-      "companySlug": "paypal",
-      "title": "Sr Software Engineer • Ledger",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Sweden",
-      "location": "Sweden",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:14:35.566484Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:59:31.012771Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-sr-software-engineer-ledger-274918328396",
-      "sourceUrl": "https://paypal.eightfold.ai/careers/job/274918328396"
     },
     {
       "id": "94485492-9384-4afd-a910-73e5784a7759",
@@ -17314,22 +17122,6 @@
       "lastVerifiedAtUtc": "2026-06-07T02:38:37.134012Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-10436814",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10436814/sr-electrical-engineer-data-center-engineering"
-    },
-    {
-      "id": "688b5265-588f-4786-888e-2cdef63ecfdc",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Image Processing Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T20:57:10.823146Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:17:59.695164Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-image-processing-engineer-87643154236220102",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/87643154236220102-image-processing-engineer"
     },
     {
       "id": "ed5df6df-2441-41a8-8dfa-f056b5872d40",
@@ -19700,22 +19492,6 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/129380148985111238-senior-software-engineer-aiml-genai-google-workspace"
     },
     {
-      "id": "f1f6a85b-f061-4708-b220-d8b1da380258",
-      "company": "IBM",
-      "companySlug": "ibm",
-      "title": "Application Developer-Mobile",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-01T11:29:59.672228Z",
-      "lastVerifiedAtUtc": "2026-06-05T08:23:48.380565Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-application-developer-mobile-117628",
-      "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
       "id": "3e9a13aa-c9cb-4d7c-8925-14123dd4e9b9",
       "company": "NVIDIA",
       "companySlug": "nvidia",
@@ -21348,38 +21124,6 @@
       "sourceUrl": "https://www.palantir.com/careers/open-positions/395a4483-fc3d-4b77-a500-501923fd0976"
     },
     {
-      "id": "b1913ffb-9933-412e-8bc5-42bc65d35355",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Principal Data Scientist Ecosystems Gemini App Deepmind",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-29T12:47:28.97591Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:23:56.914952Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-principal-data-scientist-ecosystems-gemini-app-deepmind-135720897787896518",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/135720897787896518-principal-data-scientist-ecosystems-gemini-app-deepmind"
-    },
-    {
-      "id": "8fcb154f-03f9-400b-9d85-d9ecd3def40e",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Software Engineering Manager Organizational Engineering Deepmind",
-      "roleCategory": "EngineeringManagement",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-29T12:47:28.576187Z",
-      "lastVerifiedAtUtc": "2026-06-05T09:32:36.712436Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-software-engineering-manager-organizational-engineering-deepmind-118616894906213062",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/118616894906213062-software-engineering-manager-organizational-engineering-deepmind"
-    },
-    {
       "id": "cfe91e54-fc0b-4ea7-9ffe-7662d3366d4e",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -22564,22 +22308,6 @@
       "sourceUrl": "https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864"
     },
     {
-      "id": "1972d916-adc2-4412-a96b-90874fc81745",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Software Engineer Gemini Live Deepmind",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-28T15:31:32.946228Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:24:00.429946Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-software-engineer-gemini-live-deepmind-100311847369876166",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/100311847369876166-senior-software-engineer-gemini-live-deepmind"
-    },
-    {
       "id": "48b2247e-ddd0-44a5-a123-1baf421570aa",
       "company": "Cisco",
       "companySlug": "cisco",
@@ -23570,22 +23298,6 @@
       "lastVerifiedAtUtc": "2026-06-07T00:18:33.720937Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-software-engineer-media-ads-service-334564",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334564"
-    },
-    {
-      "id": "8f045f61-5e65-4c58-8462-8ed83d814605",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Software Engineer Robin Core Experience On Ios Deepmind",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-27T14:58:44.752979Z",
-      "lastVerifiedAtUtc": "2026-06-05T10:23:59.120984Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-software-engineer-robin-core-experience-on-ios-deepmind-118901307640554182",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/118901307640554182-software-engineer-robin-core-experience-on-ios-deepmind"
     },
     {
       "id": "b02c0044-9a46-4e13-aeeb-7ad07e293583",
