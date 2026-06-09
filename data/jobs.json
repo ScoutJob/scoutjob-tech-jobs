@@ -1,8 +1,360 @@
 {
-  "generatedAtUtc": "2026-06-09T21:43:17.675592+00:00",
+  "generatedAtUtc": "2026-06-09T23:13:52.355136+00:00",
   "publicDelayMinutes": 60,
-  "total": 3556,
+  "total": 3578,
   "jobs": [
+    {
+      "id": "e9fb2988-a794-4a9d-ae75-078778e8ef39",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Applied Research Scientist, Proactive Intelligence — Personal and Agentic Search",
+      "roleCategory": "DataAiMl",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:59:09.537091Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:59:09.726689Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-applied-research-scientist-proactive-intelligence-personal-and-agentic-search-200667354",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667354/applied-research-scientist-proactive-intelligence-personal-and-agentic-search"
+    },
+    {
+      "id": "9644eb38-9420-491d-a024-f26ceaf2fe29",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Security Engineer",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:54:58.240799Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:54:59.519987Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-security-engineer-200667427",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667427/security-engineer"
+    },
+    {
+      "id": "c3cc7219-d352-49dd-a389-dc2ea4803a80",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Motion Sensing Hardware Engineer",
+      "roleCategory": "HardwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:51:47.874712Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:48.934355Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-motion-sensing-hardware-engineer-200667477",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667477/motion-sensing-hardware-engineer"
+    },
+    {
+      "id": "9e9adb2e-4b99-4d08-b0ab-2c635c0a1837",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Senior Software Engineer, Apple Intelligence Data Platform - Proactive",
+      "roleCategory": "SeniorDataAiMl",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:50:00.696953Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:01.996441Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-software-engineer-apple-intelligence-data-platform-proactive-200667358",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667358/senior-software-engineer-apple-intelligence-data-platform-proactive"
+    },
+    {
+      "id": "8a892e8f-b682-496b-976f-1f11e10a23d3",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Systems Engineer - Evaluation Engineering",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:47:12.346112Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:12.538873Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-systems-engineer-evaluation-engineering-200667461",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667461/systems-engineer-evaluation-engineering"
+    },
+    {
+      "id": "bf1e845b-7ead-47a5-bab0-fc17012cf92f",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Generative AI Applied Scientist, SIML - ISE",
+      "roleCategory": "DataAiMl",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:40:45.280463Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:40:45.6809Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-generative-ai-applied-scientist-siml-ise-200632699",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200632699/generative-ai-applied-scientist-siml-ise"
+    },
+    {
+      "id": "a2a05721-a7e5-43d2-a9cb-76233fcfe2b1",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "iPhone Analog & Power Systems Engineer",
+      "roleCategory": "HardwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:36:59.868218Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:37:00.471903Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-iphone-analog-power-systems-engineer-200667484",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200667484/iphone-analog-power-systems-engineer"
+    },
+    {
+      "id": "c896a4fa-8a94-4de9-a592-820a6a8a6ddb",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Machine Learning Engineer, Proactive — Large Language Models, Generative AI & Agentic Systems",
+      "roleCategory": "DataAiMl",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:35:58.810283Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:35:58.812014Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-engineer-proactive-large-language-models-generative-ai-agentic-systems-200664261",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200664261/machine-learning-engineer-proactive-large-language-models-generative-ai-agentic-systems"
+    },
+    {
+      "id": "032f50c7-bbb3-4c8e-9072-bcabced52420",
+      "company": "NVIDIA",
+      "companySlug": "nvidia",
+      "title": "Senior Software Engineer - Infrastructure and Tools",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "Canada",
+      "location": "Canada",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:24:15.924506Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:24:15.926589Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-infrastructure-and-tools-893395505911",
+      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395505911"
+    },
+    {
+      "id": "2a0aff95-2b18-4753-bc45-d09d1abc7390",
+      "company": "Workday",
+      "companySlug": "workday",
+      "title": "Sr Cloud Engineer (US Federal)",
+      "roleCategory": "SeniorSoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:23:03.115907Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:23:03.117764Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-sr-cloud-engineer-us-federal-jr-0097206",
+      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Sr-Software-Engineer--US-Federal-_JR-0097206"
+    },
+    {
+      "id": "9e28e448-4275-4f36-866c-55367d1ce6d1",
+      "company": "Workday",
+      "companySlug": "workday",
+      "title": "Software Development Engineer (Full Stack)",
+      "roleCategory": "SoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:23:01.951334Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:23:01.955156Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-software-development-engineer-full-stack-jr-0107681",
+      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Software-Development-Engineer--Full-Stack-_JR-0107681"
+    },
+    {
+      "id": "620a568e-dcdd-43aa-b184-6bb8aed26fd1",
+      "company": "Microsoft",
+      "companySlug": "microsoft",
+      "title": "Principal Software Engineering Architect",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "Canada",
+      "location": "Canada",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:16:30.132335Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:16:30.142713Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-architect-1970393556847406",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556847406"
+    },
+    {
+      "id": "f7c63703-3436-4fcc-94ef-f5dc45953cb7",
+      "company": "Microsoft",
+      "companySlug": "microsoft",
+      "title": "Senior Software Engineer - Azure Data Engineering Team",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "Canada",
+      "location": "Canada",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:16:16.770576Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:16:16.788817Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-data-engineering-team-1970393556872429",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556872429"
+    },
+    {
+      "id": "edbd959b-0724-4fff-85de-d6e251c3fe92",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "Memory Validation Engineer",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:11:22.803288Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:11:22.81262Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-memory-validation-engineer-87016",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/87016"
+    },
+    {
+      "id": "ac24b49b-dd78-4769-ac9b-284579da1e6e",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "MTS Software Development Eng.",
+      "roleCategory": "SoftwareEngineering",
+      "country": "Canada",
+      "location": "Canada",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:11:19.805107Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:11:19.809429Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-mts-software-development-eng-86720",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86720"
+    },
+    {
+      "id": "cac11242-5bac-4336-96af-51189998974e",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "Manager Software Development-Automation",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:11:02.663848Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:11:02.6795Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-manager-software-development-automation-86688",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86688"
+    },
+    {
+      "id": "a59acaf1-4f92-4738-ad6d-100b76cf94fc",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "DFx Methodology Architect",
+      "roleCategory": "SeniorSoftwareEngineeringExtensive",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:10:55.357139Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:10:55.405367Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-dfx-methodology-architect-86901",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86901"
+    },
+    {
+      "id": "85337943-a4ba-4906-adcb-3ea290d9ac77",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "RTL/Logic Design Engineer",
+      "roleCategory": "HardwareEngineering",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:10:50.414332Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:10:50.419613Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-rtl-logic-design-engineer-86655",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86655"
+    },
+    {
+      "id": "43978e5f-4aca-4734-b10d-00573cb75c77",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "CPU Core Design Verification Engineer",
+      "roleCategory": "HardwareEngineering",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:10:44.396349Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:10:44.497259Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-cpu-core-design-verification-engineer-79771",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/79771"
+    },
+    {
+      "id": "f127c0ab-b223-4ee5-87bd-cd3d5104e1f2",
+      "company": "AMD",
+      "companySlug": "amd",
+      "title": "Principal Linux Systems Architect",
+      "roleCategory": "SeniorSoftwareEngineeringExtensive",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:10:36.995993Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:10:36.999216Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-principal-linux-systems-architect-81089",
+      "sourceUrl": "https://careers.amd.com/careers-home/jobs/81089"
+    },
+    {
+      "id": "73019642-55fa-408b-815b-47a19d90a323",
+      "company": "Intuit",
+      "companySlug": "intuit",
+      "title": "Senior Software Quality Analyst",
+      "roleCategory": "SeniorAnalyst",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T21:00:29.314636Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:58.797597Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-senior-software-quality-analyst-96211577056-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates",
+      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/senior-software-quality-analyst/27595/96211577056"
+    },
+    {
+      "id": "2001e295-0f81-4050-96b3-683684f56d38",
+      "company": "Bloomberg",
+      "companySlug": "bloomberg",
+      "title": "Senior Software Engineer - Functional Integration",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-09T20:50:27.393141Z",
+      "lastVerifiedAtUtc": "2026-06-09T20:50:27.40826Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-functional-integration-19437",
+      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Functional-Integration/19437"
+    },
     {
       "id": "d4154e48-636b-4284-9a3a-de811d3aa75b",
       "company": "American Express",
@@ -1087,7 +1439,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:58.178241Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:58.188551Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:36:55.545412Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-early-careers-soc-physical-design-engineer-m-f-d-200667397",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667397/early-careers-soc-physical-design-engineer-m-f-d"
     },
@@ -1103,7 +1455,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:41.504075Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:41.745867Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:36:40.218069Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-cad-physical-design-engineer-200667400",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667400/cad-physical-design-engineer"
     },
@@ -1119,7 +1471,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:31.773999Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:31.783514Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:35:34.891173Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-research-engineer-machine-translation-200663286",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200663286/machine-learning-research-engineer-machine-translation"
     },
@@ -1135,7 +1487,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:27.056156Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:27.145153Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:33:47.960841Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-enclosures-200667033",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667033/manufacturing-quality-engineer-mqe-enclosures"
     },
@@ -1151,7 +1503,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:21.998177Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:21.999891Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:33:04.349306Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-brittles-200665961",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200665961/manufacturing-quality-engineer-brittles"
     },
@@ -1183,7 +1535,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:13.103727Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:28.787558Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:57:09.304204Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-corporate-treasury-associate-software-engineering-slc-174505",
       "sourceUrl": "https://higher.gs.com/roles/174505"
     },
@@ -1215,7 +1567,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:33:07.338065Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:33:07.355387Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:31:09.235712Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-enclosures-200667039",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667039/manufacturing-quality-engineer-mqe-enclosures"
     },
@@ -1231,7 +1583,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:54.058839Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:54.101366Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:29:25.96048Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-color-200667025",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667025/manufacturing-quality-engineer-color"
     },
@@ -1247,7 +1599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:49.445484Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:49.583773Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:26:25.817562Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-enclosures-200667038",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667038/manufacturing-quality-engineer-mqe-enclosures"
     },
@@ -1263,7 +1615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:41.041554Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:41.18201Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:25:50.689805Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-enclosures-200667036",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667036/manufacturing-quality-engineer-mqe-enclosures"
     },
@@ -1279,7 +1631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:30.129578Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:30.267624Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:24:40.798675Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-enclosures-200667040",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667040/manufacturing-quality-engineer-mqe-enclosures"
     },
@@ -1295,7 +1647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:16.81149Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:16.821992Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:53.860731Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-music-recommendation-engine-200656273",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200656273/senior-machine-learning-engineer-music-recommendation-engine"
     },
@@ -1311,7 +1663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:32:01.741125Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:32:01.787646Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:16.712765Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-applied-research-scientist-200667370",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667370/sr-applied-research-scientist"
     },
@@ -1327,7 +1679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:31:53.400243Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:53.408128Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:19:53.160916Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-software-engineer-generative-ai-ml-customer-systems-200667162",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667162/senior-software-engineer-generative-ai-ml-customer-systems"
     },
@@ -1343,7 +1695,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:31:42.022511Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:42.0295Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:16:17.968257Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-rf-mmw-device-engineer-m-f-d-200667413",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667413/rf-mmw-device-engineer-m-f-d"
     },
@@ -1359,7 +1711,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:31:34.591708Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:34.600976Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:13:18.413805Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-security-engineer-red-team-200667342",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667342/senior-security-engineer-red-team"
     },
@@ -1391,7 +1743,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:31:27.776823Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:27.778573Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:09:14.71755Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-darwin-runtime-engineer-core-os-200641854",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200641854/darwin-runtime-engineer-core-os"
     },
@@ -1407,7 +1759,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T18:31:18.756766Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:18.758254Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:11.067017Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-machine-learning-ios-platform-engineer-responsible-ai-and-safety-200667449",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667449/senior-machine-learning-ios-platform-engineer-responsible-ai-and-safety"
     },
@@ -2495,7 +2847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T13:32:36.995846Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:40.690607Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:59:29.057619Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-asset-wealth-management-new-york-associate-quantitative-engineering-3851607-176285",
       "sourceUrl": "https://higher.gs.com/roles/176285"
     },
@@ -2511,7 +2863,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T13:30:07.74355Z",
-      "lastVerifiedAtUtc": "2026-06-09T19:47:48.436305Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:48.57381Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-buy-side-15596",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Buy-Side/15596"
     },
@@ -2879,7 +3231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T10:34:53.784771Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:18.484974Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:52:44.582553Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-pricing-analytics-17246",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Pricing-Analytics/17246"
     },
@@ -2911,7 +3263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T10:19:04.53554Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:02.193882Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:37:18.667329Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-firmware-embedded-msp-200667381",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667381/firmware-embedded-msp"
     },
@@ -4335,7 +4687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T07:33:22.422019Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:15.33165Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:43:24.933233Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-instrument-systems-design-engineer-200667269",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667269/instrument-systems-design-engineer"
     },
@@ -4351,7 +4703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T07:33:18.583605Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:11.710916Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:41:41.609417Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-data-center-hardware-engineering-hardware-system-integration-engineer-200667245",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667245/data-center-hardware-engineering-hardware-system-integration-engineer"
     },
@@ -4367,7 +4719,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T07:33:14.811262Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:09.615739Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:40:27.06616Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-wireless-system-engineer-wireless-technologies-ecosystems-200667171",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667171/wireless-system-engineer-wireless-technologies-ecosystems"
     },
@@ -4383,7 +4735,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T07:33:12.156566Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:07.512013Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:38:07.192519Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-data-scientist-maps-evaluation-200666663",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666663/data-scientist-maps-evaluation"
     },
@@ -10127,7 +10479,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:40:04.860058Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:35.534279Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:27.506096Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-custom-data-17167",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Custom-Data/17167"
     },
@@ -10159,7 +10511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:39:12.95449Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:49:57.366522Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:02.515269Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-fxgo-18215",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-FXGO/18215"
     },
@@ -10175,7 +10527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:38:40.730562Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:46:38.417632Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:45:55.6456Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-bquant-18779",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-BQuant/18779"
     },
@@ -10191,7 +10543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:37:21.194475Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:47:24.535243Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:00.741856Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-integration-18312",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Integration/18312"
     },
@@ -10207,7 +10559,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:36:22.62908Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:48:00.801536Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:16.898751Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-tradebook-15317",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Tradebook/15317"
     },
@@ -10223,7 +10575,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:35:25.936511Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:48:47.412139Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:36.682792Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-bql-19937",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-BQL/19937"
     },
@@ -10239,7 +10591,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:35:09.922104Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:05.319368Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:19.273665Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-bquant-19940",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-BQuant/19940"
     },
@@ -10255,7 +10607,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:34:51.532859Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:04.387103Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:16.177136Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-fxgo-16749",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-FXGO/16749"
     },
@@ -10271,7 +10623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:34:37.847888Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:49:00.191202Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:46.581054Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-launchpad-17601",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Launchpad/17601"
     },
@@ -10287,7 +10639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:34:00.926928Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:45:38.494609Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:44:33.428073Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-vault-19513",
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-VAULT/19513"
     },
@@ -10335,7 +10687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-09T00:16:18.860658Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:17.296029Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:45:29.681544Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-development-engineer-in-test-wireless-technologies-and-ecosystems-200664179",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200664179/software-development-engineer-in-test-wireless-technologies-and-ecosystems"
     },
@@ -11039,7 +11391,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T23:22:15.158974Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:31.728109Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:48:32.23506Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-system-services-daemons-core-os-200667318",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667318/software-engineer-system-services-daemons-core-os"
     },
@@ -11055,7 +11407,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T23:22:12.89392Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:29.116949Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:46:42.532001Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-200666339",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666339/senior-machine-learning-engineer"
     },
@@ -11151,7 +11503,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T23:08:46.55305Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:35.669203Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:50:03.558884Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-display-metrology-engineer-200667314",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667314/display-metrology-engineer"
     },
@@ -11231,7 +11583,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:53:51.666251Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:55.36235Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:53:08.71632Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-manager-data-for-foundation-models-200667330",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667330/machine-learning-manager-data-for-foundation-models"
     },
@@ -11263,7 +11615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:53:44.58201Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:38.536417Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:51:31.298849Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-aiml-engineer-human-perception-200667012",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667012/aiml-engineer-human-perception"
     },
@@ -11535,7 +11887,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:40:24.397136Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:36.770971Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:50:54.692234Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-aiml-sr-machine-learning-engineer-data-and-ml-innovation-200667335",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667335/aiml-sr-machine-learning-engineer-data-and-ml-innovation"
     },
@@ -11551,7 +11903,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:40:15.174471Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:07.962958Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:57:04.343327Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-aiml-machine-learning-research-200666843",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666843/aiml-machine-learning-research"
     },
@@ -11567,7 +11919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:40:07.911596Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:00.324203Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:55:10.554976Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-systems-integration-engineer-data-center-hwe-200655594",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200655594/systems-integration-engineer-data-center-hwe"
     },
@@ -11583,7 +11935,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T22:40:03.971719Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:34:59.532561Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:54:12.995123Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-systems-integration-engineer-data-center-hwe-200647212",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200647212/systems-integration-engineer-data-center-hwe"
     },
@@ -11871,7 +12223,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T21:30:00.699449Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:21.588669Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:59:24.226704Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-systems-software-developer-200667308",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667308/systems-software-developer"
     },
@@ -11887,7 +12239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T21:29:56.490978Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:18.521837Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:59:04.001347Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-cloud-security-engineer-200653483",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200653483/senior-cloud-security-engineer"
     },
@@ -12031,7 +12383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T21:00:41.261437Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:23.192566Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:04.040917Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-engineer-ai-ml-evaluation-frameworks-200665512",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200665512/machine-learning-engineer-ai-ml-evaluation-frameworks"
     },
@@ -12191,7 +12543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T20:47:11.858785Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:02.37383Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:40.216982Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-of-issues-events-remediation-26009229",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009229"
     },
@@ -12207,7 +12559,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T20:33:35.55414Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:31.774365Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:47.784735Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-battery-materials-characterization-engineer-200667075",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667075/battery-materials-characterization-engineer"
     },
@@ -13247,7 +13599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T17:40:38.17772Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:30.856289Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:49.143131Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-solutions-architect-200666389",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666389/solutions-architect"
     },
@@ -13263,7 +13615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T17:38:56.423595Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:44.653964Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:55:07.671766Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-backend-software-engineer-global-commercial-services-technology-26009320",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009320"
     },
@@ -13407,7 +13759,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T17:15:19.308491Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:22.310293Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:38.687999Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-solutions-architect-200666384",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666384/solutions-architect"
     },
@@ -13471,7 +13823,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T16:59:15.874901Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:47.134397Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:06.824189Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-data-engineer-people-analytics-7988010",
       "sourceUrl": "https://careers.airbnb.com/positions/7988010"
     },
@@ -13519,7 +13871,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T16:45:36.981424Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:33.055598Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:04:54.430608Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-system-product-design-engineer-iphone-200659882",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200659882/system-product-design-engineer-iphone"
     },
@@ -13551,7 +13903,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T16:45:07.432592Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:29.853567Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:51.118668Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-financial-analyst-26009245",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009245"
     },
@@ -13935,7 +14287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T16:16:01.629761Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:44.324006Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:06:25.232703Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-security-software-engineer-os-security-200667231",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667231/security-software-engineer-os-security"
     },
@@ -14239,7 +14591,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T15:33:07.640705Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:42.953232Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:39.093371Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-new-york-associate-software-engineering-039343-176113",
       "sourceUrl": "https://higher.gs.com/roles/176113"
     },
@@ -15247,7 +15599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T13:06:11.64135Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:52.681215Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:04.024158Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-richardson-associate-software-engineering-039189-176100",
       "sourceUrl": "https://higher.gs.com/roles/176100"
     },
@@ -15887,7 +16239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T10:56:37.615569Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:11.497031Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:35.242473Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-manager-quality-engineering-26009031",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009031"
     },
@@ -16367,7 +16719,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T09:02:18.232461Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:51.907439Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:17.993068Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26009222",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009222"
     },
@@ -16495,7 +16847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T08:49:33.657235Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:38.688661Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:27.716545Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26009269",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009269"
     },
@@ -16511,7 +16863,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T08:49:29.232646Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:29.047657Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:46.813096Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26009082",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009082"
     },
@@ -16879,7 +17231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T07:53:08.371662Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:41.849335Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:02.921223Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-lead-analyst-26009126",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009126"
     },
@@ -16927,7 +17279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T07:24:11.484921Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:59.453238Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:10.072121Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-lead-analyst-26009020",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009020"
     },
@@ -17583,7 +17935,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T01:55:58.357538Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:42.857075Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:44:06.552221Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-business-development-26008595",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008595"
     },
@@ -17631,7 +17983,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-08T01:43:06.528521Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:50.500124Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:45:43.680809Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-business-analyst-26008984",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008984"
     },
@@ -18287,7 +18639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-06T04:53:17.351423Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:47.8933Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:10.748884Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-software-development-engineer-applied-ml-200667082",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667082/sr-software-development-engineer-applied-ml-hardware-product-design"
     },
@@ -18319,7 +18671,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-06T01:44:53.057212Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:50.265521Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:39.916271Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-wallet-payment-commerce-200667108",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200667108/senior-machine-learning-engineer-wallet-payment-commerce"
     },
@@ -18351,7 +18703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-06T01:02:08.787928Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:35:53.90957Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:46.0461Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-detection-and-response-software-engineer-200655126",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200655126/detection-and-response-software-engineer"
     },
@@ -18463,7 +18815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-06T00:32:28.724721Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:47.674736Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:56:36.836194Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-ai-engineer-i-agentic-ai-26002766",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26002766"
     },
@@ -19567,7 +19919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T20:42:16.052288Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:49.729181Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:57:07.796117Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-go-to-market-enablement-26006666",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26006666"
     },
@@ -19743,7 +20095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T20:07:10.856276Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:36:03.002325Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:57.693479Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-operations-engineer-retail-store-operations-support-retail-marcom-engineering-200666650",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666650/senior-operations-engineer-retail-store-operations-support-retail-marcom-engineering"
     },
@@ -20399,7 +20751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T18:18:51.037053Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:36:05.472896Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:01.025068Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-systems-quality-robotics-automation-engineer-200648505",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200648505/systems-quality-robotics-automation-engineer"
     },
@@ -20591,7 +20943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T17:25:07.660456Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:08.312763Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:28:00.602156Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-safeguards-data-infrastructure-5247156008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5247156008"
     },
@@ -21919,7 +22271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-05T04:42:02.286756Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:54.251412Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:58:25.676351Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26007033",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26007033"
     },
@@ -23599,7 +23951,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T23:04:48.967302Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:01.098807Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:24:40.61142Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-privacy-infrastructure-5227810008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5227810008"
     },
@@ -23935,7 +24287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:24:32.365541Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:47.728032Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:56:51.533482Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-software-engineer-25302",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25302/software-engineer/job"
     },
@@ -23951,7 +24303,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:24:23.73685Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:44.781875Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:58.512124Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-software-engineer-25301",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25301/software-engineer/job"
     },
@@ -23967,7 +24319,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T22:24:20.366013Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:38.838993Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:22.165264Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-senior-software-engineer-25303",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25303/senior-software-engineer/job"
     },
@@ -24255,7 +24607,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T20:11:05.163408Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:01.093347Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:36.665515Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-applied-machine-learning-engineer-intelligent-data-signals-systems-5248631008",
       "sourceUrl": "https://block.xyz/careers/jobs/5248631008"
     },
@@ -24271,7 +24623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T20:11:03.286268Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:49:00.193274Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:10.490202Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-applied-machine-learning-engineer-fraud-abuse-4969342008",
       "sourceUrl": "https://block.xyz/careers/jobs/4969342008"
     },
@@ -24431,7 +24783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T19:13:14.576589Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:35.625875Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:36.473909Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-senior-solutions-engineer-majors-nyc-7980647",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7980647"
     },
@@ -24735,7 +25087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T17:15:41.132849Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:38.505635Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:49:16.577868Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-senior-backend-software-engineer-25299",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25299/senior-backend-software-engineer/job"
     },
@@ -24815,7 +25167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T16:18:06.975214Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:03.315497Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:39.920523Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-corporate-planning-management-software-engineering-dallas-associate-170257",
       "sourceUrl": "https://higher.gs.com/roles/170257"
     },
@@ -24831,7 +25183,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T16:18:02.52115Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:00.163008Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:14.033919Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-corporate-planning-management-data-engineering-new-york-associate-170256",
       "sourceUrl": "https://higher.gs.com/roles/170256"
     },
@@ -24943,7 +25295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T13:48:52.3814Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:09.365202Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:49.174182Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-specialized-cloud-software-engineer-associate-seattle-175190",
       "sourceUrl": "https://higher.gs.com/roles/175190"
     },
@@ -24959,7 +25311,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T13:48:49.52976Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:04.041146Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:46.051106Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-asset-wealth-management-software-engineering-associate-dallas-159036",
       "sourceUrl": "https://higher.gs.com/roles/159036"
     },
@@ -25103,7 +25455,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T08:54:14.783933Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:47.85423Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:57:43.50214Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-solutions-engineer-central-eastern-europe-hebrew-speaking-7978788",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7978788"
     },
@@ -25183,7 +25535,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T05:50:58.521008Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:18.430393Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:55.25149Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-senior-staff-software-engineer-bangalore-india-95972804096-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates",
       "sourceUrl": "https://jobs.intuit.com/job/bengaluru/senior-staff-software-engineer/27595/95972804096"
     },
@@ -25199,7 +25551,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T05:50:53.457858Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:16.080256Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:41.209467Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-staff-software-engineer-bangalore-india-95972804192-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates",
       "sourceUrl": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/95972804192"
     },
@@ -25215,7 +25567,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T05:31:58.109199Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:48:47.419398Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:46:33.834207Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-senior-ml-ai-modeler-risk-automation-machine-learning-5198103008",
       "sourceUrl": "https://block.xyz/careers/jobs/5198103008"
     },
@@ -25455,7 +25807,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-04T00:33:48.492418Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:31.056419Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:11:23.764028Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-firmware-sensors-engineer-home-and-audio-devices-200666695",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200666695/firmware-sensors-engineer-home-and-audio-devices"
     },
@@ -25647,7 +25999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T22:06:12.075051Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:48:42.863884Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:45:20.30761Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-senior-machine-learning-engineer-model-risk-management-5198097008",
       "sourceUrl": "https://block.xyz/careers/jobs/5198097008"
     },
@@ -25711,7 +26063,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T21:38:25.596442Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:39.512257Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:48.463947Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-machine-learning-engineer-modeling-support-5198105008",
       "sourceUrl": "https://block.xyz/careers/jobs/5198105008"
     },
@@ -26655,7 +27007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T14:37:27.762584Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:32.0867Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:50.401092Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-senior-manager-solutions-engineering-mid-market-latam-canada-25233",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25233/senior-manager%2c-solutions-engineering%2c-mid-market-latam-canada/job"
     },
@@ -26799,7 +27151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T12:54:45.19017Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:14.71339Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:56.858111Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-new-york-associate-software-engineering-039297-175520",
       "sourceUrl": "https://higher.gs.com/roles/175520"
     },
@@ -28975,7 +29327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-03T00:00:24.005744Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:47.390593Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:23.1994Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-p-data-scientist-policy-5232055008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008"
     },
@@ -29167,7 +29519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T22:34:37.765112Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:27.148426Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:31.979425Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-life-sciences-5239733008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5239733008"
     },
@@ -29471,7 +29823,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T21:02:45.305818Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:09.432238Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:43:23.577954Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-full-stack-engineer-reservations-and-additional-products-7763307",
       "sourceUrl": "https://careers.airbnb.com/positions/7763307"
     },
@@ -30399,7 +30751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:43:38.717816Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:39.104612Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:51.111953Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-product-engineer-computer-use-5238637008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008"
     },
@@ -30431,7 +30783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:42:17.664836Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:07.337861Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:14.320741Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-business-solutions-engineer-biztech-7716311",
       "sourceUrl": "https://careers.airbnb.com/positions/7716311"
     },
@@ -30447,7 +30799,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T20:41:41.81318Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:41.617985Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:52:17.508086Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-scientist-safeguards-5209196008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008"
     },
@@ -30495,7 +30847,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T18:17:27.890883Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:21.833241Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:00.581939Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-amd-private-dallas-associate-security-engineering-163935",
       "sourceUrl": "https://higher.gs.com/roles/163935"
     },
@@ -30527,7 +30879,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T16:14:16.355462Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:00.69838Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:46:24.038063Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-senior-solutions-engineer-latam-mcr-mexico-city-7975434",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7975434"
     },
@@ -30591,7 +30943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T09:18:59.406492Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:43.232775Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:39.278702Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-senior-backend-engineer-devops-senior-backend-engineer-devops-jr-14838",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/senior-backend-engineer---devops-jr_14838"
     },
@@ -30607,7 +30959,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T09:18:57.070431Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:36.587716Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:59:23.778744Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-mid-software-engineer-python-mid-software-engineer-python-jr-14837",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/mid-software-engineer---python-jr_14837"
     },
@@ -30623,7 +30975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-02T05:22:46.79916Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:49.409894Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:24.028791Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-solution-architect-ai-cloudflare-developer-platform-7529800",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7529800"
     },
@@ -30911,7 +31263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:19:36.222888Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:21.835766Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:56:46.67482Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-partner-solutions-architect-applied-ai-5222908008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5222908008"
     },
@@ -30927,7 +31279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:19:34.560236Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:24.807894Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:58:56.266223Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-partner-solutions-architect-applied-ai-4950664008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
     },
@@ -30943,7 +31295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:18:13.575825Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:11.054906Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:36.674863Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-center-mechanical-engineer-5227413008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5227413008"
     },
@@ -30959,7 +31311,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:18:12.284696Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:55.822995Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:10.758421Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-center-hardware-operations-lead-5218186008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008"
     },
@@ -30991,7 +31343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T22:18:09.823212Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:50.006648Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:46:31.866323Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-center-electrical-engineer-5227411008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
     },
@@ -31663,7 +32015,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-06-01T20:58:49.806571Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:52.085135Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:15.084618Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-senior-infrastructure-software-engineer-dx-25116",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25116/senior-infrastructure-software-engineer-|-dx/job"
     },
@@ -32271,7 +32623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-30T03:43:55.528546Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:24.747255Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:09:13.415895Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-cybersecurity-products-5236531008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008"
     },
@@ -33215,7 +33567,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T15:23:34.212799Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:43.631406Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:08.287491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-systems-engineer-maps-7742773",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7742773"
     },
@@ -33247,7 +33599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-29T14:59:56.350571Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:29.012664Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:07.439154Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-mlops-engineer-machine-learning-platform-new-york-153822",
       "sourceUrl": "https://higher.gs.com/roles/153822"
     },
@@ -33807,7 +34159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T22:40:05.560716Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:57.342456Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:55.523544Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-platform-foundations-5206492008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5206492008"
     },
@@ -33855,7 +34207,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T22:12:12.489501Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:33.066415Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:14:26.784886Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-engineer-mid-market-25244",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25244/solutions-engineer%2c-mid-market/job"
     },
@@ -34095,7 +34447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T20:02:48.275905Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:31.063915Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:50.8627Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-systems-engineer-data-7527453",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7527453"
     },
@@ -34159,7 +34511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T19:07:25.887265Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:37.407279Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:46.583618Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-frontend-engineer-client-data-networking-platform-7962101",
       "sourceUrl": "https://careers.airbnb.com/positions/7962101"
     },
@@ -34191,7 +34543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T18:38:49.585414Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:39.091913Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:12.833423Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-dallas-associate-quantitative-engineering-033664-175163",
       "sourceUrl": "https://higher.gs.com/roles/175163"
     },
@@ -34399,7 +34751,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T17:41:36.808999Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:40.416619Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:26.777957Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-salt-lake-city-associate-software-engineering-033533-175155",
       "sourceUrl": "https://higher.gs.com/roles/175155"
     },
@@ -34463,7 +34815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T17:01:16.886887Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:48.280338Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:44.127472Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-salt-lake-city-associate-software-engineering-033474-175153",
       "sourceUrl": "https://higher.gs.com/roles/175153"
     },
@@ -34479,7 +34831,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-28T17:01:14.824215Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:42.484553Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:33.282962Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-dallas-associate-software-engineering-033194-175154",
       "sourceUrl": "https://higher.gs.com/roles/175154"
     },
@@ -35423,7 +35775,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-27T16:47:16.298449Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:47.732803Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:04.325309Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-scientist-developer-productivity-5197529008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008"
     },
@@ -36271,7 +36623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T23:46:10.230663Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:09.627481Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:17.983806Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-data-analyst-block-compliance-5114747008",
       "sourceUrl": "https://block.xyz/careers/jobs/5114747008"
     },
@@ -36351,7 +36703,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T21:41:59.656571Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:36:00.049974Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:55.050979Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-video-engineer-200618357",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200618357/machine-learning-video-engineer"
     },
@@ -36735,7 +37087,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T15:00:19.77026Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:07.622144Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:08.93513Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-api-core-5081338008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5081338008"
     },
@@ -36751,7 +37103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T14:59:56.618149Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:18.941951Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:14.901417Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-senior-solutions-engineer-named-accounts-cincinnati-oh-7954702",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7954702"
     },
@@ -36799,7 +37151,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T13:20:18.027814Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:59.790896Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:09:33.842473Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-architect-dx-25240",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25240/solutions-architect-|-dx/job"
     },
@@ -36815,7 +37167,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T13:20:17.243079Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:54.205422Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:44.924103Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-architect-dx-25239",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25239/solutions-architect-|-dx/job"
     },
@@ -42191,7 +42543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:16.233039Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:44.888577Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:12:37.771328Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-security-engineer-threat-intel-5195705008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008"
     },
@@ -42271,7 +42623,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:31:00.010013Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:41.341313Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:12:31.99069Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-safeguards-policy-analyst-fraud-scams-5174857008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174857008"
     },
@@ -42287,7 +42639,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:58.370233Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:38.953245Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:12:25.330755Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-safeguards-enforcement-analyst-safety-evaluations-5137183008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5137183008"
     },
@@ -42335,7 +42687,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:55.427926Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:28.959981Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:51.316534Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-societal-impacts-5076616008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076616008"
     },
@@ -42367,7 +42719,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:54.45195Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:26.085391Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:28.719892Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-scientist-interpretability-4980427008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008"
     },
@@ -42431,7 +42783,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:45.929462Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:23.410593Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:23.949393Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-universes-5061517008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008"
     },
@@ -42463,7 +42815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:38.733122Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:20.994508Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:17.964682Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-societal-impacts-5076606008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076606008"
     },
@@ -42511,7 +42863,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:36.27115Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:17.267144Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:12.199675Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-frontier-red-team-cyber-5076477008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5076477008"
     },
@@ -42543,7 +42895,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:35.687199Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:10.00461Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:11:08.477395Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-alignment-science-london-4610158008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008"
     },
@@ -42575,7 +42927,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:31.844998Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:07.257496Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:56.905734Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-scientist-alignment-science-4631822008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
     },
@@ -42591,7 +42943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:22.185266Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:05.443387Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:41.302936Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-science-of-scaling-5126127008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5126127008"
     },
@@ -42639,7 +42991,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:16.031232Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:03.926655Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:37.488825Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-safeguards-labs-5191785008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5191785008"
     },
@@ -42671,7 +43023,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:07.280744Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:06.807713Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:58.826498Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-knowledge-foundations-5197337008-7ceee261",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197337008"
     },
@@ -42719,7 +43071,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:03.516426Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:02.012969Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:34.118253Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-tokens-4951814008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008"
     },
@@ -42751,7 +43103,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:30:02.810462Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:01:00.373737Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:22.792713Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-pre-training-4616971008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008"
     },
@@ -42783,7 +43135,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:55.215512Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:59.668762Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:11.131422Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-research-scientist-pre-training-5135168008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008"
     },
@@ -42847,7 +43199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:41.632334Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:44.456461Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:04.046432Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-production-model-post-training-4613592008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008"
     },
@@ -42879,7 +43231,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:32.945277Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:56.422867Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:08.03387Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-production-model-post-training-5112018008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008"
     },
@@ -42911,7 +43263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:30.235127Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:40.687049Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:47.981746Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-scaling-london-4938436008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008"
     },
@@ -42943,7 +43295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:24.411958Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:38.997918Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:44.794653Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-scaling-4938432008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008"
     },
@@ -42975,7 +43327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:22.016134Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:37.086567Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:42.426418Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-pretraining-5119713008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008"
     },
@@ -42991,7 +43343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:20.783958Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:29.403978Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:30.737491Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-performance-rl-5160330008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5160330008"
     },
@@ -43023,7 +43375,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:18.541347Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:19.519478Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:12.966095Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-model-evaluations-5198255008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008"
     },
@@ -43055,7 +43407,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:12.943324Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:13.870646Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:10.568434Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-rl-velocity-5198074008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008"
     },
@@ -43087,7 +43439,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:29:02.11083Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:15.85924Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:07.810485Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-rl-velocity-5198108008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008"
     },
@@ -43103,7 +43455,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:59.933838Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:11.17299Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:06.07525Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-reinforcement-learning-4613568008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008"
     },
@@ -43135,7 +43487,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:53.513027Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:09.565191Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:05.062308Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-machine-learning-reinforcement-learning-5115935008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008"
     },
@@ -43167,7 +43519,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:49.07959Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:08.354452Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:02.29015Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-knowledge-team-4017331008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008"
     },
@@ -43199,7 +43551,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:46.376945Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:00.727329Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:55.184665Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-interpretability-4980430008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008"
     },
@@ -43247,7 +43599,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:39.530597Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:55.317241Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:48.207607Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-environment-scaling-4951064008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951064008"
     },
@@ -43279,7 +43631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:33.289762Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:50.426709Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:41.447424Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-economic-research-data-platform-5071132008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008"
     },
@@ -43311,7 +43663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:27.756894Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:48.277914Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:08:14.212999Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-discovery-4669581008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008"
     },
@@ -43327,7 +43679,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:25.087117Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:47.092016Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:06:27.804739Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-cybersecurity-reinforcement-learning-5025624008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008"
     },
@@ -43359,7 +43711,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:20.920345Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:40.669977Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:04:55.865875Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-research-engineer-ai-observability-5125083008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5125083008"
     },
@@ -43439,7 +43791,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:10.529529Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:31.475763Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:03.819058Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-performance-engineer-inference-systems-5224564008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008"
     },
@@ -43471,7 +43823,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:09.795018Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:29.269535Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:39.293821Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-performance-engineer-gpu-4926227008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008"
     },
@@ -43503,7 +43855,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:28:07.235582Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:27.103655Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:59:24.603403Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-performance-engineer-4020350008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008"
     },
@@ -43567,7 +43919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:54.07907Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:14.710835Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:54:12.984064Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-network-engineer-capacity-and-efficiency-5177143008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5177143008"
     },
@@ -43599,7 +43951,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:47.327048Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:08.961495Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:51:31.905615Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-model-performance-software-engineer-claude-code-5098025008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008"
     },
@@ -43631,7 +43983,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:38.856797Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:03.572929Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:50:35.999145Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-ml-research-engineer-safeguards-4949336008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008"
     },
@@ -43663,7 +44015,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:35.822202Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:02.287407Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:48:31.171751Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-ml-infrastructure-engineer-safeguards-4778843008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008"
     },
@@ -43711,7 +44063,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:32.394643Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:59.375767Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:46:38.441424Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-machine-learning-systems-engineer-rl-engineering-4952051008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008"
     },
@@ -43743,7 +44095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:29.813596Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:58.13743Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:44:27.145751Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-machine-learning-systems-engineer-research-tools-4952079008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008"
     },
@@ -43759,7 +44111,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:28.573879Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:57.230381Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:42:48.716128Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-it-systems-engineer-enterprise-saas-5161882008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5161882008"
     },
@@ -43807,7 +44159,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:08.917596Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:53.253385Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:40:55.709978Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-infrastructure-engineer-sandboxing-5030680008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008"
     },
@@ -43855,7 +44207,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:03.821853Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:46.507027Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:39:26.336709Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-incident-response-manager-product-engineering-5205495008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5205495008"
     },
@@ -43871,7 +44223,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:27:00.141858Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:40.687276Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:37:18.011996Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-full-stack-software-engineer-reinforcement-learning-5186067008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008"
     },
@@ -43887,7 +44239,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:58.42183Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:34.473525Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:36:48.940656Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-forward-deployed-engineer-applied-ai-4985877008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008"
     },
@@ -43903,7 +44255,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:55.114447Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:28.195468Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:35:35.0729Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-field-services-engineer-5194827008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5194827008"
     },
@@ -43919,7 +44271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:53.494481Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:22.255119Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:33:10.852884Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-expression-of-interest-research-scientist-engineer-honesty-4532887008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008"
     },
@@ -43935,7 +44287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:39.090567Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:13.85193Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:31:09.223481Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-ui-platform-5117296008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5117296008"
     },
@@ -43951,7 +44303,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:30.266495Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:04.580344Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:25:52.839975Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-research-tools-5223093008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5223093008"
     },
@@ -43967,7 +44319,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:29.775726Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:54.497179Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:16.261203Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-passport-5210629008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5210629008"
     },
@@ -43983,7 +44335,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:28.766772Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:52.643308Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:12.876339Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-marketplace-5210631008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5210631008"
     },
@@ -43999,7 +44351,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:24.92178Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:46.527301Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:18:47.500297Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-inference-routing-and-performance-5155391008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5155391008"
     },
@@ -44015,7 +44367,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:20.464233Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:41.363952Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:15:48.811566Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-inference-4741102008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008"
     },
@@ -44031,7 +44383,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:18.19484Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:38.346306Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:13:33.920638Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-grc-4980335008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
     },
@@ -44047,7 +44399,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:26:13.497233Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:33.063869Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:11:32.831728Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-gpu-ml-accelerator-4741104008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008"
     },
@@ -44063,7 +44415,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:53.935213Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:02.767856Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:59:08.300493Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-manager-agent-prompts-evals-5159608008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5159608008"
     },
@@ -44079,7 +44431,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:51.015384Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:54.437154Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:58:22.633163Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-engineering-editorial-lead-5138099008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5138099008"
     },
@@ -44095,7 +44447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:45.77274Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:49.8489Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:56:36.833042Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-design-engineer-web-5223916008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008"
     },
@@ -44111,7 +44463,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:42.864988Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:47.773219Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:33.470776Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-design-engineer-ai-capability-development-education-labs-5097186008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008"
     },
@@ -44159,7 +44511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:27.734789Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:02.373653Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:18.496541Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-scientist-platform-product-5116820008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008"
     },
@@ -44175,7 +44527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T02:25:25.754082Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:29.296595Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:46.819733Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-data-engineer-safeguards-5156057008",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
     },
@@ -44543,7 +44895,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T01:08:44.262905Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:05.870303Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:01.805701Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-data-analyst-block-compliance-5098519008-60900230",
       "sourceUrl": "https://block.xyz/careers/jobs/5098519008"
     },
@@ -44559,7 +44911,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-26T01:08:41.311635Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:04.490456Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:46.817047Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-data-analyst-block-compliance-5114793008-432c3413",
       "sourceUrl": "https://block.xyz/careers/jobs/5114793008"
     },
@@ -44975,7 +45327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-25T17:56:24.148905Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:28.437909Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:52:50.724353Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-machine-learning-engineer-credit-products-square-financial-services-5216800008",
       "sourceUrl": "https://block.xyz/careers/jobs/5216800008"
     },
@@ -45263,7 +45615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-24T23:55:56.786371Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:28.199725Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:32.14255Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-principal-ai-ml-researcher-engineer-reasoning-planning-and-decision-making-systems-7955573",
       "sourceUrl": "https://careers.airbnb.com/positions/7955573"
     },
@@ -45279,7 +45631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-24T23:55:53.799806Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:33.100732Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:11:26.886273Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-principal-machine-learning-engineer-llm-fine-tuning-and-optimization-7955579",
       "sourceUrl": "https://careers.airbnb.com/positions/7955579"
     },
@@ -45647,7 +45999,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-23T03:15:40.671523Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:20.875998Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:46.418533Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-machine-learning-engineer-credit-products-square-financial-services-5216603008-025d887b",
       "sourceUrl": "https://block.xyz/careers/jobs/5216603008"
     },
@@ -45727,7 +46079,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-23T01:15:10.531073Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:54.819523Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:04:55.287387Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-senior-full-stack-engineer-pricingcenter-senior-full-stack-engineer-pricingcenter-jr-14803",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/senior-full-stack-engineer---pricingcenter-jr_14803"
     },
@@ -45743,7 +46095,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-23T01:15:08.375084Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:49.607843Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:04.675477Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-senior-data-engineer-senior-data-engineer-jr-14816",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/senior-data-engineer-jr_14816"
     },
@@ -46079,7 +46431,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:47:19.83302Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:02.780731Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:55:04.411552Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-solutions-architect-ai-cloudflare-developer-platform-7505582",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7505582"
     },
@@ -46095,7 +46447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T21:47:00.787765Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:51.633094Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:49:02.52166Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-senior-solutions-engineer-majors-raleigh-nc-7864156",
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7864156"
     },
@@ -46447,7 +46799,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T14:27:33.391476Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:59.197042Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:07:34.332016Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-new-york-associate-software-engineering-033198-174647",
       "sourceUrl": "https://higher.gs.com/roles/174647"
     },
@@ -46463,7 +46815,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T14:27:32.600856Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:47.551901Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:00:51.093311Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-dallas-associate-software-engineering-034720-174649",
       "sourceUrl": "https://higher.gs.com/roles/174649"
     },
@@ -46479,7 +46831,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-22T09:23:01.835972Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:37.32228Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:14:27.896866Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-software-engineer-front-end-applications-apple-online-store-200664449-295f7946",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200664449/senior-software-engineer-front-end-applications-apple-online-store"
     },
@@ -46591,7 +46943,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T22:58:52.146223Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:59:24.826391Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:09:04.663299Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-applied-ai-engineer-global-banking-markets-new-york-city-155460",
       "sourceUrl": "https://higher.gs.com/roles/155460"
     },
@@ -46607,7 +46959,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T22:58:34.462135Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:57.085788Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:01:51.516473Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-dallas-associate-software-engineering-046294-174583",
       "sourceUrl": "https://higher.gs.com/roles/174583"
     },
@@ -46623,7 +46975,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T22:58:31.365745Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:57.913191Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:04:55.482413Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-engineering-jersey-city-associate-software-engineering-039312-174584",
       "sourceUrl": "https://higher.gs.com/roles/174584"
     },
@@ -46655,7 +47007,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T22:58:17.950504Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:28.79706Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:58:32.084207Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-machine-learning-platform-engineer-product-development-and-operations-india-bangalore-onsi-machine-learning-platform-engineer-jr-14719",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/machine-learning-platform-engineer-jr_14719"
     },
@@ -46991,7 +47343,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T20:57:27.228786Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:58:57.821498Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:07:00.800793Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/guidewire-senior-machine-learning-engineer-ai-ml-product-development-and-operations-united-states-sa-senior-machine-learning-engineer-ai-ml-jr-14811-ece99664",
       "sourceUrl": "https://www.guidewire.com/about/careers/jobs/senior-machine-learning-engineer---ai-ml-jr_14811"
     },
@@ -47087,7 +47439,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T20:01:52.154561Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:51:47.113998Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:03.089601Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-software-engineer-infrastructure-7767867",
       "sourceUrl": "https://careers.airbnb.com/positions/7767867"
     },
@@ -47567,7 +47919,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T19:35:09.470539Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:52.530525Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:26.868279Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-principal-engineer-in-bayesian-large-foundational-systems-and-distributional-reinforcement-7947456-c60da885",
       "sourceUrl": "https://careers.airbnb.com/positions/7947456"
     },
@@ -48047,7 +48399,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T17:05:46.485198Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:42.582918Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:13:28.854763Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-contract-senior-data-scientist-platform-inference-martech-ds-measurement-7732569",
       "sourceUrl": "https://careers.airbnb.com/positions/7732569"
     },
@@ -48159,7 +48511,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T09:18:29.42636Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:02.792942Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:45.415213Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-senior-manager-solutions-engineering-mid-market-25177",
       "sourceUrl": "https://careers-americas.icims.com/jobs/25177/senior-manager%2c-solutions-engineering%2c-mid-market-east/job"
     },
@@ -48175,7 +48527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-21T05:13:48.523204Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:50.746861Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:53:21.717961Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-engineering-manager-quality-platform-7434498",
       "sourceUrl": "https://careers.airbnb.com/positions/7434498"
     },
@@ -48687,7 +49039,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-20T02:53:54.53033Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:29.937441Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:48:41.747293Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-principal-solutions-architect-dx-24843",
       "sourceUrl": "https://careers-americas.icims.com/jobs/24843/principal-solutions-architect-|-dx/job"
     },
@@ -51903,7 +52255,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:36:34.62907Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:53.06276Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:32:55.770408Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-software-engineer-global-markets-backend-7768427",
       "sourceUrl": "https://careers.airbnb.com/positions/7768427"
     },
@@ -51919,7 +52271,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:36:33.254972Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:45.186624Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:26:53.370919Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-data-engineer-payments-7256787",
       "sourceUrl": "https://careers.airbnb.com/positions/7256787"
     },
@@ -51935,7 +52287,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:36:30.620785Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:02.559142Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:19:59.838452Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-global-markets-backend-7768472",
       "sourceUrl": "https://careers.airbnb.com/positions/7768472"
     },
@@ -51967,7 +52319,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:36:22.321838Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:48.35466Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:30:02.05317Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-staff-software-engineer-trust-7818982",
       "sourceUrl": "https://careers.airbnb.com/positions/7818982"
     },
@@ -51983,7 +52335,7 @@
       "isInternship": true,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:36:06.872143Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:33.068664Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:54.888003Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-ios-software-engineer-airbnb-new-grad-7859317",
       "sourceUrl": "https://careers.airbnb.com/positions/7859317"
     },
@@ -51999,7 +52351,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:35:49.627389Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:01.102391Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:50:18.458003Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-business-solutions-engineer-collaboration-products-7923023",
       "sourceUrl": "https://careers.airbnb.com/positions/7923023"
     },
@@ -52015,7 +52367,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:35:45.604627Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:38.567384Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:25:10.001226Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-biztech-ai-products-7730723",
       "sourceUrl": "https://careers.airbnb.com/positions/7730723"
     },
@@ -52047,7 +52399,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:35:40.851783Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:24.749324Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:18.378845Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-manager-machine-learning-community-support-products-7672101",
       "sourceUrl": "https://careers.airbnb.com/positions/7672101"
     },
@@ -52063,7 +52415,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:35:37.57874Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:50:20.829363Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:05.073715Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-full-stack-engineer-app-experience-and-frameworks-frontend-heavy-7551863",
       "sourceUrl": "https://careers.airbnb.com/positions/7551863"
     },
@@ -52079,7 +52431,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:35:32.693983Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:52:42.650514Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:51:48.21991Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-quality-platform-7380149",
       "sourceUrl": "https://careers.airbnb.com/positions/7380149"
     },
@@ -52095,7 +52447,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:13:40.830794Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:57:06.892552Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:11:37.956459Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-architect-manager-dx-24856-94d9c5a6",
       "sourceUrl": "https://careers-americas.icims.com/jobs/24856/solutions-architect-manager-|-dx/job"
     },
@@ -52111,7 +52463,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T06:13:40.156447Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:49.820471Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:08:08.713936Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-architect-dx-24841-10f9200a",
       "sourceUrl": "https://careers-americas.icims.com/jobs/24841/solutions-architect-|-dx/job"
     },
@@ -52175,7 +52527,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:48:35.353904Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:54:30.216757Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:59:06.999454Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-android-automation-engineer-7380185-1b7e4494",
       "sourceUrl": "https://careers.airbnb.com/positions/7380185"
     },
@@ -52191,7 +52543,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:48:33.744303Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:01.728858Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:54:02.527175Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-android-automation-engineer-7380262",
       "sourceUrl": "https://careers.airbnb.com/positions/7380262"
     },
@@ -52207,7 +52559,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:48:29.699509Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:04.91925Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:09:14.941776Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-ios-engineer-global-markets-7817040-03c97a6b",
       "sourceUrl": "https://careers.airbnb.com/positions/7817040"
     },
@@ -52223,7 +52575,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:46:22.191265Z",
-      "lastVerifiedAtUtc": "2026-06-09T18:31:57.066408Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:20:14.359476Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-calls-security-200663651",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200663651/software-engineer-calls-security"
     },
@@ -52911,7 +53263,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:36:40.48045Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:47.719448Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:14:28.286966Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-staff-machine-learning-engineer-listings-and-host-tools-data-and-ai-7454348-8641deb2",
       "sourceUrl": "https://careers.airbnb.com/positions/7454348"
     },
@@ -52927,7 +53279,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:36:39.959933Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:49.803822Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:16:48.143343Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-staff-machine-learning-engineer-growth-platform-engineering-7747259-72457525",
       "sourceUrl": "https://careers.airbnb.com/positions/7747259"
     },
@@ -52943,7 +53295,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:36:36.818678Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:23.561061Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:58:04.154121Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-android-software-engineer-quality-platform-7744247-96a317fa",
       "sourceUrl": "https://careers.airbnb.com/positions/7744247"
     },
@@ -53263,7 +53615,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:12:48.733677Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:12.807798Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:37.124112Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-machine-learning-engineer-ii-recommendation-systems-credit-karma-oakland-california-93662568240-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates",
       "sourceUrl": "https://jobs.intuit.com/job/oakland/machine-learning-engineer-ii-recommendation-systems-credit-karma/27595/93662568240"
     },
@@ -53279,7 +53631,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:12:48.4974Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:10.94306Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:32.002461Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-senior-machine-learning-engineer-credit-karma-oakland-california-93513715984-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates",
       "sourceUrl": "https://jobs.intuit.com/job/oakland/senior-machine-learning-engineer-credit-karma/27595/93513715984"
     },
@@ -53295,7 +53647,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:12:48.257841Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:09.265848Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:22.373593Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-senior-staff-machine-learning-engineer-88136866016-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates-db9304b9",
       "sourceUrl": "https://jobs.intuit.com/job/mountain-view/senior-staff-machine-learning-engineer/27595/88136866016"
     },
@@ -53311,7 +53663,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-16T05:12:47.855813Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:07.148702Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:08.336371Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-staff-machine-learning-engineer-87369441616-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates-a372009e",
       "sourceUrl": "https://jobs.intuit.com/job/mountain-view/staff-machine-learning-engineer/27595/87369441616"
     },
@@ -54847,7 +55199,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:20:35.187489Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:14.469382Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:38.977756Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-staff-ml-engineer-foresight-petach-tikva-israel-93112360672-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates-a6adff0c",
       "sourceUrl": "https://jobs.intuit.com/job/petah-tikva/staff-ml-engineer-foresight/27595/93112360672"
     },
@@ -54863,7 +55215,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:20:33.686683Z",
-      "lastVerifiedAtUtc": "2026-06-09T21:00:06.414377Z",
+      "lastVerifiedAtUtc": "2026-06-09T23:10:07.060912Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/intuit-principal-machine-learning-engineer-88653335936-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates-d31907eb",
       "sourceUrl": "https://jobs.intuit.com/job/mountain-view/principal-machine-learning-engineer/27595/88653335936"
     },
@@ -54975,7 +55327,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:32.320292Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:56:54.294094Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:18:46.442928Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-staff-machine-learning-engineer-trust-7592146-18765bf3",
       "sourceUrl": "https://careers.airbnb.com/positions/7592146"
     },
@@ -55007,7 +55359,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T06:01:31.030443Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:55:09.425125Z",
+      "lastVerifiedAtUtc": "2026-06-09T22:09:25.900669Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-data-scientist-inference-global-markets-7446449-f34b8704",
       "sourceUrl": "https://careers.airbnb.com/positions/7446449"
     },
@@ -55903,7 +56255,7 @@
       "isInternship": false,
       "datePostedUtc": "",
       "firstDiscoveredAtUtc": "2026-05-10T05:16:25.547808Z",
-      "lastVerifiedAtUtc": "2026-06-09T20:53:12.725341Z",
+      "lastVerifiedAtUtc": "2026-06-09T21:47:10.048008Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-principal-engineering-advisor-24899-216b681c",
       "sourceUrl": "https://careers-americas.icims.com/jobs/24899/principal-engineering-advisor/job"
     },
