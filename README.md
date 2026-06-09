@@ -26,6 +26,23 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Bloomberg | [Senior Software Engineer - Pricing Analytics](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-pricing-analytics-17246) | SeniorSoftwareEngineering | Ireland | Jun 09, 2026 | Jun 09, 2026 10:34 UTC |
+| Bloomberg | [Senior Software Engineer – ClickHouse Infrastructure](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-clickhouse-infrastructure-19942) | SeniorSoftwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 10:32 UTC |
+| Apple | [Firmware Embedded - MSP](https://www.scoutjob.me/jobs/apple-firmware-embedded-msp-200667381) | HardwareEngineering | Israel | Jun 09, 2026 | Jun 09, 2026 10:19 UTC |
+| Atlassian | [Enterprise Solutions Engineer - French & Spanish or Italian](https://www.scoutjob.me/jobs/atlassian-enterprise-solutions-engineer-french-spanish-or-italian-25163) | SoftwareEngineeringExtensive | Remote | Jun 09, 2026 | Jun 09, 2026 10:16 UTC |
+| American Express | [Director -Data Science](https://www.scoutjob.me/jobs/americanexpress-director-data-science-26009358) | SeniorDataAiMl | India | Jun 09, 2026 | Jun 09, 2026 10:14 UTC |
+| NVIDIA | [LLM & Machine Learning Researcher Student](https://www.scoutjob.me/jobs/nvidia-llm-machine-learning-researcher-student-893394206093) | DataAiMl | Israel | Jun 09, 2026 | Jun 09, 2026 10:13 UTC |
+| NVIDIA | [Software Engineer, Storage](https://www.scoutjob.me/jobs/nvidia-software-engineer-storage-893391850600) | SoftwareEngineering | Israel | Jun 09, 2026 | Jun 09, 2026 10:13 UTC |
+| Microsoft | [Software Engineer 2](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-1970393556870735) | SoftwareEngineering | India | Jun 09, 2026 | Jun 09, 2026 10:03 UTC |
+| Google | [Network Implementation Engineer III](https://www.scoutjob.me/jobs/google-network-implementation-engineer-iii-97260689818559174) | SeniorSoftwareEngineeringExtensive | Netherlands | Jun 09, 2026 | Jun 09, 2026 10:03 UTC |
+| Google | [Senior Software Engineer Android Trust](https://www.scoutjob.me/jobs/google-senior-software-engineer-android-trust-104361129752306374) | SeniorSoftwareEngineering | Singapore | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Google | [Senior Software Engineer Google Cloud Generative AI Blackbelt Team](https://www.scoutjob.me/jobs/google-senior-software-engineer-google-cloud-generative-ai-blackbelt-team-73229763681886918) | SeniorDataAiMl | Sweden | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Google | [Senior Software Engineer Spam And Abuse AIml](https://www.scoutjob.me/jobs/google-senior-software-engineer-spam-and-abuse-aiml-102425989287420614) | SeniorSoftwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Google | [Senior Intelligence Analyst Google Threat Intelligence Delivery](https://www.scoutjob.me/jobs/google-senior-intelligence-analyst-google-threat-intelligence-delivery-114076414495335110) | SeniorAnalyst | Netherlands | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Google | [Silicon Validation And Debug Engineer](https://www.scoutjob.me/jobs/google-silicon-validation-and-debug-engineer-92636143912133318) | HardwareEngineering | Israel | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Google | [Staff Full Stack Software Engineer Gke Agentic Experience](https://www.scoutjob.me/jobs/google-staff-full-stack-software-engineer-gke-agentic-experience-126956299861533382) | SeniorSoftwareEngineering | Poland | Jun 09, 2026 | Jun 09, 2026 10:02 UTC |
+| Intel | [SoC Compute/Memory Subsystem Architect](https://www.scoutjob.me/jobs/intel-soc-compute-memory-subsystem-architect-jr0284570) | SeniorHardwareEngineering | Ireland | Jun 09, 2026 | Jun 09, 2026 10:00 UTC |
+| GitHub | [Senior Software Engineer](https://www.scoutjob.me/jobs/github-senior-software-engineer-5447) | SeniorSoftwareEngineering | United Kingdom | Jun 09, 2026 | Jun 09, 2026 10:00 UTC |
 | Bloomberg | [Senior Software Engineer - Oracle Infra](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-oracle-infra-17624) | SeniorSoftwareEngineering | United Kingdom | Jun 09, 2026 | Jun 09, 2026 08:53 UTC |
 | Bloomberg | [Senior Software Engineer - Privilege Platform](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-privilege-platform-19736) | SeniorSoftwareEngineering | United Kingdom | Jun 09, 2026 | Jun 09, 2026 08:50 UTC |
 | Bloomberg | [Senior Software Engineer - User Management](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-user-management-17527) | SeniorSoftwareEngineering | Ireland | Jun 09, 2026 | Jun 09, 2026 08:30 UTC |
@@ -84,20 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Discord | [Data Science & Engineering](https://www.scoutjob.me/jobs/discord-data-science-engineering-8447216002) | DataAiMl | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:38 UTC |
 | Discord | [Data Science & Engineering](https://www.scoutjob.me/jobs/discord-data-science-engineering-8371252002) | DataAiMl | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:38 UTC |
 | Discord | [Data Platform](https://www.scoutjob.me/jobs/discord-data-platform-8498984002) | DataAiMl | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:38 UTC |
-| Discord | [Data Platform](https://www.scoutjob.me/jobs/discord-data-platform-8397385002) | DataAiMl | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:38 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8214127002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:37 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8344197002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:37 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8487457002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:37 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8545663002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:37 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8200328002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:37 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8545675002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8399456002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8377248002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8544305002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8136321002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8409005002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:36 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8400845002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:35 UTC |
-| Discord | [Core Tech Engineering](https://www.scoutjob.me/jobs/discord-core-tech-engineering-8571766002) | SoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:35 UTC |
-| Discord | [Senior MuleSoft Developer](https://www.scoutjob.me/jobs/discord-senior-mulesoft-developer-8456187002) | SeniorSoftwareEngineeringExtensive | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:35 UTC |
-| Discord | [Senior Indirect Tax Analyst](https://www.scoutjob.me/jobs/discord-senior-indirect-tax-analyst-8565373002) | SeniorAnalyst | United Kingdom | Jun 09, 2026 | Jun 09, 2026 07:35 UTC |
-| Apple | [Instrument Systems Design Engineer](https://www.scoutjob.me/jobs/apple-instrument-systems-design-engineer-200667269) | SoftwareEngineeringExtensive | United States | Jun 09, 2026 | Jun 09, 2026 07:33 UTC |
