@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Bloomberg | [Senior Software Engineer - Connectivity Gateway](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-connectivity-gateway-19825) | SeniorSoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 16:47 UTC |
+| Bloomberg | [Senior Software Engineer - Artificial Intelligence](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-artificial-intelligence-17984) | SeniorDataAiMl | United States | Jun 10, 2026 | Jun 10, 2026 16:42 UTC |
+| American Express | [Software Engineer II](https://www.scoutjob.me/jobs/americanexpress-software-engineer-ii-26008666) | SoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 16:20 UTC |
+| Bloomberg | [Senior Software Engineer - TRAX Observability](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-trax-observability-17464) | SeniorSoftwareEngineering | United Kingdom | Jun 10, 2026 | Jun 10, 2026 15:37 UTC |
+| Bloomberg | [Software Integration Engineer - Bloomberg Broadway](https://www.scoutjob.me/jobs/bloomberg-software-integration-engineer-bloomberg-broadway-17414) | SoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 15:27 UTC |
+| Cloudflare | [Senior Software Engineer, R2 Metadata](https://www.scoutjob.me/jobs/cloudflare-senior-software-engineer-r2-metadata-7276690) | SeniorSoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 15:21 UTC |
+| Capital One | [Distinguished AI Engineer](https://www.scoutjob.me/jobs/capitalone-distinguished-ai-engineer-bengaluru) | SeniorDataAiMl | India | Jun 10, 2026 | Jun 10, 2026 15:11 UTC |
+| American Express | [Project Analyst I](https://www.scoutjob.me/jobs/americanexpress-project-analyst-i-26009343) | Analyst | India | Jun 10, 2026 | Jun 10, 2026 15:01 UTC |
+| Atlassian | [Senior Software Engineer](https://www.scoutjob.me/jobs/atlassian-senior-software-engineer-25326) | SeniorSoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 15:01 UTC |
+| American Express | [Director, Software Engineering - Financial Crimes](https://www.scoutjob.me/jobs/americanexpress-director-software-engineering-financial-crimes-26006208) | SeniorSoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 14:57 UTC |
 | American Express | [Financial Analyst](https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26009438) | Analyst | India | Jun 10, 2026 | Jun 10, 2026 08:03 UTC |
 | American Express | [Senior Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-i-26008190) | SeniorSoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 08:02 UTC |
 | American Express | [Senior Software Engineer II - JavaScript, React, Node.JS & graphQL](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-ii-javascript-react-node-js-graphql-26008005) | SeniorSoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 08:02 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Privacy Engineer - Systems Experiences, Apps, and Technologies](https://www.scoutjob.me/jobs/apple-privacy-engineer-systems-experiences-apps-and-technologies-200663705) | SoftwareEngineeringExtensive | United States | Jun 09, 2026 | Jun 09, 2026 21:42 UTC |
 | Apple | [Generative AI Applied Scientist, SIML - ISE](https://www.scoutjob.me/jobs/apple-generative-ai-applied-scientist-siml-ise-200632699) | DataAiMl | United States | Jun 09, 2026 | Jun 09, 2026 21:40 UTC |
 | Apple | [iPhone Analog & Power Systems Engineer](https://www.scoutjob.me/jobs/apple-iphone-analog-power-systems-engineer-200667484) | HardwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 21:36 UTC |
-| Apple | [Machine Learning Engineer, Proactive — Large Language Models, Generative AI & Agentic Systems](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-proactive-large-language-models-generative-ai-agentic-systems-200664261) | DataAiMl | United States | Jun 09, 2026 | Jun 09, 2026 21:35 UTC |
-| NVIDIA | [Senior Software Engineer - Infrastructure and Tools](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-infrastructure-and-tools-893395505911) | SeniorSoftwareEngineering | Canada | Jun 09, 2026 | Jun 09, 2026 21:24 UTC |
-| Workday | [Sr Cloud Engineer (US Federal)](https://www.scoutjob.me/jobs/workday-sr-cloud-engineer-us-federal-jr-0097206) | SeniorSoftwareEngineeringExtensive | United States | Jun 09, 2026 | Jun 09, 2026 21:23 UTC |
-| Workday | [Software Development Engineer (Full Stack)](https://www.scoutjob.me/jobs/workday-software-development-engineer-full-stack-jr-0107681) | SoftwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 21:23 UTC |
-| Microsoft | [Principal Software Engineering Architect](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-architect-1970393556847406) | SeniorSoftwareEngineering | Canada | Jun 09, 2026 | Jun 09, 2026 21:16 UTC |
-| Microsoft | [Senior Software Engineer - Azure Data Engineering Team](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-data-engineering-team-1970393556872429) | SeniorSoftwareEngineering | Canada | Jun 09, 2026 | Jun 09, 2026 21:16 UTC |
-| AMD | [Memory Validation Engineer](https://www.scoutjob.me/jobs/amd-memory-validation-engineer-87016) | SoftwareEngineeringExtensive | India | Jun 09, 2026 | Jun 09, 2026 21:11 UTC |
-| AMD | [MTS Software Development Eng.](https://www.scoutjob.me/jobs/amd-mts-software-development-eng-86720) | SoftwareEngineering | Canada | Jun 09, 2026 | Jun 09, 2026 21:11 UTC |
-| AMD | [Manager Software Development-Automation](https://www.scoutjob.me/jobs/amd-manager-software-development-automation-86688) | SeniorSoftwareEngineering | India | Jun 09, 2026 | Jun 09, 2026 21:11 UTC |
-| AMD | [DFx Methodology Architect](https://www.scoutjob.me/jobs/amd-dfx-methodology-architect-86901) | SeniorSoftwareEngineeringExtensive | India | Jun 09, 2026 | Jun 09, 2026 21:10 UTC |
