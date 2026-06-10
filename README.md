@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Financial Analyst](https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26009438) | Analyst | India | Jun 10, 2026 | Jun 10, 2026 08:03 UTC |
+| American Express | [Senior Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-i-26008190) | SeniorSoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 08:02 UTC |
+| American Express | [Senior Software Engineer II - JavaScript, React, Node.JS & graphQL](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-ii-javascript-react-node-js-graphql-26008005) | SeniorSoftwareEngineering | India | Jun 10, 2026 | Jun 10, 2026 08:02 UTC |
+| Google | [Senior Customer Engineer Security Google Cloud](https://www.scoutjob.me/jobs/google-senior-customer-engineer-security-google-cloud-92715136950641350) | SeniorSoftwareEngineeringExtensive | Argentina | Jun 10, 2026 | Jun 10, 2026 07:56 UTC |
+| Google | [Platform Customer Engineer Healthcare And Life Sciences Google Cloud](https://www.scoutjob.me/jobs/google-platform-customer-engineer-healthcare-and-life-sciences-google-cloud-81075913017434822) | SoftwareEngineeringExtensive | Canada | Jun 10, 2026 | Jun 10, 2026 07:56 UTC |
+| Google | [Senior Software Engineer Linux Kernel Networking](https://www.scoutjob.me/jobs/google-senior-software-engineer-linux-kernel-networking-89679385346351814) | SeniorSoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 07:56 UTC |
+| Google | [Software Engineering Manager Databases Google Cloud](https://www.scoutjob.me/jobs/google-software-engineering-manager-databases-google-cloud-125708182365315782) | EngineeringManagement | India | Jun 10, 2026 | Jun 10, 2026 07:56 UTC |
+| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0929092) | DataAiMl | United States | Jun 10, 2026 | Jun 10, 2026 07:51 UTC |
 | American Express | [Software Engineers](https://www.scoutjob.me/jobs/americanexpress-software-engineers-26009304) | SoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 05:33 UTC |
 | American Express | [Software Engineers](https://www.scoutjob.me/jobs/americanexpress-software-engineers-26009293) | SoftwareEngineering | United States | Jun 10, 2026 | Jun 10, 2026 05:32 UTC |
 | NVIDIA | [Senior Verification Engineer, SoC](https://www.scoutjob.me/jobs/nvidia-senior-verification-engineer-soc-893393294742) | SeniorHardwareEngineering | Remote | Jun 10, 2026 | Jun 10, 2026 05:26 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Manager Software Development-Automation](https://www.scoutjob.me/jobs/amd-manager-software-development-automation-86688) | SeniorSoftwareEngineering | India | Jun 09, 2026 | Jun 09, 2026 21:11 UTC |
 | AMD | [DFx Methodology Architect](https://www.scoutjob.me/jobs/amd-dfx-methodology-architect-86901) | SeniorSoftwareEngineeringExtensive | India | Jun 09, 2026 | Jun 09, 2026 21:10 UTC |
 | AMD | [RTL/Logic Design Engineer](https://www.scoutjob.me/jobs/amd-rtl-logic-design-engineer-86655) | HardwareEngineering | India | Jun 09, 2026 | Jun 09, 2026 21:10 UTC |
-| AMD | [CPU Core Design Verification Engineer](https://www.scoutjob.me/jobs/amd-cpu-core-design-verification-engineer-79771) | HardwareEngineering | India | Jun 09, 2026 | Jun 09, 2026 21:10 UTC |
-| AMD | [Principal Linux Systems Architect](https://www.scoutjob.me/jobs/amd-principal-linux-systems-architect-81089) | SeniorSoftwareEngineeringExtensive | India | Jun 09, 2026 | Jun 09, 2026 21:10 UTC |
-| Intuit | [Senior Software Quality Analyst](https://www.scoutjob.me/jobs/intuit-senior-software-quality-analyst-96211577056-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates) | SeniorAnalyst | United States | Jun 09, 2026 | Jun 09, 2026 21:00 UTC |
-| Bloomberg | [Senior Software Engineer - Functional Integration](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-functional-integration-19437) | SeniorSoftwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 20:50 UTC |
-| American Express | [Analyst-Compliance Global Sanctions Governance](https://www.scoutjob.me/jobs/americanexpress-analyst-compliance-global-sanctions-governance-26005756) | Analyst | United States | Jun 09, 2026 | Jun 09, 2026 20:39 UTC |
-| NVIDIA | [Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026](https://www.scoutjob.me/jobs/nvidia-cloud-distributed-systems-backend-intern-geforce-now-fall-2026-893395504812) | SoftwareEngineeringIntern | United States | Jun 09, 2026 | Jun 09, 2026 20:35 UTC |
-| NVIDIA | [Agentic AI Solution Engineering Intern - Fall 2026](https://www.scoutjob.me/jobs/nvidia-agentic-ai-solution-engineering-intern-fall-2026-893395492167) | SoftwareEngineeringIntern | Canada | Jun 09, 2026 | Jun 09, 2026 20:35 UTC |
-| Workday | [Sr Software Development Engineer - Core Platform Integration](https://www.scoutjob.me/jobs/workday-sr-software-development-engineer-core-platform-integration-jr-0108019) | SeniorSoftwareEngineering | United States | Jun 09, 2026 | Jun 09, 2026 20:35 UTC |
