@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-06-11T07:24:35.253433+00:00",
+  "generatedAtUtc": "2026-06-11T12:04:41.521836+00:00",
   "publicDelayMinutes": 60,
-  "total": 2633,
+  "total": 2563,
   "jobs": [
     {
       "id": "2b556eb4-7193-4ac4-bfdd-43918f5a089d",
@@ -5748,22 +5748,6 @@
       "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Pricing-Analytics/17246"
     },
     {
-      "id": "375ee0bb-6702-4937-b806-2f449edec16e",
-      "company": "Bloomberg",
-      "companySlug": "bloomberg",
-      "title": "Senior Software Engineer – ClickHouse Infrastructure",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T10:32:23.298259Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:32:23.301251Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-clickhouse-infrastructure-19942",
-      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-ClickHouse-Infrastructure/19942"
-    },
-    {
       "id": "dceef1af-ecb0-468a-af42-4ffcc045329d",
       "company": "Apple",
       "companySlug": "apple",
@@ -5860,22 +5844,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556870735"
     },
     {
-      "id": "4e7cd683-befd-42a5-aedc-464a90b4c4ad",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Network Implementation Engineer III",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Netherlands",
-      "location": "Netherlands",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T10:03:05.245586Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:03:05.24914Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-network-implementation-engineer-iii-97260689818559174",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/97260689818559174-network-implementation-engineer-iii"
-    },
-    {
       "id": "6eb6efd4-79b2-42d1-8b5f-eb141d84945b",
       "company": "Google",
       "companySlug": "google",
@@ -5922,22 +5890,6 @@
       "lastVerifiedAtUtc": "2026-06-09T13:49:56.329011Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-software-engineer-spam-and-abuse-aiml-102425989287420614",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/102425989287420614-senior-software-engineer-spam-and-abuse-aiml"
-    },
-    {
-      "id": "2c466906-f46e-49de-a8fa-2de8548c9b1d",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Intelligence Analyst Google Threat Intelligence Delivery",
-      "roleCategory": "SeniorAnalyst",
-      "country": "Netherlands",
-      "location": "Netherlands",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T10:02:39.533672Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:02:39.667681Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-intelligence-analyst-google-threat-intelligence-delivery-114076414495335110",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/114076414495335110-senior-intelligence-analyst-google-threat-intelligence-delivery"
     },
     {
       "id": "c79bad1d-ed9c-450c-9869-dbe22c66f398",
@@ -6004,54 +5956,6 @@
       "sourceUrl": "https://www.github.careers/careers-home/jobs/5447"
     },
     {
-      "id": "51f6256a-8a4d-49bf-ae06-1361e8e90599",
-      "company": "Bloomberg",
-      "companySlug": "bloomberg",
-      "title": "Senior Software Engineer - Oracle Infra",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:53:35.74823Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:53:35.751755Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-oracle-infra-17624",
-      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Oracle-Infra/17624"
-    },
-    {
-      "id": "17177e09-e27e-4891-a574-64fef0c51779",
-      "company": "Bloomberg",
-      "companySlug": "bloomberg",
-      "title": "Senior Software Engineer - Privilege Platform",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:50:22.11596Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:50:22.118574Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-privilege-platform-19736",
-      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Privilege-Platform/19736"
-    },
-    {
-      "id": "57fe3603-7de7-4738-9ba6-8c981941ff53",
-      "company": "Bloomberg",
-      "companySlug": "bloomberg",
-      "title": "Senior Software Engineer - User Management",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Ireland",
-      "location": "Ireland",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:30:10.408057Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:30:10.410916Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-user-management-17527",
-      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-User-Management/17527"
-    },
-    {
       "id": "d4d55afe-07a2-4679-ae97-ea670334f948",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -6066,22 +5970,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:22:11.691816Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-data-analytics-26008867",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008867"
-    },
-    {
-      "id": "f7b688c0-2ad9-48c4-a4d8-636d028c0a1f",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Software Engineer - GPU Networking",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:04:03.089495Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:13:18.90757Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-gpu-networking-893394924649",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893394924649"
     },
     {
       "id": "19f79ef2-89e3-4d1c-83db-2aa50d000fee",
@@ -6148,86 +6036,6 @@
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446715698648"
     },
     {
-      "id": "b5df487d-370b-41db-af2c-9a71a9c1d0e1",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Automotive Linux Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:00:22.288429Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:00:22.300206Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-automotive-linux-engineer-446718678153",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718678153"
-    },
-    {
-      "id": "d383108a-a172-4518-b4d6-7b31f7b036ab",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Lead Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:00:15.312217Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:00:15.315466Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-lead-engineer-446718894298",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718894298"
-    },
-    {
-      "id": "c978e02f-b6aa-44aa-98a3-9746822c2367",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Audio Systems Algorithm Development Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:00:13.128595Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:00:13.138285Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-audio-systems-algorithm-development-engineer-446718623359",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718623359"
-    },
-    {
-      "id": "42967f35-c9dd-4b4e-9cfe-33c59ba098f5",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Automotive Audio Systems Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:00:08.449234Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:00:08.472401Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-automotive-audio-systems-engineer-446718623076",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718623076"
-    },
-    {
-      "id": "5465f43d-c92d-4062-b839-cd5e84211dff",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Sr Engineer: LPAI Architecture and Systems Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T08:00:05.514133Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:00:05.517221Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-sr-engineer-lpai-architecture-and-systems-engineer-446718020821",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718020821"
-    },
-    {
       "id": "9e86b6ff-092f-414c-b575-3302ab2f52b8",
       "company": "Qualcomm",
       "companySlug": "qualcomm",
@@ -6258,22 +6066,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:23:12.917747Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-india-9de41297-4998-4ecb-9fe5-a9437dc52f96",
       "sourceUrl": "https://careers.zoom.us/jobs/devops-engineer-india-9de41297-4998-4ecb-9fe5-a9437dc52f96"
-    },
-    {
-      "id": "be8aa229-c104-4f94-bd98-557f0ecd0efd",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Principal Software Engineering Manager",
-      "roleCategory": "EngineeringManagement",
-      "country": "Australia",
-      "location": "Australia",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T07:55:30.528921Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:03:42.75067Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556752340",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556752340"
     },
     {
       "id": "2cc3f7d8-056a-48b6-9df1-ccf401e1e65c",
@@ -12788,22 +12580,6 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8468545002"
     },
     {
-      "id": "f6e644a3-6e93-448a-95af-e92a75ddbe5a",
-      "company": "Bloomberg",
-      "companySlug": "bloomberg",
-      "title": "Senior Software Engineer - Network Security",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T00:43:59.157025Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:32:56.727804Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-network-security-18369",
-      "sourceUrl": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Network-Security/18369"
-    },
-    {
       "id": "da486da3-574d-49ac-b691-58b2f5c450f8",
       "company": "Bloomberg",
       "companySlug": "bloomberg",
@@ -13060,22 +12836,6 @@
       "sourceUrl": "https://jobs.nvidia.com/careers/job/893395488436"
     },
     {
-      "id": "fbc4af1f-5815-4e7d-a3d1-aea8acd56e88",
-      "company": "Workday",
-      "companySlug": "workday",
-      "title": "Senior Cloud IAM Engineer (US Federal)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-09T00:13:35.37082Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:12:41.060422Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-senior-cloud-iam-engineer-us-federal-jr-0104996",
-      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Cloud-IAM-Engineer--US-Federal-_JR-0104996-1"
-    },
-    {
       "id": "5f0e082a-2bc8-409d-9122-ee9591346595",
       "company": "Workday",
       "companySlug": "workday",
@@ -13186,38 +12946,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:06:56.196047Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-director-336267",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336267"
-    },
-    {
-      "id": "93cbcd64-b016-4da5-a10d-1436f7d71a37",
-      "company": "GitHub",
-      "companySlug": "github",
-      "title": "Staff Software Engineer, Database Infrastructure",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T23:54:48.247671Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:36:28.181515Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/github-staff-software-engineer-database-infrastructure-5434",
-      "sourceUrl": "https://www.github.careers/careers-home/jobs/5434"
-    },
-    {
-      "id": "88fa64fb-34d0-475f-a510-d83dc6e275ef",
-      "company": "GitHub",
-      "companySlug": "github",
-      "title": "Senior Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T23:54:34.746598Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:14:19.539314Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/github-senior-software-engineer-5413",
-      "sourceUrl": "https://www.github.careers/careers-home/jobs/5413"
     },
     {
       "id": "f8386094-25fb-4cb1-9e6d-4a549c95ec32",
@@ -14356,54 +14084,6 @@
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336275"
     },
     {
-      "id": "8e8cc184-62c4-4b94-898b-c4482ef52276",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Battery Management Systems - Electrical Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T19:52:06.448391Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:42:19.762825Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-battery-management-systems-electrical-engineer-200666414",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666414/battery-management-systems-electrical-engineer"
-    },
-    {
-      "id": "a0090680-4027-4169-8174-58455bf574c5",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Development Engineer - Data",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T19:38:27.235633Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:44:34.247042Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-development-engineer-data-200667248",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667248/software-development-engineer-data"
-    },
-    {
-      "id": "eca60336-fdc6-466d-b714-601c55f6fa3e",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "SDET - Wallet Identity Quality Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T19:38:22.029706Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:42:48.311624Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sdet-wallet-identity-quality-engineer-200667279",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667279/sdet-wallet-identity-quality-engineer"
-    },
-    {
       "id": "6667550c-2978-49de-a3b1-27a56c75292b",
       "company": "Google",
       "companySlug": "google",
@@ -14436,22 +14116,6 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/86264903525900998-senior-research-engineer"
     },
     {
-      "id": "a1297e98-3c68-4e7a-b3b0-97797c7346f6",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Data Engineer",
-      "roleCategory": "DataAiMl",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T19:19:47.746197Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:03:11.210303Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-data-engineer-92372690618196678",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/92372690618196678-data-engineer"
-    },
-    {
       "id": "94a73f99-e637-4706-8d1b-96310451dbc1",
       "company": "Google",
       "companySlug": "google",
@@ -14466,22 +14130,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:07:09.294366Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/google-data-scientist-106536599407207110",
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/106536599407207110-data-scientist"
-    },
-    {
-      "id": "2a8010fe-ea84-4d23-a440-845b54f71459",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Application Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T18:53:12.25324Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:03:12.163343Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-application-engineer-129195335032414918",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/129195335032414918-application-engineer"
     },
     {
       "id": "55692605-fcc1-4eeb-ac8d-c5ef20d65446",
@@ -14546,38 +14194,6 @@
       "lastVerifiedAtUtc": "2026-06-09T18:44:08.25883Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-sr-software-dev-engineer-s3-storage-10442633",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10442633/sr-software-dev-engineer-s3-storage"
-    },
-    {
-      "id": "a0a58f9f-a6bb-4228-84f9-a1d04e11e5cd",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Agent Development Engineer, Customer Systems",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T18:06:26.963449Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:51:32.73791Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-agent-development-engineer-customer-systems-200662678",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200662678/agent-development-engineer-customer-systems"
-    },
-    {
-      "id": "9770986c-ca4a-4afc-a5bb-68c893702d68",
-      "company": "Google",
-      "companySlug": "google",
-      "title": "Senior Silicon Architect",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T18:03:05.527234Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:03:17.276725Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/google-senior-silicon-architect-110372520598610630",
-      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/110372520598610630-senior-silicon-architect"
     },
     {
       "id": "2634e638-98ea-4818-b87b-e4a7cfe26bc6",
@@ -14900,22 +14516,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10442379/sr-ict-design-engineer-data-center-design-engineering"
     },
     {
-      "id": "2b616eaa-a267-4ab4-866b-3c086d4224fb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Development Engineer Test, Customer Systems",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T16:30:39.960659Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:51:38.089493Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-development-engineer-test-customer-systems-200666024",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666024/software-development-engineer-test-customer-systems"
-    },
-    {
       "id": "5bc6957b-78cf-4070-a58c-f4c66525084d",
       "company": "OpenAI",
       "companySlug": "openai",
@@ -14978,22 +14578,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:03:05.822198Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-ai-aws-software-development-engineer-ring-blink-cs-technology-enablement-10442313",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10442313/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement"
-    },
-    {
-      "id": "c8f66a59-158c-4fab-96c0-aa9cab6dcfcd",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Acoustics DSP Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T15:48:31.640174Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:52:58.443319Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-acoustics-dsp-engineer-200662749",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200662749/acoustics-dsp-engineer"
     },
     {
       "id": "13cb6826-3b19-4644-b9e7-059f7c1d3c6e",
@@ -15140,22 +14724,6 @@
       "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/93385169028686534-software-engineering-manager-3d-world-model-geospatial-ai"
     },
     {
-      "id": "8177af54-d39f-4823-a58d-8d3c7efb3ef9",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Cross Functional Test Lead, Retail Engineering (Online)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Ireland",
-      "location": "Ireland",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T09:46:29.722634Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:54:07.482791Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-cross-functional-test-lead-retail-engineering-online-200666567",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666567/cross-functional-test-lead-retail-engineering-online"
-    },
-    {
       "id": "7458ea73-9ee4-4b25-9a1c-e2d81aa4f2d0",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -15186,22 +14754,6 @@
       "lastVerifiedAtUtc": "2026-06-10T15:42:24.357151Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26009222",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009222"
-    },
-    {
-      "id": "dec5ba70-f155-4920-9af2-f03c01ec357d",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Sales Business Analyst for Switzerland and Austria",
-      "roleCategory": "Analyst",
-      "country": "Switzerland",
-      "location": "Switzerland",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T08:51:53.447285Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:55:25.339664Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sales-business-analyst-for-switzerland-and-austria-200666968",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666968/sales-business-analyst-for-switzerland-and-austria"
     },
     {
       "id": "f6f27311-07b3-4a2f-b6f6-5b92433e7875",
@@ -15284,70 +14836,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009020"
     },
     {
-      "id": "f17aeabe-273b-4417-ba0b-a36701600e94",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Core Services Network Engineer - IP Engineering",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Singapore",
-      "location": "Singapore",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T07:11:42.297992Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:54:15.149488Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-core-services-network-engineer-ip-engineering-200667173",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667173/core-services-network-engineer-ip-engineering"
-    },
-    {
-      "id": "5db68f0b-bc48-4889-a68b-efbc85b57f8c",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "GPU System Architect",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T06:38:59.760857Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:13:19.364433Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-gpu-system-architect-893395478665",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395478665"
-    },
-    {
-      "id": "0aeb3239-e2d4-4e20-a2f1-2c786a4daada",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Software Engineer, Tools",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Israel",
-      "location": "Israel",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T05:42:05.749826Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:03:54.667168Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-tools-893394876051",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893394876051"
-    },
-    {
-      "id": "817f7cf0-176a-4caa-aa85-803add0b8af0",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Applied Researcher, LLM Agents",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "Israel",
-      "location": "Israel",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T05:42:03.467553Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:03:55.903728Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-applied-researcher-llm-agents-893395110103",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395110103"
-    },
-    {
       "id": "94f900ee-dc64-467d-bfee-b05b51854c6c",
       "company": "American Express",
       "companySlug": "americanexpress",
@@ -15362,22 +14850,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:22:28.6489Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-associate-technology-operations-engineering-26008257",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008257"
-    },
-    {
-      "id": "9deb7c63-0046-4dfd-b712-e5a4c21579f5",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Greater China Color Resin Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-08T02:54:04.757968Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:54:24.56341Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-greater-china-color-resin-engineer-200667144",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667144/greater-china-color-resin-engineer"
     },
     {
       "id": "e03c6beb-0056-402c-91ac-0f77b55ea9bd",
@@ -15442,38 +14914,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:22:30.778323Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-business-analyst-26008984",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008984"
-    },
-    {
-      "id": "16d27391-907d-43fa-b3bc-284f09f433e6",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "NBU Manufacturing Test Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Vietnam",
-      "location": "Vietnam",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-07T19:07:26.552414Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:04:04.830463Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-nbu-manufacturing-test-engineer-893395193469",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395193469"
-    },
-    {
-      "id": "05e23984-d3da-4aa8-bd98-dbbce1ee46c2",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "ICT Test Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Vietnam",
-      "location": "Vietnam",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-07T19:07:25.417148Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:04:04.368804Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-ict-test-engineer-893395193467",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395193467"
     },
     {
       "id": "e28ce0e0-51e3-4a7a-9e2d-9cd65d5f558d",
@@ -15684,22 +15124,6 @@
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/335783"
     },
     {
-      "id": "01d35c16-97ae-4976-b30f-e74018610a87",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "ML Video Codec Algorithm Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-06T20:13:52.710331Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:54:31.057551Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ml-video-codec-algorithm-engineer-200652180",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200652180/ml-video-codec-algorithm-engineer"
-    },
-    {
       "id": "53b42fa8-1986-402b-b1cc-eea9e24bbde9",
       "company": "Oracle",
       "companySlug": "oracle",
@@ -15842,38 +15266,6 @@
       "lastVerifiedAtUtc": "2026-06-09T21:10:20.641556Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-director-336159",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/336159"
-    },
-    {
-      "id": "6f23d071-fb4e-4b7c-a894-c971ef9ededb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
-      "roleCategory": "DataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T23:36:20.095002Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:58:40.40941Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-data-platform-sre-ai-data-platforms-aidp-200667035",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667035/data-platform-sre-ai-data-platforms-aidp"
-    },
-    {
-      "id": "4a5fa0ea-8533-4506-9379-1b75d17fdfcb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T23:36:13.727699Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:58:13.74649Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-framework-solutions-ai-data-platforms-aidp-200667030",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200667030/software-engineer-framework-solutions-ai-data-platforms-aidp"
     },
     {
       "id": "919f84fb-3308-4c43-9b88-a1c89cc30056",
@@ -16050,22 +15442,6 @@
       "lastVerifiedAtUtc": "2026-06-09T21:18:02.146334Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/uber-senior-software-engineer-data-storage-157995",
       "sourceUrl": "https://www.uber.com/global/en/careers/list/157995"
-    },
-    {
-      "id": "0739ee81-39c3-45c9-85c2-5726fd9f5ce5",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Senior Analyst - Product Management (SBS Prop Lend Cards)",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T22:35:55.582044Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:33:25.142093Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-analyst-product-management-sbs-prop-lend-cards-26009048",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009048"
     },
     {
       "id": "002ec3a7-b84b-44b1-be31-77a652a3740f",
@@ -16276,22 +15652,6 @@
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer_R168316-1/apply"
     },
     {
-      "id": "71535ca2-77c3-41d3-82c5-0b9165dd02e5",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Senior Analyst-Corporate Card Product Management",
-      "roleCategory": "SeniorAnalyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T21:10:35.313185Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:51:27.81514Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-analyst-corporate-card-product-management-26008994",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008994"
-    },
-    {
       "id": "d7d33d67-7f8f-4c99-9c1e-85b83fc72cd3",
       "company": "Oracle",
       "companySlug": "oracle",
@@ -16386,22 +15746,6 @@
       "lastVerifiedAtUtc": "2026-06-10T05:05:45.497209Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-director-solutions-engineer-meta-ciscisglobal2016524externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Director--Solutions-Engineer---Meta_2016524/apply"
-    },
-    {
-      "id": "51b97d6a-3c13-4e66-8f01-2455f1d7ba48",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Senior Hardware Engineer (High-speed IO/Testing) (Onsite)",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T20:39:17.438878Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:40:22.817337Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-hardware-engineer-high-speed-io-testing-onsite-ciscisglobal2016448externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-Hardware-Engineer--High-speed-IO-Testing---Onsite-_2016448/apply"
     },
     {
       "id": "f605fdd4-b84e-47e0-9cdf-83251e99c895",
@@ -16900,22 +16244,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10441022/software-dev-engineer-redshift-catalog-service"
     },
     {
-      "id": "15c3c897-5993-45ba-976a-ce20f5db9ad0",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Product Quality Engineer, Mac",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T16:02:16.498312Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:06:29.005322Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-product-quality-engineer-mac-200666286",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666286/product-quality-engineer-mac"
-    },
-    {
       "id": "d0e3d1dd-bd59-4d66-8745-1e2bea6016b3",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -17106,22 +16434,6 @@
       "lastVerifiedAtUtc": "2026-06-09T14:37:28.182307Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-data-engineer-ii-26008890",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008890"
-    },
-    {
-      "id": "360c5406-90d5-4fec-af50-27183962a487",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "AI Engineer III",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T11:40:33.966543Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:44:48.507913Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-ai-engineer-iii-26008918",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008918"
     },
     {
       "id": "d2d4f560-1501-4f96-bb7d-21cd98472caa",
@@ -17348,22 +16660,6 @@
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26008522"
     },
     {
-      "id": "6a77083c-213f-496f-8166-47b3fc41f0d2",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Engineer - Regulatory AI & Connected Data",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T04:06:51.781741Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:08:28.686749Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-regulatory-ai-connected-data-200666913",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666913/software-engineer-regulatory-ai-connected-data"
-    },
-    {
       "id": "80b49d77-e3ef-47e6-9b23-fbdbea582c8e",
       "company": "OpenAI",
       "companySlug": "openai",
@@ -17586,38 +16882,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:57:14.234451Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-senior-build-systems-pipeline-engineer-adobusr169413externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Build-Systems---Pipeline-Engineer_R169413-1/apply"
-    },
-    {
-      "id": "3c4cb50b-2730-47ef-9a5c-37d0d821a574",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Senior Data Scientist, Experimentation & Causal Inference",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:37:41.269536Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:08:34.555897Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-data-scientist-experimentation-causal-inference-200666485",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666485/senior-data-scientist-experimentation-causal-inference"
-    },
-    {
-      "id": "fba32f72-592f-4bf9-b511-786beb217d05",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst, Colleague Strategic Partner",
-      "roleCategory": "Analyst",
-      "country": "Hong Kong",
-      "location": "Hong Kong",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-05T01:34:57.689956Z",
-      "lastVerifiedAtUtc": "2026-06-09T09:23:39.753965Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-colleague-strategic-partner-26009015",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009015"
     },
     {
       "id": "7c414d3b-b9c8-4e4c-b808-d2632c2a88d5",
@@ -18116,38 +17380,6 @@
       "sourceUrl": "https://careers-americas.icims.com/jobs/25303/senior-software-engineer/job"
     },
     {
-      "id": "5dfbd42e-ce6f-45f1-909b-dd39611e3ad8",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Sr. Software Engineer, Core Location, Sensing & Connectivity",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T22:23:53.957111Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:08:36.382792Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-software-engineer-core-location-sensing-connectivity-200630136",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200630136/sr-software-engineer-core-location-sensing-connectivity"
-    },
-    {
-      "id": "cb641e04-5dcf-4a1c-b8fa-dd6cc11817eb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "SoC Security Engineer - Platform Architecture",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T22:09:43.793501Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:08:49.160788Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-soc-security-engineer-platform-architecture-200666867",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666867/soc-security-engineer-platform-architecture"
-    },
-    {
       "id": "5d03e82c-aa2e-4daf-9e84-f4f513edec5f",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -18244,22 +17476,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10440288/software-development-engineer-storage"
     },
     {
-      "id": "8046ea19-3ae6-4434-868b-96e5274817eb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Sr. CI Tooling & Infrastructure Engineer - Xcode",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T20:57:39.176715Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:08:54.554195Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-ci-tooling-infrastructure-engineer-xcode-200666807",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200666807/sr-ci-tooling-infrastructure-engineer-xcode"
-    },
-    {
       "id": "7ad9aaff-7c85-41e4-a43d-c8bbc0a53725",
       "company": "OpenAI",
       "companySlug": "openai",
@@ -18338,22 +17554,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:22:25.749163Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/block-staff-applied-machine-learning-engineer-fraud-abuse-4969342008",
       "sourceUrl": "https://block.xyz/careers/jobs/4969342008"
-    },
-    {
-      "id": "d24d923c-be7d-4bd8-8ed3-7d58c7b3942e",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Sr Machine Learning Engineer, Proactive",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T19:57:29.863307Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:09:03.732094Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sr-machine-learning-engineer-proactive-200661999",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200661999/sr-machine-learning-engineer-proactive"
     },
     {
       "id": "6b0bc887-12bd-4416-b7ec-2834610f9777",
@@ -18802,22 +18002,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:58:19.503238Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/goldman-sachs-asset-wealth-management-software-engineering-associate-dallas-159036",
       "sourceUrl": "https://higher.gs.com/roles/159036"
-    },
-    {
-      "id": "0b4739c7-0542-46bc-8902-07f0c04d3260",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Leader, Engineering Project & Program Management",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T13:43:51.771462Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:40:29.375676Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-leader-engineering-project-program-management-ciscisglobal2015466externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Leader--Engineering-Project---Program-Management_2015466/apply"
     },
     {
       "id": "86e4d408-fbce-4dbe-a8d9-5aae9b6b6f17",
@@ -20308,22 +19492,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556850849"
     },
     {
-      "id": "922b108b-d6a9-4965-9c2c-03ead18d6b03",
-      "company": "PayPal",
-      "companySlug": "paypal",
-      "title": "Outsourcing Senior Analyst",
-      "roleCategory": "SeniorAnalyst",
-      "country": "Luxembourg",
-      "location": "Luxembourg",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:14:59.345957Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:59:29.308696Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/paypal-outsourcing-senior-analyst-274918862366",
-      "sourceUrl": "https://paypal.eightfold.ai/careers/job/274918862366"
-    },
-    {
       "id": "4048b08b-f270-4c08-bf44-f328053ffa83",
       "company": "Workday",
       "companySlug": "workday",
@@ -20338,22 +19506,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:25:47.73685Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-principal-machine-learning-engineer-evisort-ai-jr-0098981",
       "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Principal-Machine-Learning-Engineer---Evisort-AI_JR-0098981"
-    },
-    {
-      "id": "0752aca2-975e-4136-a082-6592752fd3aa",
-      "company": "Workday",
-      "companySlug": "workday",
-      "title": "Senior Software Development Engineer - US Federal",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-03T04:13:54.239324Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:30:16.667571Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-senior-software-development-engineer-us-federal-jr-0104943",
-      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development-Engineer---US-Federal_JR-0104943"
     },
     {
       "id": "0997739b-ddfc-4e54-9870-ad5f8186543e",
@@ -21188,22 +20340,6 @@
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineering-Technical-Leader--onsite----2014270_2014270/apply"
     },
     {
-      "id": "13240044-6e43-47e9-90b7-fb840373b62b",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "ASIC Physical Design Technical Lead",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T20:53:00.717493Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:43:54.68415Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-physical-design-technical-lead-ciscisglobal2014635externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineering-Technical-Leader_2014635/apply"
-    },
-    {
       "id": "46096005-94de-495a-a4ca-fd5c8cbee2f4",
       "company": "Cisco",
       "companySlug": "cisco",
@@ -21250,22 +20386,6 @@
       "lastVerifiedAtUtc": "2026-06-10T05:07:33.260105Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-asic-design-verification-technical-leader-acacia-hybrid-ciscisglobal2008311externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/ASIC-Design-Verification-Technical-Leader_2008311-1/apply"
-    },
-    {
-      "id": "793d457f-97ac-451a-8dbc-c650654b2482",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineering Technical Leader",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-02T20:50:13.859653Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:41:38.562397Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2016035externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2016035/apply"
     },
     {
       "id": "e07f3962-ed09-4260-8546-9f5dac5d7a2e",
@@ -22644,38 +21764,6 @@
       "sourceUrl": "https://careers-americas.icims.com/jobs/25116/senior-infrastructure-software-engineer-|-dx/job"
     },
     {
-      "id": "19b1226a-e133-4fd3-b2c2-0ae1a1a575d3",
-      "company": "Atlassian",
-      "companySlug": "atlassian",
-      "title": "Solutions Engineer, Mid-Market",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-01T20:58:29.220895Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:27:18.457199Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-solutions-engineer-mid-market-25269",
-      "sourceUrl": "https://globalcareers-atlassian.icims.com/jobs/25269/solutions-engineer%2c-mid-market/job"
-    },
-    {
-      "id": "8e57c0da-ab8b-414d-988d-620a2cdf841d",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Product Design Engineer - Apple Vision Pro",
-      "roleCategory": "HardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-01T20:58:29.018814Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:51:26.697882Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-product-design-engineer-apple-vision-pro-200665866",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200665866/product-design-engineer-apple-vision-pro"
-    },
-    {
       "id": "d5568d3f-a699-49d8-9c34-6cee9c6302cd",
       "company": "Atlassian",
       "companySlug": "atlassian",
@@ -22978,22 +22066,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:07:10.774956Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-engineer-334279",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334279"
-    },
-    {
-      "id": "a6efdaea-bcd9-47e8-a54e-9ede40cdc0ca",
-      "company": "Airbnb",
-      "companySlug": "airbnb",
-      "title": "Senior Staff Software Engineer, Storage",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-30T14:59:47.028763Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:33:17.541367Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-staff-software-engineer-storage-7702735",
-      "sourceUrl": "https://careers.airbnb.com/positions/7702735"
     },
     {
       "id": "b900b117-e369-4330-94f1-0a6aefdba23d",
@@ -23364,22 +22436,6 @@
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/4892323007"
     },
     {
-      "id": "aff5e006-11ec-4b95-ae01-5b66a14ee603",
-      "company": "IBM",
-      "companySlug": "ibm",
-      "title": "Data Analyst",
-      "roleCategory": "DataAiMl",
-      "country": "Costa Rica",
-      "location": "Costa Rica",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-29T20:30:34.882521Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:31:43.128878Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-data-analyst-113774",
-      "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
       "id": "ea9e19f2-a7a6-47eb-8f87-88438f495ff4",
       "company": "Oracle",
       "companySlug": "oracle",
@@ -23618,22 +22674,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:01:19.281745Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-business-analyst-iii-amz9749985-10429071",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10429071/business-analyst-iii-amz9749985"
-    },
-    {
-      "id": "225919f9-e3fd-45a4-89ad-a625d81d782e",
-      "company": "Intel",
-      "companySlug": "intel",
-      "title": "Senior Compiler Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-29T16:59:33.911004Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:50:40.901066Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/intel-senior-compiler-engineer-jr0282654",
-      "sourceUrl": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-Compiler-Engineer_JR0282654-1"
     },
     {
       "id": "2a5f3562-e603-4777-b701-1094dc9595f3",
@@ -26100,22 +25140,6 @@
       "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7954702"
     },
     {
-      "id": "ec5f6883-b390-4048-b045-0c7fa620e7ba",
-      "company": "IBM",
-      "companySlug": "ibm",
-      "title": "Hardware Verification Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T14:37:11.848243Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:40:12.580845Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-hardware-verification-engineer-117517",
-      "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
       "id": "22bff0e9-a8a3-4b65-8523-34019f54ab9f",
       "company": "Atlassian",
       "companySlug": "atlassian",
@@ -26274,22 +25298,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:23:06.549346Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/xai-senior-it-systems-engineer-5071895007",
       "sourceUrl": "https://job-boards.greenhouse.io/xai/jobs/5071895007"
-    },
-    {
-      "id": "2d14d366-8dbe-4e86-9a63-c3f12966e5eb",
-      "company": "OpenAI",
-      "companySlug": "openai",
-      "title": "AI Success Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Australia",
-      "location": "Australia",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T02:40:57.270156Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:31:14.278692Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-success-engineer-9bb10253-dd50-41a2-a56e-c9204c32d235",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/9bb10253-dd50-41a2-a56e-c9204c32d235"
     },
     {
       "id": "5e828334-15c2-42a5-b437-c7637f65690d",
@@ -33572,22 +32580,6 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008"
     },
     {
-      "id": "ca8ce396-6124-42e1-bcee-74f3766237bf",
-      "company": "IBM",
-      "companySlug": "ibm",
-      "title": "Formal Verification Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T02:24:42.997167Z",
-      "lastVerifiedAtUtc": "2026-06-09T11:34:30.784761Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/ibm-formal-verification-engineer-112493",
-      "sourceUrl": "https://careers.ibm.com/careers/JobDetail"
-    },
-    {
       "id": "e2a2be7b-8476-4822-87b5-bdf5b45cdbf7",
       "company": "Anthropic",
       "companySlug": "anthropic",
@@ -34258,22 +33250,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:21:40.762396Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/atlassian-principal-data-engineer-25153",
       "sourceUrl": "https://careers-apac-atlassian.icims.com/jobs/25153/principal-data-engineer/job"
-    },
-    {
-      "id": "1fd6c37e-0d52-4772-9f76-636f376f146f",
-      "company": "Workday",
-      "companySlug": "workday",
-      "title": "Principal Cloud IAM Engineer (US Federal)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-25T03:21:16.924189Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:12:42.014819Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/workday-principal-cloud-iam-engineer-us-federal-s-com",
-      "sourceUrl": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Principal-Cloud-Engineer--US-Federal-_JR-0104997"
     },
     {
       "id": "7ae3352b-ad2b-4902-a84e-69a94602597a",
@@ -36020,22 +34996,6 @@
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334333"
     },
     {
-      "id": "d02e78cd-0150-444b-a533-e116a20aa04f",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Chip Design & Verification Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "Israel",
-      "location": "Israel",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-20T23:52:56.311269Z",
-      "lastVerifiedAtUtc": "2026-06-09T08:03:55.400925Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-chip-design-verification-engineer-s-nvidia-com",
-      "sourceUrl": "https://jobs.nvidia.com/careers/job/893395015997"
-    },
-    {
       "id": "561f4381-df9c-4e24-aba6-03d76d7cb1be",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -36372,22 +35332,6 @@
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10424488/sr-mechanical-engineer-data-center-engineering"
     },
     {
-      "id": "d234da69-271f-4e8b-8db3-c31b12973fab",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Software Development Snr Director",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-19T19:57:03.527566Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:02:32.016216Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-software-development-snr-director-334236",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/334236"
-    },
-    {
       "id": "f66378f5-49fb-47f7-a19f-23c0fa7a6594",
       "company": "Adobe",
       "companySlug": "adobe",
@@ -36546,22 +35490,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:57:19.594517Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/adobe-software-developer-engineer-4-adobusr164352externalenus",
       "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Developer-Engineer_R164352/apply"
-    },
-    {
-      "id": "32753e89-602d-4cc8-940f-7c79c690fe33",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Infra Design Verification Staff Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-19T10:54:14.832472Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:12:19.907455Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-infra-design-verification-engineer-446718440354-32753e89",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718440354"
     },
     {
       "id": "b9ba2cc8-09c1-4f90-9f63-4401add8b223",
@@ -36772,22 +35700,6 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556863239"
     },
     {
-      "id": "69cd9ba3-c81b-42b8-972b-920335ee2ad6",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Staff Engineer- AI/Machine Learning R&D",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-18T07:30:58.377469Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:12:21.858739Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-staff-engineer-ai-machine-learning-r-d-446718485876-69cd9ba3",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718485876"
-    },
-    {
       "id": "37305a59-fa1e-408c-9ed1-b743bb698951",
       "company": "Cisco",
       "companySlug": "cisco",
@@ -36930,22 +35842,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:15:49.59276Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-software-engineer-senior-oseng-cork-446718012288",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446718012288"
-    },
-    {
-      "id": "e7118ab1-1cc8-4c0c-aa5d-96452d4db608",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Software Engineer — QAIRT Windows Platform (Entry to Staff)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-17T20:19:39.400774Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:12:18.460565Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-senior-or-staff-software-engineer-qairt-windows-platform-446718407314",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718407314"
     },
     {
       "id": "17321161-4681-438a-8985-be3cf75fb347",
@@ -39250,22 +38146,6 @@
       "lastVerifiedAtUtc": "2026-06-10T18:22:21.314711Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-reliability-engineering-7565550-9825d143",
       "sourceUrl": "https://careers.airbnb.com/positions/7565550"
-    },
-    {
-      "id": "16727460-105c-48b9-9d6e-e809f6d1f86b",
-      "company": "Airbnb",
-      "companySlug": "airbnb",
-      "title": "Backend Software Engineer – Guest & Host",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-16T05:36:32.597141Z",
-      "lastVerifiedAtUtc": "2026-06-09T10:25:59.366166Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-backend-software-engineer-guest-host-7907839-16727460",
-      "sourceUrl": "https://careers.airbnb.com/positions/7907839"
     },
     {
       "id": "709c97e6-6bb9-464c-83ee-108ca38aab90",
