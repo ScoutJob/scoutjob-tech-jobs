@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-06-11T02:51:59.895929+00:00",
+  "generatedAtUtc": "2026-06-11T07:24:35.253433+00:00",
   "publicDelayMinutes": 60,
-  "total": 2635,
+  "total": 2633,
   "jobs": [
     {
       "id": "2b556eb4-7193-4ac4-bfdd-43918f5a089d",
@@ -17924,22 +17924,6 @@
       "sourceUrl": "https://jobs.ashbyhq.com/openai/193d33d8-4993-4220-bc5d-cfd792d7e583"
     },
     {
-      "id": "a565a030-81c7-46fc-b9c0-fcc6dec9cdba",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Senior Design Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-06-04T22:45:23.203371Z",
-      "lastVerifiedAtUtc": "2026-06-09T06:07:26.045009Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-senior-design-engineer-ciscisglobal2016441externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Allentown-Pennsylvania-US/Senior-Design-Engineer_2016441-1/apply"
-    },
-    {
       "id": "611c198d-ce65-482e-bf4d-44f5633e1d7f",
       "company": "Amazon",
       "companySlug": "amazon",
@@ -29858,22 +29842,6 @@
       "lastVerifiedAtUtc": "2026-06-10T19:09:10.597245Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-security-reliability-engineer-645ccd65-eb60-4eb7-b094-b01c2269638c",
       "sourceUrl": "https://jobs.ashbyhq.com/openai/645ccd65-eb60-4eb7-b094-b01c2269638c"
-    },
-    {
-      "id": "8d69f407-a30c-4cdc-a342-8f14f58053e3",
-      "company": "OpenAI",
-      "companySlug": "openai",
-      "title": "AI Deployment Engineer, Startups",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-05-26T02:34:20.367464Z",
-      "lastVerifiedAtUtc": "2026-06-09T07:23:31.276508Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/openai-ai-deployment-engineer-startups-ac1de598-3891-4d1b-bbb6-4c3997a8bef8",
-      "sourceUrl": "https://jobs.ashbyhq.com/openai/ac1de598-3891-4d1b-bbb6-4c3997a8bef8"
     },
     {
       "id": "f548812d-420b-448b-baf7-05ef526defb1",
