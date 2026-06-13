@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior ASIC Methodology Engineer - LPU Division](https://www.scoutjob.me/jobs/nvidia-senior-asic-methodology-engineer-lpu-division-893393697420) | SeniorHardwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 19:52 UTC |
 | JPMorgan Chase | [AEM Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-aem-lead-software-engineer-210754413) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 16:49 UTC |
 | JPMorgan Chase | [Equity Capital Markets Business Management – Analyst](https://www.scoutjob.me/jobs/jpmorgan-equity-capital-markets-business-management-analyst-210754609) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 15:32 UTC |
 | Amazon | [Software Dev Engineer II, ECR - Private](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-ecr-private-bfb5ab8d-8a24-4b21-bc2e-65bea0343a13) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 15:31 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Workday | [Senior Cybersecurity Data Engineer - AI/ML SME](https://www.scoutjob.me/jobs/workday-senior-cybersecurity-data-engineer-ai-ml-sme-jr-0107814) | SeniorDataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 00:23 UTC |
 | Reddit | [Software Engineer - Data Movement Platform](https://www.scoutjob.me/jobs/reddit-software-engineer-data-movement-platform-7997866) | SoftwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 00:16 UTC |
 | Amazon | [Software Development Engineer (Payload SW), STAR (System Test Automation and Regression)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-payload-sw-star-system-test-automation-and-regression-4ff20308-9827-41b8-8352-4c5d6d01697e) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:13 UTC |
-| DoorDash | [Associate, GOC Analyst](https://www.scoutjob.me/jobs/doordash-associate-goc-analyst-7998312) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 00:13 UTC |
