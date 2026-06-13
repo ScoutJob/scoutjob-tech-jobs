@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335475) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335474) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
+| Oracle | [Software Development Manager](https://www.scoutjob.me/jobs/oracle-software-development-manager-332342) | EngineeringManagement | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
+| Salesforce | [Sr. Analyst, Sustainability](https://www.scoutjob.me/jobs/salesforce-sr-analyst-sustainability-jr346007) | SeniorAnalyst | United States | Jun 13, 2026 | Jun 13, 2026 20:46 UTC |
+| Salesforce | [Sr. Analyst, Climate Action](https://www.scoutjob.me/jobs/salesforce-sr-analyst-climate-action-jr345818) | SeniorAnalyst | Remote | Jun 13, 2026 | Jun 13, 2026 20:46 UTC |
 | NVIDIA | [Senior ASIC Methodology Engineer - LPU Division](https://www.scoutjob.me/jobs/nvidia-senior-asic-methodology-engineer-lpu-division-893393697420) | SeniorHardwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 19:52 UTC |
 | JPMorgan Chase | [AEM Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-aem-lead-software-engineer-210754413) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 16:49 UTC |
 | JPMorgan Chase | [Equity Capital Markets Business Management – Analyst](https://www.scoutjob.me/jobs/jpmorgan-equity-capital-markets-business-management-analyst-210754609) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 15:32 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [CPU Implementation Engineer](https://www.scoutjob.me/jobs/apple-cpu-implementation-engineer-200668278) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
 | DoorDash | [IT Software Asset Management Analyst](https://www.scoutjob.me/jobs/doordash-it-software-asset-management-analyst-8001229) | Analyst | Remote | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
 | NVIDIA | [Senior ASIC Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-893384052477) | SeniorHardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:27 UTC |
-| NVIDIA | [ASIC Design Engineer - Hardware](https://www.scoutjob.me/jobs/nvidia-asic-design-engineer-hardware-893395609294) | HardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:27 UTC |
-| Apple | [Machine Learning & AI Engineer](https://www.scoutjob.me/jobs/apple-machine-learning-ai-engineer-200668163) | DataAiMl | China | Jun 13, 2026 | Jun 13, 2026 00:26 UTC |
-| Workday | [Senior Cybersecurity Data Engineer - AI/ML SME](https://www.scoutjob.me/jobs/workday-senior-cybersecurity-data-engineer-ai-ml-sme-jr-0107814) | SeniorDataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 00:23 UTC |
-| Reddit | [Software Engineer - Data Movement Platform](https://www.scoutjob.me/jobs/reddit-software-engineer-data-movement-platform-7997866) | SoftwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 00:16 UTC |
-| Amazon | [Software Development Engineer (Payload SW), STAR (System Test Automation and Regression)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-payload-sw-star-system-test-automation-and-regression-4ff20308-9827-41b8-8352-4c5d6d01697e) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:13 UTC |
