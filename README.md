@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Equity Capital Markets Business Management – Analyst](https://www.scoutjob.me/jobs/jpmorgan-equity-capital-markets-business-management-analyst-210754609) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 15:32 UTC |
+| Amazon | [Software Dev Engineer II, ECR - Private](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-ecr-private-bfb5ab8d-8a24-4b21-bc2e-65bea0343a13) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 15:31 UTC |
 | Microsoft | [Software Engineer II & Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-senior-software-engineer-1970393556874927) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
 | Microsoft | [Applied Scientist II](https://www.scoutjob.me/jobs/microsoft-applied-scientist-ii-1970393556874321) | DataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
 | Microsoft | [Applied Scientist II and Senior: Microsoft AI Development Acceleration Program, Cambridge](https://www.scoutjob.me/jobs/microsoft-applied-scientist-ii-and-senior-microsoft-ai-development-acceleration-program-cambridge-1970393556875040) | SeniorDataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer (Payload SW), STAR (System Test Automation and Regression)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-payload-sw-star-system-test-automation-and-regression-4ff20308-9827-41b8-8352-4c5d6d01697e) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:13 UTC |
 | DoorDash | [Associate, GOC Analyst](https://www.scoutjob.me/jobs/doordash-associate-goc-analyst-7998312) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 00:13 UTC |
 | Apple | [Platform Security Certification Engineer](https://www.scoutjob.me/jobs/apple-platform-security-certification-engineer-200668286) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:00 UTC |
-| Apple | [Full Stack AI Native Claude Engineer](https://www.scoutjob.me/jobs/apple-full-stack-ai-native-claude-engineer-200668263) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:00 UTC |
-| Workday | [Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME](https://www.scoutjob.me/jobs/workday-senior-cybersecurity-data-engineer-data-platform-lakehouse-sme-jr-0107830) | SeniorDataAiMl | United States | Jun 12, 2026 | Jun 12, 2026 23:57 UTC |
