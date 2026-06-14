@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Rippling | [Senior Software Engineer, Frontend Full Stack - IT Product](https://www.scoutjob.me/jobs/rippling-senior-software-engineer-frontend-full-stack-it-product-c472bfa8-37ad-4fa3-a3d1-77455444697c) | SeniorSoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 03:00 UTC |
+| Rippling | [Senior Software Engineer, Backend - IT Product](https://www.scoutjob.me/jobs/rippling-senior-software-engineer-backend-it-product-af95ca2e-187d-4e60-92df-292ee3934c9c) | SeniorSoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 03:00 UTC |
 | Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335475) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
 | Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335474) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
 | Oracle | [Software Development Manager](https://www.scoutjob.me/jobs/oracle-software-development-manager-332342) | EngineeringManagement | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Solutions Architect, Spectrum-X Low Level](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-spectrum-x-low-level-893382818893) | SeniorSoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
 | Apple | [CPU Implementation Engineer](https://www.scoutjob.me/jobs/apple-cpu-implementation-engineer-200668277) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
 | Apple | [CPU Implementation Engineer](https://www.scoutjob.me/jobs/apple-cpu-implementation-engineer-200668278) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
-| DoorDash | [IT Software Asset Management Analyst](https://www.scoutjob.me/jobs/doordash-it-software-asset-management-analyst-8001229) | Analyst | Remote | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
-| NVIDIA | [Senior ASIC Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-893384052477) | SeniorHardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:27 UTC |
