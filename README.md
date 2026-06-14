@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [RFIC Circuit Design Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-rfic-circuit-design-engineer-staff-446718416077) | SeniorHardwareEngineering | India | Jun 14, 2026 | Jun 14, 2026 15:41 UTC |
+| Qualcomm | [HW Design Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-hw-design-engineer-senior-446718782111) | SeniorSoftwareEngineeringExtensive | Taiwan | Jun 14, 2026 | Jun 14, 2026 15:41 UTC |
+| Oracle | [Senior Principal AI Agent / ML Software Engineer (OCI)](https://www.scoutjob.me/jobs/oracle-senior-principal-ai-agent-ml-software-engineer-oci-336158) | SeniorDataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 15:14 UTC |
+| Oracle | [Sr. Director Software Development](https://www.scoutjob.me/jobs/oracle-sr-director-software-development-336594) | SeniorSoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 15:14 UTC |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-336596) | SoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 15:14 UTC |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-336595) | SoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 15:14 UTC |
 | NVIDIA | [Senior Chip Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-chip-design-engineer-893394699912) | SeniorHardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 14:05 UTC |
 | NVIDIA | [Senior Chip Design Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-chip-design-verification-engineer-893394699914) | SeniorHardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 14:05 UTC |
 | Reddit | [Machine Learning Engineering Manager - Ads Engagement Modeling](https://www.scoutjob.me/jobs/reddit-machine-learning-engineering-manager-ads-engagement-modeling-7993514) | EngineeringManagement | Remote | Jun 14, 2026 | Jun 14, 2026 13:15 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cloudflare | [Data Scientist](https://www.scoutjob.me/jobs/cloudflare-data-scientist-8002300) | DataAiMl | Remote | Jun 13, 2026 | Jun 13, 2026 05:42 UTC |
 | Oracle | [Network Engineering Director](https://www.scoutjob.me/jobs/oracle-network-engineering-director-336559) | EngineeringManagement | United States | Jun 13, 2026 | Jun 13, 2026 05:32 UTC |
 | Microsoft | [Senior Applied Scientist (Bing Places)](https://www.scoutjob.me/jobs/microsoft-senior-applied-scientist-bing-places-1970393556874297) | SeniorDataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 05:06 UTC |
-| Microsoft | [Software Development Engineer II](https://www.scoutjob.me/jobs/microsoft-software-development-engineer-ii-1970393556872958) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 05:06 UTC |
-| Microsoft | [Critical Environment Business Analyst](https://www.scoutjob.me/jobs/microsoft-critical-environment-business-analyst-1970393556872790) | Analyst | United States | Jun 13, 2026 | Jun 13, 2026 05:06 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556860204) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 05:06 UTC |
-| Amazon | [Software Dev Engineer II, Amazon Pharmacy](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-amazon-pharmacy-2dc4713a-0608-46a5-8f81-8d2e27801392) | SoftwareEngineering | India | Jun 13, 2026 | Jun 13, 2026 04:24 UTC |
-| NVIDIA | [Senior Formal Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-formal-verification-engineer-893393257395) | SeniorHardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 03:59 UTC |
-| NVIDIA | [Senior Software Engineer - Storage](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-storage-893393582160) | SeniorSoftwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 03:59 UTC |
