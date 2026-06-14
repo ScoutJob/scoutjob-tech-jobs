@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Senior Software Engineer- ML Network Stack, ML Network Stack - Annapurna Labs](https://www.scoutjob.me/jobs/amazon-senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs-96d272b1-eb0d-4e39-8584-f85e9dcd7f56) | SeniorSoftwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 06:27 UTC |
+| Cisco | [Data Analyst](https://www.scoutjob.me/jobs/cisco-data-analyst-ciscisglobal2014886externalenglobal) | DataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 06:20 UTC |
+| Cisco | [Data Architect](https://www.scoutjob.me/jobs/cisco-data-architect-ciscisglobal2014954externalenglobal) | SeniorDataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 06:20 UTC |
+| Apple | [FullStack Software Engineer](https://www.scoutjob.me/jobs/apple-fullstack-software-engineer-200666981) | SoftwareEngineering | China | Jun 14, 2026 | Jun 14, 2026 05:48 UTC |
+| Apple | [FullStack Software Engineer](https://www.scoutjob.me/jobs/apple-fullstack-software-engineer-200666980) | SoftwareEngineering | China | Jun 14, 2026 | Jun 14, 2026 05:48 UTC |
 | Rippling | [Senior Software Engineer, Frontend Full Stack - IT Product](https://www.scoutjob.me/jobs/rippling-senior-software-engineer-frontend-full-stack-it-product-c472bfa8-37ad-4fa3-a3d1-77455444697c) | SeniorSoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 03:00 UTC |
 | Rippling | [Senior Software Engineer, Backend - IT Product](https://www.scoutjob.me/jobs/rippling-senior-software-engineer-backend-it-product-af95ca2e-187d-4e60-92df-292ee3934c9c) | SeniorSoftwareEngineering | United States | Jun 14, 2026 | Jun 14, 2026 03:00 UTC |
 | Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-335475) | SoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 21:21 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Salesforce | [Senior Analyst, Product & Pricing Operations](https://www.scoutjob.me/jobs/salesforce-senior-analyst-product-pricing-operations-jr345898) | SeniorAnalyst | Canada | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
 | Salesforce | [Analyst/Senior Analyst, Product Growth & GTM Strategy](https://www.scoutjob.me/jobs/salesforce-analyst-senior-analyst-product-growth-gtm-strategy-jr343543) | SeniorAnalyst | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
 | Salesforce | [Senior Analyst, Product & Pricing Operations](https://www.scoutjob.me/jobs/salesforce-senior-analyst-product-pricing-operations-jr346241) | SeniorAnalyst | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| NVIDIA | [Software Engineer, AI Networking Architect](https://www.scoutjob.me/jobs/nvidia-software-engineer-ai-networking-architect-893395488734) | SeniorSoftwareEngineering | Israel | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| NVIDIA | [Senior System Firmware Engineer - BIOS UEFI](https://www.scoutjob.me/jobs/nvidia-senior-system-firmware-engineer-bios-uefi-893394087506) | SeniorHardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| NVIDIA | [Senior Solutions Architect, Spectrum-X Low Level](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-spectrum-x-low-level-893382818893) | SeniorSoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| Apple | [CPU Implementation Engineer](https://www.scoutjob.me/jobs/apple-cpu-implementation-engineer-200668277) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
-| Apple | [CPU Implementation Engineer](https://www.scoutjob.me/jobs/apple-cpu-implementation-engineer-200668278) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 00:39 UTC |
