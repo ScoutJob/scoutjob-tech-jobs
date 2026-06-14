@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Machine Learning Engineer - People Analytics](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-people-analytics-200665705) | DataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 17:08 UTC |
 | Qualcomm | [RFIC Circuit Design Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-rfic-circuit-design-engineer-staff-446718416077) | SeniorHardwareEngineering | India | Jun 14, 2026 | Jun 14, 2026 15:41 UTC |
 | Qualcomm | [HW Design Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-hw-design-engineer-senior-446718782111) | SeniorSoftwareEngineeringExtensive | Taiwan | Jun 14, 2026 | Jun 14, 2026 15:41 UTC |
 | Oracle | [Senior Principal AI Agent / ML Software Engineer (OCI)](https://www.scoutjob.me/jobs/oracle-senior-principal-ai-agent-ml-software-engineer-oci-336158) | SeniorDataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 15:14 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556668364) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 05:59 UTC |
 | Cloudflare | [Data Scientist](https://www.scoutjob.me/jobs/cloudflare-data-scientist-8002300) | DataAiMl | Remote | Jun 13, 2026 | Jun 13, 2026 05:42 UTC |
 | Oracle | [Network Engineering Director](https://www.scoutjob.me/jobs/oracle-network-engineering-director-336559) | EngineeringManagement | United States | Jun 13, 2026 | Jun 13, 2026 05:32 UTC |
-| Microsoft | [Senior Applied Scientist (Bing Places)](https://www.scoutjob.me/jobs/microsoft-senior-applied-scientist-bing-places-1970393556874297) | SeniorDataAiMl | United States | Jun 13, 2026 | Jun 13, 2026 05:06 UTC |
