@@ -26,6 +26,15 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Chip Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-chip-design-engineer-893394699912) | SeniorHardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 14:05 UTC |
+| NVIDIA | [Senior Chip Design Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-chip-design-verification-engineer-893394699914) | SeniorHardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 14:05 UTC |
+| Reddit | [Machine Learning Engineering Manager - Ads Engagement Modeling](https://www.scoutjob.me/jobs/reddit-machine-learning-engineering-manager-ads-engagement-modeling-7993514) | EngineeringManagement | Remote | Jun 14, 2026 | Jun 14, 2026 13:15 UTC |
+| NVIDIA | [Software Engineer Verification - Networking](https://www.scoutjob.me/jobs/nvidia-software-engineer-verification-networking-893394742952) | SoftwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
+| NVIDIA | [Senior Firmware Engineer](https://www.scoutjob.me/jobs/nvidia-senior-firmware-engineer-893394234536) | SeniorHardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
+| NVIDIA | [QA Engineer, DPU Firmware](https://www.scoutjob.me/jobs/nvidia-qa-engineer-dpu-firmware-893395558040) | HardwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
+| NVIDIA | [Senior SRAM Layout Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-sram-layout-design-engineer-893395620106) | SeniorSoftwareEngineeringExtensive | Remote | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
+| NVIDIA | [Senior IC Foundry Engineer](https://www.scoutjob.me/jobs/nvidia-senior-ic-foundry-engineer-893395620205) | SeniorSoftwareEngineeringExtensive | Israel | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
+| NVIDIA | [Senior Developer Advocate Engineer](https://www.scoutjob.me/jobs/nvidia-senior-developer-advocate-engineer-893395620209) | SeniorSoftwareEngineeringExtensive | Remote | Jun 14, 2026 | Jun 14, 2026 13:13 UTC |
 | Amazon | [Senior Software Engineer- ML Network Stack, ML Network Stack - Annapurna Labs](https://www.scoutjob.me/jobs/amazon-senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs-96d272b1-eb0d-4e39-8584-f85e9dcd7f56) | SeniorSoftwareEngineering | Israel | Jun 14, 2026 | Jun 14, 2026 06:27 UTC |
 | Cisco | [Data Analyst](https://www.scoutjob.me/jobs/cisco-data-analyst-ciscisglobal2014886externalenglobal) | DataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 06:20 UTC |
 | Cisco | [Data Architect](https://www.scoutjob.me/jobs/cisco-data-architect-ciscisglobal2014954externalenglobal) | SeniorDataAiMl | United States | Jun 14, 2026 | Jun 14, 2026 06:20 UTC |
@@ -92,12 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Dev Engineer II, Amazon Pharmacy](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-amazon-pharmacy-2dc4713a-0608-46a5-8f81-8d2e27801392) | SoftwareEngineering | India | Jun 13, 2026 | Jun 13, 2026 04:24 UTC |
 | NVIDIA | [Senior Formal Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-formal-verification-engineer-893393257395) | SeniorHardwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 03:59 UTC |
 | NVIDIA | [Senior Software Engineer - Storage](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-storage-893393582160) | SeniorSoftwareEngineering | Remote | Jun 13, 2026 | Jun 13, 2026 03:59 UTC |
-| Anthropic | [Engineering Manager, Enterprise](https://www.scoutjob.me/jobs/anthropic-engineering-manager-enterprise-5255912008) | EngineeringManagement | United States | Jun 13, 2026 | Jun 13, 2026 03:57 UTC |
-| JPMorgan Chase | [Senior Lead Site Reliability Engineer - AI/ML and Data Platforms](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-site-reliability-engineer-ai-ml-and-data-platforms-210753173) | SeniorSoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 02:14 UTC |
-| JPMorgan Chase | [Site Reliability Engineer III](https://www.scoutjob.me/jobs/jpmorgan-site-reliability-engineer-iii-210753167) | SeniorSoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 02:14 UTC |
-| JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210759350) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 02:14 UTC |
-| NVIDIA | [Senior Business Solution Architect - PLM](https://www.scoutjob.me/jobs/nvidia-senior-business-solution-architect-plm-893395583612) | SeniorSoftwareEngineeringExtensive | Israel | Jun 13, 2026 | Jun 13, 2026 02:14 UTC |
-| Qualcomm | [CPU Power Analysis Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-power-analysis-engineer-446718605399) | SoftwareEngineeringExtensive | United States | Jun 13, 2026 | Jun 13, 2026 01:52 UTC |
-| Salesforce | [Senior Analyst, Product & Pricing Operations](https://www.scoutjob.me/jobs/salesforce-senior-analyst-product-pricing-operations-jr345898) | SeniorAnalyst | Canada | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| Salesforce | [Analyst/Senior Analyst, Product Growth & GTM Strategy](https://www.scoutjob.me/jobs/salesforce-analyst-senior-analyst-product-growth-gtm-strategy-jr343543) | SeniorAnalyst | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
-| Salesforce | [Senior Analyst, Product & Pricing Operations](https://www.scoutjob.me/jobs/salesforce-senior-analyst-product-pricing-operations-jr346241) | SeniorAnalyst | United States | Jun 13, 2026 | Jun 13, 2026 00:57 UTC |
