@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Canva | [Senior Backend Engineer - Java - Product Platform](https://www.scoutjob.me/jobs/canva-senior-backend-engineer-java-product-platform-6000000001152995) | SeniorSoftwareEngineeringExtensive | Australia | Jun 15, 2026 | Jun 15, 2026 00:42 UTC |
+| Atlassian | [Senior Partner Solutions Architect](https://www.scoutjob.me/jobs/atlassian-senior-partner-solutions-architect-25304) | SeniorSoftwareEngineeringExtensive | Remote | Jun 15, 2026 | Jun 15, 2026 00:16 UTC |
 | Amazon | [Software Development Engineer II, Transactional Data Storage](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-transactional-data-storage-5c77d82a-9ee7-4d41-9127-9ff1237bc87e) | SoftwareEngineering | Ireland | Jun 14, 2026 | Jun 14, 2026 20:23 UTC |
 | JPMorgan Chase | [Software Engineer III (UI) - Digital Markets Execution Technology (DMET), Execute](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-ui-digital-markets-execution-technology-dmet-execute-210755380) | SeniorSoftwareEngineering | United Kingdom | Jun 14, 2026 | Jun 14, 2026 20:13 UTC |
 | JPMorgan Chase | [Lead Software Engineer (UI) — Digital Markets Execution Technology (DMET), Execute](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-ui-digital-markets-execution-technology-dmet-execute-210755396) | SeniorSoftwareEngineering | United Kingdom | Jun 14, 2026 | Jun 14, 2026 20:13 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Optical Packaging Engineer](https://www.scoutjob.me/jobs/microsoft-senior-optical-packaging-engineer-1970393556873418) | SeniorHardwareEngineering | United Kingdom | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
 | Microsoft | [Solution Engineering - Security](https://www.scoutjob.me/jobs/microsoft-solution-engineering-security-1970393556873744) | SoftwareEngineeringExtensive | India | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556874102) | SeniorSoftwareEngineering | India | Jun 13, 2026 | Jun 13, 2026 07:03 UTC |
-| Microsoft | [Senior Software Engineer - Azure Networking](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-networking-1970393556658397) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 06:38 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556620220) | SeniorSoftwareEngineering | United States | Jun 13, 2026 | Jun 13, 2026 06:38 UTC |
