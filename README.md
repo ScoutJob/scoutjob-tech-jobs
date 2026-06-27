@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [CPU Design Engineer - New College Grad 2026](https://www.scoutjob.me/jobs/nvidia-cpu-design-engineer-new-college-grad-2026-893391950885) | SoftwareEngineeringExtensive | Remote | Jun 27, 2026 | Jun 27, 2026 19:29 UTC |
 | JPMorgan Chase | [Data Scientist Director – Business Banking Client Analytics](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-director-business-banking-client-analytics-210762108) | SeniorDataAiMl | United States | Jun 27, 2026 | Jun 27, 2026 15:18 UTC |
 | ByteDance | [Sr. Multimodal Model Training and Inference Optimization Engineer](https://www.scoutjob.me/jobs/bytedance-sr-multimodal-model-training-and-inference-optimization-engineer-7604949355615062277) | SeniorSoftwareEngineeringExtensive | Canada | Jun 27, 2026 | Jun 27, 2026 14:40 UTC |
 | Twilio | [Senior Director, Analyst Relations](https://www.scoutjob.me/jobs/twilio-senior-director-analyst-relations-1099554385243) | SeniorAnalyst | Remote | Jun 27, 2026 | Jun 27, 2026 14:17 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Dev Engineer II, Oracle Database@AWS](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-oracle-database-aws-c72ca43e-be86-4501-b54a-b754034f4bcd) | SoftwareEngineering | Canada | Jun 27, 2026 | Jun 27, 2026 14:09 UTC |
 | Amazon | [Software Dev Engineer, Amazon CloudFront (Routing Dataplane)](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-amazon-cloudfront-routing-dataplane-e4a3eaad-5a0a-4fb8-9cdf-57065573753f) | SoftwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:09 UTC |
 | Amazon | [Software Development Engineer, Nitro SSD](https://www.scoutjob.me/jobs/amazon-software-development-engineer-nitro-ssd-0e97ed87-686a-4de9-91f9-7d2eaeee26ce) | SoftwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:09 UTC |
-| Amazon | [Software Development Engineer, AWS Athena, AWS Athena](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-athena-aws-athena-547622b5-0157-4443-bdf8-41afedbb38dd) | SoftwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:09 UTC |
