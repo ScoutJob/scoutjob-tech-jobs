@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-06-28T17:01:41.716492+00:00",
+  "generatedAtUtc": "2026-06-28T19:06:20.403683+00:00",
   "publicDelayMinutes": 60,
-  "total": 215,
+  "total": 217,
   "jobs": [
+    {
+      "id": "ffc0a0fa-57f8-424a-81f5-66d422184170",
+      "company": "Airbnb",
+      "companySlug": "airbnb",
+      "title": "Data Scientist – Algorithms, Community Support",
+      "roleCategory": "DataAiMl",
+      "country": "Remote",
+      "location": "Remote",
+      "isRemote": true,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-28T17:57:08.563551Z",
+      "lastVerifiedAtUtc": "2026-06-28T17:57:08.563551Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-data-scientist-algorithms-community-support-8031901",
+      "sourceUrl": "https://careers.airbnb.com/positions/8031901"
+    },
+    {
+      "id": "7f79f4b9-8a3b-4e00-9f1c-a2cb22e3ff1f",
+      "company": "Airbnb",
+      "companySlug": "airbnb",
+      "title": "Data Scientist – Inference, Community Support",
+      "roleCategory": "DataAiMl",
+      "country": "Remote",
+      "location": "Remote",
+      "isRemote": true,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-28T17:57:08.556986Z",
+      "lastVerifiedAtUtc": "2026-06-28T17:57:08.556986Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/airbnb-data-scientist-inference-community-support-8031907",
+      "sourceUrl": "https://careers.airbnb.com/positions/8031907"
+    },
     {
       "id": "9d0de503-5b5b-4a0a-8733-2a75fa439e62",
       "company": "NVIDIA",
