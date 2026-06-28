@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-06-28T19:06:20.403683+00:00",
+  "generatedAtUtc": "2026-06-28T20:53:40.131245+00:00",
   "publicDelayMinutes": 60,
-  "total": 217,
+  "total": 219,
   "jobs": [
+    {
+      "id": "0838dcc9-4e0f-418d-84fc-b18b46f688e3",
+      "company": "Cloudflare",
+      "companySlug": "cloudflare",
+      "title": "Software Engineer, People Ops and AI Tools",
+      "roleCategory": "SoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-28T19:13:10.535459Z",
+      "lastVerifiedAtUtc": "2026-06-28T19:13:10.535459Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-software-engineer-people-ops-and-ai-tools-8034796",
+      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/8034796"
+    },
+    {
+      "id": "a8c22621-0245-41cd-b269-4b4a888408a3",
+      "company": "American Express",
+      "companySlug": "americanexpress",
+      "title": "Analyst-Operational Risk Management",
+      "roleCategory": "Analyst",
+      "country": "India",
+      "location": "India",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-28T18:51:12.467786Z",
+      "lastVerifiedAtUtc": "2026-06-28T18:51:12.467786Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26010056",
+      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26010056"
+    },
     {
       "id": "ffc0a0fa-57f8-424a-81f5-66d422184170",
       "company": "Airbnb",
