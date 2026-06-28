@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Staff AI Engineer - Servicing Enablement Platform](https://www.scoutjob.me/jobs/americanexpress-staff-ai-engineer-servicing-enablement-platform-26009410) | SeniorDataAiMl | India | Jun 28, 2026 | Jun 28, 2026 09:19 UTC |
+| Oracle | [Senior Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-site-reliability-engineer-337903) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
+| Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-337840) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
+| Oracle | [Lead Principal Application Software Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-application-software-engineer-337930) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
+| Oracle | [Director, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-director-core-infrastructure-engineering-338023) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
 | CVS Health | [Sr. Data Scientist - PBM Analytics](https://www.scoutjob.me/jobs/cvs-sr-data-scientist-pbm-analytics-r0950853) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0942170) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0942785) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cisco | [ASIC Physical Design Principal Engineer](https://www.scoutjob.me/jobs/cisco-asic-physical-design-principal-engineer-ciscisglobal2017797externalenglobal) | SeniorHardwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
 | Cisco | [Solutions Engineer - Enterprise Sales, Baton Rouge, LA](https://www.scoutjob.me/jobs/cisco-solutions-engineer-enterprise-sales-baton-rouge-la-ciscisglobal2017660externalenglobal) | SoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
 | Cisco | [AI Infrastructure Benchmarking and Network Validation Engineer](https://www.scoutjob.me/jobs/cisco-ai-infrastructure-benchmarking-and-network-validation-engineer-ciscisglobal2017476externalenglobal) | SoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
-| xAI | [Senior Data Engineer - Consumer Subscriptions](https://www.scoutjob.me/jobs/xai-senior-data-engineer-consumer-subscriptions-5109703007) | SeniorDataAiMl | United States | Jun 27, 2026 | Jun 27, 2026 14:13 UTC |
-| Roblox | [Senior Mobile Systems Engineer, Audio Team (Android & C++)](https://www.scoutjob.me/jobs/roblox-senior-mobile-systems-engineer-audio-team-android-c-7528070) | SeniorSoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:12 UTC |
-| Roblox | [Principal Software Engineer, Data Infrastructure](https://www.scoutjob.me/jobs/roblox-principal-software-engineer-data-infrastructure-8029695) | SeniorDataAiMl | United States | Jun 27, 2026 | Jun 27, 2026 14:12 UTC |
-| Roblox | [Principal Network Engineer](https://www.scoutjob.me/jobs/roblox-principal-network-engineer-7645403) | SeniorSoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:12 UTC |
-| Oracle | [Senior Application Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-application-software-engineer-337926) | SeniorSoftwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:12 UTC |
