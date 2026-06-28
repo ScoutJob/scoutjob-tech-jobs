@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Test Engineer II, Amazon Devices](https://www.scoutjob.me/jobs/amazon-software-test-engineer-ii-amazon-devices-da322e58-8b44-46d2-abcb-24c3ec0d4e0a) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:46 UTC |
+| Amazon | [Software Development Engineer, Amazon Devices Experience Technology (DeXT)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-devices-experience-technology-dext-ecab7cee-8b4d-46ca-b5db-93181f8929cd) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:35 UTC |
+| Canva | [Senior Frontend Engineer - Developer Experience](https://www.scoutjob.me/jobs/canva-senior-frontend-engineer-developer-experience-6000000001188465) | SeniorSoftwareEngineeringExtensive | Australia | Jun 28, 2026 | Jun 28, 2026 21:13 UTC |
+| Canva | [Senior Software Engineer (Golang, Kubernetes) - Cloud Compute Team](https://www.scoutjob.me/jobs/canva-senior-software-engineer-golang-kubernetes-cloud-compute-team-6000000001188470) | SeniorSoftwareEngineering | Australia | Jun 28, 2026 | Jun 28, 2026 21:13 UTC |
 | Oracle | [Senior Platform Software Engineer - Oracle Health Data & Analytics](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-oracle-health-data-analytics-337437) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 20:44 UTC |
 | Microsoft | [Digital Cloud Solution Architect - Cloud & AI](https://www.scoutjob.me/jobs/microsoft-digital-cloud-solution-architect-cloud-ai-1970393556914547) | SeniorSoftwareEngineeringExtensive | Japan | Jun 28, 2026 | Jun 28, 2026 20:12 UTC |
 | JPMorgan Chase | [Sr Lead Software Engineer - Java Developer](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-java-developer-210763364) | SeniorSoftwareEngineering | Greece | Jun 28, 2026 | Jun 28, 2026 20:10 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0942445) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Senior Software Engineer - Backend](https://www.scoutjob.me/jobs/cvs-senior-software-engineer-backend-r0946113) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0942258) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Data Engineer](https://www.scoutjob.me/jobs/cvs-staff-data-engineer-r0942380) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| Microsoft | [Senior Applied Scientist](https://www.scoutjob.me/jobs/microsoft-senior-applied-scientist-1970393556853053) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 02:16 UTC |
-| Microsoft | [Principal Software Engineering Manager \| Ads Trust & Safety AI Platform](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-ads-trust-safety-ai-platform-1970393556913271) | EngineeringManagement | India | Jun 28, 2026 | Jun 28, 2026 02:16 UTC |
-| Snowflake | [Senior Software Engineer (AI Engineer - IC 2/3)](https://www.scoutjob.me/jobs/snowflake-senior-software-engineer-ai-engineer-ic-2-3-sncous77463e6e07ee46dcbac20d8510ab9964externalenusbed7fa9df8a44c7fad1a59883a43b6fe) | SeniorDataAiMl | United States | Jun 27, 2026 | Jun 27, 2026 23:18 UTC |
