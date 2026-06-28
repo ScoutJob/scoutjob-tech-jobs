@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Financial Analyst - Inventory](https://www.scoutjob.me/jobs/nvidia-financial-analyst-inventory-893395767034) | Analyst | Israel | Jun 28, 2026 | Jun 28, 2026 10:40 UTC |
+| NVIDIA | [Senior Security Engineer](https://www.scoutjob.me/jobs/nvidia-senior-security-engineer-893395777697) | SeniorSoftwareEngineeringExtensive | Remote | Jun 28, 2026 | Jun 28, 2026 10:40 UTC |
+| NVIDIA | [Senior Software Engineer, PyTorch - Deep Learning](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-pytorch-deep-learning-893392196919) | SeniorDataAiMl | Remote | Jun 28, 2026 | Jun 28, 2026 10:40 UTC |
 | American Express | [Staff AI Engineer - Servicing Enablement Platform](https://www.scoutjob.me/jobs/americanexpress-staff-ai-engineer-servicing-enablement-platform-26009410) | SeniorDataAiMl | India | Jun 28, 2026 | Jun 28, 2026 09:19 UTC |
 | Oracle | [Senior Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-site-reliability-engineer-337903) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-337840) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cisco | [ASIC DFx & Test Architect Lead](https://www.scoutjob.me/jobs/cisco-asic-dfx-test-architect-lead-ciscisglobal2017937externalenglobal) | SeniorHardwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
 | Cisco | [Business Architect Product Lifecycle Management(Remote)](https://www.scoutjob.me/jobs/cisco-business-architect-product-lifecycle-management-remote-ciscisglobal2016604externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
 | Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2017422externalenglobal) | SeniorSoftwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
-| Cisco | [ASIC Physical Design Principal Engineer](https://www.scoutjob.me/jobs/cisco-asic-physical-design-principal-engineer-ciscisglobal2017797externalenglobal) | SeniorHardwareEngineering | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
-| Cisco | [Solutions Engineer - Enterprise Sales, Baton Rouge, LA](https://www.scoutjob.me/jobs/cisco-solutions-engineer-enterprise-sales-baton-rouge-la-ciscisglobal2017660externalenglobal) | SoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
-| Cisco | [AI Infrastructure Benchmarking and Network Validation Engineer](https://www.scoutjob.me/jobs/cisco-ai-infrastructure-benchmarking-and-network-validation-engineer-ciscisglobal2017476externalenglobal) | SoftwareEngineeringExtensive | United States | Jun 27, 2026 | Jun 27, 2026 14:15 UTC |
