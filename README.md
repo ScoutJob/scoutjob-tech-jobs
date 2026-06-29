@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Software Developer - Networking](https://www.scoutjob.me/jobs/nvidia-software-developer-networking-893394618565) | SoftwareEngineering | Israel | Jun 28, 2026 | Jun 28, 2026 23:06 UTC |
 | Amazon | [Software Test Engineer II, Amazon Devices](https://www.scoutjob.me/jobs/amazon-software-test-engineer-ii-amazon-devices-da322e58-8b44-46d2-abcb-24c3ec0d4e0a) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:46 UTC |
 | Amazon | [Software Development Engineer, Amazon Devices Experience Technology (DeXT)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-devices-experience-technology-dext-ecab7cee-8b4d-46ca-b5db-93181f8929cd) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:35 UTC |
 | Canva | [Senior Frontend Engineer - Developer Experience](https://www.scoutjob.me/jobs/canva-senior-frontend-engineer-developer-experience-6000000001188465) | SeniorSoftwareEngineeringExtensive | Australia | Jun 28, 2026 | Jun 28, 2026 21:13 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | CVS Health | [Manager, AI Engineer Claude](https://www.scoutjob.me/jobs/cvs-manager-ai-engineer-claude-r0887888) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0942445) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
 | CVS Health | [Senior Software Engineer - Backend](https://www.scoutjob.me/jobs/cvs-senior-software-engineer-backend-r0946113) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0942258) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |

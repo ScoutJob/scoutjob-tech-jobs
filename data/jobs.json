@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-06-28T22:59:01.103978+00:00",
+  "generatedAtUtc": "2026-06-29T00:11:51.240946+00:00",
   "publicDelayMinutes": 60,
-  "total": 226,
+  "total": 227,
   "jobs": [
+    {
+      "id": "ab733275-8baa-403e-b047-85682669aa49",
+      "company": "NVIDIA",
+      "companySlug": "nvidia",
+      "title": "Software Developer - Networking",
+      "roleCategory": "SoftwareEngineering",
+      "country": "Israel",
+      "location": "Israel",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-06-28T23:06:18.020054Z",
+      "lastVerifiedAtUtc": "2026-06-28T23:06:18.020054Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-software-developer-networking-893394618565",
+      "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893394618565"
+    },
     {
       "id": "4c62db37-a4c7-4bbd-8a40-93af51982c1c",
       "company": "Amazon",
