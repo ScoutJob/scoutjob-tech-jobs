@@ -26,6 +26,33 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Hardware System Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hardware-system-engineer-893393805373) | SeniorHardwareEngineering | Israel | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Senior Cloud Software Engineer](https://www.scoutjob.me/jobs/nvidia-senior-cloud-software-engineer-893395879714) | SeniorSoftwareEngineering | India | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Senior Field Applications Engineer](https://www.scoutjob.me/jobs/nvidia-senior-field-applications-engineer-893395968563) | SeniorSoftwareEngineeringExtensive | India | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Senior Test Engineer - Autonomous Driving](https://www.scoutjob.me/jobs/nvidia-senior-test-engineer-autonomous-driving-893395993500) | SeniorSoftwareEngineeringExtensive | Germany | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Senior DFT Engineer - Hardware](https://www.scoutjob.me/jobs/nvidia-senior-dft-engineer-hardware-893395993507) | SeniorHardwareEngineering | India | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Deep Learning Performance Architect](https://www.scoutjob.me/jobs/nvidia-deep-learning-performance-architect-893395993508) | SeniorDataAiMl | India | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Firmware PHY Verification Engineer](https://www.scoutjob.me/jobs/nvidia-firmware-phy-verification-engineer-893383782920) | HardwareEngineering | Israel | Jun 29, 2026 | Jun 29, 2026 04:21 UTC |
+| NVIDIA | [Software Solutions Architect - NVIS](https://www.scoutjob.me/jobs/nvidia-software-solutions-architect-nvis-893394693963) | SeniorSoftwareEngineering | Remote | Jun 29, 2026 | Jun 29, 2026 04:14 UTC |
+| JPMorgan Chase | [Lead Software Engineer, C++, Electronic Trading Technology](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-c-electronic-trading-technology-210691006) | SeniorSoftwareEngineering | Hong Kong | Jun 29, 2026 | Jun 29, 2026 03:08 UTC |
+| Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001190139) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001190162) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001190185) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001190231) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001190254) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001190277) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001190303) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 02:33 UTC |
+| American Express | [Director - Data Science](https://www.scoutjob.me/jobs/americanexpress-director-data-science-26009969) | SeniorDataAiMl | Singapore | Jun 29, 2026 | Jun 29, 2026 02:02 UTC |
+| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942475) | DataAiMl | United States | Jun 29, 2026 | Jun 29, 2026 01:59 UTC |
+| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942267) | DataAiMl | United States | Jun 29, 2026 | Jun 29, 2026 01:59 UTC |
+| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942340) | DataAiMl | United States | Jun 29, 2026 | Jun 29, 2026 01:59 UTC |
+| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942507) | DataAiMl | United States | Jun 29, 2026 | Jun 29, 2026 01:59 UTC |
+| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0942311) | DataAiMl | United States | Jun 29, 2026 | Jun 29, 2026 01:59 UTC |
+| Cloudflare | [Software Engineer, People Ops and AI Tools](https://www.scoutjob.me/jobs/cloudflare-software-engineer-people-ops-and-ai-tools-8034836) | SoftwareEngineering | United States | Jun 29, 2026 | Jun 29, 2026 01:28 UTC |
+| Canva | [Staff Front-End Engineer - Design Systems](https://www.scoutjob.me/jobs/canva-staff-front-end-engineer-design-systems-6000000001189258) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 01:07 UTC |
+| Canva | [Staff Front-End Engineer - Design Systems](https://www.scoutjob.me/jobs/canva-staff-front-end-engineer-design-systems-6000000001189281) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 01:07 UTC |
+| Canva | [Staff Front-End Engineer - Design Systems](https://www.scoutjob.me/jobs/canva-staff-front-end-engineer-design-systems-6000000001189304) | SeniorSoftwareEngineeringExtensive | Australia | Jun 29, 2026 | Jun 29, 2026 01:07 UTC |
+| NVIDIA | [Power Architecture Engineer](https://www.scoutjob.me/jobs/nvidia-power-architecture-engineer-893395733007) | SoftwareEngineeringExtensive | India | Jun 29, 2026 | Jun 29, 2026 00:29 UTC |
 | NVIDIA | [Software Developer - Networking](https://www.scoutjob.me/jobs/nvidia-software-developer-networking-893394618565) | SoftwareEngineering | Israel | Jun 28, 2026 | Jun 28, 2026 23:06 UTC |
 | Amazon | [Software Test Engineer II, Amazon Devices](https://www.scoutjob.me/jobs/amazon-software-test-engineer-ii-amazon-devices-da322e58-8b44-46d2-abcb-24c3ec0d4e0a) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:46 UTC |
 | Amazon | [Software Development Engineer, Amazon Devices Experience Technology (DeXT)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-devices-experience-technology-dext-ecab7cee-8b4d-46ca-b5db-93181f8929cd) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 21:35 UTC |
@@ -74,30 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Oracle | [Lead Principal Application Software Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-application-software-engineer-337930) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
 | Oracle | [Director, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-director-core-infrastructure-engineering-338023) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 08:17 UTC |
 | CVS Health | [Sr. Data Scientist - PBM Analytics](https://www.scoutjob.me/jobs/cvs-sr-data-scientist-pbm-analytics-r0950853) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0942170) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0942785) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942418) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942360) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942305) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942480) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942306) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942341) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942354) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942335) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [MCR Stars Business Analytics - Lead Data Scientist](https://www.scoutjob.me/jobs/cvs-mcr-stars-business-analytics-lead-data-scientist-r0915094) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Data Scientist](https://www.scoutjob.me/jobs/cvs-data-scientist-r0942426) | DataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Sr Machine Learning Engineer](https://www.scoutjob.me/jobs/cvs-sr-machine-learning-engineer-r0942367) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Machine Learning Engineer](https://www.scoutjob.me/jobs/cvs-staff-machine-learning-engineer-r0937965) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Manager, Senior Process Improvement Engineer (IC)](https://www.scoutjob.me/jobs/cvs-manager-senior-process-improvement-engineer-ic-r0947297) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Principal Network Engineer - AI Infrastructure](https://www.scoutjob.me/jobs/cvs-principal-network-engineer-ai-infrastructure-r0932052) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Senior iOS Engineer](https://www.scoutjob.me/jobs/cvs-senior-ios-engineer-r0941765) | SeniorSoftwareEngineeringExtensive | Ireland | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Android Engineer](https://www.scoutjob.me/jobs/cvs-staff-android-engineer-r0941833) | SeniorSoftwareEngineeringExtensive | Ireland | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0942231) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Senior Software Development Engineer (DevOps)](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-devops-r0925203) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Software Engineer - Digital](https://www.scoutjob.me/jobs/cvs-staff-software-engineer-digital-r0937442) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Sr. Computer Engineer](https://www.scoutjob.me/jobs/cvs-sr-computer-engineer-r0942387) | SeniorSoftwareEngineeringExtensive | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0942483) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0933858) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Manager, AI Engineer Claude](https://www.scoutjob.me/jobs/cvs-manager-ai-engineer-claude-r0887888) | SeniorDataAiMl | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0942445) | SoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
-| CVS Health | [Senior Software Engineer - Backend](https://www.scoutjob.me/jobs/cvs-senior-software-engineer-backend-r0946113) | SeniorSoftwareEngineering | United States | Jun 28, 2026 | Jun 28, 2026 04:43 UTC |
