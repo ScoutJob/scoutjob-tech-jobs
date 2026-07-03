@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Customer Delivery Architect(Remote)](https://www.scoutjob.me/jobs/cisco-customer-delivery-architect-remote-ciscisglobal2015623externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Jul 03, 2026 | Jul 03, 2026 17:41 UTC |
+| Cisco | [Customer Delivery Architect (Remote)](https://www.scoutjob.me/jobs/cisco-customer-delivery-architect-remote-ciscisglobal2015627externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Jul 03, 2026 | Jul 03, 2026 17:41 UTC |
+| Amazon | [Software Development Engineer, Digital and Emerging Markets Payments MX](https://www.scoutjob.me/jobs/amazon-software-development-engineer-digital-and-emerging-markets-payments-mx-0b164281-9e71-4943-9492-6347d799fbf5) | SoftwareEngineering | Mexico | Jul 03, 2026 | Jul 03, 2026 17:04 UTC |
+| JPMorgan Chase | [Java/AWS/Agentic Senior Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-java-aws-agentic-senior-lead-software-engineer-210735862) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 16:44 UTC |
+| JPMorgan Chase | [AI Modernization Senior Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-modernization-senior-lead-software-engineer-210751969) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 16:44 UTC |
+| Oracle | [Principal Software Developer](https://www.scoutjob.me/jobs/oracle-principal-software-developer-323426) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 16:22 UTC |
 | JPMorgan Chase | [Director of Software Engineering - Executive Director](https://www.scoutjob.me/jobs/jpmorgan-director-of-software-engineering-executive-director-210707625) | SeniorSoftwareEngineering | United Kingdom | Jul 03, 2026 | Jul 03, 2026 16:11 UTC |
 | JPMorgan Chase | [Lead Data Engineer - Pipelines, Spark Streaming and Spark Offline](https://www.scoutjob.me/jobs/jpmorgan-lead-data-engineer-pipelines-spark-streaming-and-spark-offline-210746000) | SeniorDataAiMl | United States | Jul 03, 2026 | Jul 03, 2026 15:50 UTC |
 | NVIDIA | [Principal NIC Architect](https://www.scoutjob.me/jobs/nvidia-principal-nic-architect-893396005193) | SeniorSoftwareEngineeringExtensive | Israel | Jul 03, 2026 | Jul 03, 2026 15:19 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Systems Software Engineer - NV Cloud Functions](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-nv-cloud-functions-893396064189) | SeniorSoftwareEngineering | Taiwan | Jul 03, 2026 | Jul 03, 2026 10:36 UTC |
 | NVIDIA | [Senior AI Agent Test Developer, SDET](https://www.scoutjob.me/jobs/nvidia-senior-ai-agent-test-developer-sdet-893396064191) | SeniorDataAiMl | China | Jul 03, 2026 | Jul 03, 2026 10:36 UTC |
 | JPMorgan Chase | [Lead Software Engineer- Lending](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-lending-210725944) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 10:27 UTC |
-| JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210759379) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 10:15 UTC |
-| Apple | [Retail Online Production Support Analyst](https://www.scoutjob.me/jobs/apple-retail-online-production-support-analyst-200670141) | Analyst | Ireland | Jul 03, 2026 | Jul 03, 2026 10:03 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Java and AI/ML](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-and-ai-ml-210748526) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 09:44 UTC |
-| Okta | [Identity Solutions Architect](https://www.scoutjob.me/jobs/okta-identity-solutions-architect-8042985) | SeniorSoftwareEngineeringExtensive | Australia | Jul 03, 2026 | Jul 03, 2026 09:43 UTC |
-| Amazon | [Software Development Engineer, RBS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-rbs-0890cc23-736a-4866-9240-e3e7af0e21c9) | SoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 08:38 UTC |
-| AMD | [DFT Lead](https://www.scoutjob.me/jobs/amd-dft-lead-87112) | SeniorHardwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 08:37 UTC |
