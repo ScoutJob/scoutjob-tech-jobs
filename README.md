@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ByteDance | [Software Engineer, Microservices Framework - Data Infrastructure](https://www.scoutjob.me/jobs/bytedance-software-engineer-microservices-framework-data-infrastructure-7611072963833858309) | DataAiMl | Canada | Jul 03, 2026 | Jul 03, 2026 20:14 UTC |
 | JPMorgan Chase | [Java Lead Software Engineer - AWM](https://www.scoutjob.me/jobs/jpmorgan-java-lead-software-engineer-awm-210766755) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 19:37 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556918245) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 19:16 UTC |
 | Microsoft | [Research Software Development Engineer-MSR](https://www.scoutjob.me/jobs/microsoft-research-software-development-engineer-msr-1970393556923990) | SoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 19:16 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Sr Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-210762162) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 10:49 UTC |
 | JPMorgan Chase | [Payments Planning and Analysis Developer - Associate](https://www.scoutjob.me/jobs/jpmorgan-payments-planning-and-analysis-developer-associate-210762768) | SoftwareEngineeringExtensive | India | Jul 03, 2026 | Jul 03, 2026 10:38 UTC |
 | NVIDIA | [Senior Co-Packaged Optics Process Engineer](https://www.scoutjob.me/jobs/nvidia-senior-co-packaged-optics-process-engineer-893393332983) | SeniorSoftwareEngineeringExtensive | Taiwan | Jul 03, 2026 | Jul 03, 2026 10:36 UTC |
-| NVIDIA | [Senior Software Engineer - MarTech Platform Development](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-martech-platform-development-893396064149) | SeniorSoftwareEngineering | China | Jul 03, 2026 | Jul 03, 2026 10:36 UTC |
