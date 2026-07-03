@@ -26,6 +26,18 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, RBS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-rbs-0890cc23-736a-4866-9240-e3e7af0e21c9) | SoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 08:38 UTC |
+| AMD | [DFT Lead](https://www.scoutjob.me/jobs/amd-dft-lead-87112) | SeniorHardwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 08:37 UTC |
+| AMD | [Manager - Firmware Software Systems Design](https://www.scoutjob.me/jobs/amd-manager-firmware-software-systems-design-86034) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 08:37 UTC |
+| AMD | [Product Development Engineer](https://www.scoutjob.me/jobs/amd-product-development-engineer-87832) | SoftwareEngineeringExtensive | Singapore | Jul 03, 2026 | Jul 03, 2026 08:37 UTC |
+| Amazon | [Server Engineer \| Data Center Operations, DCO](https://www.scoutjob.me/jobs/amazon-server-engineer-data-center-operations-dco-ec0d5868-7712-4313-ba91-7f4b2255de2e) | SoftwareEngineeringExtensive | Japan | Jul 03, 2026 | Jul 03, 2026 08:07 UTC |
+| American Express | [Analyst Data Governance & Management](https://www.scoutjob.me/jobs/americanexpress-analyst-data-governance-management-26010081) | Analyst | India | Jul 03, 2026 | Jul 03, 2026 07:44 UTC |
+| AMD | [NVMe Senior Software Development Eng](https://www.scoutjob.me/jobs/amd-nvme-senior-software-development-eng-87889) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 06:50 UTC |
+| JPMorgan Chase | [Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210760315) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 06:42 UTC |
+| CVS Health | [Sr. Data Scientist](https://www.scoutjob.me/jobs/cvs-sr-data-scientist-r0942511) | SeniorDataAiMl | United States | Jul 03, 2026 | Jul 03, 2026 06:24 UTC |
+| CVS Health | [Senior Content Delivery Network Engineer](https://www.scoutjob.me/jobs/cvs-senior-content-delivery-network-engineer-r0934813) | SeniorSoftwareEngineeringExtensive | United States | Jul 03, 2026 | Jul 03, 2026 06:24 UTC |
+| Apple | [Product Design Engineer - Audio Fit](https://www.scoutjob.me/jobs/apple-product-design-engineer-audio-fit-200670940) | HardwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 06:07 UTC |
+| Rippling | [Senior Software Engineer](https://www.scoutjob.me/jobs/rippling-senior-software-engineer-a3eddc1d-63cf-4682-87a1-28dd4afe4ee3) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 05:58 UTC |
 | Apple | [Audio Product Design Engineer](https://www.scoutjob.me/jobs/apple-audio-product-design-engineer-200670931) | HardwareEngineering | China | Jul 03, 2026 | Jul 03, 2026 05:44 UTC |
 | Oracle | [REMOTE -Principal Software Developer- Agentic AI, Healthcare AI](https://www.scoutjob.me/jobs/oracle-remote-principal-software-developer-agentic-ai-healthcare-ai-338083) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 05:36 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Java/Python, AI](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-java-python-ai-210765454) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 05:25 UTC |
@@ -89,15 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Physical Design Engineer, Sr Staff](https://www.scoutjob.me/jobs/qualcomm-physical-design-engineer-sr-staff-446719451179) | SeniorHardwareEngineering | Israel | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
 | Qualcomm | [Windows Performance Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-windows-performance-engineer-staff-446718273271) | SeniorSoftwareEngineeringExtensive | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
 | Qualcomm | [Silicon Test Engineer](https://www.scoutjob.me/jobs/qualcomm-silicon-test-engineer-446718425068) | HardwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| Qualcomm | [Software Engineer - AI Solution Enablement Engineer](https://www.scoutjob.me/jobs/qualcomm-software-engineer-ai-solution-enablement-engineer-446718425069) | SoftwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| Qualcomm | [Silicon Test Engineer](https://www.scoutjob.me/jobs/qualcomm-silicon-test-engineer-446718425095) | HardwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| Qualcomm | [Sensors Systems Engineer](https://www.scoutjob.me/jobs/qualcomm-sensors-systems-engineer-446719430757) | SoftwareEngineeringExtensive | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| Qualcomm | [SOC Design Verification Engineer – Data Center Solutions](https://www.scoutjob.me/jobs/qualcomm-soc-design-verification-engineer-data-center-solutions-446719444267) | HardwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| Qualcomm | [Staff Systems Software Engineer – Sensors](https://www.scoutjob.me/jobs/qualcomm-staff-systems-software-engineer-sensors-446719445005) | SeniorSoftwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:16 UTC |
-| NVIDIA | [QA Automation Engineer, Cloud Orchestrations](https://www.scoutjob.me/jobs/nvidia-qa-automation-engineer-cloud-orchestrations-893396056519) | SoftwareEngineeringExtensive | Israel | Jul 02, 2026 | Jul 02, 2026 21:15 UTC |
-| NVIDIA | [Software Engineer, NVIDIA OpenShell](https://www.scoutjob.me/jobs/nvidia-software-engineer-nvidia-openshell-893395057964) | SoftwareEngineering | Remote | Jul 02, 2026 | Jul 02, 2026 21:15 UTC |
-| NVIDIA | [Senior Software Engineer, Test - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-test-autonomous-vehicles-893396056862) | SeniorSoftwareEngineering | Remote | Jul 02, 2026 | Jul 02, 2026 21:15 UTC |
-| Amazon | [Software Development Engineer II, Rendering Foundations](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-rendering-foundations-ec98783f-856b-4dc4-9172-a9c4bf4b0117) | SoftwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 21:14 UTC |
-| Airbnb | [Staff Data Scientist – Long Term Impact](https://www.scoutjob.me/jobs/airbnb-staff-data-scientist-long-term-impact-8042680) | SeniorDataAiMl | Remote | Jul 02, 2026 | Jul 02, 2026 21:04 UTC |
-| Oracle | [Senior Site Reliability Engineer](https://www.scoutjob.me/jobs/oracle-senior-site-reliability-engineer-338458) | SeniorSoftwareEngineeringExtensive | United States | Jul 02, 2026 | Jul 02, 2026 20:56 UTC |
-| Oracle | [Senior Platform Software Engineer - Project Merino](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-project-merino-338584) | SeniorSoftwareEngineering | United States | Jul 02, 2026 | Jul 02, 2026 20:56 UTC |
