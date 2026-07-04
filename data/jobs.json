@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-07-04T21:51:16.339711+00:00",
+  "generatedAtUtc": "2026-07-04T22:50:55.643901+00:00",
   "publicDelayMinutes": 60,
-  "total": 246,
+  "total": 243,
   "jobs": [
     {
       "id": "dc0a44b9-43a8-4274-91fc-419f09047c0b",
@@ -3890,54 +3890,6 @@
       "lastVerifiedAtUtc": "2026-07-02T23:06:20.953094Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2014524externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Edina-Minnesota-US/Solutions-Engineer_2014524/apply"
-    },
-    {
-      "id": "b127960b-8921-4f78-82cb-76c6c6ce3639",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "DFx Methodology Architect",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-02T22:49:47.679905Z",
-      "lastVerifiedAtUtc": "2026-07-02T22:49:47.679905Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-dfx-methodology-architect-85979",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/85979"
-    },
-    {
-      "id": "6143f98c-3857-4b6f-a2c7-ca3dc23fa9cb",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Data Scientist Senior Associate",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-02T22:10:09.883793Z",
-      "lastVerifiedAtUtc": "2026-07-02T22:10:09.883793Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-data-scientist-senior-associate-210735405",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210735405"
-    },
-    {
-      "id": "21d6c881-9e05-455e-a30b-6026cd6adb64",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "ML Software Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-02T22:08:11.762366Z",
-      "lastVerifiedAtUtc": "2026-07-02T22:08:11.762366Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ml-software-engineer-200669226",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200669226/ml-software-engineer"
     }
   ]
 }
