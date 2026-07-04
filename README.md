@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, Conversational Ads Experience](https://www.scoutjob.me/jobs/amazon-software-development-engineer-conversational-ads-experience-e4fde501-37e2-4f39-8dad-2bb198e6a9c2) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 11:41 UTC |
 | NVIDIA | [Senior Quantum Error Correction Research Scientist, Applied Research](https://www.scoutjob.me/jobs/nvidia-senior-quantum-error-correction-research-scientist-applied-research-893392086025) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
 | NVIDIA | [Senior System Software Engineer, OpenBMC](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-openbmc-893394697231) | SeniorSoftwareEngineering | India | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
 | NVIDIA | [Senior Deep Learning Performance Architect](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-performance-architect-893383762371) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior Backend Engineer – Cloud Platform](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-cloud-platform-r165228) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Forward Deployed Engineer (Backend)](https://www.scoutjob.me/jobs/adobe-senior-forward-deployed-engineer-backend-r163291) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Lead Customer Facing Backend Engineer](https://www.scoutjob.me/jobs/adobe-lead-customer-facing-backend-engineer-r163149) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Software Engineer - Backend](https://www.scoutjob.me/jobs/adobe-senior-software-engineer-backend-r169450) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
