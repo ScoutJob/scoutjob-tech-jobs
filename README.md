@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Quantum Error Correction Research Scientist, Applied Research](https://www.scoutjob.me/jobs/nvidia-senior-quantum-error-correction-research-scientist-applied-research-893392086025) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior System Software Engineer, OpenBMC](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-openbmc-893394697231) | SeniorSoftwareEngineering | India | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Deep Learning Performance Architect](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-performance-architect-893383762371) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Deep Learning Kernel Software Performance Architect](https://www.scoutjob.me/jobs/nvidia-deep-learning-kernel-software-performance-architect-893391405354) | SeniorDataAiMl | China | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Deep Learning Performance Architect](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-performance-architect-893391817266) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Deep Learning Kernel Software Performance Architect](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-kernel-software-performance-architect-893392800816) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Software Engineer, PyTorch - Deep Learning](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-pytorch-deep-learning-893396064247) | SeniorDataAiMl | Remote | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893393360660) | SeniorSoftwareEngineering | Remote | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| NVIDIA | [Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-metrics-and-evaluation-autonomous-vehicles-893394111963) | SeniorSoftwareEngineering | Remote | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
+| Oracle | [Senior Application Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-application-software-engineer-339025) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 08:27 UTC |
 | Intel | [Senior Staff Process Engineer – Dry Etch](https://www.scoutjob.me/jobs/intel-senior-staff-process-engineer-dry-etch-jr0285233) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 07:37 UTC |
 | Intel | [Staff Process Engineer, Dry Etch](https://www.scoutjob.me/jobs/intel-staff-process-engineer-dry-etch-jr0285237) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 07:37 UTC |
 | Intel | [Senior Staff Collateral Design and DFM Engineer](https://www.scoutjob.me/jobs/intel-senior-staff-collateral-design-and-dfm-engineer-jr0285234) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 07:37 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior Forward Deployed Engineer (Backend)](https://www.scoutjob.me/jobs/adobe-senior-forward-deployed-engineer-backend-r163291) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Lead Customer Facing Backend Engineer](https://www.scoutjob.me/jobs/adobe-lead-customer-facing-backend-engineer-r163149) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Software Engineer - Backend](https://www.scoutjob.me/jobs/adobe-senior-software-engineer-backend-r169450) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169042) | SoftwareEngineering | United Kingdom | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169563) | SoftwareEngineering | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r168225) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169196) | SoftwareEngineering | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169033) | SoftwareEngineering | United Kingdom | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r168236) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169623) | SoftwareEngineering | Germany | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169894) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Microsoft | [Senior Software Engineer - Fullstack/Frontend](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-fullstack-frontend-1970393556915388) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 04:07 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556918529) | EngineeringManagement | United States | Jul 04, 2026 | Jul 04, 2026 04:07 UTC |
