@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer - Cloud Platform Engineering- AWS, Python](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-cloud-platform-engineering-aws-python-210737757) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 20:00 UTC |
+| Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-49725227-2bde-477f-b73f-a9cbb63dc35c) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 19:58 UTC |
+| Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-8b4f1018-f84c-42c0-9627-90d9388441bb) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 19:58 UTC |
 | Cisco | [Cleared DevOps Lead Engineer Hybrid](https://www.scoutjob.me/jobs/cisco-cleared-devops-lead-engineer-hybrid-ciscisglobal2015159externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 18:19 UTC |
 | Microsoft | [Cloud Solution Architect - Infra](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-infra-1970393556869389) | SeniorSoftwareEngineeringExtensive | Taiwan | Jul 04, 2026 | Jul 04, 2026 14:45 UTC |
 | AMD | [Software Development Technology Engineer - Games](https://www.scoutjob.me/jobs/amd-software-development-technology-engineer-games-87669) | SoftwareEngineering | South Korea | Jul 04, 2026 | Jul 04, 2026 13:06 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior Full Stack Engineer – Agentic Product](https://www.scoutjob.me/jobs/adobe-senior-full-stack-engineer-agentic-product-r169065) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Backend Engineer (Java) – Adobe Real-Time Customer Data Platform (RTCDP)](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-java-adobe-real-time-customer-data-platform-rtcdp-r164334) | SeniorDataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Computer Scientist 2( Java Backend )](https://www.scoutjob.me/jobs/adobe-computer-scientist-2-java-backend-r166803) | SoftwareEngineeringExtensive | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer 4 - Fullstack - Backend heavy](https://www.scoutjob.me/jobs/adobe-software-development-engineer-4-fullstack-backend-heavy-r169194) | SoftwareEngineering | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Computer Scientist ( Java Backend )](https://www.scoutjob.me/jobs/adobe-computer-scientist-java-backend-r164737) | SoftwareEngineeringExtensive | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Backend Engineer (Java, Scala, K8s)](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-java-scala-k8s-r166302) | SeniorSoftwareEngineeringExtensive | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
