@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Cloud Solution Architect - Infra](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-infra-1970393556869389) | SeniorSoftwareEngineeringExtensive | Taiwan | Jul 04, 2026 | Jul 04, 2026 14:45 UTC |
 | AMD | [Software Development Technology Engineer - Games](https://www.scoutjob.me/jobs/amd-software-development-technology-engineer-games-87669) | SoftwareEngineering | South Korea | Jul 04, 2026 | Jul 04, 2026 13:06 UTC |
 | Amazon | [Software Development Engineer, Conversational Ads Experience](https://www.scoutjob.me/jobs/amazon-software-development-engineer-conversational-ads-experience-e4fde501-37e2-4f39-8dad-2bb198e6a9c2) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 11:41 UTC |
 | NVIDIA | [Senior Quantum Error Correction Research Scientist, Applied Research](https://www.scoutjob.me/jobs/nvidia-senior-quantum-error-correction-research-scientist-applied-research-893392086025) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 09:14 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Computer Scientist ( Java Backend )](https://www.scoutjob.me/jobs/adobe-computer-scientist-java-backend-r164737) | SoftwareEngineeringExtensive | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Backend Engineer (Java, Scala, K8s)](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-java-scala-k8s-r166302) | SeniorSoftwareEngineeringExtensive | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Backend Engineer – Cloud Platform](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-cloud-platform-r165228) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Forward Deployed Engineer (Backend)](https://www.scoutjob.me/jobs/adobe-senior-forward-deployed-engineer-backend-r163291) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
