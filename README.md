@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210766812) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 01:31 UTC |
+| JPMorgan Chase | [Principal Software Engineer - Executive Director](https://www.scoutjob.me/jobs/jpmorgan-principal-software-engineer-executive-director-210763174) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 23:47 UTC |
+| Oracle | [Senior Software Developer - AI Infra Compute](https://www.scoutjob.me/jobs/oracle-senior-software-developer-ai-infra-compute-338612) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 23:27 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556922869) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 21:44 UTC |
 | Microsoft | [Site Reliability Engineer II](https://www.scoutjob.me/jobs/microsoft-site-reliability-engineer-ii-1970393556918639) | SoftwareEngineeringExtensive | United States | Jul 03, 2026 | Jul 03, 2026 21:44 UTC |
 | JPMorgan Chase | [Software Engineer III- Senior Associate](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-senior-associate-210765746) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 21:42 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Engineer (Customer & Product Engineering)](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-customer-product-engineering-1970393556923948) | SeniorSoftwareEngineering | United States | Jul 03, 2026 | Jul 03, 2026 11:33 UTC |
 | Microsoft | [Software Engineer / Senior Software Engineer - .NET Libraries](https://www.scoutjob.me/jobs/microsoft-software-engineer-senior-software-engineer-net-libraries-1970393556922652) | SeniorSoftwareEngineering | Czech Republic | Jul 03, 2026 | Jul 03, 2026 11:33 UTC |
 | Microsoft | [Digital Native Senior/Principal Solution Engineer - Cloud & AI](https://www.scoutjob.me/jobs/microsoft-digital-native-senior-principal-solution-engineer-cloud-ai-1970393556917711) | SeniorSoftwareEngineeringExtensive | United States | Jul 03, 2026 | Jul 03, 2026 11:33 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556892383) | SeniorSoftwareEngineering | India | Jul 03, 2026 | Jul 03, 2026 11:33 UTC |
-| JPMorgan Chase | [Infrastructure Engineer III - Network Engineer](https://www.scoutjob.me/jobs/jpmorgan-infrastructure-engineer-iii-network-engineer-210750567) | SeniorSoftwareEngineeringExtensive | India | Jul 03, 2026 | Jul 03, 2026 10:49 UTC |
-| JPMorgan Chase | [Lead Infrastructure Engineer - Network Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-infrastructure-engineer-network-engineer-210750554) | SeniorSoftwareEngineeringExtensive | India | Jul 03, 2026 | Jul 03, 2026 10:49 UTC |
