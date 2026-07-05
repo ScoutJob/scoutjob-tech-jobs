@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-07-05T16:59:13.688376+00:00",
+  "generatedAtUtc": "2026-07-05T18:06:13.433159+00:00",
   "publicDelayMinutes": 60,
-  "total": 124,
+  "total": 121,
   "jobs": [
     {
       "id": "3e5101a6-8aff-46f7-a25e-6948adcfa550",
@@ -1938,54 +1938,6 @@
       "lastVerifiedAtUtc": "2026-07-03T19:03:42.189024Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-full-stack-senior-lead-software-engineer-hedge-fund-technology-210743817",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210743817"
-    },
-    {
-      "id": "f292058c-2691-4d05-9590-fb5a0dad10c8",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Customer Delivery Architect(Remote)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-03T17:41:08.223866Z",
-      "lastVerifiedAtUtc": "2026-07-03T17:41:08.223866Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-customer-delivery-architect-remote-ciscisglobal2015623externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Customer-Delivery-Architect-Remote-_2015623-1/apply"
-    },
-    {
-      "id": "7e3ffb42-1baa-4836-b836-1675be648dfb",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Customer Delivery Architect (Remote)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-03T17:41:08.204184Z",
-      "lastVerifiedAtUtc": "2026-07-03T17:41:08.204184Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-customer-delivery-architect-remote-ciscisglobal2015627externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Customer-Delivery-Architect--Remote-_2015627-1/apply"
-    },
-    {
-      "id": "9f43d3f4-d9ec-4b1f-9326-a540ed0d0d87",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Software Development Engineer, Digital and Emerging Markets Payments MX",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Mexico",
-      "location": "Mexico",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-03T17:04:14.723314Z",
-      "lastVerifiedAtUtc": "2026-07-03T17:04:14.723314Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-digital-and-emerging-markets-payments-mx-0b164281-9e71-4943-9492-6347d799fbf5",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10465741/software-development-engineer-digital-and-emerging-markets-payments-mx"
     }
   ]
 }
