@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Principal Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-1970393556922868) | SeniorDataAiMl | United States | Jul 05, 2026 | Jul 05, 2026 13:17 UTC |
 | Uber | [Sr. Staff Software Engineer, iOS - Safety](https://www.scoutjob.me/jobs/uber-sr-staff-software-engineer-ios-safety-141349) | SeniorSoftwareEngineering | Brazil | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
 | Uber | [Conversion 2026 Software Engineer I, APAC](https://www.scoutjob.me/jobs/uber-conversion-2026-software-engineer-i-apac-149428) | SoftwareEngineering | India | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
 | Uber | [Staff Software Engineer – AV Labs](https://www.scoutjob.me/jobs/uber-staff-software-engineer-av-labs-160330) | SeniorSoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [AI Platform Engineer](https://www.scoutjob.me/jobs/adobe-ai-platform-engineer-r169685) | DataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Product Quality Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-quality-engineer-android-r168772) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Product Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-r168831) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Product Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-r165091) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
