@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-accelerated-kubernetes-performance-and-scale-dgx-cloud-893396010489) | SeniorSoftwareEngineering | Remote | Jul 05, 2026 | Jul 05, 2026 04:26 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Cloud Platform Engineering- AWS, Python](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-cloud-platform-engineering-aws-python-210737757) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 20:00 UTC |
 | Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-49725227-2bde-477f-b73f-a9cbb63dc35c) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 19:58 UTC |
 | Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-8b4f1018-f84c-42c0-9627-90d9388441bb) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 19:58 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior Staff Full Stack Engineer - Agent Platform, Firefly Boards](https://www.scoutjob.me/jobs/adobe-senior-staff-full-stack-engineer-agent-platform-firefly-boards-r168686) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Full Stack Engineer – Agentic Product](https://www.scoutjob.me/jobs/adobe-senior-full-stack-engineer-agentic-product-r169065) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Backend Engineer (Java) – Adobe Real-Time Customer Data Platform (RTCDP)](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-java-adobe-real-time-customer-data-platform-rtcdp-r164334) | SeniorDataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Computer Scientist 2( Java Backend )](https://www.scoutjob.me/jobs/adobe-computer-scientist-2-java-backend-r166803) | SoftwareEngineeringExtensive | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
