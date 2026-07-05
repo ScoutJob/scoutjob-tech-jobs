@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Card Analytics Data Scientist Lead-Vice President](https://www.scoutjob.me/jobs/jpmorgan-card-analytics-data-scientist-lead-vice-president-210764694) | SeniorDataAiMl | United States | Jul 05, 2026 | Jul 05, 2026 20:04 UTC |
+| Cisco | [Software Engineer](https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2017070externalenglobal) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 19:35 UTC |
 | Microsoft | [Principal Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-1970393556922868) | SeniorDataAiMl | United States | Jul 05, 2026 | Jul 05, 2026 13:17 UTC |
 | Uber | [Sr. Staff Software Engineer, iOS - Safety](https://www.scoutjob.me/jobs/uber-sr-staff-software-engineer-ios-safety-141349) | SeniorSoftwareEngineering | Brazil | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
 | Uber | [Conversion 2026 Software Engineer I, APAC](https://www.scoutjob.me/jobs/uber-conversion-2026-software-engineer-i-apac-149428) | SoftwareEngineering | India | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Data Platform Engineer](https://www.scoutjob.me/jobs/adobe-data-platform-engineer-r169536) | DataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Sr Security Engineer](https://www.scoutjob.me/jobs/adobe-sr-security-engineer-r167438) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [AI Platform Engineer](https://www.scoutjob.me/jobs/adobe-ai-platform-engineer-r169685) | DataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Product Quality Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-quality-engineer-android-r168772) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Product Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-r168831) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
