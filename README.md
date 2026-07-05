@@ -26,6 +26,15 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Uber | [Sr. Staff Software Engineer, iOS - Safety](https://www.scoutjob.me/jobs/uber-sr-staff-software-engineer-ios-safety-141349) | SeniorSoftwareEngineering | Brazil | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Uber | [Conversion 2026 Software Engineer I, APAC](https://www.scoutjob.me/jobs/uber-conversion-2026-software-engineer-i-apac-149428) | SoftwareEngineering | India | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Uber | [Staff Software Engineer – AV Labs](https://www.scoutjob.me/jobs/uber-staff-software-engineer-av-labs-160330) | SeniorSoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Uber | [Software Engineer II](https://www.scoutjob.me/jobs/uber-software-engineer-ii-159870) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Uber | [Software Engineer I](https://www.scoutjob.me/jobs/uber-software-engineer-i-159863) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Uber | [Software Engineer II](https://www.scoutjob.me/jobs/uber-software-engineer-ii-159865) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:53 UTC |
+| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556922841) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:23 UTC |
+| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556914099) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:23 UTC |
+| Microsoft | [Software Engineer II - Entra ID](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-entra-id-1970393556918719) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 11:23 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556923938) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 08:16 UTC |
 | NVIDIA | [Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-accelerated-kubernetes-performance-and-scale-dgx-cloud-893396010489) | SeniorSoftwareEngineering | Remote | Jul 05, 2026 | Jul 05, 2026 04:26 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Cloud Platform Engineering- AWS, Python](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-cloud-platform-engineering-aws-python-210737757) | SeniorSoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 20:00 UTC |
@@ -92,12 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior Product Quality Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-quality-engineer-android-r168772) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Product Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-r168831) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Senior Product Engineer — Android](https://www.scoutjob.me/jobs/adobe-senior-product-engineer-android-r165091) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Staff Frontend Engineer](https://www.scoutjob.me/jobs/adobe-staff-frontend-engineer-r165316) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [TechSEO Full-Stack Engineer](https://www.scoutjob.me/jobs/adobe-techseo-full-stack-engineer-r168986) | SoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Full-Stack Software Engineer](https://www.scoutjob.me/jobs/adobe-full-stack-software-engineer-r169422) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Researcher/ML Engineer](https://www.scoutjob.me/jobs/adobe-researcher-ml-engineer-r169016) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Security Engineer](https://www.scoutjob.me/jobs/adobe-security-engineer-r167562) | SoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Research Engineer](https://www.scoutjob.me/jobs/adobe-research-engineer-r166886) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Computer Scientist - I ( Backend Heavy - Full Stack )](https://www.scoutjob.me/jobs/adobe-computer-scientist-i-backend-heavy-full-stack-r169593) | SoftwareEngineeringExtensive | India | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Staff Full Stack Engineer - Agent Platform, Firefly Boards](https://www.scoutjob.me/jobs/adobe-senior-staff-full-stack-engineer-agent-platform-firefly-boards-r168686) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Full Stack Engineer – Agentic Product](https://www.scoutjob.me/jobs/adobe-senior-full-stack-engineer-agentic-product-r169065) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
