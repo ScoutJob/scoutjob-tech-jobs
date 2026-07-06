@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| OpenAI | [Manager, AI Deployment Engineering — Enterprise (ProServe, Media, Telco, Private Equity)](https://www.scoutjob.me/jobs/openai-manager-ai-deployment-engineering-enterprise-proserve-media-telco-private-equity-0a24703f-6108-4422-807e-78831dd98ed1) | SeniorSoftwareEngineeringExtensive | United States | Jul 06, 2026 | Jul 06, 2026 21:56 UTC |
+| American Express | [Sr AI Engineer I](https://www.scoutjob.me/jobs/americanexpress-sr-ai-engineer-i-26010716) | SeniorDataAiMl | United States | Jul 06, 2026 | Jul 06, 2026 21:43 UTC |
+| Cisco | [ASIC Engineering Technical Leader - DFT](https://www.scoutjob.me/jobs/cisco-asic-engineering-technical-leader-dft-ciscisglobal2011181externalenglobal) | SeniorHardwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 21:29 UTC |
+| Roblox | [Senior / Principal Infrastructure Engineer - ML Platform](https://www.scoutjob.me/jobs/roblox-senior-principal-infrastructure-engineer-ml-platform-8027755) | SeniorDataAiMl | United States | Jul 06, 2026 | Jul 06, 2026 21:26 UTC |
+| Apple | [Lead AI/ML Engineer (GenAI & Agentic Systems)-iCloud](https://www.scoutjob.me/jobs/apple-lead-ai-ml-engineer-genai-agentic-systems-icloud-200670755) | SeniorDataAiMl | United States | Jul 06, 2026 | Jul 06, 2026 20:53 UTC |
+| Cloudflare | [Data Engineer Intern (Fall 2026)](https://www.scoutjob.me/jobs/cloudflare-data-engineer-intern-fall-2026-8047201) | DataAiMlIntern | United States | Jul 06, 2026 | Jul 06, 2026 20:32 UTC |
 | Roblox | [Principal Software Engineer, Game Safety](https://www.scoutjob.me/jobs/roblox-principal-software-engineer-game-safety-8031166) | SeniorSoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 20:05 UTC |
 | JPMorgan Chase | [Midrange IBM i Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-midrange-ibm-i-security-engineer-210765544) | SoftwareEngineeringExtensive | Argentina | Jul 06, 2026 | Jul 06, 2026 20:05 UTC |
 | JPMorgan Chase | [DevOps Software Engineer III - CI/CD Release Automation](https://www.scoutjob.me/jobs/jpmorgan-devops-software-engineer-iii-ci-cd-release-automation-210750979) | SeniorSoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 19:44 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Delivery Choices](https://www.scoutjob.me/jobs/amazon-software-development-engineer-delivery-choices-2b9dcf32-f46b-4d4a-8cb2-30eee71b79db) | SoftwareEngineering | India | Jul 06, 2026 | Jul 06, 2026 15:33 UTC |
 | AMD | [Hardware Systems Engineer - Lab Environment](https://www.scoutjob.me/jobs/amd-hardware-systems-engineer-lab-environment-87517) | HardwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 15:32 UTC |
 | Walmart Global Tech | [Software Engineer III](https://www.scoutjob.me/jobs/walmart-software-engineer-iii-usa-2601-se-j-st-fm-storage-ar-bentonville-home-office) | SeniorSoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 15:28 UTC |
-| JPMorgan Chase | [Sr Lead Security Engineer - Role Core](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-security-engineer-role-core-210763932) | SeniorSoftwareEngineeringExtensive | United States | Jul 06, 2026 | Jul 06, 2026 15:14 UTC |
-| JPMorgan Chase | [Senior Lead Software Engineer - Oracle Database Administrator](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-oracle-database-administrator-210741676) | SeniorSoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 15:14 UTC |
-| Lyft | [Senior Anaplan Solution Architect](https://www.scoutjob.me/jobs/lyft-senior-anaplan-solution-architect-8617884002) | SeniorSoftwareEngineeringExtensive | United States | Jul 06, 2026 | Jul 06, 2026 15:13 UTC |
-| Apple | [System Product Design Engineer - iPhone](https://www.scoutjob.me/jobs/apple-system-product-design-engineer-iphone-200671125) | HardwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 15:12 UTC |
-| Apple | [Product Design Engineer - iPAD](https://www.scoutjob.me/jobs/apple-product-design-engineer-ipad-200671018) | HardwareEngineering | China | Jul 06, 2026 | Jul 06, 2026 15:12 UTC |
-| Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393556912948) | SeniorDataAiMl | United States | Jul 06, 2026 | Jul 06, 2026 15:09 UTC |
