@@ -26,6 +26,18 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [AI Software Engineer](https://www.scoutjob.me/jobs/amd-ai-software-engineer-87906) | SoftwareEngineering | China | Jul 06, 2026 | Jul 06, 2026 03:55 UTC |
+| Canva | [Staff Software Engineer - Mobile Platform (C++ or Rust)](https://www.scoutjob.me/jobs/canva-staff-software-engineer-mobile-platform-c-or-rust-6000000001209943) | SeniorSoftwareEngineering | Australia | Jul 06, 2026 | Jul 06, 2026 03:55 UTC |
+| JPMorgan Chase | [Cloud Software Engineer III - Java/Python](https://www.scoutjob.me/jobs/jpmorgan-cloud-software-engineer-iii-java-python-210765463) | SeniorSoftwareEngineering | Singapore | Jul 06, 2026 | Jul 06, 2026 03:37 UTC |
+| OpenAI | [Manager, AI Deployment Engineering - Codex](https://www.scoutjob.me/jobs/openai-manager-ai-deployment-engineering-codex-da8dd5fd-1dec-4610-9508-5a156af9ca92) | SeniorSoftwareEngineeringExtensive | United Kingdom | Jul 06, 2026 | Jul 06, 2026 03:36 UTC |
+| AMD | [Senior Post Si System Validation Engineer (GPU)](https://www.scoutjob.me/jobs/amd-senior-post-si-system-validation-engineer-gpu-84285) | SeniorSoftwareEngineeringExtensive | Malaysia | Jul 06, 2026 | Jul 06, 2026 03:34 UTC |
+| ServiceNow | [Sr Software Engineer - Access Review- Veza](https://www.scoutjob.me/jobs/servicenow-sr-software-engineer-access-review-veza-jb0073941) | SeniorSoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 03:27 UTC |
+| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210766813) | SoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 02:24 UTC |
+| Canva | [Senior Machine Learning Engineer - Elements Platform](https://www.scoutjob.me/jobs/canva-senior-machine-learning-engineer-elements-platform-6000000001209473) | SeniorDataAiMl | Australia | Jul 06, 2026 | Jul 06, 2026 02:21 UTC |
+| AMD | [Senior Staff Product Development Engineer](https://www.scoutjob.me/jobs/amd-senior-staff-product-development-engineer-87769) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 06, 2026 | Jul 06, 2026 01:07 UTC |
+| Cisco | [Solutions Engineer](https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2017907externalenglobal) | SoftwareEngineeringExtensive | United States | Jul 06, 2026 | Jul 06, 2026 00:42 UTC |
+| NVIDIA | [Senior ASIC Hardware Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-asic-hardware-design-engineer-893396004940) | SeniorHardwareEngineering | Israel | Jul 06, 2026 | Jul 06, 2026 00:29 UTC |
+| Amazon | [Software Development Engineer, AWS Agentic AI](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-agentic-ai-244d3e86-4562-4f1d-9bf6-9db795e7c623) | SoftwareEngineering | United States | Jul 06, 2026 | Jul 06, 2026 00:25 UTC |
 | JPMorgan Chase | [Card Analytics Data Scientist Lead-Vice President](https://www.scoutjob.me/jobs/jpmorgan-card-analytics-data-scientist-lead-vice-president-210764694) | SeniorDataAiMl | United States | Jul 05, 2026 | Jul 05, 2026 20:04 UTC |
 | Cisco | [Software Engineer](https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2017070externalenglobal) | SoftwareEngineering | United States | Jul 05, 2026 | Jul 05, 2026 19:35 UTC |
 | Microsoft | [Principal Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-1970393556922868) | SeniorDataAiMl | United States | Jul 05, 2026 | Jul 05, 2026 13:17 UTC |
@@ -89,15 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r168882) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r169351) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r169199) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r167407) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r169475) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Data Scientist](https://www.scoutjob.me/jobs/adobe-data-scientist-r169486) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Data Architect](https://www.scoutjob.me/jobs/adobe-data-architect-r168341) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Software Development Engineer – Data & Cloud Engineering](https://www.scoutjob.me/jobs/adobe-software-development-engineer-data-cloud-engineering-r169309) | SoftwareEngineering | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [AEP Lead Data Solutions Engineer](https://www.scoutjob.me/jobs/adobe-aep-lead-data-solutions-engineer-r166535) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Data Engineer & Architect](https://www.scoutjob.me/jobs/adobe-senior-data-engineer-architect-r166033) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Senior Data Engineer](https://www.scoutjob.me/jobs/adobe-senior-data-engineer-r169988) | SeniorDataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Data Science Engineer](https://www.scoutjob.me/jobs/adobe-data-science-engineer-r169353) | DataAiMl | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Data Platform Engineer](https://www.scoutjob.me/jobs/adobe-data-platform-engineer-r169536) | DataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [Sr Security Engineer](https://www.scoutjob.me/jobs/adobe-sr-security-engineer-r167438) | SeniorSoftwareEngineeringExtensive | United States | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
-| Adobe | [AI Platform Engineer](https://www.scoutjob.me/jobs/adobe-ai-platform-engineer-r169685) | DataAiMl | Romania | Jul 04, 2026 | Jul 04, 2026 06:29 UTC |
