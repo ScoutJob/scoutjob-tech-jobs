@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-07-05T22:55:13.330654+00:00",
+  "generatedAtUtc": "2026-07-06T00:00:32.019635+00:00",
   "publicDelayMinutes": 60,
-  "total": 112,
+  "total": 110,
   "jobs": [
     {
       "id": "80b0dd1c-f3fb-4e28-b738-0e02b279d1c1",
@@ -1762,38 +1762,6 @@
       "lastVerifiedAtUtc": "2026-07-04T01:31:04.073033Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210766812",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210766812"
-    },
-    {
-      "id": "b801568c-80dc-453e-932d-5daf3cea4004",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Principal Software Engineer - Executive Director",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-03T23:47:23.025371Z",
-      "lastVerifiedAtUtc": "2026-07-03T23:47:23.025371Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-principal-software-engineer-executive-director-210763174",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210763174"
-    },
-    {
-      "id": "738eb733-56bb-4aed-a8e9-5e094277cba8",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Senior Software Developer - AI Infra Compute",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-03T23:27:27.0494Z",
-      "lastVerifiedAtUtc": "2026-07-03T23:27:27.0494Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-ai-infra-compute-338612",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/338612"
     }
   ]
 }
