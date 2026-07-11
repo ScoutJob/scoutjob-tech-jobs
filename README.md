@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Software Development Engineer - Test](https://www.scoutjob.me/jobs/apple-software-development-engineer-test-200672069) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
+| Apple | [Machine Learning Systems Engineer – Video Computer Vision](https://www.scoutjob.me/jobs/apple-machine-learning-systems-engineer-video-computer-vision-200672068) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
+| Apple | [Software Development Engineer - Test](https://www.scoutjob.me/jobs/apple-software-development-engineer-test-200671989) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
+| Apple | [Machine Learning Systems Engineer – Video Computer Vision](https://www.scoutjob.me/jobs/apple-machine-learning-systems-engineer-video-computer-vision-200671637) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
 | Microsoft | [Principal Software Engineering Manager - CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-coreai-1970393556928856) | EngineeringManagement | United States | Jul 11, 2026 | Jul 11, 2026 13:45 UTC |
 | American Express | [Financial Systems Analyst I](https://www.scoutjob.me/jobs/americanexpress-financial-systems-analyst-i-26010983) | Analyst | India | Jul 11, 2026 | Jul 11, 2026 10:51 UTC |
 | Workday | [Sr. Associate Software Development Engineer(P2)](https://www.scoutjob.me/jobs/workday-sr-associate-software-development-engineer-p2-indchennai) | SeniorSoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 09:29 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Snowflake | [Senior Solution Engineer](https://www.scoutjob.me/jobs/snowflake-senior-solution-engineer-sncous4342a0770603448eb5bf1e0f13dd6765externalenus7eaced8ca9fa4833bda8b7f6f60e5662) | SeniorSoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 00:56 UTC |
 | Anthropic | [Enforcement Analyst, Chem & Explosives Harms](https://www.scoutjob.me/jobs/anthropic-enforcement-analyst-chem-explosives-harms-5319700008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:48 UTC |
 | Anthropic | [Enforcement Analyst, Bio Harms](https://www.scoutjob.me/jobs/anthropic-enforcement-analyst-bio-harms-5319696008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:48 UTC |
-| Qualcomm | [Memory Control Design Engineer](https://www.scoutjob.me/jobs/qualcomm-memory-control-design-engineer-446719671609) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 00:40 UTC |
-| Qualcomm | [Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-446715887192) | SeniorSoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 00:40 UTC |
-| Qualcomm | [Staff Software Applications Engineer](https://www.scoutjob.me/jobs/qualcomm-staff-software-applications-engineer-446715893759) | SeniorSoftwareEngineering | Canada | Jul 11, 2026 | Jul 11, 2026 00:40 UTC |
-| Apple | [Software Development Engineer in Test, Sensing & Connectivity](https://www.scoutjob.me/jobs/apple-software-development-engineer-in-test-sensing-connectivity-200671991) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 00:39 UTC |
