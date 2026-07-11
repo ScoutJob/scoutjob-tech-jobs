@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Graphics (GPU) Performance Modeling Engineer](https://www.scoutjob.me/jobs/apple-graphics-gpu-performance-modeling-engineer-200672060) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 16:20 UTC |
 | Apple | [Software Development Engineer - Test](https://www.scoutjob.me/jobs/apple-software-development-engineer-test-200672069) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
 | Apple | [Machine Learning Systems Engineer – Video Computer Vision](https://www.scoutjob.me/jobs/apple-machine-learning-systems-engineer-video-computer-vision-200672068) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
 | Apple | [Software Development Engineer - Test](https://www.scoutjob.me/jobs/apple-software-development-engineer-test-200671989) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 14:59 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Anthropic | [Safeguards Enforcement Analyst, Radiological & Nuclear Harms](https://www.scoutjob.me/jobs/anthropic-safeguards-enforcement-analyst-radiological-nuclear-harms-5319702008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:58 UTC |
 | Snowflake | [Senior Solution Engineer](https://www.scoutjob.me/jobs/snowflake-senior-solution-engineer-sncous4342a0770603448eb5bf1e0f13dd6765externalenus7eaced8ca9fa4833bda8b7f6f60e5662) | SeniorSoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 00:56 UTC |
 | Anthropic | [Enforcement Analyst, Chem & Explosives Harms](https://www.scoutjob.me/jobs/anthropic-enforcement-analyst-chem-explosives-harms-5319700008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:48 UTC |
-| Anthropic | [Enforcement Analyst, Bio Harms](https://www.scoutjob.me/jobs/anthropic-enforcement-analyst-bio-harms-5319696008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:48 UTC |
