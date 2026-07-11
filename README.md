@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Financial Systems Analyst I](https://www.scoutjob.me/jobs/americanexpress-financial-systems-analyst-i-26010983) | Analyst | India | Jul 11, 2026 | Jul 11, 2026 10:51 UTC |
 | Workday | [Sr. Associate Software Development Engineer(P2)](https://www.scoutjob.me/jobs/workday-sr-associate-software-development-engineer-p2-indchennai) | SeniorSoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 09:29 UTC |
 | Walmart Global Tech | [(USA) Analyst Ii, Process Engineer - Supply Chain](https://www.scoutjob.me/jobs/walmart-usa-analyst-ii-process-engineer-supply-chain-usa-tx-palestine-06036-regional) | Analyst | United States | Jul 11, 2026 | Jul 11, 2026 07:06 UTC |
 | Walmart Global Tech | [Manager II, Process Engineer - Supply Chain](https://www.scoutjob.me/jobs/walmart-manager-ii-process-engineer-supply-chain-raymond-nh) | SeniorSoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 07:06 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Staff Software Applications Engineer](https://www.scoutjob.me/jobs/qualcomm-staff-software-applications-engineer-446715893759) | SeniorSoftwareEngineering | Canada | Jul 11, 2026 | Jul 11, 2026 00:40 UTC |
 | Apple | [Software Development Engineer in Test, Sensing & Connectivity](https://www.scoutjob.me/jobs/apple-software-development-engineer-in-test-sensing-connectivity-200671991) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 00:39 UTC |
 | Rippling | [Copy of Senior Security Assurance Analyst](https://www.scoutjob.me/jobs/rippling-copy-of-senior-security-assurance-analyst-c40cb6a1-2ac1-49d4-81a6-6540a94b3069) | SeniorAnalyst | United States | Jul 11, 2026 | Jul 11, 2026 00:30 UTC |
-| Anthropic | [Safeguards Enforcement Analyst, Child Safety](https://www.scoutjob.me/jobs/anthropic-safeguards-enforcement-analyst-child-safety-5311237008) | Analyst | Remote | Jul 11, 2026 | Jul 11, 2026 00:27 UTC |
