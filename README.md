@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-7d83992e-9b3f-4ff9-86ee-8d4fea45a55e) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 20:24 UTC |
+| JPMorgan Chase | [Sr Lead Software Engineer CFS CEA UK](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-cfs-cea-uk-210766975) | SeniorSoftwareEngineering | United Kingdom | Jul 12, 2026 | Jul 12, 2026 20:05 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Risk/ FORT BUS MGMT](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-risk-fort-bus-mgmt-210766750) | SeniorSoftwareEngineering | United Kingdom | Jul 12, 2026 | Jul 12, 2026 20:05 UTC |
+| ByteDance | [Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)](https://www.scoutjob.me/jobs/bytedance-machine-learning-engineer-graduate-global-e-commerce-risk-control-2026-start-bs-ms-7607031975204342069) | DataAiMlIntern | Canada | Jul 12, 2026 | Jul 12, 2026 19:50 UTC |
 | Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-338575) | SeniorSoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 17:30 UTC |
 | American Express | [Senior Analyst-Risk Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-risk-management-26010877) | SeniorAnalyst | India | Jul 12, 2026 | Jul 12, 2026 16:14 UTC |
 | PayPal | [Senior Data Analyst -Fraud Risk Strategy](https://www.scoutjob.me/jobs/paypal-senior-data-analyst-fraud-risk-strategy-274917669239) | SeniorDataAiMl | Israel | Jul 12, 2026 | Jul 12, 2026 13:31 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-toronto-on) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-mb-winnipeg-03116-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
 | Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-sorel-tracy-qc) | SeniorSoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
-| Walmart Global Tech | [Process Engineer - Supply Chain](https://www.scoutjob.me/jobs/walmart-process-engineer-supply-chain-hopkinsville-ky) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
-| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-sussex-nb) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:07 UTC |
-| Qualcomm | [Senior AI Engineer – Depth Estimation and Dense Scene Understanding](https://www.scoutjob.me/jobs/qualcomm-senior-ai-engineer-depth-estimation-and-dense-scene-understanding-446719672552) | SeniorDataAiMl | Taiwan | Jul 11, 2026 | Jul 11, 2026 05:53 UTC |
-| Qualcomm | [PDK/CAD Engineer](https://www.scoutjob.me/jobs/qualcomm-pdk-cad-engineer-446718285061) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 05:53 UTC |
