@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-338575) | SeniorSoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 17:30 UTC |
 | American Express | [Senior Analyst-Risk Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-risk-management-26010877) | SeniorAnalyst | India | Jul 12, 2026 | Jul 12, 2026 16:14 UTC |
 | PayPal | [Senior Data Analyst -Fraud Risk Strategy](https://www.scoutjob.me/jobs/paypal-senior-data-analyst-fraud-risk-strategy-274917669239) | SeniorDataAiMl | Israel | Jul 12, 2026 | Jul 12, 2026 13:31 UTC |
 | xAI | [Software Engineer - X Data](https://www.scoutjob.me/jobs/xai-software-engineer-x-data-5182183007) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 07:59 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-sussex-nb) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:07 UTC |
 | Qualcomm | [Senior AI Engineer – Depth Estimation and Dense Scene Understanding](https://www.scoutjob.me/jobs/qualcomm-senior-ai-engineer-depth-estimation-and-dense-scene-understanding-446719672552) | SeniorDataAiMl | Taiwan | Jul 11, 2026 | Jul 11, 2026 05:53 UTC |
 | Qualcomm | [PDK/CAD Engineer](https://www.scoutjob.me/jobs/qualcomm-pdk-cad-engineer-446718285061) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 05:53 UTC |
-| Apple | [Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems](https://www.scoutjob.me/jobs/apple-wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-200671935) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 05:41 UTC |
