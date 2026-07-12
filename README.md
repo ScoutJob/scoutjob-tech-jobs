@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-338591) | SeniorSoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 23:34 UTC |
 | CVS Health | [Senior Data Scientist - Clinical AI](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-clinical-ai-r0969219) | SeniorDataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 18:58 UTC |
 | CVS Health | [Data Scientist - Specialty Operations](https://www.scoutjob.me/jobs/cvs-data-scientist-specialty-operations-r0963558) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 18:58 UTC |
 | CVS Health | [Senior Data Scientist](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-r0965190) | SeniorDataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 18:58 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior ASIC Design Engineer - DFX](https://www.scoutjob.me/jobs/nvidia-senior-asic-design-engineer-dfx-893396268648) | SeniorHardwareEngineering | Canada | Jul 11, 2026 | Jul 11, 2026 02:07 UTC |
 | NVIDIA | [Senior Memory Controller Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-memory-controller-verification-engineer-893396268624) | SeniorHardwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 02:07 UTC |
 | NVIDIA | [Senior Business Systems Analyst - SAP Master Data Management](https://www.scoutjob.me/jobs/nvidia-senior-business-systems-analyst-sap-master-data-management-893396261057) | SeniorAnalyst | United States | Jul 11, 2026 | Jul 11, 2026 02:07 UTC |
-| NVIDIA | [Senior Electrical Product Engineer - Networking Products](https://www.scoutjob.me/jobs/nvidia-senior-electrical-product-engineer-networking-products-893396261034) | SeniorSoftwareEngineeringExtensive | Remote | Jul 11, 2026 | Jul 11, 2026 02:07 UTC |
