@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| PayPal | [Senior Data Analyst -Fraud Risk Strategy](https://www.scoutjob.me/jobs/paypal-senior-data-analyst-fraud-risk-strategy-274917669239) | SeniorDataAiMl | Israel | Jul 12, 2026 | Jul 12, 2026 13:31 UTC |
 | xAI | [Software Engineer - X Data](https://www.scoutjob.me/jobs/xai-software-engineer-x-data-5182183007) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 07:59 UTC |
 | Cisco | [Cloud Engineer](https://www.scoutjob.me/jobs/cisco-cloud-engineer-ciscisglobal2018124externalenglobal) | SoftwareEngineeringExtensive | United States | Jul 12, 2026 | Jul 12, 2026 06:28 UTC |
 | Cisco | [Cloud Engineer](https://www.scoutjob.me/jobs/cisco-cloud-engineer-ciscisglobal2017918externalenglobal) | SoftwareEngineeringExtensive | United States | Jul 12, 2026 | Jul 12, 2026 06:28 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [PDK/CAD Engineer](https://www.scoutjob.me/jobs/qualcomm-pdk-cad-engineer-446718285061) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 05:53 UTC |
 | Apple | [Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems](https://www.scoutjob.me/jobs/apple-wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-200671935) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 05:41 UTC |
 | Roblox | [Senior Software Engineer, Service Mesh](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-service-mesh-8047819) | SeniorSoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 03:23 UTC |
-| Amazon | [Data Center Operations Engineer, DCO (Data Center Operations), ICN - DCO](https://www.scoutjob.me/jobs/amazon-data-center-operations-engineer-dco-data-center-operations-icn-dco-618b6b19-d202-45a3-ad16-b7271e1510e1) | SoftwareEngineeringExtensive | South Korea | Jul 11, 2026 | Jul 11, 2026 02:11 UTC |
