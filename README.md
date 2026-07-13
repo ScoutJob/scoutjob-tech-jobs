@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [Staff Product Development Engineer](https://www.scoutjob.me/jobs/amd-staff-product-development-engineer-88041) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 13, 2026 | Jul 13, 2026 00:53 UTC |
+| Oracle | [Platform Software Engineer II - US Citizenship Required](https://www.scoutjob.me/jobs/oracle-platform-software-engineer-ii-us-citizenship-required-339573) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 23:27 UTC |
 | Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-7d83992e-9b3f-4ff9-86ee-8d4fea45a55e) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 20:24 UTC |
 | JPMorgan Chase | [Sr Lead Software Engineer CFS CEA UK](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-cfs-cea-uk-210766975) | SeniorSoftwareEngineering | United Kingdom | Jul 12, 2026 | Jul 12, 2026 20:05 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Risk/ FORT BUS MGMT](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-risk-fort-bus-mgmt-210766750) | SeniorSoftwareEngineering | United Kingdom | Jul 12, 2026 | Jul 12, 2026 20:05 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169130) | SoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
 | Adobe | [Software Engineer](https://www.scoutjob.me/jobs/adobe-software-engineer-r170409) | SoftwareEngineering | Switzerland | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-toronto-on) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
-| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-mb-winnipeg-03116-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
-| Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-sorel-tracy-qc) | SeniorSoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
