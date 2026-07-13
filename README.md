@@ -26,6 +26,22 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556929044) | SeniorSoftwareEngineering | India | Jul 13, 2026 | Jul 13, 2026 05:06 UTC |
+| Microsoft | [Sr Solution Engineer - Cloud & AI Infrastructure](https://www.scoutjob.me/jobs/microsoft-sr-solution-engineer-cloud-ai-infrastructure-1970393556924620) | SeniorSoftwareEngineeringExtensive | Malaysia | Jul 13, 2026 | Jul 13, 2026 05:06 UTC |
+| Microsoft | [AI Business Solutions Workforce Specialist (M365, Copilot & AI Agent solution, 大手エンタープライズ企業担当）](https://www.scoutjob.me/jobs/microsoft-ai-business-solutions-workforce-specialist-m365-copilot-ai-agent-solution-1970393556928947) | DataAiMl | Japan | Jul 13, 2026 | Jul 13, 2026 05:06 UTC |
+| Microsoft | [Cloud Solution Architect - AI Biz Solutions](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-ai-biz-solutions-1970393556926076) | SeniorSoftwareEngineeringExtensive | India | Jul 13, 2026 | Jul 13, 2026 05:06 UTC |
+| AMD | [Lead Field Application Engineer](https://www.scoutjob.me/jobs/amd-lead-field-application-engineer-86314) | SeniorSoftwareEngineeringExtensive | India | Jul 13, 2026 | Jul 13, 2026 05:03 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Java, SpringBoot, AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-springboot-aws-210768935) | SeniorSoftwareEngineering | India | Jul 13, 2026 | Jul 13, 2026 04:45 UTC |
+| Qualcomm | [AI Software Engineer](https://www.scoutjob.me/jobs/qualcomm-ai-software-engineer-446719600146) | SoftwareEngineering | China | Jul 13, 2026 | Jul 13, 2026 04:36 UTC |
+| ServiceNow | [Sr Staff Software Engineer - Moveworks](https://www.scoutjob.me/jobs/servicenow-sr-staff-software-engineer-moveworks-jb0074127) | SeniorSoftwareEngineering | India | Jul 13, 2026 | Jul 13, 2026 04:06 UTC |
+| Canva | [Curriculum Developer, 12 Month Contract (Primary/Elementary)](https://www.scoutjob.me/jobs/canva-curriculum-developer-12-month-contract-primary-elementary-6000000001227860) | SoftwareEngineeringExtensive | Philippines | Jul 13, 2026 | Jul 13, 2026 03:53 UTC |
+| Atlassian | [Solutions Engineer](https://www.scoutjob.me/jobs/atlassian-solutions-engineer-25717) | SoftwareEngineeringExtensive | Remote | Jul 13, 2026 | Jul 13, 2026 03:53 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Risk Technology](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-risk-technology-210767211) | SeniorSoftwareEngineering | Singapore | Jul 13, 2026 | Jul 13, 2026 03:47 UTC |
+| AMD | [Silicon Design Engineer](https://www.scoutjob.me/jobs/amd-silicon-design-engineer-88004) | HardwareEngineering | China | Jul 13, 2026 | Jul 13, 2026 02:52 UTC |
+| Atlassian | [Senior Principal Engineer](https://www.scoutjob.me/jobs/atlassian-senior-principal-engineer-25716) | SeniorSoftwareEngineeringExtensive | Remote | Jul 13, 2026 | Jul 13, 2026 02:43 UTC |
+| JPMorgan Chase | [AMC Tech, Client Technology, Java Developer, Team lead, VP](https://www.scoutjob.me/jobs/jpmorgan-amc-tech-client-technology-java-developer-team-lead-vp-210754241) | SeniorSoftwareEngineeringExtensive | China | Jul 13, 2026 | Jul 13, 2026 02:25 UTC |
+| Cloudflare | [Pre-Sales Customer Engineer, Indonesia](https://www.scoutjob.me/jobs/cloudflare-pre-sales-customer-engineer-indonesia-8052856) | SoftwareEngineeringExtensive | Singapore | Jul 13, 2026 | Jul 13, 2026 02:13 UTC |
+| AMD | [GPU Compiler Development Engineer](https://www.scoutjob.me/jobs/amd-gpu-compiler-development-engineer-87501) | SoftwareEngineeringExtensive | China | Jul 13, 2026 | Jul 13, 2026 01:44 UTC |
 | AMD | [Staff Product Development Engineer](https://www.scoutjob.me/jobs/amd-staff-product-development-engineer-88041) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 13, 2026 | Jul 13, 2026 00:53 UTC |
 | Oracle | [Platform Software Engineer II - US Citizenship Required](https://www.scoutjob.me/jobs/oracle-platform-software-engineer-ii-us-citizenship-required-339573) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 23:27 UTC |
 | Amazon | [Software Development Engineer, Ads AI Core Infra](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-ai-core-infra-7d83992e-9b3f-4ff9-86ee-8d4fea45a55e) | SoftwareEngineering | United States | Jul 12, 2026 | Jul 12, 2026 20:24 UTC |
@@ -85,19 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Senior AI Enterprise Architect](https://www.scoutjob.me/jobs/adobe-senior-ai-enterprise-architect-r170410) | SeniorSoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
 | Adobe | [Operations AI Developer](https://www.scoutjob.me/jobs/adobe-operations-ai-developer-r170011) | SoftwareEngineeringExtensive | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
 | Adobe | [Sr Engineering Manager, Graph](https://www.scoutjob.me/jobs/adobe-sr-engineering-manager-graph-r169957) | EngineeringManagement | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Applied Scientist](https://www.scoutjob.me/jobs/adobe-applied-scientist-r169898) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Lead Customer Facing Applied AI Engineer](https://www.scoutjob.me/jobs/adobe-lead-customer-facing-applied-ai-engineer-r163147) | SeniorDataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Senior Customer Facing Applied AI Engineer](https://www.scoutjob.me/jobs/adobe-senior-customer-facing-applied-ai-engineer-r163146) | SeniorDataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Development Engineer, Front-end, AI](https://www.scoutjob.me/jobs/adobe-software-development-engineer-front-end-ai-r170086) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Machine Learning Engineer 4](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-4-r169185) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Machine Learning Engineer 4](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-4-r168142) | DataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Staff Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-staff-machine-learning-engineer-r169998) | SeniorDataAiMl | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Development Engineer 3 - Native Android](https://www.scoutjob.me/jobs/adobe-software-development-engineer-3-native-android-r168159) | SoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Quality Engineer](https://www.scoutjob.me/jobs/adobe-software-quality-engineer-r169819) | SoftwareEngineering | United States | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Engineer 3](https://www.scoutjob.me/jobs/adobe-software-engineer-3-r165330) | SoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Senior Software Engineer](https://www.scoutjob.me/jobs/adobe-senior-software-engineer-r170402) | SeniorSoftwareEngineering | Switzerland | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170273) | SoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170158) | SoftwareEngineering | Romania | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r169130) | SoftwareEngineering | India | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Adobe | [Software Engineer](https://www.scoutjob.me/jobs/adobe-software-engineer-r170409) | SoftwareEngineering | Switzerland | Jul 11, 2026 | Jul 11, 2026 06:43 UTC |
-| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-toronto-on) | SoftwareEngineeringExtensive | Canada | Jul 11, 2026 | Jul 11, 2026 06:18 UTC |
