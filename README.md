@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210731940) | SoftwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 12:14 UTC |
+| Amazon | [Data Engineer I, Payfort, Payfort](https://www.scoutjob.me/jobs/amazon-data-engineer-i-payfort-payfort-b907cf7a-3e2e-4d44-aad6-30f648b35983) | DataAiMl | India | Jul 14, 2026 | Jul 14, 2026 11:21 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Java, SpringBoot,Cloud](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-springboot-cloud-210757566) | SeniorSoftwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 10:42 UTC |
+| JPMorgan Chase | [Software Engineer III - Java, Appium, Selenium](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-appium-selenium-210755419) | SeniorSoftwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 10:31 UTC |
+| JPMorgan Chase | [Software Engineer II - Python, AI](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-python-ai-210769602) | SoftwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 10:31 UTC |
 | JPMorgan Chase | [Software Engineer III-GoLang, AWS & Kubernetes](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-golang-aws-kubernetes-210763146) | SeniorSoftwareEngineering | United Kingdom | Jul 14, 2026 | Jul 14, 2026 10:11 UTC |
 | AMD | [DFT - SCAN/ATPG Lead Engineer](https://www.scoutjob.me/jobs/amd-dft-scan-atpg-lead-engineer-79105) | SeniorHardwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 09:58 UTC |
 | JPMorgan Chase | [Principal Cybersecurity Architect](https://www.scoutjob.me/jobs/jpmorgan-principal-cybersecurity-architect-210748583) | SeniorSoftwareEngineeringExtensive | Ireland | Jul 14, 2026 | Jul 14, 2026 09:50 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer , IDEAS - Atlas](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ideas-atlas-423bb6a0-d177-41b5-a824-c0a2924375bd) | SoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 02:39 UTC |
 | Amazon | [Software Development Engineer, IDEAS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ideas-549e71bd-019d-462a-8ffb-0094cee6f5a2) | SoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 02:39 UTC |
 | Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-339589) | SoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 02:31 UTC |
-| Oracle | [Principal AI Agent / ML Software Engineer (OCI)](https://www.scoutjob.me/jobs/oracle-principal-ai-agent-ml-software-engineer-oci-339665) | SeniorDataAiMl | United States | Jul 14, 2026 | Jul 14, 2026 02:31 UTC |
-| Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-339779) | SeniorSoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 02:31 UTC |
-| Canva | [Senior Software Engineer - Product & Features (Java)](https://www.scoutjob.me/jobs/canva-senior-software-engineer-product-features-java-6000000001230343) | SeniorSoftwareEngineering | Australia | Jul 14, 2026 | Jul 14, 2026 02:27 UTC |
-| Canva | [Backend Software Engineer - Product & Features (Java)](https://www.scoutjob.me/jobs/canva-backend-software-engineer-product-features-java-6000000001230345) | SoftwareEngineering | Australia | Jul 14, 2026 | Jul 14, 2026 02:27 UTC |
-| Oracle | [Senior AI Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-ai-software-engineer-339787) | SeniorSoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 02:22 UTC |
