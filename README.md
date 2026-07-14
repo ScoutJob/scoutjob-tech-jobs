@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Okta | [Principal Forward Deployed Engineer](https://www.scoutjob.me/jobs/okta-principal-forward-deployed-engineer-7980649) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 14, 2026 | Jul 14, 2026 22:42 UTC |
+| Apple | [Research Scientist/Engineer - Special Projects](https://www.scoutjob.me/jobs/apple-research-scientist-engineer-special-projects-200672455) | DataAiMl | Switzerland | Jul 14, 2026 | Jul 14, 2026 22:41 UTC |
+| American Express | [Manager-Tech Ops Engineering](https://www.scoutjob.me/jobs/americanexpress-manager-tech-ops-engineering-26010416) | SeniorSoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 22:30 UTC |
+| Zoom | [Web Engineer Lead](https://www.scoutjob.me/jobs/zoom-web-engineer-lead-web-engineer-lead-san-jose-california-united-states) | SeniorSoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 22:26 UTC |
+| AMD | [CQE – Customer Quality Engineer](https://www.scoutjob.me/jobs/amd-cqe-customer-quality-engineer-88440) | SoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 22:20 UTC |
+| AMD | [Data Fabric Silicon Debug Engineer](https://www.scoutjob.me/jobs/amd-data-fabric-silicon-debug-engineer-88511) | HardwareEngineering | Canada | Jul 14, 2026 | Jul 14, 2026 22:10 UTC |
+| Robinhood | [Product Compliance Analyst, Money](https://www.scoutjob.me/jobs/robinhood-product-compliance-analyst-money-8054481) | Analyst | United States | Jul 14, 2026 | Jul 14, 2026 22:03 UTC |
 | AMD | [Profiling Tool Development Engineer](https://www.scoutjob.me/jobs/amd-profiling-tool-development-engineer-80186) | SoftwareEngineeringExtensive | Canada | Jul 14, 2026 | Jul 14, 2026 21:50 UTC |
 | Oracle | [Senior Manager, Reliability Engineering- (Nashville, TN - onsite)](https://www.scoutjob.me/jobs/oracle-senior-manager-reliability-engineering-nashville-tn-onsite-339845) | SeniorSoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 21:43 UTC |
 | JPMorgan Chase | [Senior Lead Site Reliability Engineer](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-site-reliability-engineer-210770351) | SeniorSoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 21:43 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Okta | [Principal Solutions Engineer](https://www.scoutjob.me/jobs/okta-principal-solutions-engineer-8060786) | SeniorSoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 18:14 UTC |
 | Amazon | [Senior Software Development Engineer, Prime Video Offers Expansion](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-prime-video-offers-expansion-633cbed3-d8c2-4e40-8352-ee7561c75508) | SeniorSoftwareEngineering | India | Jul 14, 2026 | Jul 14, 2026 18:14 UTC |
 | Amazon | [Software Dev Engineer, Applied AI](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-applied-ai-17d5d5b8-6550-4d2b-b9be-5a287230e76a) | SoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 18:14 UTC |
-| Cisco | [PCB Technical Leader](https://www.scoutjob.me/jobs/cisco-pcb-technical-leader-ciscisglobal2018137externalenglobal) | SeniorHardwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 18:09 UTC |
-| JPMorgan Chase | [Lead Machine Learning Engineer - Generative AI and Agent Platforms](https://www.scoutjob.me/jobs/jpmorgan-lead-machine-learning-engineer-generative-ai-and-agent-platforms-210769872) | SeniorDataAiMl | United States | Jul 14, 2026 | Jul 14, 2026 18:05 UTC |
-| JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210768375) | SeniorSoftwareEngineering | Mexico | Jul 14, 2026 | Jul 14, 2026 18:05 UTC |
-| Adobe | [Senior AEM Co-Innovation Engineer](https://www.scoutjob.me/jobs/adobe-senior-aem-co-innovation-engineer-remote-illinois) | SeniorSoftwareEngineeringExtensive | Remote | Jul 14, 2026 | Jul 14, 2026 18:05 UTC |
-| Amazon | [Software Dev Engineer , Amazon Customer Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-amazon-customer-service-8cc51d5c-a31f-4719-8095-e61d907c6a75) | SoftwareEngineering | United States | Jul 14, 2026 | Jul 14, 2026 18:03 UTC |
-| Twilio | [Presales Architect](https://www.scoutjob.me/jobs/twilio-presales-architect-1099554661589) | SeniorSoftwareEngineeringExtensive | Remote | Jul 14, 2026 | Jul 14, 2026 18:00 UTC |
-| Apple | [UI Frameworks Engineer, macOS](https://www.scoutjob.me/jobs/apple-ui-frameworks-engineer-macos-200672385) | SoftwareEngineeringExtensive | United States | Jul 14, 2026 | Jul 14, 2026 17:53 UTC |
