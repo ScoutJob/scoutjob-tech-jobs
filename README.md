@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Power Platform Senior Developer Lead](https://www.scoutjob.me/jobs/jpmorgan-power-platform-senior-developer-lead-210770142) | SeniorSoftwareEngineeringExtensive | United States | Jul 16, 2026 | Jul 16, 2026 21:50 UTC |
+| JPMorgan Chase | [Data Engineer III - Python, Databricks](https://www.scoutjob.me/jobs/jpmorgan-data-engineer-iii-python-databricks-210759920) | SeniorDataAiMl | United States | Jul 16, 2026 | Jul 16, 2026 21:50 UTC |
+| Anthropic | [Research Scientist, Life Sciences (Computational)](https://www.scoutjob.me/jobs/anthropic-research-scientist-life-sciences-computational-5357739008) | DataAiMl | United States | Jul 16, 2026 | Jul 16, 2026 21:28 UTC |
+| Oracle | [Senior Application Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-application-software-engineer-339847) | SeniorSoftwareEngineering | United States | Jul 16, 2026 | Jul 16, 2026 21:20 UTC |
+| Oracle | [Senior Application Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-application-software-engineer-339844) | SeniorSoftwareEngineering | United States | Jul 16, 2026 | Jul 16, 2026 21:20 UTC |
+| Oracle | [Principal Application Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-application-software-engineer-339913) | SeniorSoftwareEngineering | United States | Jul 16, 2026 | Jul 16, 2026 21:20 UTC |
+| AMD | [Senior Server Validation Engineer](https://www.scoutjob.me/jobs/amd-senior-server-validation-engineer-87347) | SeniorSoftwareEngineeringExtensive | United States | Jul 16, 2026 | Jul 16, 2026 21:14 UTC |
+| JPMorgan Chase | [Machine Learning Intelligent Operations Team - Quant Analytics Senior Associate](https://www.scoutjob.me/jobs/jpmorgan-machine-learning-intelligent-operations-team-quant-analytics-senior-associate-210760662) | SeniorDataAiMl | United States | Jul 16, 2026 | Jul 16, 2026 21:03 UTC |
 | American Express | [Sr Infrastructure Engineer I](https://www.scoutjob.me/jobs/americanexpress-sr-infrastructure-engineer-i-26011092) | SeniorSoftwareEngineeringExtensive | United States | Jul 16, 2026 | Jul 16, 2026 20:46 UTC |
 | American Express | [Senior AI Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-ai-engineer-i-26011071) | SeniorDataAiMl | United States | Jul 16, 2026 | Jul 16, 2026 20:46 UTC |
 | xAI | [Power Systems Engineer (Data Center Infrastructure)](https://www.scoutjob.me/jobs/xai-power-systems-engineer-data-center-infrastructure-5189147007) | SoftwareEngineeringExtensive | United States | Jul 16, 2026 | Jul 16, 2026 20:39 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Zoom | [Research Scientist - AI Incubation](https://www.scoutjob.me/jobs/zoom-research-scientist-ai-incubation-research-scientist-ai-incubation-seattle-washington-united-states-san-jose-california-6898) | DataAiMl | United States | Jul 16, 2026 | Jul 16, 2026 18:49 UTC |
 | Zoom | [Mass Market Solutions Engineer](https://www.scoutjob.me/jobs/zoom-mass-market-solutions-engineer-mass-market-solutions-engineer-remote-united-states-1eecceed-aa14-471e-bd31-d60a8902e334) | SoftwareEngineeringExtensive | United States | Jul 16, 2026 | Jul 16, 2026 18:49 UTC |
 | Qualcomm | [Senior ASIC Design Engineer, Low Power Audio AI Subsystems](https://www.scoutjob.me/jobs/qualcomm-senior-asic-design-engineer-low-power-audio-ai-subsystems-446719101586) | SeniorHardwareEngineering | Canada | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [STA/Synthesis- Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-sta-synthesis-staff-engineer-446719467110) | SeniorSoftwareEngineeringExtensive | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [CPU Software Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-software-engineer-446719582018) | SoftwareEngineering | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [CPU Software Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-software-senior-engineer-446719582025) | SeniorSoftwareEngineering | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [CPU Software Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-software-senior-engineer-446719582042) | SeniorSoftwareEngineering | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [CPU Software Senior Lead Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-software-senior-lead-engineer-446719582057) | SeniorSoftwareEngineering | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [Memory CAD Software Engineer](https://www.scoutjob.me/jobs/qualcomm-memory-cad-software-engineer-446719727588) | SoftwareEngineering | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [Staff Engineer - Graphics](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-graphics-446719739041) | SeniorSoftwareEngineeringExtensive | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
-| Qualcomm | [2027 Campus Hire_Engineer_SW](https://www.scoutjob.me/jobs/qualcomm-2027-campus-hire-engineer-sw-446719783573) | SoftwareEngineeringExtensive | India | Jul 16, 2026 | Jul 16, 2026 18:40 UTC |
