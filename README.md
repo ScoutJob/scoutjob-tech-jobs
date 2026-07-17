@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Machine Learning Research Engineer](https://www.scoutjob.me/jobs/apple-machine-learning-research-engineer-200670886) | DataAiMl | Canada | Jul 17, 2026 | Jul 17, 2026 18:59 UTC |
+| JPMorgan Chase | [Payments-Digital & Design-Product Associate](https://www.scoutjob.me/jobs/jpmorgan-payments-digital-design-product-associate-210730927) | HardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 18:47 UTC |
+| AMD | [Firmware Architect](https://www.scoutjob.me/jobs/amd-firmware-architect-88458) | SeniorHardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 18:42 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Full Stack](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-full-stack-210741041) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 18:14 UTC |
+| JPMorgan Chase | [Lead Software Engineer - iOS Developer Lead](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-ios-developer-lead-210765012) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 18:14 UTC |
+| Amazon | [Software Development Engineer II, AmazonMQ](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazonmq-0fd4880e-0639-4067-a112-e63d8e367468) | SoftwareEngineering | Canada | Jul 17, 2026 | Jul 17, 2026 18:11 UTC |
+| Amazon | [Software Development Engineer II, Amazon ECS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-ecs-e698ae78-626d-412f-b54c-c3929f19a7e0) | SoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 18:11 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java/AWS/Agentic](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-aws-agentic-210758693) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 17:46 UTC |
 | JPMorgan Chase | [Sr. Lead Software Engineer - Java](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-java-210770913) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 17:46 UTC |
 | Amazon | [Software Development Engineer, AWS OpenSearch](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-opensearch-46169f8c-0e2c-43b9-8a0b-f3c31ed94506) | SoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 17:44 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Security Engineer III-Python, Bash, Vulnerability Assessments](https://www.scoutjob.me/jobs/jpmorgan-security-engineer-iii-python-bash-vulnerability-assessments-210768758) | SeniorSoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 13:54 UTC |
 | JPMorgan Chase | [Sr Lead Software Engineer - Artificial Intelligence](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-artificial-intelligence-210751920) | SeniorDataAiMl | United States | Jul 17, 2026 | Jul 17, 2026 13:54 UTC |
 | Apple | [AI Solutions Engineer](https://www.scoutjob.me/jobs/apple-ai-solutions-engineer-200671500) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 13:52 UTC |
-| Apple | [Quality Analyst](https://www.scoutjob.me/jobs/apple-quality-analyst-200671499) | Analyst | United States | Jul 17, 2026 | Jul 17, 2026 13:52 UTC |
-| Amazon | [Software Development Engineer - 2026](https://www.scoutjob.me/jobs/amazon-software-development-engineer-2026-c3ad48fd-2de5-482c-96ac-4c3d4a1d3be6) | SoftwareEngineering | Germany | Jul 17, 2026 | Jul 17, 2026 13:51 UTC |
-| American Express | [Software Engineer III](https://www.scoutjob.me/jobs/americanexpress-software-engineer-iii-26010975) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 13:51 UTC |
-| American Express | [Senior Software Engineer - Gen AI, Python](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-gen-ai-python-26010836) | SeniorSoftwareEngineering | India | Jul 17, 2026 | Jul 17, 2026 13:51 UTC |
-| Microsoft | [Cloud Network Engineering IC3](https://www.scoutjob.me/jobs/microsoft-cloud-network-engineering-ic3-1970393556927669) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 13:42 UTC |
-| Qualcomm | [#Display Software Engineer](https://www.scoutjob.me/jobs/qualcomm-display-software-engineer-446719744706) | SoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 13:41 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Pyspark, AWS, Databricks](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-pyspark-aws-databricks-210769350) | SeniorSoftwareEngineering | India | Jul 17, 2026 | Jul 17, 2026 13:41 UTC |
