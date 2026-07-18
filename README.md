@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Workday | [Senior Software Engineer, DBaas (US Federal)](https://www.scoutjob.me/jobs/workday-senior-software-engineer-dbaas-us-federal-jr-0108508) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105547) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105399) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105398) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105400) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Sr. Data Scientist](https://www.scoutjob.me/jobs/workday-sr-data-scientist-jr-0108050) | SeniorDataAiMl | Canada | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Principal AI Engineer](https://www.scoutjob.me/jobs/workday-principal-ai-engineer-jr-0108761) | SeniorDataAiMl | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
+| Workday | [Principal AI Engineer](https://www.scoutjob.me/jobs/workday-principal-ai-engineer-jr-0108789) | SeniorDataAiMl | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
 | Intel | [Senior AI Software Engineer - Neuromorphic Computing](https://www.scoutjob.me/jobs/intel-senior-ai-software-engineer-neuromorphic-computing-jr0282751) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
 | Intel | [Senior Software Engineer](https://www.scoutjob.me/jobs/intel-senior-software-engineer-jr0285595) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
 | Intel | [Software Technician](https://www.scoutjob.me/jobs/intel-software-technician-jr0285603) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274921132490) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
 | Apple | [Character Animator - Generative AI Experiences SW](https://www.scoutjob.me/jobs/apple-character-animator-generative-ai-experiences-sw-200655784) | DataAiMl | United States | Jul 17, 2026 | Jul 17, 2026 23:51 UTC |
 | Qualcomm | [Synthesis Engineer, Lead/Staff/Sr Staff](https://www.scoutjob.me/jobs/qualcomm-synthesis-engineer-lead-staff-sr-staff-446715517863) | SeniorSoftwareEngineeringExtensive | India | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
-| Qualcomm | [Linux BSP and Project Lead for IOT, Principal Engineer](https://www.scoutjob.me/jobs/qualcomm-linux-bsp-and-project-lead-for-iot-principal-engineer-446717055078) | SeniorSoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
-| Qualcomm | [Product Security Engineer, Senior Staff](https://www.scoutjob.me/jobs/qualcomm-product-security-engineer-senior-staff-446718055646) | SeniorSoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
-| Qualcomm | [SoC Physical Design Engineer, Senior Staff](https://www.scoutjob.me/jobs/qualcomm-soc-physical-design-engineer-senior-staff-446718546639) | SeniorHardwareEngineering | Vietnam | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
-| Qualcomm | [SOC Verification and Methodology Engineer - SCL](https://www.scoutjob.me/jobs/qualcomm-soc-verification-and-methodology-engineer-scl-446719123068) | HardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
-| Qualcomm | [SOC Verification and Methodology Engineer](https://www.scoutjob.me/jobs/qualcomm-soc-verification-and-methodology-engineer-446719360772) | HardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [ASIC Design Verification Engineer (Santa Clara, CA)](https://www.scoutjob.me/jobs/qualcomm-asic-design-verification-engineer-santa-clara-ca-446719364276) | HardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Staff Software Engineer — SubSystem Integration Test (SSIT)](https://www.scoutjob.me/jobs/qualcomm-staff-software-engineer-subsystem-integration-test-ssit-446719379848) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [VLSI Design Engineer for Server / Data Center Products](https://www.scoutjob.me/jobs/qualcomm-vlsi-design-engineer-for-server-data-center-products-446719628594) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
