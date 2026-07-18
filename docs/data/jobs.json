@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-07-18T11:47:07.143500+00:00",
+  "generatedAtUtc": "2026-07-18T12:56:54.954067+00:00",
   "publicDelayMinutes": 60,
-  "total": 804,
+  "total": 805,
   "jobs": [
+    {
+      "id": "b1658739-9b73-43dd-969f-ebe2f36a4790",
+      "company": "Qualcomm",
+      "companySlug": "qualcomm",
+      "title": "ASIC Timing and Methodology Engineer",
+      "roleCategory": "HardwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-07-18T11:13:16.971037Z",
+      "lastVerifiedAtUtc": "2026-07-18T11:13:16.971037Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-asic-timing-and-methodology-engineer-446718382868",
+      "sourceUrl": "https://careers.qualcomm.com/careers/job/446718382868"
+    },
     {
       "id": "bffde439-d79a-4a78-bb89-11a889e34ed3",
       "company": "Workday",

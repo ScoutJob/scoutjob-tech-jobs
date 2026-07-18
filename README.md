@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [ASIC Timing and Methodology Engineer](https://www.scoutjob.me/jobs/qualcomm-asic-timing-and-methodology-engineer-446718382868) | HardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 11:13 UTC |
 | Workday | [Senior Software Engineer, DBaas (US Federal)](https://www.scoutjob.me/jobs/workday-senior-software-engineer-dbaas-us-federal-jr-0108508) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
 | Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105547) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
 | Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105399) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274921132435) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
 | PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274921132490) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
 | Apple | [Character Animator - Generative AI Experiences SW](https://www.scoutjob.me/jobs/apple-character-animator-generative-ai-experiences-sw-200655784) | DataAiMl | United States | Jul 17, 2026 | Jul 17, 2026 23:51 UTC |
-| Qualcomm | [Synthesis Engineer, Lead/Staff/Sr Staff](https://www.scoutjob.me/jobs/qualcomm-synthesis-engineer-lead-staff-sr-staff-446715517863) | SeniorSoftwareEngineeringExtensive | India | Jul 17, 2026 | Jul 17, 2026 23:42 UTC |
