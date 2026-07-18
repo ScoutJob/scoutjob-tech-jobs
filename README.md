@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Car Experience Software Engineer - UI, Wireless Technologies & Ecosystems](https://www.scoutjob.me/jobs/apple-car-experience-software-engineer-ui-wireless-technologies-ecosystems-200672818) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 16:04 UTC |
 | Microsoft | [Software Engineer - Identity](https://www.scoutjob.me/jobs/microsoft-software-engineer-identity-1970393556847455) | SoftwareEngineering | Ireland | Jul 18, 2026 | Jul 18, 2026 15:10 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556928478) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 14:56 UTC |
 | Qualcomm | [ASIC Timing and Methodology Engineer](https://www.scoutjob.me/jobs/qualcomm-asic-timing-and-methodology-engineer-446718382868) | HardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 11:13 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274921132682) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
 | PayPal | [Software Engineer](https://www.scoutjob.me/jobs/paypal-software-engineer-274921132595) | SoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
 | PayPal | [Sr Data Scientist](https://www.scoutjob.me/jobs/paypal-sr-data-scientist-274921132661) | SeniorDataAiMl | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
-| PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274921132435) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:54 UTC |
