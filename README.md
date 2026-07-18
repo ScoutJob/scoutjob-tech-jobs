@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556939439) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556855692) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
+| Microsoft | [Principal Software Engineering Manager- Windows Commercial](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-windows-commercial-1970393556929260) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
+| JPMorgan Chase | [Principal Site Reliability Engineer](https://www.scoutjob.me/jobs/jpmorgan-principal-site-reliability-engineer-210770563) | SeniorSoftwareEngineeringExtensive | India | Jul 18, 2026 | Jul 18, 2026 06:18 UTC |
 | Oracle | [Senior Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-core-infrastructure-engineering-340006) | SeniorSoftwareEngineeringExtensive | United States | Jul 18, 2026 | Jul 18, 2026 05:25 UTC |
 | Microsoft | [Principal Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-engineering-manager-1970393556918629) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
 | Microsoft | [Solution Engineer - Cloud & AI (Data)](https://www.scoutjob.me/jobs/microsoft-solution-engineer-cloud-ai-data-1970393556915206) | SoftwareEngineeringExtensive | Canada | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Senior GPU SW Engineer](https://www.scoutjob.me/jobs/qualcomm-senior-gpu-sw-engineer-446719671401) | SeniorSoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
 | Qualcomm | [SMMU Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-smmu-design-verification-sr-engineer-446719736556) | SeniorSoftwareEngineeringExtensive | India | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
 | Qualcomm | [Security IP RTL Design Verification Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-security-ip-rtl-design-verification-staff-engineer-446719736561) | SeniorHardwareEngineering | India | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Engineering Technician, Intermediate](https://www.scoutjob.me/jobs/qualcomm-engineering-technician-intermediate-446719764029) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [PD Engineer](https://www.scoutjob.me/jobs/qualcomm-pd-engineer-446719765735) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Senior Tax Analyst, Tax Planning](https://www.scoutjob.me/jobs/qualcomm-senior-tax-analyst-tax-planning-446719796900) | SeniorAnalyst | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Staff Software Engineer - Camera](https://www.scoutjob.me/jobs/qualcomm-staff-software-engineer-camera-446719822441) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
