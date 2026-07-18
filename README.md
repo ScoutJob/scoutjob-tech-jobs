@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Intel | [Senior AI Software Engineer - Neuromorphic Computing](https://www.scoutjob.me/jobs/intel-senior-ai-software-engineer-neuromorphic-computing-jr0282751) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
+| Intel | [Senior Software Engineer](https://www.scoutjob.me/jobs/intel-senior-software-engineer-jr0285595) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
+| Intel | [Software Technician](https://www.scoutjob.me/jobs/intel-software-technician-jr0285603) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556939439) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556855692) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
 | Microsoft | [Principal Software Engineering Manager- Windows Commercial](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-windows-commercial-1970393556929260) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [ASIC Design Verification Engineer (Santa Clara, CA)](https://www.scoutjob.me/jobs/qualcomm-asic-design-verification-engineer-santa-clara-ca-446719364276) | HardwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
 | Qualcomm | [Staff Software Engineer — SubSystem Integration Test (SSIT)](https://www.scoutjob.me/jobs/qualcomm-staff-software-engineer-subsystem-integration-test-ssit-446719379848) | SeniorSoftwareEngineering | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
 | Qualcomm | [VLSI Design Engineer for Server / Data Center Products](https://www.scoutjob.me/jobs/qualcomm-vlsi-design-engineer-for-server-data-center-products-446719628594) | SoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Senior GPU SW Engineer](https://www.scoutjob.me/jobs/qualcomm-senior-gpu-sw-engineer-446719671401) | SeniorSoftwareEngineeringExtensive | United States | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [SMMU Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-smmu-design-verification-sr-engineer-446719736556) | SeniorSoftwareEngineeringExtensive | India | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
-| Qualcomm | [Security IP RTL Design Verification Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-security-ip-rtl-design-verification-staff-engineer-446719736561) | SeniorHardwareEngineering | India | Jul 17, 2026 | Jul 17, 2026 23:41 UTC |
