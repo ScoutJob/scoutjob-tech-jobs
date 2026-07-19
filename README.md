@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Embedded FW Engineer](https://www.scoutjob.me/jobs/apple-embedded-fw-engineer-200611225) | SoftwareEngineeringExtensive | Israel | Jul 19, 2026 | Jul 19, 2026 10:46 UTC |
 | ServiceNow | [Sr Information Security Analyst](https://www.scoutjob.me/jobs/servicenow-sr-information-security-analyst-jb0074157) | SeniorAnalyst | Ireland | Jul 19, 2026 | Jul 19, 2026 07:07 UTC |
 | Cisco | [Senior Staff Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-staff-software-engineer-ciscisglobal2018846externalenglobal) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 06:55 UTC |
 | Cisco | [Senior Staff Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-staff-software-engineer-ciscisglobal2018845externalenglobal) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 06:55 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Member of Technical Staff, Engineering Manager - Copilot Applications](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-engineering-manager-copilot-applications-1970393556862989) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556928467) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
 | Microsoft | [Principal Firmware Engineer](https://www.scoutjob.me/jobs/microsoft-principal-firmware-engineer-1970393556769520) | SeniorHardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Microsoft | [Solution Architect Manager (SAM) - Germany & Austria](https://www.scoutjob.me/jobs/microsoft-solution-architect-manager-sam-germany-austria-1970393556914209) | SeniorSoftwareEngineeringExtensive | Germany | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
