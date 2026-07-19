@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Senior Staff Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-staff-software-engineer-ciscisglobal2018846externalenglobal) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 06:55 UTC |
+| Cisco | [Senior Staff Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-staff-software-engineer-ciscisglobal2018845externalenglobal) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 06:55 UTC |
+| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0947522) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 05:46 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0948699) | SoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 05:46 UTC |
 | Oracle | [Senior Manager, AI Engineering and Agent Platform](https://www.scoutjob.me/jobs/oracle-senior-manager-ai-engineering-and-agent-platform-339923) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
 | Oracle | [Director, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-director-core-infrastructure-engineering-340246) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
 | Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-340236) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Firmware Engineer](https://www.scoutjob.me/jobs/microsoft-principal-firmware-engineer-1970393556769520) | SeniorHardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
 | Microsoft | [Solution Architect Manager (SAM) - Germany & Austria](https://www.scoutjob.me/jobs/microsoft-solution-architect-manager-sam-germany-austria-1970393556914209) | SeniorSoftwareEngineeringExtensive | Germany | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
 | Microsoft | [Service Engineer](https://www.scoutjob.me/jobs/microsoft-service-engineer-1970393556927647) | SoftwareEngineeringExtensive | United Kingdom | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Microsoft | [Principal Hardware Engineer](https://www.scoutjob.me/jobs/microsoft-principal-hardware-engineer-1970393556938784) | SeniorHardwareEngineering | Taiwan | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Microsoft | [Senior Software Engineering](https://www.scoutjob.me/jobs/microsoft-senior-software-engineering-1970393556933149) | SeniorSoftwareEngineering | India | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Amazon | [Senior Software Development Engineer, Amazon Cross Border Tech](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-amazon-cross-border-tech-222805c6-5d58-42a2-9226-9f9dfe09cd1f) | SeniorSoftwareEngineering | India | Jul 18, 2026 | Jul 18, 2026 03:59 UTC |
-| Qualcomm | [CPU Physical Design Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-physical-design-engineer-446719725670) | HardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 03:06 UTC |
