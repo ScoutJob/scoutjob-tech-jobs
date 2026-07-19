@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Senior Memory Controller RTL Design Engineer](https://www.scoutjob.me/jobs/microsoft-senior-memory-controller-rtl-design-engineer-1970393556939400) | SeniorHardwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 18:52 UTC |
+| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556939373) | SoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 18:52 UTC |
+| Amazon | [Sr Software Development Engineer - AgentCore, AWS Agentic AI](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-agentcore-aws-agentic-ai-d9c4397c-96ba-4fca-8656-5353258cce3c) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 18:32 UTC |
 | AMD | [Senior Test Engineer](https://www.scoutjob.me/jobs/amd-senior-test-engineer-88039) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 19, 2026 | Jul 19, 2026 15:24 UTC |
 | NVIDIA | [Senior Architect, SoC Modelling](https://www.scoutjob.me/jobs/nvidia-senior-architect-soc-modelling-893396328538) | SeniorHardwareEngineering | India | Jul 19, 2026 | Jul 19, 2026 15:16 UTC |
 | NVIDIA | [Senior Platform AI Engineer](https://www.scoutjob.me/jobs/nvidia-senior-platform-ai-engineer-893396339199) | SeniorDataAiMl | Remote | Jul 19, 2026 | Jul 19, 2026 15:16 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556855692) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
 | Microsoft | [Principal Software Engineering Manager- Windows Commercial](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-windows-commercial-1970393556929260) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
 | JPMorgan Chase | [Principal Site Reliability Engineer](https://www.scoutjob.me/jobs/jpmorgan-principal-site-reliability-engineer-210770563) | SeniorSoftwareEngineeringExtensive | India | Jul 18, 2026 | Jul 18, 2026 06:18 UTC |
-| Oracle | [Senior Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-core-infrastructure-engineering-340006) | SeniorSoftwareEngineeringExtensive | United States | Jul 18, 2026 | Jul 18, 2026 05:25 UTC |
-| Microsoft | [Principal Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-engineering-manager-1970393556918629) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
-| Microsoft | [Solution Engineer - Cloud & AI (Data)](https://www.scoutjob.me/jobs/microsoft-solution-engineer-cloud-ai-data-1970393556915206) | SoftwareEngineeringExtensive | Canada | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
