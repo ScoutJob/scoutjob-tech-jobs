@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [Senior Test Engineer](https://www.scoutjob.me/jobs/amd-senior-test-engineer-88039) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 19, 2026 | Jul 19, 2026 15:24 UTC |
+| NVIDIA | [Senior Architect, SoC Modelling](https://www.scoutjob.me/jobs/nvidia-senior-architect-soc-modelling-893396328538) | SeniorHardwareEngineering | India | Jul 19, 2026 | Jul 19, 2026 15:16 UTC |
+| NVIDIA | [Senior Platform AI Engineer](https://www.scoutjob.me/jobs/nvidia-senior-platform-ai-engineer-893396339199) | SeniorDataAiMl | Remote | Jul 19, 2026 | Jul 19, 2026 15:16 UTC |
+| NVIDIA | [Senior Systems Software Engineer, Observability and Telemetry Platform](https://www.scoutjob.me/jobs/nvidia-senior-systems-software-engineer-observability-and-telemetry-platform-893396344296) | SeniorSoftwareEngineering | Remote | Jul 19, 2026 | Jul 19, 2026 15:16 UTC |
+| Anthropic | [Software Engineer, Web Platform](https://www.scoutjob.me/jobs/anthropic-software-engineer-web-platform-5305402008) | SoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 15:10 UTC |
 | Apple | [Embedded FW Engineer](https://www.scoutjob.me/jobs/apple-embedded-fw-engineer-200611225) | SoftwareEngineeringExtensive | Israel | Jul 19, 2026 | Jul 19, 2026 10:46 UTC |
 | ServiceNow | [Sr Information Security Analyst](https://www.scoutjob.me/jobs/servicenow-sr-information-security-analyst-jb0074157) | SeniorAnalyst | Ireland | Jul 19, 2026 | Jul 19, 2026 07:07 UTC |
 | Cisco | [Senior Staff Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-staff-software-engineer-ciscisglobal2018846externalenglobal) | SeniorSoftwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 06:55 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Oracle | [Senior Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-core-infrastructure-engineering-340006) | SeniorSoftwareEngineeringExtensive | United States | Jul 18, 2026 | Jul 18, 2026 05:25 UTC |
 | Microsoft | [Principal Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-engineering-manager-1970393556918629) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
 | Microsoft | [Solution Engineer - Cloud & AI (Data)](https://www.scoutjob.me/jobs/microsoft-solution-engineer-cloud-ai-data-1970393556915206) | SoftwareEngineeringExtensive | Canada | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
-| Microsoft | [Solution Engineer - Cloud & AI (Azure Platform)](https://www.scoutjob.me/jobs/microsoft-solution-engineer-cloud-ai-azure-platform-1970393556915207) | SoftwareEngineeringExtensive | Canada | Jul 18, 2026 | Jul 18, 2026 04:58 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Machine Learning](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-machine-learning-210753604) | SeniorDataAiMl | United States | Jul 18, 2026 | Jul 18, 2026 04:42 UTC |
-| Microsoft | [Member of Technical Staff, Engineering Manager - Copilot Applications](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-engineering-manager-copilot-applications-1970393556862989) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556928467) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
-| Microsoft | [Principal Firmware Engineer](https://www.scoutjob.me/jobs/microsoft-principal-firmware-engineer-1970393556769520) | SeniorHardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
