@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Senior Manager, AI Engineering and Agent Platform](https://www.scoutjob.me/jobs/oracle-senior-manager-ai-engineering-and-agent-platform-339923) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
+| Oracle | [Director, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-director-core-infrastructure-engineering-340246) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
+| Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-340236) | SeniorSoftwareEngineeringExtensive | United States | Jul 19, 2026 | Jul 19, 2026 02:25 UTC |
 | Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556928926) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 18:37 UTC |
 | Microsoft | [Principal Software Engineering Manager, CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-coreai-1970393556937249) | EngineeringManagement | United States | Jul 18, 2026 | Jul 18, 2026 18:37 UTC |
 | Microsoft | [Principal Signal Integrity Simulation Engineer](https://www.scoutjob.me/jobs/microsoft-principal-signal-integrity-simulation-engineer-1970393556924350) | SeniorSoftwareEngineeringExtensive | United States | Jul 18, 2026 | Jul 18, 2026 18:37 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineering](https://www.scoutjob.me/jobs/microsoft-senior-software-engineering-1970393556933149) | SeniorSoftwareEngineering | India | Jul 18, 2026 | Jul 18, 2026 04:04 UTC |
 | Amazon | [Senior Software Development Engineer, Amazon Cross Border Tech](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-amazon-cross-border-tech-222805c6-5d58-42a2-9226-9f9dfe09cd1f) | SeniorSoftwareEngineering | India | Jul 18, 2026 | Jul 18, 2026 03:59 UTC |
 | Qualcomm | [CPU Physical Design Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-physical-design-engineer-446719725670) | HardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 03:06 UTC |
-| PayPal | [Software Engineer](https://www.scoutjob.me/jobs/paypal-software-engineer-274921133142) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 01:40 UTC |
-| PayPal | [Manager, Software Engineering](https://www.scoutjob.me/jobs/paypal-manager-software-engineering-274921133144) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 01:40 UTC |
-| PayPal | [Staff Software Engineer](https://www.scoutjob.me/jobs/paypal-staff-software-engineer-274921133146) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 01:40 UTC |
