@@ -26,6 +26,18 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26010685) | SoftwareEngineering | India | Jul 20, 2026 | Jul 20, 2026 04:54 UTC |
+| American Express | [Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26010684) | SoftwareEngineering | India | Jul 20, 2026 | Jul 20, 2026 04:54 UTC |
+| American Express | [Analyst-Control Management](https://www.scoutjob.me/jobs/americanexpress-analyst-control-management-26011171) | Analyst | India | Jul 20, 2026 | Jul 20, 2026 04:42 UTC |
+| American Express | [Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26010683) | SoftwareEngineering | India | Jul 20, 2026 | Jul 20, 2026 04:42 UTC |
+| American Express | [Senior Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-software-engineer-i-26010689) | SeniorSoftwareEngineering | India | Jul 20, 2026 | Jul 20, 2026 04:28 UTC |
+| Zoom | [DevOps Engineer](https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-india-e7c6cf38-cfbe-4c38-bb23-276bad8719c8) | SoftwareEngineeringExtensive | India | Jul 20, 2026 | Jul 20, 2026 04:26 UTC |
+| NVIDIA | [Software Engineer, Production Engineering](https://www.scoutjob.me/jobs/nvidia-software-engineer-production-engineering-893396329056) | SoftwareEngineering | India | Jul 20, 2026 | Jul 20, 2026 04:18 UTC |
+| NVIDIA | [Information Security Systems Engineer](https://www.scoutjob.me/jobs/nvidia-information-security-systems-engineer-893396342758) | SoftwareEngineeringExtensive | United States | Jul 20, 2026 | Jul 20, 2026 04:18 UTC |
+| Canva | [Software Engineer](https://www.scoutjob.me/jobs/canva-software-engineer-6000000001244841) | SoftwareEngineering | China | Jul 20, 2026 | Jul 20, 2026 04:11 UTC |
+| Qualcomm | [Intern - GenAI Benchmarking (MLE) / On-Device Model Deployment (SWE)](https://www.scoutjob.me/jobs/qualcomm-intern-genai-benchmarking-mle-on-device-model-deployment-swe-446719752421) | DataAiMlIntern | South Korea | Jul 20, 2026 | Jul 20, 2026 03:30 UTC |
+| Qualcomm | [Intern – AI Model Efficiency (Quantization) System/Research Engineer](https://www.scoutjob.me/jobs/qualcomm-intern-ai-model-efficiency-quantization-system-research-engineer-446719751723) | DataAiMlIntern | South Korea | Jul 20, 2026 | Jul 20, 2026 03:30 UTC |
+| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-340033) | SeniorSoftwareEngineering | United States | Jul 20, 2026 | Jul 20, 2026 02:33 UTC |
 | Canva | [Business System Analyst - Customer Support/CX platform](https://www.scoutjob.me/jobs/canva-business-system-analyst-customer-support-cx-platform-6000000001243597) | Analyst | Australia | Jul 20, 2026 | Jul 20, 2026 00:48 UTC |
 | JPMorgan Chase | [AI Platform Engineer, Python - Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-platform-engineer-python-lead-software-engineer-210720962) | SeniorDataAiMl | United States | Jul 19, 2026 | Jul 19, 2026 20:33 UTC |
 | Apple | [Machine Learning Engineering Manager, Evaluation, Agentic Search Capabilities, Proactive](https://www.scoutjob.me/jobs/apple-machine-learning-engineering-manager-evaluation-agentic-search-capabilities-proactive-200672920) | EngineeringManagement | United States | Jul 19, 2026 | Jul 19, 2026 19:19 UTC |
@@ -89,15 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer - Identity](https://www.scoutjob.me/jobs/microsoft-software-engineer-identity-1970393556847455) | SoftwareEngineering | Ireland | Jul 18, 2026 | Jul 18, 2026 15:10 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556928478) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 14:56 UTC |
 | Qualcomm | [ASIC Timing and Methodology Engineer](https://www.scoutjob.me/jobs/qualcomm-asic-timing-and-methodology-engineer-446718382868) | HardwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 11:13 UTC |
-| Workday | [Senior Software Engineer, DBaas (US Federal)](https://www.scoutjob.me/jobs/workday-senior-software-engineer-dbaas-us-federal-jr-0108508) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105547) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105399) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105398) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Software Development Engineer - ML Ops (US Federal)](https://www.scoutjob.me/jobs/workday-software-development-engineer-ml-ops-us-federal-jr-0105400) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Sr. Data Scientist](https://www.scoutjob.me/jobs/workday-sr-data-scientist-jr-0108050) | SeniorDataAiMl | Canada | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Principal AI Engineer](https://www.scoutjob.me/jobs/workday-principal-ai-engineer-jr-0108761) | SeniorDataAiMl | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Workday | [Principal AI Engineer](https://www.scoutjob.me/jobs/workday-principal-ai-engineer-jr-0108789) | SeniorDataAiMl | United States | Jul 18, 2026 | Jul 18, 2026 09:47 UTC |
-| Intel | [Senior AI Software Engineer - Neuromorphic Computing](https://www.scoutjob.me/jobs/intel-senior-ai-software-engineer-neuromorphic-computing-jr0282751) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
-| Intel | [Senior Software Engineer](https://www.scoutjob.me/jobs/intel-senior-software-engineer-jr0285595) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
-| Intel | [Software Technician](https://www.scoutjob.me/jobs/intel-software-technician-jr0285603) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556939439) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
