@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Canva | [Business System Analyst - Customer Support/CX platform](https://www.scoutjob.me/jobs/canva-business-system-analyst-customer-support-cx-platform-6000000001243597) | Analyst | Australia | Jul 20, 2026 | Jul 20, 2026 00:48 UTC |
 | JPMorgan Chase | [AI Platform Engineer, Python - Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-platform-engineer-python-lead-software-engineer-210720962) | SeniorDataAiMl | United States | Jul 19, 2026 | Jul 19, 2026 20:33 UTC |
 | Apple | [Machine Learning Engineering Manager, Evaluation, Agentic Search Capabilities, Proactive](https://www.scoutjob.me/jobs/apple-machine-learning-engineering-manager-evaluation-agentic-search-capabilities-proactive-200672920) | EngineeringManagement | United States | Jul 19, 2026 | Jul 19, 2026 19:19 UTC |
 | Microsoft | [Senior Memory Controller RTL Design Engineer](https://www.scoutjob.me/jobs/microsoft-senior-memory-controller-rtl-design-engineer-1970393556939400) | SeniorHardwareEngineering | United States | Jul 19, 2026 | Jul 19, 2026 18:52 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Intel | [Senior Software Engineer](https://www.scoutjob.me/jobs/intel-senior-software-engineer-jr0285595) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
 | Intel | [Software Technician](https://www.scoutjob.me/jobs/intel-software-technician-jr0285603) | SoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 09:12 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556939439) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556855692) | SeniorSoftwareEngineering | United States | Jul 18, 2026 | Jul 18, 2026 07:40 UTC |
