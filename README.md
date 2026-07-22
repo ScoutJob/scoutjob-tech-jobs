@@ -26,6 +26,22 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Data Engineer - Databricks, AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-data-engineer-databricks-aws-210747440) | SeniorDataAiMl | India | Jul 22, 2026 | Jul 22, 2026 12:13 UTC |
+| JPMorgan Chase | [Software Engineer III-Java AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-aws-210758923) | SeniorSoftwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 12:03 UTC |
+| AMD | [Physical Design Lead](https://www.scoutjob.me/jobs/amd-physical-design-lead-88448) | SeniorHardwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 12:00 UTC |
+| Oracle | [Oracle Network Developer](https://www.scoutjob.me/jobs/oracle-oracle-network-developer-340711) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 11:53 UTC |
+| Qualcomm | [Program Analyst Sr – Generative AI, Prompt Engineering & Validation](https://www.scoutjob.me/jobs/qualcomm-program-analyst-sr-generative-ai-prompt-engineering-validation-446719734668) | SeniorAnalyst | India | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Qualcomm | [Engineer- Python Developement,QA-ML](https://www.scoutjob.me/jobs/qualcomm-engineer-python-developement-qa-ml-446718418970) | SoftwareEngineeringExtensive | India | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Qualcomm | [Camera Software Customer Engineer](https://www.scoutjob.me/jobs/qualcomm-camera-software-customer-engineer-446718461246) | SoftwareEngineering | China | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Qualcomm | [XR Software Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-xr-software-staff-engineer-446717102175) | SeniorSoftwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Qualcomm | [Synthesis (Design Implementation) - Staff/ Sr Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-synthesis-design-implementation-staff-sr-staff-engineer-446719672016) | SeniorSoftwareEngineeringExtensive | India | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Qualcomm | [Engineer- Modem](https://www.scoutjob.me/jobs/qualcomm-engineer-modem-446719773024) | SoftwareEngineeringExtensive | India | Jul 22, 2026 | Jul 22, 2026 11:23 UTC |
+| Snowflake | [Solution Engineer](https://www.scoutjob.me/jobs/snowflake-solution-engineer-sncousd3abb717f59c4ad7b1a7d644fd777f8aexternalenus50d4f7da1ae24ffbb9ac176bbc7a22cc) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 11:19 UTC |
+| PayPal | [Sr Analyst, Tax](https://www.scoutjob.me/jobs/paypal-sr-analyst-tax-274920771684) | SeniorAnalyst | India | Jul 22, 2026 | Jul 22, 2026 10:53 UTC |
+| JPMorgan Chase | [Senior Manager of Software Engineering Analytics Platform](https://www.scoutjob.me/jobs/jpmorgan-senior-manager-of-software-engineering-analytics-platform-210771861) | SeniorSoftwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 10:42 UTC |
+| JPMorgan Chase | [Fullstack Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-fullstack-software-engineer-iii-java-210731542) | SeniorSoftwareEngineering | United Kingdom | Jul 22, 2026 | Jul 22, 2026 10:42 UTC |
+| American Express | [Financial Analyst](https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26011478) | Analyst | India | Jul 22, 2026 | Jul 22, 2026 10:40 UTC |
+| JPMorgan Chase | [Software Engineer II - Java, AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-java-aws-210751014) | SoftwareEngineering | United Kingdom | Jul 22, 2026 | Jul 22, 2026 10:13 UTC |
 | American Express | [Financial Analyst](https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26011351) | Analyst | India | Jul 22, 2026 | Jul 22, 2026 10:00 UTC |
 | JPMorgan Chase | [Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210770476) | SeniorSoftwareEngineering | United Kingdom | Jul 22, 2026 | Jul 22, 2026 09:53 UTC |
 | Atlassian | [Software Engineer](https://www.scoutjob.me/jobs/atlassian-software-engineer-25807) | SoftwareEngineering | Remote | Jul 22, 2026 | Jul 22, 2026 09:50 UTC |
@@ -85,19 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Senior Backend Engineer - G&A Solutions Engineering](https://www.scoutjob.me/jobs/apple-senior-backend-engineer-g-a-solutions-engineering-200673539) | SeniorSoftwareEngineeringExtensive | Singapore | Jul 22, 2026 | Jul 22, 2026 04:41 UTC |
 | Apple | [Site Reliability Engineer](https://www.scoutjob.me/jobs/apple-site-reliability-engineer-200656049) | SoftwareEngineeringExtensive | India | Jul 22, 2026 | Jul 22, 2026 04:41 UTC |
 | Amazon | [Software Development Engineer II, AFT Flow, AFT OB&Flow](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aft-flow-aft-ob-flow-532fce4a-14f9-49f8-9f2d-ac139413e674) | SoftwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 04:30 UTC |
-| JPMorgan Chase | [Data Scientist Lead - AI Solutions](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-lead-ai-solutions-210766248) | SeniorDataAiMl | India | Jul 22, 2026 | Jul 22, 2026 04:23 UTC |
-| Apple | [Quality Engineer, Security Server Applications](https://www.scoutjob.me/jobs/apple-quality-engineer-security-server-applications-200673535) | SoftwareEngineeringExtensive | Singapore | Jul 22, 2026 | Jul 22, 2026 04:11 UTC |
-| AMD | [Senior Signal Integrity Engineer](https://www.scoutjob.me/jobs/amd-senior-signal-integrity-engineer-88735) | SeniorSoftwareEngineeringExtensive | India | Jul 22, 2026 | Jul 22, 2026 04:10 UTC |
-| Canva | [Staff Security Engineer- AI Security (remote across Australia)](https://www.scoutjob.me/jobs/canva-staff-security-engineer-ai-security-remote-across-australia-6000000001250795) | SeniorSoftwareEngineeringExtensive | Australia | Jul 22, 2026 | Jul 22, 2026 04:00 UTC |
-| Twilio | [Staff Software Engineer](https://www.scoutjob.me/jobs/twilio-staff-software-engineer-1099554769401) | SeniorSoftwareEngineering | Remote | Jul 22, 2026 | Jul 22, 2026 03:56 UTC |
-| Twilio | [Senior Software Engineer](https://www.scoutjob.me/jobs/twilio-senior-software-engineer-1099554769400) | SeniorSoftwareEngineering | Remote | Jul 22, 2026 | Jul 22, 2026 03:56 UTC |
-| xAI | [ML Infrastructure Engineer](https://www.scoutjob.me/jobs/xai-ml-infrastructure-engineer-5193037007) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 03:53 UTC |
-| AMD | [Principal Mechanical Engineer](https://www.scoutjob.me/jobs/amd-principal-mechanical-engineer-88456) | SeniorHardwareEngineering | United States | Jul 22, 2026 | Jul 22, 2026 03:49 UTC |
-| AMD | [Test Engineer](https://www.scoutjob.me/jobs/amd-test-engineer-88724) | SoftwareEngineeringExtensive | Taiwan | Jul 22, 2026 | Jul 22, 2026 03:49 UTC |
-| AMD | [Sr. Test Engineer](https://www.scoutjob.me/jobs/amd-sr-test-engineer-88725) | SeniorSoftwareEngineeringExtensive | Taiwan | Jul 22, 2026 | Jul 22, 2026 03:49 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556940489) | EngineeringManagement | India | Jul 22, 2026 | Jul 22, 2026 03:19 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556939264) | EngineeringManagement | India | Jul 22, 2026 | Jul 22, 2026 03:19 UTC |
-| Apple | [BIM Systems Engineer, Data Center Operations](https://www.scoutjob.me/jobs/apple-bim-systems-engineer-data-center-operations-200673506) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 03:17 UTC |
-| Apple | [Internal Tooling Engineer - Services Special Projects](https://www.scoutjob.me/jobs/apple-internal-tooling-engineer-services-special-projects-200673505) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 03:07 UTC |
-| Apple | [iOS Frameworks Engineer - Services Special Project](https://www.scoutjob.me/jobs/apple-ios-frameworks-engineer-services-special-project-200673500) | SoftwareEngineeringExtensive | United States | Jul 22, 2026 | Jul 22, 2026 03:07 UTC |
-| Microsoft | [Firmware Engineer II](https://www.scoutjob.me/jobs/microsoft-firmware-engineer-ii-1970393556939441) | HardwareEngineering | India | Jul 22, 2026 | Jul 22, 2026 02:59 UTC |
