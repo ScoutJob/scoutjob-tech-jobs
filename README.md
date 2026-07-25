@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [AI Infrastructure Software Engineer](https://www.scoutjob.me/jobs/qualcomm-ai-infrastructure-software-engineer-446720100169) | SoftwareEngineering | China | Jul 25, 2026 | Jul 25, 2026 20:25 UTC |
 | Cisco | [Software Engineer (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineer-remote-ciscisglobal2017560externalenglobal) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 18:17 UTC |
 | Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2019188externalenglobal) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 18:17 UTC |
 | DoorDash | [Partner Operations Analyst, Food Access](https://www.scoutjob.me/jobs/doordash-partner-operations-analyst-food-access-8080784) | Analyst | United States | Jul 25, 2026 | Jul 25, 2026 17:14 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Applied Scientist II](https://www.scoutjob.me/jobs/microsoft-applied-scientist-ii-1970393556943885) | DataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Principal Security Operations Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-security-operations-engineering-manager-1970393556943561) | EngineeringManagement | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Sr. Software Engineering](https://www.scoutjob.me/jobs/microsoft-sr-software-engineering-1970393556939360) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Senior Silicon Engineer](https://www.scoutjob.me/jobs/microsoft-senior-silicon-engineer-1970393556940514) | SeniorHardwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
