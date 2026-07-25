@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer -1, IESP Merchant Tech](https://www.scoutjob.me/jobs/amazon-software-development-engineer-1-iesp-merchant-tech-5feb0dc9-32ef-42fc-97e0-5571693b7750) | SoftwareEngineering | India | Jul 25, 2026 | Jul 25, 2026 13:12 UTC |
 | Twilio | [Senior Principal Field Architect - AI Agents](https://www.scoutjob.me/jobs/twilio-senior-principal-field-architect-ai-agents-1099554454601) | SeniorSoftwareEngineeringExtensive | Remote | Jul 25, 2026 | Jul 25, 2026 11:27 UTC |
 | Microsoft | [Data Scientist](https://www.scoutjob.me/jobs/microsoft-data-scientist-1970393556941429) | DataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 10:59 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556942052) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 10:59 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior PCIe IP Design Verification Engineer](https://www.scoutjob.me/jobs/microsoft-senior-pcie-ip-design-verification-engineer-1970393556942146) | SeniorHardwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556941811) | EngineeringManagement | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556943241) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Principal Azure Customer Engineer (ACE) Manager](https://www.scoutjob.me/jobs/microsoft-principal-azure-customer-engineer-ace-manager-1970393556941526) | SeniorSoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
