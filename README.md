@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Twilio | [Senior Principal Field Architect - AI Agents](https://www.scoutjob.me/jobs/twilio-senior-principal-field-architect-ai-agents-1099554454601) | SeniorSoftwareEngineeringExtensive | Remote | Jul 25, 2026 | Jul 25, 2026 11:27 UTC |
+| Microsoft | [Data Scientist](https://www.scoutjob.me/jobs/microsoft-data-scientist-1970393556941429) | DataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 10:59 UTC |
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556942052) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 10:59 UTC |
 | Microsoft | [Principal Applied Scientist- Foundation Models, Agents & Decision Intelligence](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-foundation-models-agents-decision-intelligence-1970393556942186) | SeniorDataAiMl | India | Jul 25, 2026 | Jul 25, 2026 08:24 UTC |
 | Microsoft | [Senior Applied Scientist - Copilot & Agents](https://www.scoutjob.me/jobs/microsoft-senior-applied-scientist-copilot-agents-1970393556941360) | SeniorDataAiMl | United Kingdom | Jul 25, 2026 | Jul 25, 2026 08:24 UTC |
 | Microsoft | [Member of Technical Staff - Software Engineer (AI infra)- MAI Superintelligence Team](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-software-engineer-ai-infra-mai-superintelligence-team-1970393556627376) | SeniorSoftwareEngineering | United Kingdom | Jul 25, 2026 | Jul 25, 2026 08:24 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556941811) | EngineeringManagement | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556943241) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Principal Azure Customer Engineer (ACE) Manager](https://www.scoutjob.me/jobs/microsoft-principal-azure-customer-engineer-ace-manager-1970393556941526) | SeniorSoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Senior Service Engineer - Security Focused](https://www.scoutjob.me/jobs/microsoft-senior-service-engineer-security-focused-1970393556941356) | SeniorSoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556944327) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556943730) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
