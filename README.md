@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Software Engineer (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineer-remote-ciscisglobal2017560externalenglobal) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 18:17 UTC |
+| Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2019188externalenglobal) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 18:17 UTC |
 | DoorDash | [Partner Operations Analyst, Food Access](https://www.scoutjob.me/jobs/doordash-partner-operations-analyst-food-access-8080784) | Analyst | United States | Jul 25, 2026 | Jul 25, 2026 17:14 UTC |
 | Amazon | [Software Development Engineer, Annapurna Labs, Elastic Collectives](https://www.scoutjob.me/jobs/amazon-software-development-engineer-annapurna-labs-elastic-collectives-37267350-4a69-4b00-9cdc-a03b6857b5de) | SoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 14:01 UTC |
 | Amazon | [Software Development Engineer -1, IESP Merchant Tech](https://www.scoutjob.me/jobs/amazon-software-development-engineer-1-iesp-merchant-tech-5feb0dc9-32ef-42fc-97e0-5571693b7750) | SoftwareEngineering | India | Jul 25, 2026 | Jul 25, 2026 13:12 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Security Operations Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-security-operations-engineering-manager-1970393556943561) | EngineeringManagement | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Sr. Software Engineering](https://www.scoutjob.me/jobs/microsoft-sr-software-engineering-1970393556939360) | SeniorSoftwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
 | Microsoft | [Senior Silicon Engineer](https://www.scoutjob.me/jobs/microsoft-senior-silicon-engineer-1970393556940514) | SeniorHardwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Senior Design Verification Engineer](https://www.scoutjob.me/jobs/microsoft-senior-design-verification-engineer-1970393556940578) | SeniorHardwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
-| Microsoft | [Senior PCIe IP Design Verification Engineer](https://www.scoutjob.me/jobs/microsoft-senior-pcie-ip-design-verification-engineer-1970393556942146) | SeniorHardwareEngineering | United States | Jul 25, 2026 | Jul 25, 2026 01:42 UTC |
