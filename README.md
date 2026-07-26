@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer (AWS ML), Machine Learning Israel (MLIL) — FLOW sub-team (Fleet Lifecycle & Operational Workflows)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-ml-machine-learning-israel-mlil-flow-sub-team-fleet-life-b5c43179-4383-4391-9d03-4b9a8f837d19) | DataAiMl | Israel | Jul 26, 2026 | Jul 26, 2026 09:01 UTC |
+| Amazon | [Sr Software Development Engineer, Selection Monitoring](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-selection-monitoring-dbb0baf6-7d8d-425c-8e4e-1ba8ba87c891) | SeniorSoftwareEngineering | India | Jul 26, 2026 | Jul 26, 2026 08:22 UTC |
 | Cisco | [Software Engineer (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineer-remote-ciscisglobal2017589externalenglobal) | SoftwareEngineering | United States | Jul 26, 2026 | Jul 26, 2026 06:48 UTC |
 | Cisco | [Software Engineer, Infrastructure Automation - Hybrid](https://www.scoutjob.me/jobs/cisco-software-engineer-infrastructure-automation-hybrid-ciscisglobal2017174externalenglobal) | SoftwareEngineering | United States | Jul 26, 2026 | Jul 26, 2026 06:48 UTC |
 | Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2019005externalenglobal) | SoftwareEngineering | United States | Jul 26, 2026 | Jul 26, 2026 06:48 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Sr. Full-Stack Engineer](https://www.scoutjob.me/jobs/adobe-sr-full-stack-engineer-r170217) | SeniorSoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
 | Adobe | [Data Engineer](https://www.scoutjob.me/jobs/adobe-data-engineer-r170274) | DataAiMl | India | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
 | Adobe | [Computer Scientist I - Full Stack](https://www.scoutjob.me/jobs/adobe-computer-scientist-i-full-stack-r170393) | SoftwareEngineeringExtensive | India | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
-| Adobe | [Computer Scientist ( Java Backend )](https://www.scoutjob.me/jobs/adobe-computer-scientist-java-backend-r170425) | SoftwareEngineeringExtensive | India | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
-| Adobe | [Senior Backend Engineer – Cloud Platform](https://www.scoutjob.me/jobs/adobe-senior-backend-engineer-cloud-platform-r168509) | SeniorSoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
