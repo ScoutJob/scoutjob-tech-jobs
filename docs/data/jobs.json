@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-07-26T10:37:48.605928+00:00",
+  "generatedAtUtc": "2026-07-26T11:56:37.445051+00:00",
   "publicDelayMinutes": 60,
-  "total": 283,
+  "total": 280,
   "jobs": [
+    {
+      "id": "324974b5-62fd-4ff5-b2b3-527df8fa59cc",
+      "company": "NVIDIA",
+      "companySlug": "nvidia",
+      "title": "Research Scientist, ML Systems - PhD New College Grad 2026",
+      "roleCategory": "DataAiMl",
+      "country": "Singapore",
+      "location": "Singapore",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-07-26T10:22:55.587327Z",
+      "lastVerifiedAtUtc": "2026-07-26T10:22:55.587327Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-research-scientist-ml-systems-phd-new-college-grad-2026-893392589944",
+      "sourceUrl": "https://jobs.nvidia.com/careers/job/893392589944"
+    },
     {
       "id": "bd98fc1e-80f5-4dc2-8e8d-4129dff1b3e3",
       "company": "Amazon",
@@ -4466,70 +4482,6 @@
       "lastVerifiedAtUtc": "2026-07-24T12:11:19.117912Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-financial-analyst-26011350",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26011350"
-    },
-    {
-      "id": "38239d17-1b9c-4709-8ea8-e75a41451061",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Senior Firmware Engineer",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "Romania",
-      "location": "Romania",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-24T11:42:11.861397Z",
-      "lastVerifiedAtUtc": "2026-07-24T11:42:11.861397Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-senior-firmware-engineer-69934",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/69934"
-    },
-    {
-      "id": "134ee747-74a2-441f-8494-b390b5a47c3c",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Python Lead Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-24T11:25:06.753985Z",
-      "lastVerifiedAtUtc": "2026-07-24T11:25:06.753985Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-python-lead-software-engineer-210773428",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210773428"
-    },
-    {
-      "id": "8bfd240f-721d-4093-816b-27163f2ab7c7",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Investment Middle Office IBOR - Fund Servicing Analyst - Team Leader",
-      "roleCategory": "SeniorAnalyst",
-      "country": "Philippines",
-      "location": "Philippines",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-24T10:44:48.123373Z",
-      "lastVerifiedAtUtc": "2026-07-24T10:44:48.123373Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-investment-middle-office-ibor-fund-servicing-analyst-team-leader-210771366",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210771366"
-    },
-    {
-      "id": "a268bf81-6fb3-4d67-8399-24b598606948",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "DFT Design Engineer",
-      "roleCategory": "HardwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-24T10:42:38.200669Z",
-      "lastVerifiedAtUtc": "2026-07-24T10:42:38.200669Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-dft-design-engineer-88459",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/88459"
     }
   ]
 }
