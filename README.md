@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [(CPU)L2 Cache Design Engineer – Micro-Architecture & Coherency](https://www.scoutjob.me/jobs/qualcomm-cpu-l2-cache-design-engineer-micro-architecture-coherency-446718319559) | SoftwareEngineeringExtensive | India | Jul 26, 2026 | Jul 26, 2026 18:24 UTC |
 | CVS Health | [Senior Data Scientist - AI - Specialty Operations](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-ai-specialty-operations-r0982447) | SeniorDataAiMl | United States | Jul 26, 2026 | Jul 26, 2026 14:10 UTC |
 | CVS Health | [Staff Software Development Engineer - Customer Reporting (Lead Full Stack, Angular, Spring Boot)](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-customer-reporting-lead-full-stack-angular-spring-boot-r0834901) | SeniorSoftwareEngineering | United States | Jul 26, 2026 | Jul 26, 2026 14:10 UTC |
 | NVIDIA | [Research Scientist, ML Systems - PhD New College Grad 2026](https://www.scoutjob.me/jobs/nvidia-research-scientist-ml-systems-phd-new-college-grad-2026-893392589944) | DataAiMl | Singapore | Jul 26, 2026 | Jul 26, 2026 10:22 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r169938) | DataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
 | Adobe | [Principal Scientist - Data Pipeline Engineer](https://www.scoutjob.me/jobs/adobe-principal-scientist-data-pipeline-engineer-r170588) | SeniorDataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
 | Adobe | [Data Science Engineer](https://www.scoutjob.me/jobs/adobe-data-science-engineer-r169523) | DataAiMl | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
-| Adobe | [Forward Deployed Engineer](https://www.scoutjob.me/jobs/adobe-forward-deployed-engineer-r163694) | SoftwareEngineeringExtensive | United States | Jul 25, 2026 | Jul 25, 2026 06:20 UTC |
