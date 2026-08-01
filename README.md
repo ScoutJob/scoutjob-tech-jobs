@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Interconnect Product Engineer](https://www.scoutjob.me/jobs/nvidia-interconnect-product-engineer-893396547359) | SoftwareEngineeringExtensive | Israel | Aug 01, 2026 | Aug 01, 2026 17:45 UTC |
 | CVS Health | [Senior Software Development Engineer](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-r0932132) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
 | CVS Health | [Staff Software Development Engineer - Tech Lead (Agentic)](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-tech-lead-agentic-r0984058) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
 | CVS Health | [Principal Architect](https://www.scoutjob.me/jobs/cvs-principal-architect-r0979855) | SeniorSoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Principal Data Architect and Manager - Service Special Projects](https://www.scoutjob.me/jobs/apple-principal-data-architect-and-manager-service-special-projects-200675150) | SeniorDataAiMl | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
 | Apple | [Product Design Engineer - Beats](https://www.scoutjob.me/jobs/apple-product-design-engineer-beats-200675270) | HardwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
 | NVIDIA | [Distinguished GPU Memory Simulation Architect](https://www.scoutjob.me/jobs/nvidia-distinguished-gpu-memory-simulation-architect-893396825255) | SeniorSoftwareEngineeringExtensive | Remote | Jul 31, 2026 | Jul 31, 2026 22:20 UTC |
-| AMD | [Software Development Engineer 2](https://www.scoutjob.me/jobs/amd-software-development-engineer-2-89055) | SoftwareEngineering | Canada | Jul 31, 2026 | Jul 31, 2026 22:18 UTC |
