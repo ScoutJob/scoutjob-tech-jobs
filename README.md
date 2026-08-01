@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [SAP BTP Full-Stack Engineer](https://www.scoutjob.me/jobs/apple-sap-btp-full-stack-engineer-200675157) | SoftwareEngineeringExtensive | China | Aug 01, 2026 | Aug 01, 2026 14:25 UTC |
+| Cisco | [Pricing & Strategy Analyst](https://www.scoutjob.me/jobs/cisco-pricing-strategy-analyst-ciscisglobal2019962externalenglobal) | Analyst | United States | Aug 01, 2026 | Aug 01, 2026 14:21 UTC |
+| Cisco | [HW Board Design Technical Leader](https://www.scoutjob.me/jobs/cisco-hw-board-design-technical-leader-ciscisglobal2020604externalenglobal) | SeniorHardwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 14:21 UTC |
 | American Express | [Senior Analyst-Operations Risk Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-operations-risk-management-26011178) | SeniorAnalyst | India | Aug 01, 2026 | Aug 01, 2026 08:17 UTC |
 | Netflix | [Solutions Engineer - Finance Technology](https://www.scoutjob.me/jobs/netflix-solutions-engineer-finance-technology-790317188076) | SoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 07:58 UTC |
 | Adobe | [Senior Data Scientist](https://www.scoutjob.me/jobs/adobe-senior-data-scientist-r170750) | SeniorDataAiMl | United States | Aug 01, 2026 | Aug 01, 2026 06:18 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Quantum Engineer - Readout](https://www.scoutjob.me/jobs/microsoft-quantum-engineer-readout-1970393556866202) | SoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556948011) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Microsoft | [Senior Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-senior-software-engineering-manager-1970393556952486) | EngineeringManagement | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556945356) | SoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Service Engineer II - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-service-engineer-ii-ctj-poly-1970393556939406) | SoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Roblox | [Senior Software Engineer- Account Authentication](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-account-authentication-8092905) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:52 UTC |
