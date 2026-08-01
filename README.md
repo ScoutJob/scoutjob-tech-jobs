@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Software Engineer - Mainframe/DB2](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-mainframe-db2-210763160) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 15:42 UTC |
 | Apple | [SAP BTP Full-Stack Engineer](https://www.scoutjob.me/jobs/apple-sap-btp-full-stack-engineer-200675157) | SoftwareEngineeringExtensive | China | Aug 01, 2026 | Aug 01, 2026 14:25 UTC |
 | Cisco | [Pricing & Strategy Analyst](https://www.scoutjob.me/jobs/cisco-pricing-strategy-analyst-ciscisglobal2019962externalenglobal) | Analyst | United States | Aug 01, 2026 | Aug 01, 2026 14:21 UTC |
 | Cisco | [HW Board Design Technical Leader](https://www.scoutjob.me/jobs/cisco-hw-board-design-technical-leader-ciscisglobal2020604externalenglobal) | SeniorHardwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 14:21 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393556938687) | SeniorDataAiMl | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Microsoft | [Quantum Engineer - Readout](https://www.scoutjob.me/jobs/microsoft-quantum-engineer-readout-1970393556866202) | SoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556948011) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Senior Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-senior-software-engineering-manager-1970393556952486) | EngineeringManagement | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
