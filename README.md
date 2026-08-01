@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| CVS Health | [Senior Software Development Engineer](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-r0932132) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
+| CVS Health | [Staff Software Development Engineer - Tech Lead (Agentic)](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-tech-lead-agentic-r0984058) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
+| CVS Health | [Principal Architect](https://www.scoutjob.me/jobs/cvs-principal-architect-r0979855) | SeniorSoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0949099) | SoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
+| CVS Health | [Senior Software Development Engineer](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-r0986019) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
+| CVS Health | [Principal Engineer API Platform](https://www.scoutjob.me/jobs/cvs-principal-engineer-api-platform-r0963186) | SeniorSoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 16:25 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Mainframe/DB2](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-mainframe-db2-210763160) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 15:42 UTC |
 | Apple | [SAP BTP Full-Stack Engineer](https://www.scoutjob.me/jobs/apple-sap-btp-full-stack-engineer-200675157) | SoftwareEngineeringExtensive | China | Aug 01, 2026 | Aug 01, 2026 14:25 UTC |
 | Cisco | [Pricing & Strategy Analyst](https://www.scoutjob.me/jobs/cisco-pricing-strategy-analyst-ciscisglobal2019962externalenglobal) | Analyst | United States | Aug 01, 2026 | Aug 01, 2026 14:21 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Product Design Engineer - Beats](https://www.scoutjob.me/jobs/apple-product-design-engineer-beats-200675270) | HardwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
 | NVIDIA | [Distinguished GPU Memory Simulation Architect](https://www.scoutjob.me/jobs/nvidia-distinguished-gpu-memory-simulation-architect-893396825255) | SeniorSoftwareEngineeringExtensive | Remote | Jul 31, 2026 | Jul 31, 2026 22:20 UTC |
 | AMD | [Software Development Engineer 2](https://www.scoutjob.me/jobs/amd-software-development-engineer-2-89055) | SoftwareEngineering | Canada | Jul 31, 2026 | Jul 31, 2026 22:18 UTC |
-| Apple | [Software Engineer, Cloud Services ASE](https://www.scoutjob.me/jobs/apple-software-engineer-cloud-services-ase-200674218) | SoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 22:00 UTC |
-| Amazon | [Senior Software Development Engineer, Amazon Payment Products](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-amazon-payment-products-fc337a2e-609e-458e-880d-ae50bce45f4c) | SeniorSoftwareEngineering | Canada | Jul 31, 2026 | Jul 31, 2026 22:00 UTC |
-| Microsoft | [Chief of Staff - AI Experiences, Copilot Engineering](https://www.scoutjob.me/jobs/microsoft-chief-of-staff-ai-experiences-copilot-engineering-1970393556943621) | SeniorSoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393556938687) | SeniorDataAiMl | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Quantum Engineer - Readout](https://www.scoutjob.me/jobs/microsoft-quantum-engineer-readout-1970393556866202) | SoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556948011) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
