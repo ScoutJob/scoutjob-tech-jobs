@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-01T11:56:57.456781+00:00",
+  "generatedAtUtc": "2026-08-01T13:13:27.383269+00:00",
   "publicDelayMinutes": 60,
-  "total": 580,
+  "total": 577,
   "jobs": [
     {
       "id": "356e9720-13f9-4b5a-b6b5-19cc19313a52",
@@ -9234,54 +9234,6 @@
       "lastVerifiedAtUtc": "2026-07-30T13:22:03.246969Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-software-developer-323403",
       "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/323403"
-    },
-    {
-      "id": "61e71e69-f169-43f2-aebb-0e9611030fde",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-30T12:50:51.185545Z",
-      "lastVerifiedAtUtc": "2026-07-30T12:50:51.185545Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-cross-border-tech-cfce388c-4ccb-46df-b90f-b594f48a939e",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech"
-    },
-    {
-      "id": "5fb71b7e-a102-4642-9e76-8182b5c02d18",
-      "company": "Snowflake",
-      "companySlug": "snowflake",
-      "title": "Software Engineer - FDE",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Poland",
-      "location": "Poland",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-30T12:48:33.719318Z",
-      "lastVerifiedAtUtc": "2026-07-30T12:48:33.719318Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/snowflake-software-engineer-fde-sncous7efcfe1247594e518a308ea79eab418eexternalenus6e31e0cb78214dcf9d690afce918bcc4",
-      "sourceUrl": "https://careers.snowflake.com/us/en/job/SNCOUS7EFCFE1247594E518A308EA79EAB418EEXTERNALENUS6E31E0CB78214DCF9D690AFCE918BCC4/Software-Engineer-FDE"
-    },
-    {
-      "id": "83c8aef4-9f04-4ed7-a628-1feb44a2b508",
-      "company": "Robinhood",
-      "companySlug": "robinhood",
-      "title": "Senior Software Developer, Developer Experience (DevX)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Canada",
-      "location": "Canada",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-07-30T12:42:37.70377Z",
-      "lastVerifiedAtUtc": "2026-07-30T12:42:37.70377Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/robinhood-senior-software-developer-developer-experience-devx-8083818",
-      "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/8083818"
     }
   ]
 }
