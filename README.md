@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Senior Analyst-Operations Risk Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-operations-risk-management-26011178) | SeniorAnalyst | India | Aug 01, 2026 | Aug 01, 2026 08:17 UTC |
+| Netflix | [Solutions Engineer - Finance Technology](https://www.scoutjob.me/jobs/netflix-solutions-engineer-finance-technology-790317188076) | SoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 07:58 UTC |
 | Adobe | [Senior Data Scientist](https://www.scoutjob.me/jobs/adobe-senior-data-scientist-r170750) | SeniorDataAiMl | United States | Aug 01, 2026 | Aug 01, 2026 06:18 UTC |
 | Adobe | [Staff Data Scientist](https://www.scoutjob.me/jobs/adobe-staff-data-scientist-r170711) | SeniorDataAiMl | United States | Aug 01, 2026 | Aug 01, 2026 06:18 UTC |
 | Adobe | [Senior Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-senior-machine-learning-engineer-r170802) | SeniorDataAiMl | United States | Aug 01, 2026 | Aug 01, 2026 06:18 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556945356) | SoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Microsoft | [Service Engineer II - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-service-engineer-ii-ctj-poly-1970393556939406) | SoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 21:57 UTC |
 | Roblox | [Senior Software Engineer- Account Authentication](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-account-authentication-8092905) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:52 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Data Engg. - Databricks / Snowflake](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-engg-databricks-snowflake-210765718) | SeniorSoftwareEngineering | United States | Jul 31, 2026 | Jul 31, 2026 21:43 UTC |
-| NVIDIA | [Full-Chip Integration Engineer](https://www.scoutjob.me/jobs/nvidia-full-chip-integration-engineer-893396824893) | HardwareEngineering | Israel | Jul 31, 2026 | Jul 31, 2026 21:42 UTC |
