@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Camera Systems Engineer, Sr. - AF](https://www.scoutjob.me/jobs/qualcomm-camera-systems-engineer-sr-af-446720179880) | SeniorSoftwareEngineeringExtensive | China | Aug 02, 2026 | Aug 02, 2026 01:24 UTC |
+| Qualcomm | [Sr. Software Customer Engineer - WLAN/BT](https://www.scoutjob.me/jobs/qualcomm-sr-software-customer-engineer-wlan-bt-446720233580) | SeniorSoftwareEngineering | Taiwan | Aug 02, 2026 | Aug 02, 2026 01:24 UTC |
 | Oracle | [Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-manager-core-infrastructure-engineering-341739) | SeniorSoftwareEngineeringExtensive | United States | Aug 01, 2026 | Aug 01, 2026 19:25 UTC |
 | Cisco | [Software Engineer](https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2019428externalenglobal) | SoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 18:46 UTC |
 | Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2015102externalenglobal) | SeniorSoftwareEngineering | United States | Aug 01, 2026 | Aug 01, 2026 18:46 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [SOC Clocks RTL Design Engineer](https://www.scoutjob.me/jobs/nvidia-soc-clocks-rtl-design-engineer-893396825014) | HardwareEngineering | Israel | Jul 31, 2026 | Jul 31, 2026 22:38 UTC |
 | NVIDIA | [Senior SOC Clocks RTL Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-soc-clocks-rtl-design-engineer-893396825024) | SeniorHardwareEngineering | Israel | Jul 31, 2026 | Jul 31, 2026 22:38 UTC |
 | Apple | [Sr ML Engineering Manager, Search - Services Special Projects](https://www.scoutjob.me/jobs/apple-sr-ml-engineering-manager-search-services-special-projects-200675260) | EngineeringManagement | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
-| Apple | [Senior AI Engineer - Services Special Projects](https://www.scoutjob.me/jobs/apple-senior-ai-engineer-services-special-projects-200675256) | SeniorDataAiMl | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
-| Apple | [Principal Data Engineering Lead - Services Special Project](https://www.scoutjob.me/jobs/apple-principal-data-engineering-lead-services-special-project-200675155) | SeniorSoftwareEngineeringExtensive | United States | Jul 31, 2026 | Jul 31, 2026 22:36 UTC |
