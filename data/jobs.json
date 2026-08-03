@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-03T18:44:06.929693+00:00",
+  "generatedAtUtc": "2026-08-03T20:21:09.955158+00:00",
   "publicDelayMinutes": 60,
-  "total": 9,
+  "total": 6,
   "jobs": [
     {
       "id": "0cbfb8e1-a511-4615-8b04-2a0684eca9a6",
@@ -98,54 +98,6 @@
       "lastVerifiedAtUtc": "2026-08-02T01:24:32.526401Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-sr-software-customer-engineer-wlan-bt-446720233580",
       "sourceUrl": "https://careers.qualcomm.com/careers/job/446720233580"
-    },
-    {
-      "id": "b919fd73-e4d5-4ea2-872b-3c0691be42ec",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Manager, Core Infrastructure Engineering",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T19:25:44.546622Z",
-      "lastVerifiedAtUtc": "2026-08-01T19:25:44.546622Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-manager-core-infrastructure-engineering-341739",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/341739"
-    },
-    {
-      "id": "f9c607f1-f86f-4919-b2ce-5c617626d744",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T18:46:42.501537Z",
-      "lastVerifiedAtUtc": "2026-08-01T18:46:42.501537Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2019428externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Software-Engineer_2019428/apply"
-    },
-    {
-      "id": "8bb3f300-9edd-46f0-a715-76ca30442567",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineering Technical Leader",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T18:46:42.427091Z",
-      "lastVerifiedAtUtc": "2026-08-01T18:46:42.427091Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2015102externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-Engineering-Technical-Leader_2015102-1/apply"
     }
   ]
 }
