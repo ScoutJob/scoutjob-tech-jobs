@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-03T13:33:56.316451+00:00",
+  "generatedAtUtc": "2026-08-03T16:15:28.650646+00:00",
   "publicDelayMinutes": 60,
-  "total": 20,
+  "total": 16,
   "jobs": [
     {
       "id": "0cbfb8e1-a511-4615-8b04-2a0684eca9a6",
@@ -258,70 +258,6 @@
       "lastVerifiedAtUtc": "2026-08-01T16:25:57.474696Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cvs-principal-engineer-api-platform-r0963186",
       "sourceUrl": "https://jobs.cvshealth.com/us/en/job/R0963186/Principal-Engineer-API-Platform"
-    },
-    {
-      "id": "a5398ba1-e065-4f4a-8542-3fcd03884d09",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Senior Lead Software Engineer - Mainframe/DB2",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T15:42:13.373785Z",
-      "lastVerifiedAtUtc": "2026-08-01T15:42:13.373785Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-mainframe-db2-210763160",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210763160"
-    },
-    {
-      "id": "b7b7c7f8-997d-4fa6-a438-78a40fd6fd9f",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "SAP BTP Full-Stack Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T14:25:49.187216Z",
-      "lastVerifiedAtUtc": "2026-08-01T14:25:49.187216Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-sap-btp-full-stack-engineer-200675157",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200675157/sap-btp-full-stack-engineer"
-    },
-    {
-      "id": "f42a3687-649e-4529-b2b2-569196620c26",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Pricing & Strategy Analyst",
-      "roleCategory": "Analyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T14:21:00.448167Z",
-      "lastVerifiedAtUtc": "2026-08-01T14:21:00.448167Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-pricing-strategy-analyst-ciscisglobal2019962externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Santa-Monica-California-US/Pricing---Strategy-Analyst_2019962/apply"
-    },
-    {
-      "id": "7da09745-6b87-41fb-9979-161530e29051",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "HW Board Design Technical Leader",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-01T14:21:00.330375Z",
-      "lastVerifiedAtUtc": "2026-08-01T14:21:00.330375Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-hw-board-design-technical-leader-ciscisglobal2020604externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/HW-Board-Design-Technical-Leader_2020604/apply"
     }
   ]
 }
