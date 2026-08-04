@@ -26,6 +26,17 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Software Engineer 2--Win365 & AVD Team](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-win365-avd-team-1970393556953570) | SoftwareEngineering | China | Aug 04, 2026 | Aug 04, 2026 22:50 UTC |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556955841) | SeniorSoftwareEngineering | India | Aug 04, 2026 | Aug 04, 2026 22:50 UTC |
+| Microsoft | [Software Quality Engineer](https://www.scoutjob.me/jobs/microsoft-software-quality-engineer-1970393556953781) | SoftwareEngineering | India | Aug 04, 2026 | Aug 04, 2026 22:50 UTC |
+| Microsoft | [Solution Engineering](https://www.scoutjob.me/jobs/microsoft-solution-engineering-1970393556939461) | SoftwareEngineeringExtensive | India | Aug 04, 2026 | Aug 04, 2026 22:50 UTC |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556953737) | SeniorSoftwareEngineering | India | Aug 04, 2026 | Aug 04, 2026 22:50 UTC |
+| Apple | [ML Engineer - Robotics](https://www.scoutjob.me/jobs/apple-ml-engineer-robotics-200675240) | DataAiMl | United States | Aug 04, 2026 | Aug 04, 2026 22:35 UTC |
+| Cisco | [Financial Analyst I - LIFT Intern](https://www.scoutjob.me/jobs/cisco-financial-analyst-i-lift-intern-ciscisglobal2022092externalenglobal) | Analyst | United States | Aug 04, 2026 | Aug 04, 2026 22:27 UTC |
+| Discord | [Senior Software Engineer, Growth](https://www.scoutjob.me/jobs/discord-senior-software-engineer-growth-8642087002) | SeniorSoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 22:23 UTC |
+| AMD | [DDR PHY AMS Engineer](https://www.scoutjob.me/jobs/amd-ddr-phy-ams-engineer-89210) | SoftwareEngineeringExtensive | United States | Aug 04, 2026 | Aug 04, 2026 22:11 UTC |
+| Amazon | [Sr. SDE, Edge AI ML Platform, Edge AI and Science](https://www.scoutjob.me/jobs/amazon-sr-sde-edge-ai-ml-platform-edge-ai-and-science-231a5eac-1eef-4860-841b-df5539d5b872) | SeniorDataAiMl | Canada | Aug 04, 2026 | Aug 04, 2026 22:01 UTC |
+| Cisco | [Physical Design Engineer](https://www.scoutjob.me/jobs/cisco-physical-design-engineer-ciscisglobal2021076externalenglobal) | HardwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 21:55 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java / AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-aws-210772271) | SeniorSoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 21:51 UTC |
 | JPMorgan Chase | [Lead Software Engineer / Platform Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-platform-engineer-210770264) | SeniorSoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 21:51 UTC |
 | Anthropic | [Software Engineer, ML Networking](https://www.scoutjob.me/jobs/anthropic-software-engineer-ml-networking-4926242008) | SoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 21:48 UTC |
@@ -90,14 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Bottlerocket](https://www.scoutjob.me/jobs/amazon-software-development-engineer-bottlerocket-d625866b-711d-4bcf-992a-2d3fa6688846) | SoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 18:43 UTC |
 | Amazon | [Software Development Engineer, Bottlerocket](https://www.scoutjob.me/jobs/amazon-software-development-engineer-bottlerocket-2924ba33-e32c-4f61-b3d3-42e551c93b7b) | SoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 18:43 UTC |
 | Amazon | [Senior Software Engineer, Bottlerocket](https://www.scoutjob.me/jobs/amazon-senior-software-engineer-bottlerocket-bfa27ac1-7916-4a19-93d4-9e247cda293e) | SeniorSoftwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 18:43 UTC |
-| Qualcomm | [IT Engineer, Principal](https://www.scoutjob.me/jobs/qualcomm-it-engineer-principal-446720267034) | SeniorSoftwareEngineeringExtensive | United States | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| NVIDIA | [Senior Software Engineer, NIC Firmware](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-nic-firmware-893396865128) | SeniorSoftwareEngineering | Israel | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| NVIDIA | [Senior AI Storage Software Architect](https://www.scoutjob.me/jobs/nvidia-senior-ai-storage-software-architect-893382594663) | SeniorSoftwareEngineering | Israel | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| NVIDIA | [Senior Site Reliability Engineering - Storage](https://www.scoutjob.me/jobs/nvidia-senior-site-reliability-engineering-storage-893396865273) | SeniorSoftwareEngineeringExtensive | India | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| NVIDIA | [Channel Development Manager](https://www.scoutjob.me/jobs/nvidia-channel-development-manager-893396864052) | EngineeringManagement | Remote | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| NVIDIA | [Tech Lead Ethernet Networking Verification Engineer](https://www.scoutjob.me/jobs/nvidia-tech-lead-ethernet-networking-verification-engineer-893396863951) | SeniorHardwareEngineering | United States | Aug 04, 2026 | Aug 04, 2026 18:32 UTC |
-| American Express | [Analyst - Compliance](https://www.scoutjob.me/jobs/americanexpress-analyst-compliance-26011874) | Analyst | United States | Aug 04, 2026 | Aug 04, 2026 18:28 UTC |
-| Atlassian | [Senior Software Engineer, Connector Infra](https://www.scoutjob.me/jobs/atlassian-senior-software-engineer-connector-infra-26276) | SeniorSoftwareEngineering | Remote | Aug 04, 2026 | Aug 04, 2026 18:16 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Data Platform Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-platform-engineer-210754163) | SeniorDataAiMl | United States | Aug 04, 2026 | Aug 04, 2026 18:09 UTC |
-| Lyft | [Data Scientist - Inference, Safety and Customer Care](https://www.scoutjob.me/jobs/lyft-data-scientist-inference-safety-and-customer-care-8675422002) | DataAiMl | Canada | Aug 04, 2026 | Aug 04, 2026 18:07 UTC |
-| GitHub | [Staff Software Engineer, Planning & Tracking](https://www.scoutjob.me/jobs/github-staff-software-engineer-planning-tracking-5645) | SeniorSoftwareEngineering | Remote | Aug 04, 2026 | Aug 04, 2026 18:06 UTC |
