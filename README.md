@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [ML Software Engineer, Data Plane](https://www.scoutjob.me/jobs/amazon-ml-software-engineer-data-plane-b5f41933-48be-4d8b-acfb-a816b144191e) | SoftwareEngineering | Israel | Aug 07, 2026 | Aug 07, 2026 04:21 UTC |
+| Apple | [Distributed Systems Software Engineer (Golang)](https://www.scoutjob.me/jobs/apple-distributed-systems-software-engineer-golang-200676528) | SoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 04:10 UTC |
+| Amazon | [Software Development Engineers - Pricing & Promotions, Amazon Japan](https://www.scoutjob.me/jobs/amazon-software-development-engineers-pricing-promotions-amazon-japan-4fcf36e1-26d8-4450-a2a7-60239f019b8f) | SoftwareEngineering | Japan | Aug 07, 2026 | Aug 07, 2026 03:59 UTC |
 | NVIDIA | [Senior SoC Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-soc-design-engineer-893396904826) | SeniorHardwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 03:34 UTC |
 | NVIDIA | [Manager, Software Verification - SONiC NOS](https://www.scoutjob.me/jobs/nvidia-manager-software-verification-sonic-nos-893396905946) | SeniorSoftwareEngineering | Israel | Aug 07, 2026 | Aug 07, 2026 03:34 UTC |
 | NVIDIA | [Silicon Performance, Power and Binning Tools Engineer](https://www.scoutjob.me/jobs/nvidia-silicon-performance-power-and-binning-tools-engineer-893396906292) | HardwareEngineering | China | Aug 07, 2026 | Aug 07, 2026 03:34 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [UX and UI Software Engineer — Observability](https://www.scoutjob.me/jobs/apple-ux-and-ui-software-engineer-observability-200676394) | SoftwareEngineering | United States | Aug 06, 2026 | Aug 06, 2026 22:21 UTC |
 | Cisco | [Solutions Engineer](https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2021682externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 06, 2026 | Aug 06, 2026 22:15 UTC |
 | Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2005001externalenglobal) | SeniorSoftwareEngineering | United States | Aug 06, 2026 | Aug 06, 2026 22:15 UTC |
-| Cisco | [Solutions Engineer](https://www.scoutjob.me/jobs/cisco-solutions-engineer-ciscisglobal2021628externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 06, 2026 | Aug 06, 2026 22:15 UTC |
-| Zoom | [DevOps Engineer](https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-remote-united-states-5a1c56db-5cd7-41cc-a9fe-342f268d17c7) | SoftwareEngineeringExtensive | Remote | Aug 06, 2026 | Aug 06, 2026 22:15 UTC |
-| Goldman Sachs | [Risk-Dallas-Associate-Software Engineering](https://www.scoutjob.me/jobs/goldman-sachs-risk-dallas-associate-software-engineering-180914) | SoftwareEngineering | United States | Aug 06, 2026 | Aug 06, 2026 22:00 UTC |
