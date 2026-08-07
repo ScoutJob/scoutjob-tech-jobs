@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III - Java, Python, AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-python-aws-210769877) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 11:28 UTC |
+| AMD | [Gradaute Trainee - Product Development Engineer (Dec 2026 Intake)](https://www.scoutjob.me/jobs/amd-gradaute-trainee-product-development-engineer-dec-2026-intake-89945) | SoftwareEngineeringExtensive | Malaysia | Aug 07, 2026 | Aug 07, 2026 11:15 UTC |
+| American Express | [Sr Analyst](https://www.scoutjob.me/jobs/americanexpress-sr-analyst-26012193) | SeniorAnalyst | India | Aug 07, 2026 | Aug 07, 2026 11:15 UTC |
+| JPMorgan Chase | [CCB Risk Modeling Data-Scientist Sr Associate Fraud Prevention](https://www.scoutjob.me/jobs/jpmorgan-ccb-risk-modeling-data-scientist-sr-associate-fraud-prevention-210778160) | SeniorDataAiMl | India | Aug 07, 2026 | Aug 07, 2026 10:56 UTC |
 | Microsoft | [Principal Silicon Design Verification Manager](https://www.scoutjob.me/jobs/microsoft-principal-silicon-design-verification-manager-1970393556955421) | SeniorHardwareEngineering | Israel | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
 | Microsoft | [Site Reliability Engineer - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-site-reliability-engineer-ctj-poly-1970393556957397) | SoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
 | Microsoft | [Senior Solution Engineer - Cloud & AI Applications](https://www.scoutjob.me/jobs/microsoft-senior-solution-engineer-cloud-ai-applications-1970393556866769) | SeniorSoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Lyft | [Software Engineer, Routing](https://www.scoutjob.me/jobs/lyft-software-engineer-routing-8688776002) | SoftwareEngineering | Canada | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
 | Apple | [Senior Data Engineer, Retail Business Intelligence](https://www.scoutjob.me/jobs/apple-senior-data-engineer-retail-business-intelligence-200676510) | SeniorDataAiMl | China | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
 | Apple | [CPU Top-Level Verification Engineer](https://www.scoutjob.me/jobs/apple-cpu-top-level-verification-engineer-200640134) | HardwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
-| Apple | [Senior Data Engineer, Retail Business Intelligence](https://www.scoutjob.me/jobs/apple-senior-data-engineer-retail-business-intelligence-200676246) | SeniorDataAiMl | China | Aug 07, 2026 | Aug 07, 2026 05:39 UTC |
-| Zoom | [Staff AI Engineer - AI Verticals](https://www.scoutjob.me/jobs/zoom-staff-ai-engineer-ai-verticals-staff-ai-engineer-ai-verticals-seattle-washington-united-states) | SeniorDataAiMl | United States | Aug 07, 2026 | Aug 07, 2026 05:33 UTC |
-| Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-342105) | SeniorSoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 05:31 UTC |
-| Amazon | [ML Software Engineer, Data Plane](https://www.scoutjob.me/jobs/amazon-ml-software-engineer-data-plane-b5f41933-48be-4d8b-acfb-a816b144191e) | SoftwareEngineering | Israel | Aug 07, 2026 | Aug 07, 2026 04:21 UTC |
