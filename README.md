@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Lead Principal AI Software Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-ai-software-engineer-342129) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 12:59 UTC |
+| JPMorgan Chase | [Sr Lead Software Engineer Python](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-python-210776845) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 12:46 UTC |
+| AMD | [Embedded Software Engineer - Physical AI](https://www.scoutjob.me/jobs/amd-embedded-software-engineer-physical-ai-88077) | SoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 12:07 UTC |
+| NVIDIA | [Senior Software Engineer – Kubernetes AI Foundations, Open Source](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-kubernetes-ai-foundations-open-source-893396914446) | SeniorSoftwareEngineering | Israel | Aug 07, 2026 | Aug 07, 2026 11:48 UTC |
+| NVIDIA | [System Software Architecture Researcher - PhD Program](https://www.scoutjob.me/jobs/nvidia-system-software-architecture-researcher-phd-program-893396914457) | SoftwareEngineering | Denmark | Aug 07, 2026 | Aug 07, 2026 11:48 UTC |
 | JPMorgan Chase | [Software Engineer III - Java, Python, AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-python-aws-210769877) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 11:28 UTC |
 | AMD | [Gradaute Trainee - Product Development Engineer (Dec 2026 Intake)](https://www.scoutjob.me/jobs/amd-gradaute-trainee-product-development-engineer-dec-2026-intake-89945) | SoftwareEngineeringExtensive | Malaysia | Aug 07, 2026 | Aug 07, 2026 11:15 UTC |
 | American Express | [Sr Analyst](https://www.scoutjob.me/jobs/americanexpress-sr-analyst-26012193) | SeniorAnalyst | India | Aug 07, 2026 | Aug 07, 2026 11:15 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Dev Engineer II, 3P Pricing](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-3p-pricing-71b07f6f-457b-4e1c-ba64-bf2e38547d9d) | SoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 07:02 UTC |
 | JPMorgan Chase | [Lead Site Reliability Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-site-reliability-engineer-210777682) | SeniorSoftwareEngineeringExtensive | India | Aug 07, 2026 | Aug 07, 2026 06:52 UTC |
 | JPMorgan Chase | [Software Engineer III - Java, Springboot, AWS, Kuberetes, JFrog](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-springboot-aws-kuberetes-jfrog-210737336) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 06:39 UTC |
-| JPMorgan Chase | [Lead Software Engineer – DevOps/SRE/AWS/EKS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-devops-sre-aws-eks-210745447) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 06:26 UTC |
-| Canva | [Senior Backend Engineer - Entities Platform](https://www.scoutjob.me/jobs/canva-senior-backend-engineer-entities-platform-6000000001294904) | SeniorSoftwareEngineeringExtensive | Australia | Aug 07, 2026 | Aug 07, 2026 06:01 UTC |
-| Lyft | [Software Engineer, Routing](https://www.scoutjob.me/jobs/lyft-software-engineer-routing-8688776002) | SoftwareEngineering | Canada | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
-| Apple | [Senior Data Engineer, Retail Business Intelligence](https://www.scoutjob.me/jobs/apple-senior-data-engineer-retail-business-intelligence-200676510) | SeniorDataAiMl | China | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
-| Apple | [CPU Top-Level Verification Engineer](https://www.scoutjob.me/jobs/apple-cpu-top-level-verification-engineer-200640134) | HardwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 05:51 UTC |
