@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Uber | [Senior Communications Manager, Engineering](https://www.scoutjob.me/jobs/uber-senior-communications-manager-engineering-302879) | SeniorSoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 16:33 UTC |
+| American Express | [Senior Analyst - Control Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-control-management-26012225) | SeniorAnalyst | India | Aug 07, 2026 | Aug 07, 2026 16:16 UTC |
+| Apple | [Staff Software Engineer, Apple Ads](https://www.scoutjob.me/jobs/apple-staff-software-engineer-apple-ads-200673649) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 16:07 UTC |
+| Okta | [Senior Financial Analyst, FP&A](https://www.scoutjob.me/jobs/okta-senior-financial-analyst-fp-a-8114261) | SeniorAnalyst | India | Aug 07, 2026 | Aug 07, 2026 15:56 UTC |
+| AMD | [Field Applications Engineer, Server Datacenter - Dell](https://www.scoutjob.me/jobs/amd-field-applications-engineer-server-datacenter-dell-85443) | SoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 15:55 UTC |
+| AMD | [Field Applications Engineer, Server Datacenter - HPE](https://www.scoutjob.me/jobs/amd-field-applications-engineer-server-datacenter-hpe-85436) | SoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 15:55 UTC |
+| JPMorgan Chase | [Campbell Global - Forester Analyst](https://www.scoutjob.me/jobs/jpmorgan-campbell-global-forester-analyst-210778519) | Analyst | United States | Aug 07, 2026 | Aug 07, 2026 15:46 UTC |
+| OpenAI | [Manager, Field Security Specialists (Cyber Solutions Engineering](https://www.scoutjob.me/jobs/openai-manager-field-security-specialists-cyber-solutions-engineering-0331f23d-bb84-4931-b509-c0b91980f46c) | SeniorSoftwareEngineeringExtensive | Ireland | Aug 07, 2026 | Aug 07, 2026 15:46 UTC |
 | Oracle | [Senior Systems Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-systems-software-engineer-341598) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 15:33 UTC |
 | ServiceNow | [Staff Reliability Engineer](https://www.scoutjob.me/jobs/servicenow-staff-reliability-engineer-jb0074590) | SeniorSoftwareEngineeringExtensive | United States | Aug 07, 2026 | Aug 07, 2026 15:32 UTC |
 | JPMorgan Chase | [Software Engineer III (Java/AWS)](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-aws-210777797) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 15:32 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556953513) | EngineeringManagement | India | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
 | Microsoft | [Senior Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-senior-cloud-solution-architect-1970393556953344) | SeniorSoftwareEngineeringExtensive | Poland | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
 | Microsoft | [Cloud Solution Architect - Infrastructure & AI](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-infrastructure-ai-1970393556953278) | SeniorSoftwareEngineeringExtensive | Poland | Aug 07, 2026 | Aug 07, 2026 10:35 UTC |
-| JPMorgan Chase | [Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-data-engineer-210759999) | DataAiMl | India | Aug 07, 2026 | Aug 07, 2026 10:33 UTC |
-| JPMorgan Chase | [Lead Software Engineer- Java, fullstack, React](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-fullstack-react-210775694) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 10:02 UTC |
-| American Express | [Analyst-Operational Risk Management](https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26012027) | Analyst | India | Aug 07, 2026 | Aug 07, 2026 09:59 UTC |
-| AMD | [Software Development Engineer (AI Agentic)](https://www.scoutjob.me/jobs/amd-software-development-engineer-ai-agentic-86188) | SoftwareEngineering | Singapore | Aug 07, 2026 | Aug 07, 2026 09:46 UTC |
-| JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210764744) | SeniorSoftwareEngineering | India | Aug 07, 2026 | Aug 07, 2026 09:38 UTC |
-| Microsoft | [Senior Data Analyst, Media Data Science & Analytics (eCommerce)](https://www.scoutjob.me/jobs/microsoft-senior-data-analyst-media-data-science-analytics-ecommerce-1970393556952575) | SeniorDataAiMl | United States | Aug 07, 2026 | Aug 07, 2026 09:30 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556957819) | SoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 09:30 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556943805) | SeniorSoftwareEngineering | United States | Aug 07, 2026 | Aug 07, 2026 09:30 UTC |
