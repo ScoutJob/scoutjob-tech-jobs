@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer - Go / Kubernetes / Python - Public Cloud Engineering](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-go-kubernetes-python-public-cloud-engineering-210771907) | SeniorSoftwareEngineering | United Kingdom | Aug 08, 2026 | Aug 08, 2026 08:12 UTC |
 | Adobe | [Director, Engineering Program Management](https://www.scoutjob.me/jobs/adobe-director-engineering-program-management-r170373) | SeniorSoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
 | Adobe | [Senior Engineering Manager, Software Development](https://www.scoutjob.me/jobs/adobe-senior-engineering-manager-software-development-r170417) | EngineeringManagement | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
 | Adobe | [Applied Scientist 4](https://www.scoutjob.me/jobs/adobe-applied-scientist-4-r167904) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-446720310701) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310800) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Industrial Engineer, up to Staff (Hsinchu)](https://www.scoutjob.me/jobs/qualcomm-industrial-engineer-up-to-staff-hsinchu-446720311228) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Senior ASIC Verification Engineer, Low Power AI Subsystems](https://www.scoutjob.me/jobs/qualcomm-senior-asic-verification-engineer-low-power-ai-subsystems-446720316269) | SeniorHardwareEngineering | Canada | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
