@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer, Platform & Experience Journeys](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-platform-experience-journeys-210778934) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 19:29 UTC |
 | JPMorgan Chase | [Full-Stack Java OR Python Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-full-stack-java-or-python-software-engineer-iii-210730937) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 14:39 UTC |
 | JPMorgan Chase | [Full Stack Java React Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-full-stack-java-react-software-engineer-iii-210724326) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 13:33 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Go / Kubernetes / Python - Public Cloud Engineering](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-go-kubernetes-python-public-cloud-engineering-210771907) | SeniorSoftwareEngineering | United Kingdom | Aug 08, 2026 | Aug 08, 2026 08:12 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-engineer-staff-446720310480) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310492) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310700) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-446720310701) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
