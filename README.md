@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-342228) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:53 UTC |
 | Amazon | [Software Development Engineer, Core Shopping](https://www.scoutjob.me/jobs/amazon-software-development-engineer-core-shopping-ac3b0f9f-8f66-4f08-ac5a-d29a67632a45) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:25 UTC |
 | Amazon | [Software Development Engineer, Core Shopping](https://www.scoutjob.me/jobs/amazon-software-development-engineer-core-shopping-acfcc04b-5ecd-49a0-a431-583e08c65ec9) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:25 UTC |
 | Amazon | [Software Development Engineer, Amazon Lists](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-lists-3bc2b8de-04ec-495a-8bf8-30ccd35f0115) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:25 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675984) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
 | Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675981) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
 | Apple | [Software Engineer - Athena Synapse, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-athena-synapse-is-t-ai-data-platforms-200675974) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
-| Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675980) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
