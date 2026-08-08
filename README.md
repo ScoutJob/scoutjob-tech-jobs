@@ -26,6 +26,29 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Adobe | [Director, Engineering Program Management](https://www.scoutjob.me/jobs/adobe-director-engineering-program-management-r170373) | SeniorSoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Senior Engineering Manager, Software Development](https://www.scoutjob.me/jobs/adobe-senior-engineering-manager-software-development-r170417) | EngineeringManagement | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Applied Scientist 4](https://www.scoutjob.me/jobs/adobe-applied-scientist-4-r167904) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Machine Learning Engineer, Express AI Foundations](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-express-ai-foundations-r167647) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Senior Agentic AI Engineer](https://www.scoutjob.me/jobs/adobe-senior-agentic-ai-engineer-r170895) | SeniorDataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Applied AI Engineer](https://www.scoutjob.me/jobs/adobe-applied-ai-engineer-r168901) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170782) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170984) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Data Solutions Engineer](https://www.scoutjob.me/jobs/adobe-data-solutions-engineer-r171113) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Computer Scientist 2 ( Full Stack Frontend Heavy )](https://www.scoutjob.me/jobs/adobe-computer-scientist-2-full-stack-frontend-heavy-r170648) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Staff Full Stack Engineer](https://www.scoutjob.me/jobs/adobe-staff-full-stack-engineer-r170757) | SeniorSoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Full Stack Engineer](https://www.scoutjob.me/jobs/adobe-full-stack-engineer-r171017) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170776) | SoftwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170622) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Lead Software Engineer - Backend](https://www.scoutjob.me/jobs/adobe-lead-software-engineer-backend-r169447) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170794) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170419) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:28 UTC |
+| CVS Health | [Principal Software Development Engineer](https://www.scoutjob.me/jobs/cvs-principal-software-development-engineer-r0920462) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
+| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0947827) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
+| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0980466) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
+| CVS Health | [Principal Software Engineer](https://www.scoutjob.me/jobs/cvs-principal-software-engineer-r0979046) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
+| CVS Health | [Principal Software Engineer](https://www.scoutjob.me/jobs/cvs-principal-software-engineer-r0950427) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0999302) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 07:08 UTC |
 | NVIDIA | [Senior Performance Engineer - LLM Inference Frameworks](https://www.scoutjob.me/jobs/nvidia-senior-performance-engineer-llm-inference-frameworks-893394752123) | SeniorDataAiMl | Israel | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893394244720) | SeniorSoftwareEngineering | Japan | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893394620783) | SeniorSoftwareEngineering | South Korea | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
@@ -78,26 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310800) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Industrial Engineer, up to Staff (Hsinchu)](https://www.scoutjob.me/jobs/qualcomm-industrial-engineer-up-to-staff-hsinchu-446720311228) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
 | Qualcomm | [Senior ASIC Verification Engineer, Low Power AI Subsystems](https://www.scoutjob.me/jobs/qualcomm-senior-asic-verification-engineer-low-power-ai-subsystems-446720316269) | SeniorHardwareEngineering | Canada | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [CPU RTL Design Engineer (Senior/Staff) - Cambridge, UK](https://www.scoutjob.me/jobs/qualcomm-cpu-rtl-design-engineer-senior-staff-cambridge-uk-446720318864) | SeniorHardwareEngineering | United Kingdom | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [CPU Server Physical Design Timing Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-server-physical-design-timing-engineer-446719921318) | HardwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Silicon Test Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-silicon-test-engineer-senior-446720171095) | SeniorHardwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-446720310482) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [RF Engineer](https://www.scoutjob.me/jobs/qualcomm-rf-engineer-446720310799) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Senior Engineer, AI Software](https://www.scoutjob.me/jobs/qualcomm-senior-engineer-ai-software-446715285738) | SeniorSoftwareEngineering | Canada | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Core CPU Physical Design Engineer (Lead/Staff/Sr Staff)](https://www.scoutjob.me/jobs/qualcomm-core-cpu-physical-design-engineer-lead-staff-sr-staff-446720255540) | SeniorHardwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556955795) | EngineeringManagement | United States | Aug 08, 2026 | Aug 08, 2026 01:31 UTC |
-| Cisco | [Industry Solutions Engineer - Healthcare, Splunk](https://www.scoutjob.me/jobs/cisco-industry-solutions-engineer-healthcare-splunk-ciscisglobal2021678externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 01:23 UTC |
-| Cisco | [Leader, Solutions Engineer, Splunk](https://www.scoutjob.me/jobs/cisco-leader-solutions-engineer-splunk-ciscisglobal2021684externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 01:23 UTC |
-| Qualcomm | [Compute DSP/AI Subsystem Validation Engineer](https://www.scoutjob.me/jobs/qualcomm-compute-dsp-ai-subsystem-validation-engineer-446720317186) | SoftwareEngineeringExtensive | Canada | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Machine Learning Engineer](https://www.scoutjob.me/jobs/qualcomm-machine-learning-engineer-446718036622) | DataAiMl | United States | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [USB-Design Verification Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-usb-design-verification-senior-engineer-446715108203) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Machine Learning Scientist](https://www.scoutjob.me/jobs/qualcomm-machine-learning-scientist-446715450681) | DataAiMl | Vietnam | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446718510289) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Wireless Subsystem Test and Software Tools Engineer](https://www.scoutjob.me/jobs/qualcomm-wireless-subsystem-test-and-software-tools-engineer-446720226566) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Embedded Software Engineer](https://www.scoutjob.me/jobs/qualcomm-embedded-software-engineer-446720226567) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Wireless Firmware Engineer](https://www.scoutjob.me/jobs/qualcomm-wireless-firmware-engineer-446720226574) | HardwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [BT - Design Verification Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-bt-design-verification-staff-engineer-446720255082) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [CPU PDN & EM/IR Sign-Off Engineer (Lead/Staff)](https://www.scoutjob.me/jobs/qualcomm-cpu-pdn-em-ir-sign-off-engineer-lead-staff-446720255541) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [PMIC Product Test Engineer, Sr.](https://www.scoutjob.me/jobs/qualcomm-pmic-product-test-engineer-sr-446720257034) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [CPU Formal Verification Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-formal-verification-engineer-446720301715) | HardwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
-| Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310477) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:09 UTC |
