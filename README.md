@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Senior Software Engineer, Prime Video Personalization and Discovery](https://www.scoutjob.me/jobs/amazon-senior-software-engineer-prime-video-personalization-and-discovery-c6c2acbd-e9f8-43bc-907a-57aeedb9f945) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 04:44 UTC |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556957955) | SeniorSoftwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
+| Microsoft | [Design Verification Engineer- Senior / Principal](https://www.scoutjob.me/jobs/microsoft-design-verification-engineer-senior-principal-1970393556957363) | SeniorHardwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
+| Microsoft | [Mechanical Engineer](https://www.scoutjob.me/jobs/microsoft-mechanical-engineer-1970393556957399) | HardwareEngineering | Singapore | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
+| Microsoft | [Principal Engineer Architect](https://www.scoutjob.me/jobs/microsoft-principal-engineer-architect-1970393556957527) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
 | Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-342228) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:53 UTC |
 | Amazon | [Software Development Engineer, Core Shopping](https://www.scoutjob.me/jobs/amazon-software-development-engineer-core-shopping-ac3b0f9f-8f66-4f08-ac5a-d29a67632a45) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:25 UTC |
 | Amazon | [Software Development Engineer, Core Shopping](https://www.scoutjob.me/jobs/amazon-software-development-engineer-core-shopping-acfcc04b-5ecd-49a0-a431-583e08c65ec9) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:25 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Dev Engineer - AI Agents, IES LATech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ai-agents-ies-latech-cfe519cb-d5af-4aa3-9148-22c325dcf2d9) | SoftwareEngineering | Brazil | Aug 08, 2026 | Aug 08, 2026 01:08 UTC |
 | Amazon | [Software Dev Engineer - AI Agents, IES LATech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ai-agents-ies-latech-814953c4-a5b1-48a1-acad-457674b1df76) | SoftwareEngineering | Brazil | Aug 08, 2026 | Aug 08, 2026 01:08 UTC |
 | Amazon | [Software Dev Engineer - AI Agents, IES LATech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ai-agents-ies-latech-a8cfb374-68f8-4cfc-8873-4a2c2e445da2) | SoftwareEngineering | Brazil | Aug 08, 2026 | Aug 08, 2026 00:58 UTC |
-| Amazon | [Software Dev Engineer - AI Agents, IES LATech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ai-agents-ies-latech-8d710ea6-bcbb-4082-a2bf-7abf5fd1610c) | SoftwareEngineering | Brazil | Aug 08, 2026 | Aug 08, 2026 00:58 UTC |
-| Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675988) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
-| Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675984) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
-| Apple | [Software Engineer, Data Services, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-services-is-t-ai-data-platforms-200675981) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
-| Apple | [Software Engineer - Athena Synapse, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-athena-synapse-is-t-ai-data-platforms-200675974) | SoftwareEngineering | China | Aug 08, 2026 | Aug 08, 2026 00:31 UTC |
