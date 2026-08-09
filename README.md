@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Systems Software Engineer, Core OS](https://www.scoutjob.me/jobs/apple-systems-software-engineer-core-os-200676717) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 23:31 UTC |
+| Apple | [AI Test Engineer, Sensing & Connectivity](https://www.scoutjob.me/jobs/apple-ai-test-engineer-sensing-connectivity-200676692) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 23:31 UTC |
+| Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-341953) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 23:22 UTC |
+| Oracle | [Software Developer 3](https://www.scoutjob.me/jobs/oracle-software-developer-3-342108) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 23:22 UTC |
+| Qualcomm | [Optical System Engineer, Senior Staff](https://www.scoutjob.me/jobs/qualcomm-optical-system-engineer-senior-staff-446720282042) | SeniorHardwareEngineering | Canada | Aug 08, 2026 | Aug 08, 2026 22:38 UTC |
 | JPMorgan Chase | [Full stack Java React Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-full-stack-java-react-software-engineer-ii-210765849) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 20:44 UTC |
 | JPMorgan Chase | [Lead Software Engineer, Platform & Experience Journeys](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-platform-experience-journeys-210778934) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 19:29 UTC |
 | JPMorgan Chase | [Full-Stack Java OR Python Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-full-stack-java-or-python-software-engineer-iii-210730937) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 14:39 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Memory Subsystem Architect](https://www.scoutjob.me/jobs/nvidia-senior-memory-subsystem-architect-893396917324) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [Senior Software Engineer - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-893396921269) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [Principal Software Engineer - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-principal-software-engineer-dgx-cloud-893396921279) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
-| Qualcomm | [WLAN Performance Testing - Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-wlan-performance-testing-staff-engineer-446720243038) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [BT - Design Verification Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-bt-design-verification-sr-engineer-446720255088) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Senior Project Analyst](https://www.scoutjob.me/jobs/qualcomm-senior-project-analyst-446720308659) | SeniorAnalyst | China | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-engineer-staff-446720310480) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
-| Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720310492) | SoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 01:51 UTC |
