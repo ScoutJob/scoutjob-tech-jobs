@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-09T09:31:33.339096+00:00",
+  "generatedAtUtc": "2026-08-09T10:24:32.896205+00:00",
   "publicDelayMinutes": 60,
-  "total": 313,
+  "total": 309,
   "jobs": [
     {
       "id": "efd9264a-b796-4902-a6eb-1318faf49c92",
@@ -4946,70 +4946,6 @@
       "lastVerifiedAtUtc": "2026-08-07T10:33:51.132772Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-data-engineer-210759999",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210759999"
-    },
-    {
-      "id": "32332739-aa1b-4f90-8b56-b441ba278327",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Lead Software Engineer- Java, fullstack, React",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T10:02:33.530252Z",
-      "lastVerifiedAtUtc": "2026-08-07T10:02:33.530252Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-fullstack-react-210775694",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210775694"
-    },
-    {
-      "id": "5257d26e-bd22-4206-be2f-e5ff0ce837c5",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst-Operational Risk Management",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T09:59:23.689376Z",
-      "lastVerifiedAtUtc": "2026-08-07T09:59:23.689376Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-operational-risk-management-26012027",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26012027"
-    },
-    {
-      "id": "2b5cd4ca-9788-4d23-a131-d919bf43fa21",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Software Development Engineer (AI Agentic)",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Singapore",
-      "location": "Singapore",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T09:46:56.52176Z",
-      "lastVerifiedAtUtc": "2026-08-07T09:46:56.52176Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-software-development-engineer-ai-agentic-86188",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/86188"
-    },
-    {
-      "id": "d5304448-426b-4bf4-aeeb-65fb1deabd8a",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Lead Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T09:38:17.239826Z",
-      "lastVerifiedAtUtc": "2026-08-07T09:38:17.239826Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210764744",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210764744"
     }
   ]
 }
