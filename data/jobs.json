@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-09T11:21:54.315922+00:00",
+  "generatedAtUtc": "2026-08-09T12:33:17.800611+00:00",
   "publicDelayMinutes": 60,
-  "total": 293,
+  "total": 289,
   "jobs": [
     {
       "id": "efd9264a-b796-4902-a6eb-1318faf49c92",
@@ -4626,70 +4626,6 @@
       "lastVerifiedAtUtc": "2026-08-07T12:46:47.553386Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-python-210776845",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210776845"
-    },
-    {
-      "id": "0fe2584a-e74f-48b1-8649-7f50c18af79e",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Embedded Software Engineer - Physical AI",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T12:07:58.025055Z",
-      "lastVerifiedAtUtc": "2026-08-07T12:07:58.025055Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-embedded-software-engineer-physical-ai-88077",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/88077"
-    },
-    {
-      "id": "e0e9c3c2-8abc-4d32-839d-3d15f58b15d9",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Software Engineer – Kubernetes AI Foundations, Open Source",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "Israel",
-      "location": "Israel",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T11:48:44.927822Z",
-      "lastVerifiedAtUtc": "2026-08-07T11:48:44.927822Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-kubernetes-ai-foundations-open-source-893396914446",
-      "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893396914446"
-    },
-    {
-      "id": "7b90c866-b14a-45a6-914e-8aabc7c4dea2",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "System Software Architecture Researcher - PhD Program",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Denmark",
-      "location": "Denmark",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T11:48:44.697733Z",
-      "lastVerifiedAtUtc": "2026-08-07T11:48:44.697733Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-system-software-architecture-researcher-phd-program-893396914457",
-      "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893396914457"
-    },
-    {
-      "id": "273eb80f-a9c2-41e5-b8bc-12ca19d04448",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Software Engineer III - Java, Python, AWS",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T11:28:48.679395Z",
-      "lastVerifiedAtUtc": "2026-08-07T11:28:48.679395Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-python-aws-210769877",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210769877"
     }
   ]
 }
