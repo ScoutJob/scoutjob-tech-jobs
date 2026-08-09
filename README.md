@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [Software Development Engineer](https://www.scoutjob.me/jobs/amd-software-development-engineer-89601) | SoftwareEngineering | China | Aug 09, 2026 | Aug 09, 2026 07:54 UTC |
 | Cisco | [Software Engineering Technical Leader- Networking](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-networking-ciscisglobal2019851externalenglobal) | SeniorSoftwareEngineering | United States | Aug 09, 2026 | Aug 09, 2026 06:57 UTC |
 | Microsoft | [Snr Software Engineer.MS Build](https://www.scoutjob.me/jobs/microsoft-snr-software-engineer-ms-build-1970393556913294) | SoftwareEngineering | Czech Republic | Aug 09, 2026 | Aug 09, 2026 06:17 UTC |
 | Microsoft | [Senior Solution Architect- Full Stack for Financial Services](https://www.scoutjob.me/jobs/microsoft-senior-solution-architect-full-stack-for-financial-services-1970393556938680) | SeniorSoftwareEngineeringExtensive | Mexico | Aug 09, 2026 | Aug 09, 2026 06:17 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior System Software Engineer, Automotive Performance](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-performance-893396920878) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [Senior Solution Engineer, Networking](https://www.scoutjob.me/jobs/nvidia-senior-solution-engineer-networking-893396921083) | SeniorSoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [Senior Software Engineer, Unified Access Management Platform](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-unified-access-management-platform-893396921154) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
-| NVIDIA | [GPU Performance Profiling Engineer](https://www.scoutjob.me/jobs/nvidia-gpu-performance-profiling-engineer-893383891850) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
