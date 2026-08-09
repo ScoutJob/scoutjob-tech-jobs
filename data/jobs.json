@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-09T04:56:36.514017+00:00",
+  "generatedAtUtc": "2026-08-09T05:43:35.554278+00:00",
   "publicDelayMinutes": 60,
-  "total": 365,
+  "total": 362,
   "jobs": [
     {
       "id": "6a6bf786-db37-4f21-9a4e-3ae1570627bb",
@@ -5794,54 +5794,6 @@
       "lastVerifiedAtUtc": "2026-08-07T05:51:45.516793Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-cpu-top-level-verification-engineer-200640134",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200640134/cpu-top-level-verification-engineer"
-    },
-    {
-      "id": "6c591961-fcaf-4fd6-ba91-6486c0b54ad2",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Senior Data Engineer, Retail Business Intelligence",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T05:39:59.308478Z",
-      "lastVerifiedAtUtc": "2026-08-07T05:39:59.308478Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-senior-data-engineer-retail-business-intelligence-200676246",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200676246/senior-data-engineer-retail-business-intelligence"
-    },
-    {
-      "id": "15a92c19-b357-4cc1-bbc5-6061a88ccf6f",
-      "company": "Zoom",
-      "companySlug": "zoom",
-      "title": "Staff AI Engineer - AI Verticals",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T05:33:33.727424Z",
-      "lastVerifiedAtUtc": "2026-08-07T05:33:33.727424Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/zoom-staff-ai-engineer-ai-verticals-staff-ai-engineer-ai-verticals-seattle-washington-united-states",
-      "sourceUrl": "https://careers.zoom.us/jobs/staff-ai-engineer-ai-verticals-seattle-washington-united-states"
-    },
-    {
-      "id": "af0c4e21-28dd-4add-9814-f8fa77732ec7",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Senior Core Infrastructure Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T05:31:46.980042Z",
-      "lastVerifiedAtUtc": "2026-08-07T05:31:46.980042Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-342105",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/342105"
     }
   ]
 }
