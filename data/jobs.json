@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-08-09T07:46:41.543390+00:00",
+  "generatedAtUtc": "2026-08-09T08:32:28.892974+00:00",
   "publicDelayMinutes": 60,
-  "total": 335,
+  "total": 333,
   "jobs": [
+    {
+      "id": "55e91c70-f03f-47a7-a965-99457b0c7174",
+      "company": "Cisco",
+      "companySlug": "cisco",
+      "title": "Software Engineering Technical Leader- Networking",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-09T06:57:08.413459Z",
+      "lastVerifiedAtUtc": "2026-08-09T06:57:08.413459Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-networking-ciscisglobal2019851externalenglobal",
+      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Networking_2019851-1/apply"
+    },
     {
       "id": "ec256fcc-3160-4974-8b72-e793ad69bfdc",
       "company": "Microsoft",
@@ -5314,54 +5330,6 @@
       "lastVerifiedAtUtc": "2026-08-07T08:49:00.038373Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-senior-analyst-global-sponsorships-experiential-marketing-26011985",
       "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26011985"
-    },
-    {
-      "id": "f1f1a372-b438-4137-a046-7db2768f12ea",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Senior AI Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T08:31:17.570316Z",
-      "lastVerifiedAtUtc": "2026-08-07T08:31:17.570316Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-senior-ai-software-engineer-342133",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/342133"
-    },
-    {
-      "id": "f33b6a8d-1716-4986-b387-5c074cdaefd3",
-      "company": "Oracle",
-      "companySlug": "oracle",
-      "title": "Principal AI Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T08:31:17.489511Z",
-      "lastVerifiedAtUtc": "2026-08-07T08:31:17.489511Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/oracle-principal-ai-software-engineer-342132",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/342132"
-    },
-    {
-      "id": "561ee62f-e71a-4b08-b39e-62b959cc6c30",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Lead Software Engineer - AI-Augmented Full Stack Development",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-07T07:47:24.636506Z",
-      "lastVerifiedAtUtc": "2026-08-07T07:47:24.636506Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-ai-augmented-full-stack-development-210759985",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210759985"
     }
   ]
 }
