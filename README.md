@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Cybersecurity Architect](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-cybersecurity-architect-210772669) | SeniorSoftwareEngineeringExtensive | United States | Aug 09, 2026 | Aug 09, 2026 21:22 UTC |
 | JPMorgan Chase | [Lead Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-data-engineer-210768357) | SeniorDataAiMl | United States | Aug 09, 2026 | Aug 09, 2026 20:05 UTC |
 | JPMorgan Chase | [Security Engineer II -SAAS](https://www.scoutjob.me/jobs/jpmorgan-security-engineer-ii-saas-210762317) | SoftwareEngineeringExtensive | United States | Aug 09, 2026 | Aug 09, 2026 20:05 UTC |
 | JPMorgan Chase | [Software Engineer III - Full Stack](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-full-stack-210767495) | SeniorSoftwareEngineering | United States | Aug 09, 2026 | Aug 09, 2026 20:05 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Project Engineer](https://www.scoutjob.me/jobs/microsoft-project-engineer-1970393556956446) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 03:12 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556944960) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:12 UTC |
 | Microsoft | [Senior Electrical Engineer Data Centers](https://www.scoutjob.me/jobs/microsoft-senior-electrical-engineer-data-centers-1970393556956383) | SeniorHardwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:12 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556944958) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:12 UTC |
