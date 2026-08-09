@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Snr Software Engineer.MS Build](https://www.scoutjob.me/jobs/microsoft-snr-software-engineer-ms-build-1970393556913294) | SoftwareEngineering | Czech Republic | Aug 09, 2026 | Aug 09, 2026 06:17 UTC |
+| Microsoft | [Senior Solution Architect- Full Stack for Financial Services](https://www.scoutjob.me/jobs/microsoft-senior-solution-architect-full-stack-for-financial-services-1970393556938680) | SeniorSoftwareEngineeringExtensive | Mexico | Aug 09, 2026 | Aug 09, 2026 06:17 UTC |
+| Microsoft | [Software Engineer 2](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-1970393556955846) | SoftwareEngineering | India | Aug 09, 2026 | Aug 09, 2026 06:07 UTC |
 | Apple | [Systems Software Engineer, Core OS](https://www.scoutjob.me/jobs/apple-systems-software-engineer-core-os-200676717) | SoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 23:31 UTC |
 | Apple | [AI Test Engineer, Sensing & Connectivity](https://www.scoutjob.me/jobs/apple-ai-test-engineer-sensing-connectivity-200676692) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 23:31 UTC |
 | Oracle | [Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-software-engineer-341953) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 23:22 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Software Engineer, Unified Access Management Platform](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-unified-access-management-platform-893396921154) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [GPU Performance Profiling Engineer](https://www.scoutjob.me/jobs/nvidia-gpu-performance-profiling-engineer-893383891850) | SoftwareEngineeringExtensive | United States | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
 | NVIDIA | [System Software Engineer, GPU Development Tools](https://www.scoutjob.me/jobs/nvidia-system-software-engineer-gpu-development-tools-893396917229) | SoftwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
-| NVIDIA | [Senior Memory Subsystem Architect](https://www.scoutjob.me/jobs/nvidia-senior-memory-subsystem-architect-893396917324) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
-| NVIDIA | [Senior Software Engineer - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-893396921269) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
-| NVIDIA | [Principal Software Engineer - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-principal-software-engineer-dgx-cloud-893396921279) | SeniorSoftwareEngineering | Remote | Aug 08, 2026 | Aug 08, 2026 02:00 UTC |
