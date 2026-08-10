@@ -26,6 +26,15 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-342261) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 15:37 UTC |
+| HubSpot | [Principal Software Engineer, Security Engineering Remote - USA Apply](https://www.scoutjob.me/jobs/hubspot-principal-software-engineer-security-engineering-remote-usa-apply-8119462) | SeniorSoftwareEngineering | Remote | Aug 10, 2026 | Aug 10, 2026 15:34 UTC |
+| Oracle | [Software Developer 4](https://www.scoutjob.me/jobs/oracle-software-developer-4-342260) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 15:24 UTC |
+| Amazon | [Software Development Engineer 1](https://www.scoutjob.me/jobs/amazon-software-development-engineer-1-15f58917-c5cb-4229-b2c2-2cc995197de6) | SoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 15:11 UTC |
+| Amazon | [Software Development Engineer, Amazon S3 Index](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-s3-index-2dd1b1a2-c738-4677-9180-8ad37bd9828d) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 15:11 UTC |
+| Amazon | [Software Development Engineer, AWS Marketplace Catalog Search](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-marketplace-catalog-search-7d0c20c7-22ee-4aff-a6c1-178fb9c2b0f9) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 15:11 UTC |
+| Cloudflare | [AI Security Research & Red Team Engineer](https://www.scoutjob.me/jobs/cloudflare-ai-security-research-red-team-engineer-8097321) | SoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 15:10 UTC |
+| JPMorgan Chase | [Lead Data Architect, Corporate Technology](https://www.scoutjob.me/jobs/jpmorgan-lead-data-architect-corporate-technology-210771157) | SeniorDataAiMl | United States | Aug 10, 2026 | Aug 10, 2026 15:02 UTC |
+| ServiceNow | [Senior Platform Architect](https://www.scoutjob.me/jobs/servicenow-senior-platform-architect-jb0074568) | SeniorSoftwareEngineeringExtensive | Denmark | Aug 10, 2026 | Aug 10, 2026 15:01 UTC |
 | JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210760627) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 14:51 UTC |
 | Apple | [DRAM Design Validation Engineer](https://www.scoutjob.me/jobs/apple-dram-design-validation-engineer-200676915) | SoftwareEngineeringExtensive | China | Aug 10, 2026 | Aug 10, 2026 14:38 UTC |
 | Cloudflare | [Senior Data Analyst](https://www.scoutjob.me/jobs/cloudflare-senior-data-analyst-8109620) | SeniorDataAiMl | United Kingdom | Aug 10, 2026 | Aug 10, 2026 14:37 UTC |
@@ -92,12 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | American Express | [Senior Analyst- Regulatory Compliance](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-regulatory-compliance-26012147) | SeniorAnalyst | Spain | Aug 10, 2026 | Aug 10, 2026 07:14 UTC |
 | Microsoft | [Senior Hardware Engineer](https://www.scoutjob.me/jobs/microsoft-senior-hardware-engineer-1970393556955439) | SeniorHardwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
 | Microsoft | [Senior Software Engineer - Kubernetes & IAC](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-kubernetes-iac-1970393556957922) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556957067) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Senior Site Reliability Engineer - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-senior-site-reliability-engineer-ctj-poly-1970393556860739) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556958135) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556955745) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Principal AI Network Hardware Systems Engineer](https://www.scoutjob.me/jobs/microsoft-principal-ai-network-hardware-systems-engineer-1970393556958205) | SeniorHardwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Software Engineer- II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556957658) | SoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Principal Software Engineering Manager - FDE](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-fde-1970393556945570) | EngineeringManagement | United Kingdom | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Principal PM Architect](https://www.scoutjob.me/jobs/microsoft-principal-pm-architect-1970393556957632) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
-| Microsoft | [Software Engineering INTERN](https://www.scoutjob.me/jobs/microsoft-software-engineering-intern-1970393556957962) | SoftwareEngineeringIntern | Israel | Aug 10, 2026 | Aug 10, 2026 07:06 UTC |
