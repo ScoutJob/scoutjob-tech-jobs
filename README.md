@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, Early Career - 2027, Shanghai](https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2027-shanghai-1c6d45cc-e749-4e6e-8638-d6c44afe8c03) | SoftwareEngineering | China | Aug 10, 2026 | Aug 10, 2026 02:55 UTC |
+| AMD | [Product Application Engineer](https://www.scoutjob.me/jobs/amd-product-application-engineer-86561) | SoftwareEngineeringExtensive | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:55 UTC |
 | AMD | [Product Application Engineer (Datacenter Platform)](https://www.scoutjob.me/jobs/amd-product-application-engineer-datacenter-platform-89490) | SoftwareEngineeringExtensive | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:43 UTC |
 | AMD | [Product Application Engineer (Datacenter Platform)](https://www.scoutjob.me/jobs/amd-product-application-engineer-datacenter-platform-89491) | SoftwareEngineeringExtensive | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:43 UTC |
 | AMD | [Customer Debug Engineer (Datacenter Platform)](https://www.scoutjob.me/jobs/amd-customer-debug-engineer-datacenter-platform-89486) | SoftwareEngineeringExtensive | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:33 UTC |
@@ -86,9 +88,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893394244720) | SeniorSoftwareEngineering | Japan | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893394620783) | SeniorSoftwareEngineering | South Korea | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
 | NVIDIA | [Senior System Software Engineer, Drive AV Architect - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-drive-av-architect-automotive-893394709455) | SeniorSoftwareEngineering | South Korea | Aug 08, 2026 | Aug 08, 2026 06:03 UTC |
-| Amazon | [Senior Software Engineer, Prime Video Personalization and Discovery](https://www.scoutjob.me/jobs/amazon-senior-software-engineer-prime-video-personalization-and-discovery-c6c2acbd-e9f8-43bc-907a-57aeedb9f945) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 04:44 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556957955) | SeniorSoftwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
-| Microsoft | [Design Verification Engineer- Senior / Principal](https://www.scoutjob.me/jobs/microsoft-design-verification-engineer-senior-principal-1970393556957363) | SeniorHardwareEngineering | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
-| Microsoft | [Mechanical Engineer](https://www.scoutjob.me/jobs/microsoft-mechanical-engineer-1970393556957399) | HardwareEngineering | Singapore | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
-| Microsoft | [Principal Engineer Architect](https://www.scoutjob.me/jobs/microsoft-principal-engineer-architect-1970393556957527) | SeniorSoftwareEngineeringExtensive | India | Aug 08, 2026 | Aug 08, 2026 04:36 UTC |
-| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-342228) | SeniorSoftwareEngineering | United States | Aug 08, 2026 | Aug 08, 2026 03:53 UTC |
