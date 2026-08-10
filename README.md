@@ -26,6 +26,17 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Manager of Software Engineering [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-manager-of-software-engineering-multiple-positions-available-210775118) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer Associate III - Databricks](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-associate-iii-databricks-210767184) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-multiple-positions-available-210777209) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-multiple-positions-available-210774028) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-multiple-positions-available-210777727) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-multiple-positions-available-210778405) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| JPMorgan Chase | [Software Engineer [Multiple Positions Available]](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-multiple-positions-available-210778166) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| Oracle | [Principal Supply Chain Engineer](https://www.scoutjob.me/jobs/oracle-principal-supply-chain-engineer-342157) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 13:13 UTC |
+| DoorDash | [Sr. UTM Engineer](https://www.scoutjob.me/jobs/doordash-sr-utm-engineer-8110044) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 13:10 UTC |
+| TikTok | [Data Engineer Intern (Monetization Data) - 2027 Summer](https://www.scoutjob.me/jobs/tiktok-data-engineer-intern-monetization-data-2027-summer-7671232204182276405) | DataAiMlIntern | Canada | Aug 10, 2026 | Aug 10, 2026 12:57 UTC |
+| American Express | [Analyst-Data Science](https://www.scoutjob.me/jobs/americanexpress-analyst-data-science-26012381) | Analyst | India | Aug 10, 2026 | Aug 10, 2026 12:10 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Java Full Stack](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-java-full-stack-210739708) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 11:30 UTC |
 | JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210778821) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 11:30 UTC |
 | American Express | [Sr Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-sr-software-engineer-i-26011683) | SeniorSoftwareEngineering | United Kingdom | Aug 10, 2026 | Aug 10, 2026 11:27 UTC |
@@ -90,14 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Customer Debug Engineer (Datacenter Platform)](https://www.scoutjob.me/jobs/amd-customer-debug-engineer-datacenter-platform-89486) | SoftwareEngineeringExtensive | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:33 UTC |
 | AMD | [Software BIOS/BMC Engineer (Data Center Platform)](https://www.scoutjob.me/jobs/amd-software-bios-bmc-engineer-data-center-platform-89540) | SoftwareEngineering | Taiwan | Aug 10, 2026 | Aug 10, 2026 02:33 UTC |
 | Atlassian | [Senior Principal Forward Deployed Engineer](https://www.scoutjob.me/jobs/atlassian-senior-principal-forward-deployed-engineer-26370) | SeniorSoftwareEngineeringExtensive | Remote | Aug 10, 2026 | Aug 10, 2026 02:11 UTC |
-| Atlassian | [Senior Principal Forward Deployed Engineer](https://www.scoutjob.me/jobs/atlassian-senior-principal-forward-deployed-engineer-26369) | SeniorSoftwareEngineeringExtensive | Remote | Aug 10, 2026 | Aug 10, 2026 02:11 UTC |
-| Atlassian | [Forward Deployed Engineer](https://www.scoutjob.me/jobs/atlassian-forward-deployed-engineer-26368) | SoftwareEngineeringExtensive | Remote | Aug 10, 2026 | Aug 10, 2026 02:11 UTC |
-| Atlassian | [Forward Deployed Engineer](https://www.scoutjob.me/jobs/atlassian-forward-deployed-engineer-26367) | SoftwareEngineeringExtensive | Remote | Aug 10, 2026 | Aug 10, 2026 02:11 UTC |
-| AMD | [AI kernel Development Engineer](https://www.scoutjob.me/jobs/amd-ai-kernel-development-engineer-89630) | SoftwareEngineeringExtensive | China | Aug 10, 2026 | Aug 10, 2026 02:00 UTC |
-| JPMorgan Chase | [Software Engineer III: Frontend Developer](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-frontend-developer-210771108) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 01:33 UTC |
-| CVS Health | [Lead Engineer](https://www.scoutjob.me/jobs/cvs-lead-engineer-r0998972) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 01:25 UTC |
-| GitHub | [Software Engineer III](https://www.scoutjob.me/jobs/github-software-engineer-iii-5679) | SeniorSoftwareEngineering | Remote | Aug 10, 2026 | Aug 10, 2026 00:57 UTC |
-| JPMorgan Chase | [Sr. Lead Software Engineer - Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-data-engineer-210777763) | SeniorDataAiMl | United States | Aug 10, 2026 | Aug 10, 2026 00:10 UTC |
-| JPMorgan Chase | [Senior Lead Cybersecurity Architect](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-cybersecurity-architect-210772669) | SeniorSoftwareEngineeringExtensive | United States | Aug 09, 2026 | Aug 09, 2026 21:22 UTC |
-| JPMorgan Chase | [Lead Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-data-engineer-210768357) | SeniorDataAiMl | United States | Aug 09, 2026 | Aug 09, 2026 20:05 UTC |
-| JPMorgan Chase | [Security Engineer II -SAAS](https://www.scoutjob.me/jobs/jpmorgan-security-engineer-ii-saas-210762317) | SoftwareEngineeringExtensive | United States | Aug 09, 2026 | Aug 09, 2026 20:05 UTC |
