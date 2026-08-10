@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer - Java Full Stack](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-full-stack-210765571) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 09:52 UTC |
+| PayPal | [Senior Data Engineer](https://www.scoutjob.me/jobs/paypal-senior-data-engineer-274920745146) | SeniorDataAiMl | Japan | Aug 10, 2026 | Aug 10, 2026 09:38 UTC |
+| PayPal | [Senior Data Engineer](https://www.scoutjob.me/jobs/paypal-senior-data-engineer-274920759691) | SeniorDataAiMl | Japan | Aug 10, 2026 | Aug 10, 2026 09:38 UTC |
+| American Express | [Campus - Alternance - Business Analyst - Anglais Courant - (1an, France)](https://www.scoutjob.me/jobs/americanexpress-campus-alternance-business-analyst-anglais-courant-1an-france-26011562) | Analyst | France | Aug 10, 2026 | Aug 10, 2026 09:22 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Java Full Stack, Python and AI](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-full-stack-python-and-ai-210775174) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 08:11 UTC |
 | Anthropic | [Staff Software Engineer, Continuous Integration](https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-continuous-integration-5073998008) | SeniorSoftwareEngineering | United Kingdom | Aug 10, 2026 | Aug 10, 2026 08:08 UTC |
 | JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210759384) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 08:01 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-210773272) | SeniorSoftwareEngineering | India | Aug 10, 2026 | Aug 10, 2026 07:49 UTC |
