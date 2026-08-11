@@ -26,6 +26,15 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer 2, Amazon Kids, Amazon Kids](https://www.scoutjob.me/jobs/amazon-software-development-engineer-2-amazon-kids-amazon-kids-544bf5d6-caeb-4e87-8e85-2348e13f996b) | SoftwareEngineering | Canada | Aug 11, 2026 | Aug 11, 2026 05:53 UTC |
+| American Express | [Analyst-Risk Management](https://www.scoutjob.me/jobs/americanexpress-analyst-risk-management-26012384) | Analyst | India | Aug 11, 2026 | Aug 11, 2026 05:51 UTC |
+| American Express | [Senior Analyst-Data Science](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-data-science-26012423) | SeniorAnalyst | India | Aug 11, 2026 | Aug 11, 2026 05:40 UTC |
+| Apple | [DevOps Engineer](https://www.scoutjob.me/jobs/apple-devops-engineer-200676030) | SoftwareEngineeringExtensive | China | Aug 11, 2026 | Aug 11, 2026 05:31 UTC |
+| Apple | [Quality Engineer](https://www.scoutjob.me/jobs/apple-quality-engineer-200676278) | SoftwareEngineeringExtensive | China | Aug 11, 2026 | Aug 11, 2026 05:31 UTC |
+| AMD | [Systems Design Engineer](https://www.scoutjob.me/jobs/amd-systems-design-engineer-90160) | SoftwareEngineeringExtensive | Taiwan | Aug 11, 2026 | Aug 11, 2026 05:31 UTC |
+| Oracle | [Principal Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-principal-platform-software-engineer-341602) | SeniorSoftwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 05:23 UTC |
+| Apple | [Internship – Adhesive Materials Engineer](https://www.scoutjob.me/jobs/apple-internship-adhesive-materials-engineer-200677231) | SoftwareEngineeringIntern | China | Aug 11, 2026 | Aug 11, 2026 05:21 UTC |
+| American Express | [Cybersecurity Engineer II (Public Cloud Network Security/ AWS/ Palo Alto/ AI)](https://www.scoutjob.me/jobs/americanexpress-cybersecurity-engineer-ii-public-cloud-network-security-aws-palo-alto-ai-26009957) | SoftwareEngineeringExtensive | United States | Aug 11, 2026 | Aug 11, 2026 05:20 UTC |
 | ServiceNow | [Deployment Engineer (Armis)](https://www.scoutjob.me/jobs/servicenow-deployment-engineer-armis-jb0074450) | SoftwareEngineeringExtensive | India | Aug 11, 2026 | Aug 11, 2026 04:28 UTC |
 | Figma | [Manager, Software Engineering - Data Platform](https://www.scoutjob.me/jobs/figma-manager-software-engineering-data-platform-6135721004) | SeniorDataAiMl | United States | Aug 11, 2026 | Aug 11, 2026 04:26 UTC |
 | Microsoft | [Software Engineer - WSSI Team (Windows Silicon System Integration)](https://www.scoutjob.me/jobs/microsoft-software-engineer-wssi-team-windows-silicon-system-integration-1970393556957101) | SoftwareEngineering | Israel | Aug 11, 2026 | Aug 11, 2026 04:07 UTC |
@@ -92,12 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Anthropic | [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://www.scoutjob.me/jobs/anthropic-staff-site-reliability-engineer-safeguards-ml-infra-5230394008) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 00:32 UTC |
 | Cloudflare | [VoidZero Engineer](https://www.scoutjob.me/jobs/cloudflare-voidzero-engineer-8114069) | SoftwareEngineeringExtensive | Singapore | Aug 11, 2026 | Aug 11, 2026 00:31 UTC |
 | Amazon | [Software Dev Engineer, Amazon Leo](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-amazon-leo-e48b8ba6-806a-4d99-bf2e-b7d90f111234) | SoftwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 00:10 UTC |
-| Apple | [Systems Engineer - Input Systems](https://www.scoutjob.me/jobs/apple-systems-engineer-input-systems-200675575) | SoftwareEngineeringExtensive | United States | Aug 11, 2026 | Aug 11, 2026 00:10 UTC |
-| Apple | [System Software Engineer](https://www.scoutjob.me/jobs/apple-system-software-engineer-200676716) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 23:58 UTC |
-| AMD | [Staff Silicon Design Engineer](https://www.scoutjob.me/jobs/amd-staff-silicon-design-engineer-89400) | SeniorHardwareEngineering | Singapore | Aug 10, 2026 | Aug 10, 2026 23:57 UTC |
-| Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-342248) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 23:49 UTC |
-| Apple | [Build Engineer, Find My](https://www.scoutjob.me/jobs/apple-build-engineer-find-my-200677149) | SoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 23:36 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556952130) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 23:28 UTC |
-| Microsoft | [Software Engineer II - CoreAI](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-coreai-1970393556953081) | SoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 23:22 UTC |
-| Microsoft | [Sr. Software Engineer](https://www.scoutjob.me/jobs/microsoft-sr-software-engineer-1970393556958599) | SeniorSoftwareEngineering | United States | Aug 10, 2026 | Aug 10, 2026 23:22 UTC |
-| Microsoft | [Senior Validation Engineer](https://www.scoutjob.me/jobs/microsoft-senior-validation-engineer-1970393556958369) | SeniorSoftwareEngineeringExtensive | United States | Aug 10, 2026 | Aug 10, 2026 23:22 UTC |
