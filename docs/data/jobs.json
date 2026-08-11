@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-08-11T11:38:20.862300+00:00",
+  "generatedAtUtc": "2026-08-11T12:44:56.404343+00:00",
   "publicDelayMinutes": 60,
-  "total": 386,
+  "total": 387,
   "jobs": [
+    {
+      "id": "a3ef601f-c49b-46ca-a7c0-aefc691da592",
+      "company": "American Express",
+      "companySlug": "americanexpress",
+      "title": "Analyst – International Independent Compliance Testing (ICT) H/F",
+      "roleCategory": "Analyst",
+      "country": "France",
+      "location": "France",
+      "isRemote": false,
+      "isInternship": true,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-11T10:51:08.943509Z",
+      "lastVerifiedAtUtc": "2026-08-11T10:51:08.943509Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-international-independent-compliance-testing-ict-h-f-26012365",
+      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26012365"
+    },
     {
       "id": "b4a5231e-35fd-4719-8403-76469d6b5cb3",
       "company": "Workday",

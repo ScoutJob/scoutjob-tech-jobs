@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Analyst – International Independent Compliance Testing (ICT) H/F](https://www.scoutjob.me/jobs/americanexpress-analyst-international-independent-compliance-testing-ict-h-f-26012365) | Analyst | France | Aug 11, 2026 | Aug 11, 2026 10:51 UTC |
 | Workday | [Principal Functional Consultant, oCFO Architect (German Speaking)](https://www.scoutjob.me/jobs/workday-principal-functional-consultant-ocfo-architect-german-speaking-germany-berlin) | SeniorSoftwareEngineeringExtensive | Germany | Aug 11, 2026 | Aug 11, 2026 10:27 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer – Data Platforms](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-data-platforms-210778771) | SeniorSoftwareEngineering | United Kingdom | Aug 11, 2026 | Aug 11, 2026 10:23 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java, AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-aws-210768445) | SeniorSoftwareEngineering | India | Aug 11, 2026 | Aug 11, 2026 10:23 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior System Software Engineer, Deep Learning Accelerator](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-deep-learning-accelerator-893394093487) | SeniorDataAiMl | India | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
 | NVIDIA | [Solutions Architect, Ethernet Networking - NVIS](https://www.scoutjob.me/jobs/nvidia-solutions-architect-ethernet-networking-nvis-893396951499) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
 | NVIDIA | [Solutions Architect, AI and ML](https://www.scoutjob.me/jobs/nvidia-solutions-architect-ai-and-ml-893384063946) | SeniorSoftwareEngineeringExtensive | United States | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Solutions Architect, Industrial Robotics](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-industrial-robotics-893396950659) | SeniorDataAiMl | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
