@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Workday | [Principal Functional Consultant, oCFO Architect (German Speaking)](https://www.scoutjob.me/jobs/workday-principal-functional-consultant-ocfo-architect-german-speaking-germany-berlin) | SeniorSoftwareEngineeringExtensive | Germany | Aug 11, 2026 | Aug 11, 2026 10:27 UTC |
+| JPMorgan Chase | [Senior Lead Software Engineer – Data Platforms](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-data-platforms-210778771) | SeniorSoftwareEngineering | United Kingdom | Aug 11, 2026 | Aug 11, 2026 10:23 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Java, AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-aws-210768445) | SeniorSoftwareEngineering | India | Aug 11, 2026 | Aug 11, 2026 10:23 UTC |
+| Lyft | [Software Engineer, MapXP](https://www.scoutjob.me/jobs/lyft-software-engineer-mapxp-8695848002) | SoftwareEngineering | Canada | Aug 11, 2026 | Aug 11, 2026 10:20 UTC |
+| American Express | [Analyst-Compliance](https://www.scoutjob.me/jobs/americanexpress-analyst-compliance-26012489) | Analyst | India | Aug 11, 2026 | Aug 11, 2026 10:19 UTC |
+| AMD | [AI Software Development Eng.](https://www.scoutjob.me/jobs/amd-ai-software-development-eng-89393) | SoftwareEngineering | China | Aug 11, 2026 | Aug 11, 2026 09:58 UTC |
+| Cloudflare | [Forward Deployed Engineer, Professional Services](https://www.scoutjob.me/jobs/cloudflare-forward-deployed-engineer-professional-services-8043287) | SoftwareEngineeringExtensive | Portugal | Aug 11, 2026 | Aug 11, 2026 09:46 UTC |
 | JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210753774) | SoftwareEngineering | India | Aug 11, 2026 | Aug 11, 2026 09:35 UTC |
 | Apple | [Software Engineer — Triage Intelligence and Debug Engineering](https://www.scoutjob.me/jobs/apple-software-engineer-triage-intelligence-and-debug-engineering-200677256) | SoftwareEngineering | United Kingdom | Aug 11, 2026 | Aug 11, 2026 09:33 UTC |
 | JPMorgan Chase | [KDB Lead Software Engineer - Equities Prime Securities Lending Technology](https://www.scoutjob.me/jobs/jpmorgan-kdb-lead-software-engineer-equities-prime-securities-lending-technology-210779407) | SeniorSoftwareEngineering | Hong Kong | Aug 11, 2026 | Aug 11, 2026 09:23 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Solutions Architect, Ethernet Networking - NVIS](https://www.scoutjob.me/jobs/nvidia-solutions-architect-ethernet-networking-nvis-893396951499) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
 | NVIDIA | [Solutions Architect, AI and ML](https://www.scoutjob.me/jobs/nvidia-solutions-architect-ai-and-ml-893384063946) | SeniorSoftwareEngineeringExtensive | United States | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
 | NVIDIA | [Senior Solutions Architect, Industrial Robotics](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-industrial-robotics-893396950659) | SeniorDataAiMl | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Compiler Engineer Infrastructure](https://www.scoutjob.me/jobs/nvidia-senior-compiler-engineer-infrastructure-893396422336) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Deep Learning Software Engineer, Inference](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-software-engineer-inference-893396950854) | SeniorDataAiMl | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Solutions Architect, Industrial Robotics](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-industrial-robotics-893396950958) | SeniorDataAiMl | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Network Solution Architect](https://www.scoutjob.me/jobs/nvidia-senior-network-solution-architect-893396948107) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Network Solution Architect](https://www.scoutjob.me/jobs/nvidia-senior-network-solution-architect-893396948120) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Principal Engineer, Project Management - Chip Design](https://www.scoutjob.me/jobs/nvidia-principal-engineer-project-management-chip-design-893396824940) | SeniorHardwareEngineering | Israel | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
-| NVIDIA | [Senior Solutions Architect, Physical AI Cloud](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-physical-ai-cloud-893396950832) | SeniorSoftwareEngineeringExtensive | Remote | Aug 11, 2026 | Aug 11, 2026 02:02 UTC |
