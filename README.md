@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Senior Network Engineer - Optical](https://www.scoutjob.me/jobs/oracle-senior-network-engineer-optical-341016) | SeniorHardwareEngineering | United States | Aug 12, 2026 | Aug 12, 2026 04:25 UTC |
+| Amazon | [Software Development Engineer , Inventory Accounting](https://www.scoutjob.me/jobs/amazon-software-development-engineer-inventory-accounting-404a5af2-9791-478e-abbb-5710de75b053) | SoftwareEngineering | United States | Aug 12, 2026 | Aug 12, 2026 04:22 UTC |
+| AMD | [Senior Analog/Mixed-Signal Layout Engineer - SERDES](https://www.scoutjob.me/jobs/amd-senior-analog-mixed-signal-layout-engineer-serdes-90066) | SeniorHardwareEngineering | India | Aug 12, 2026 | Aug 12, 2026 03:58 UTC |
+| Intuit | [ML Engineer 2](https://www.scoutjob.me/jobs/intuit-ml-engineer-2-99094457712-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates) | DataAiMl | United States | Aug 12, 2026 | Aug 12, 2026 03:35 UTC |
+| Qualcomm | [Cloud System Architect, Senior Staff](https://www.scoutjob.me/jobs/qualcomm-cloud-system-architect-senior-staff-446720352857) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 12, 2026 | Aug 12, 2026 03:13 UTC |
+| Qualcomm | [Staff Software Engineer, Linux Device Driver & Host SW (San Diego OR Boulder)](https://www.scoutjob.me/jobs/qualcomm-staff-software-engineer-linux-device-driver-host-sw-san-diego-or-boulder-446719948774) | SeniorSoftwareEngineering | United States | Aug 12, 2026 | Aug 12, 2026 03:13 UTC |
 | Oracle | [Senior Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-core-infrastructure-engineering-342185) | SeniorSoftwareEngineeringExtensive | United States | Aug 12, 2026 | Aug 12, 2026 02:31 UTC |
 | Apple | [Manufacturing Quality Engineer - Battery](https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-battery-200676401) | SoftwareEngineeringExtensive | United States | Aug 12, 2026 | Aug 12, 2026 02:29 UTC |
 | Apple | [Manufacturing Quality Engineer (MQE) – Module Components](https://www.scoutjob.me/jobs/apple-manufacturing-quality-engineer-mqe-module-components-200674956) | SoftwareEngineeringExtensive | United States | Aug 12, 2026 | Aug 12, 2026 02:29 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Amazon Customer Service](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-customer-service-9360a907-564b-4834-acfb-8ecee4fc5ca7) | SoftwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 20:59 UTC |
 | American Express | [Analyst-Risk Management](https://www.scoutjob.me/jobs/americanexpress-analyst-risk-management-26012010) | Analyst | Mexico | Aug 11, 2026 | Aug 11, 2026 20:58 UTC |
 | Microsoft | [Digital Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-digital-cloud-solution-architect-1970393556960219) | SeniorSoftwareEngineeringExtensive | United States | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Senior Silicon CAD Engineer](https://www.scoutjob.me/jobs/microsoft-senior-silicon-cad-engineer-1970393556955712) | SeniorHardwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556957722) | SoftwareEngineering | Costa Rica | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Principal Data Scientist - CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-coreai-1970393556958700) | SeniorDataAiMl | United States | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556956326) | SeniorSoftwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Physical Design CAD Engineer](https://www.scoutjob.me/jobs/microsoft-physical-design-cad-engineer-1970393556952539) | HardwareEngineering | United States | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556958155) | SeniorSoftwareEngineering | India | Aug 11, 2026 | Aug 11, 2026 20:52 UTC |
