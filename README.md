@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III - Full Stack](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-full-stack-210779474) | SeniorSoftwareEngineering | India | Aug 12, 2026 | Aug 12, 2026 10:32 UTC |
+| JPMorgan Chase | [Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-210759644) | SeniorSoftwareEngineering | India | Aug 12, 2026 | Aug 12, 2026 10:32 UTC |
+| AMD | [Staff Post Silicon Validation Engineer](https://www.scoutjob.me/jobs/amd-staff-post-silicon-validation-engineer-89522) | SeniorHardwareEngineering | India | Aug 12, 2026 | Aug 12, 2026 10:30 UTC |
+| JPMorgan Chase | [Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210776707) | SeniorSoftwareEngineering | India | Aug 12, 2026 | Aug 12, 2026 10:21 UTC |
 | JPMorgan Chase | [Equity Research, Technology (Semiconductors / Tech Hardware), Associate /Vice President](https://www.scoutjob.me/jobs/jpmorgan-equity-research-technology-semiconductors-tech-hardware-associate-vice-president-210779958) | SeniorHardwareEngineering | Taiwan | Aug 12, 2026 | Aug 12, 2026 09:46 UTC |
 | JPMorgan Chase | [Infrastructure Engineer II](https://www.scoutjob.me/jobs/jpmorgan-infrastructure-engineer-ii-210777980) | SoftwareEngineeringExtensive | United States | Aug 12, 2026 | Aug 12, 2026 09:46 UTC |
 | Apple | [Site Reliability Engineer, Enterprise Technology Services](https://www.scoutjob.me/jobs/apple-site-reliability-engineer-enterprise-technology-services-200677561) | SoftwareEngineeringExtensive | Singapore | Aug 12, 2026 | Aug 12, 2026 09:31 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | ServiceNow | [Senior Advisory Executive Architect](https://www.scoutjob.me/jobs/servicenow-senior-advisory-executive-architect-jb0074690) | SeniorSoftwareEngineeringExtensive | Japan | Aug 12, 2026 | Aug 12, 2026 04:57 UTC |
 | Amazon | [Software Development Engineer, Amazon 1P Credito](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-1p-credito-22a1ed25-b6f8-43d9-9df7-5c476c1a005a) | SoftwareEngineering | Brazil | Aug 12, 2026 | Aug 12, 2026 04:55 UTC |
 | Amazon | [Software Development Engineer, Amazon 1P Credito](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-1p-credito-63727f8c-be14-4efd-ad87-c22d2e955ef9) | SoftwareEngineering | Brazil | Aug 12, 2026 | Aug 12, 2026 04:55 UTC |
-| Amazon | [Software Development Engineer, Amazon 1P Credito](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-1p-credito-aed40fb0-dfa3-4211-abca-a24cc81c739e) | SoftwareEngineering | Brazil | Aug 12, 2026 | Aug 12, 2026 04:55 UTC |
-| Amazon | [Software Development Engineer, Amazon 1P Credito](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-1p-credito-7223b57a-e8d2-4197-995f-ae18d3689f5f) | SoftwareEngineering | Brazil | Aug 12, 2026 | Aug 12, 2026 04:55 UTC |
-| Oracle | [Senior Network Engineer - Optical](https://www.scoutjob.me/jobs/oracle-senior-network-engineer-optical-341016) | SeniorHardwareEngineering | United States | Aug 12, 2026 | Aug 12, 2026 04:25 UTC |
-| Amazon | [Software Development Engineer , Inventory Accounting](https://www.scoutjob.me/jobs/amazon-software-development-engineer-inventory-accounting-404a5af2-9791-478e-abbb-5710de75b053) | SoftwareEngineering | United States | Aug 12, 2026 | Aug 12, 2026 04:22 UTC |
