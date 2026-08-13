@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Cybersecurity Architect](https://www.scoutjob.me/jobs/jpmorgan-lead-cybersecurity-architect-210774174) | SeniorSoftwareEngineeringExtensive | India | Aug 13, 2026 | Aug 13, 2026 10:19 UTC |
+| JPMorgan Chase | [Software Engineer II - Devops , Terraform , Kubernetes, Cloud , Python](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-devops-terraform-kubernetes-cloud-python-210772312) | SoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 10:19 UTC |
+| AMD | [Physical design Engineer](https://www.scoutjob.me/jobs/amd-physical-design-engineer-86811) | HardwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 10:16 UTC |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556960555) | SeniorSoftwareEngineering | United States | Aug 13, 2026 | Aug 13, 2026 10:13 UTC |
+| Apple | [Business Manager, High Potential Developer Engagement - Greater China](https://www.scoutjob.me/jobs/apple-business-manager-high-potential-developer-engagement-greater-china-200677789) | SeniorSoftwareEngineeringExtensive | China | Aug 13, 2026 | Aug 13, 2026 10:05 UTC |
+| AMD | [RTL Design Lead - IP Design](https://www.scoutjob.me/jobs/amd-rtl-design-lead-ip-design-86881) | SeniorHardwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 10:04 UTC |
+| AMD | [Lead verification Engineer - high speed protocol](https://www.scoutjob.me/jobs/amd-lead-verification-engineer-high-speed-protocol-72579) | SeniorHardwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 10:04 UTC |
 | Amazon | [Software Development Engineer II, FBA Capacity and Inventory Health Management](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-fba-capacity-and-inventory-health-management-91dc8277-5b5f-4133-a742-731aef27bccd) | SoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 09:54 UTC |
 | JPMorgan Chase | [Software Engineer III - Data Engineer - Java, Spark, Databricks](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-data-engineer-java-spark-databricks-210778613) | SeniorDataAiMl | India | Aug 13, 2026 | Aug 13, 2026 09:42 UTC |
 | JPMorgan Chase | [Software Engineer III - Python, PySpark, Databricks, Big Data](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-python-pyspark-databricks-big-data-210778800) | SeniorDataAiMl | India | Aug 13, 2026 | Aug 13, 2026 09:42 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Sr Automation & Intelligence Tools Engineer, SEAR](https://www.scoutjob.me/jobs/apple-sr-automation-intelligence-tools-engineer-sear-200676748) | SeniorSoftwareEngineeringExtensive | United States | Aug 13, 2026 | Aug 13, 2026 04:56 UTC |
 | Okta | [Staff Software Engineer](https://www.scoutjob.me/jobs/okta-staff-software-engineer-8081016) | SeniorSoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 04:45 UTC |
 | Rippling | [Staff Software Engineer (Backend FullStack) - App Components](https://www.scoutjob.me/jobs/rippling-staff-software-engineer-backend-fullstack-app-components-bed8b350-ec70-4ae5-a7f6-6ad1c5739048) | SeniorSoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 04:34 UTC |
-| Amazon | [Software Engineer, S3 Load Balancing](https://www.scoutjob.me/jobs/amazon-software-engineer-s3-load-balancing-18000a50-00da-4e3d-bdbf-4eaa0924e7fe) | SoftwareEngineering | Canada | Aug 13, 2026 | Aug 13, 2026 04:31 UTC |
-| Amazon | [Software Engineer, S3 Discovery](https://www.scoutjob.me/jobs/amazon-software-engineer-s3-discovery-34fff728-d219-4650-abcb-c2f9469adb6d) | SoftwareEngineering | Canada | Aug 13, 2026 | Aug 13, 2026 04:31 UTC |
-| AMD | [Staff Design Verification Engineer](https://www.scoutjob.me/jobs/amd-staff-design-verification-engineer-88888) | SeniorHardwareEngineering | Singapore | Aug 13, 2026 | Aug 13, 2026 04:08 UTC |
-| OpenAI | [Machine Learning Engineer, API Multicloud](https://www.scoutjob.me/jobs/openai-machine-learning-engineer-api-multicloud-5acf4854-1d42-40ca-bff8-4f6f04cdce68) | DataAiMl | United States | Aug 13, 2026 | Aug 13, 2026 03:34 UTC |
-| OpenAI | [Engineering Manager, Artifacts](https://www.scoutjob.me/jobs/openai-engineering-manager-artifacts-d9b730a4-ee24-4d18-bb46-d8111591c6d2) | EngineeringManagement | United States | Aug 13, 2026 | Aug 13, 2026 03:34 UTC |
-| Microsoft | [Software Engineer- II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556956961) | SoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 03:23 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556953587) | SoftwareEngineering | India | Aug 13, 2026 | Aug 13, 2026 03:23 UTC |
