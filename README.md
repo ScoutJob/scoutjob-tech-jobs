@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0991055) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Senior Data Scientist](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-r1006559) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Staff Application Security Engineer – AI & Agentic Systems](https://www.scoutjob.me/jobs/cvs-staff-application-security-engineer-ai-agentic-systems-r0979551) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r0992884) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r1002562) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0991044) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0997340) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0970884) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Staff Software Engineer (myPBM)](https://www.scoutjob.me/jobs/cvs-staff-software-engineer-mypbm-r0928236) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
+| CVS Health | [Staff Software Development Engineer](https://www.scoutjob.me/jobs/cvs-staff-software-development-engineer-r0982536) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
 | Oracle | [Principal Electrical Engineer - Server Hardware Validation](https://www.scoutjob.me/jobs/oracle-principal-electrical-engineer-server-hardware-validation-341837) | SeniorHardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 14:58 UTC |
 | Rippling | [Senior Engineering Manager, Documents Platform](https://www.scoutjob.me/jobs/rippling-senior-engineering-manager-documents-platform-6d6d606b-dac4-49e0-a44e-c632a129735f) | EngineeringManagement | United States | Aug 15, 2026 | Aug 15, 2026 10:07 UTC |
 | Microsoft | [Senior Construction Cost Analyst](https://www.scoutjob.me/jobs/microsoft-senior-construction-cost-analyst-1970393556943715) | SeniorAnalyst | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior EE - Systems Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-ee-systems-operations-engineer-1970393556962760) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
 | Microsoft | [Principal Software Engineer - AI Frameworks](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-frameworks-1970393556960420) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556958162) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Principle Data Engineer](https://www.scoutjob.me/jobs/microsoft-principle-data-engineer-1970393556958759) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556960465) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556962084) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556937438) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Member of Technical Staff, Microsoft Robotics (Hardware Systems)](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-microsoft-robotics-hardware-systems-1970393556971456) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556961692) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Data Scientist, Datacenter](https://www.scoutjob.me/jobs/microsoft-data-scientist-datacenter-1970393556940403) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Anthropic | [Pre-training Distributed Systems Tech Lead / Manager](https://www.scoutjob.me/jobs/anthropic-pre-training-distributed-systems-tech-lead-manager-5367417008) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:50 UTC |
-| Amazon | [Software Development Engineer, Ads Agentic Solutions](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-agentic-solutions-5af70d24-f3df-4e39-9307-82baa89c5c7a) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:41 UTC |
-| Amazon | [Software Development Engineer, Early Career - 2026](https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2026-69d72561-5469-4621-a5ca-ad83a9433f00) | SoftwareEngineering | Canada | Aug 15, 2026 | Aug 15, 2026 02:19 UTC |
