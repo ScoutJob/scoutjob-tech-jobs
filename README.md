@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, Amazon Security: ASCOT Engineering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-security-ascot-engineering-32b498e7-152b-42cb-9297-1050ee1290ba) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:25 UTC |
+| Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2018607externalenglobal) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:19 UTC |
 | CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0991055) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
 | CVS Health | [Senior Data Scientist](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-r1006559) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
 | CVS Health | [Staff Application Security Engineer – AI & Agentic Systems](https://www.scoutjob.me/jobs/cvs-staff-application-security-engineer-ai-agentic-systems-r0979551) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Contact Center Infrastructure Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-engineer-200678066) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
 | Microsoft | [Member of Technical Staff - Post Training](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-post-training-1970393556971465) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
 | Microsoft | [Senior EE - Systems Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-ee-systems-operations-engineer-1970393556962760) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Principal Software Engineer - AI Frameworks](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-frameworks-1970393556960420) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556958162) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
