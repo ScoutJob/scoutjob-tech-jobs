@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [ASICS Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-asics-engineer-staff-446717112057) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 15, 2026 | Aug 15, 2026 05:09 UTC |
+| Apple | [Quality Engineer, Retail Demo Experiences](https://www.scoutjob.me/jobs/apple-quality-engineer-retail-demo-experiences-200678110) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 04:24 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960468) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 04:05 UTC |
 | Apple | [Contact Center Infrastructure IVR Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-ivr-engineer-200678067) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
 | Apple | [Contact Center Infrastructure Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-engineer-200678066) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | ServiceNow | [Senior Software Engineering Manager \| Applied AI Engineering](https://www.scoutjob.me/jobs/servicenow-senior-software-engineering-manager-applied-ai-engineering-jb0074684) | EngineeringManagement | United States | Aug 14, 2026 | Aug 14, 2026 20:58 UTC |
 | Lyft | [Software Engineer, Fulfillment Core Services](https://www.scoutjob.me/jobs/lyft-software-engineer-fulfillment-core-services-8716222002) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:57 UTC |
 | Apple | [Software Development Engineer, PMO - Apple Ads](https://www.scoutjob.me/jobs/apple-software-development-engineer-pmo-apple-ads-200678212) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
-| Apple | [Systems Architect - Apple Pay](https://www.scoutjob.me/jobs/apple-systems-architect-apple-pay-200671413) | SeniorSoftwareEngineeringExtensive | United States | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
-| Airbnb | [Staff Software Engineer, Passport & Commerce (Backend)](https://www.scoutjob.me/jobs/airbnb-staff-software-engineer-passport-commerce-backend-8130817) | SeniorSoftwareEngineering | Remote | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
