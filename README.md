@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Principal Electrical Engineer - Server Hardware Validation](https://www.scoutjob.me/jobs/oracle-principal-electrical-engineer-server-hardware-validation-341837) | SeniorHardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 14:58 UTC |
 | Rippling | [Senior Engineering Manager, Documents Platform](https://www.scoutjob.me/jobs/rippling-senior-engineering-manager-documents-platform-6d6d606b-dac4-49e0-a44e-c632a129735f) | EngineeringManagement | United States | Aug 15, 2026 | Aug 15, 2026 10:07 UTC |
 | Microsoft | [Senior Construction Cost Analyst](https://www.scoutjob.me/jobs/microsoft-senior-construction-cost-analyst-1970393556943715) | SeniorAnalyst | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Cloud & AI Platforms Solution Engineering Manager - Software Development](https://www.scoutjob.me/jobs/microsoft-cloud-ai-platforms-solution-engineering-manager-software-development-1970393556961950) | EngineeringManagement | United Kingdom | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Anthropic | [Pre-training Distributed Systems Tech Lead / Manager](https://www.scoutjob.me/jobs/anthropic-pre-training-distributed-systems-tech-lead-manager-5367417008) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:50 UTC |
 | Amazon | [Software Development Engineer, Ads Agentic Solutions](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ads-agentic-solutions-5af70d24-f3df-4e39-9307-82baa89c5c7a) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:41 UTC |
 | Amazon | [Software Development Engineer, Early Career - 2026](https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2026-69d72561-5469-4621-a5ca-ad83a9433f00) | SoftwareEngineering | Canada | Aug 15, 2026 | Aug 15, 2026 02:19 UTC |
-| Microsoft | [Digital Solution Engineer](https://www.scoutjob.me/jobs/microsoft-digital-solution-engineer-1970393556962368) | SoftwareEngineeringExtensive | Malaysia | Aug 15, 2026 | Aug 15, 2026 02:11 UTC |
