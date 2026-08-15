@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Architect](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-architect-210777225) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 20:55 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Data Engineer and Applied AI](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-engineer-and-applied-ai-210774710) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 20:55 UTC |
+| ByteDance | [Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer](https://www.scoutjob.me/jobs/bytedance-software-engineer-intern-global-payment-infra-and-sre-2027-summer-7668315137242351925) | SoftwareEngineeringIntern | Canada | Aug 15, 2026 | Aug 15, 2026 20:40 UTC |
+| ByteDance | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.scoutjob.me/jobs/bytedance-multi-cloud-cdn-data-platform-engineer-graduate-cdn-platform-2027-start-7673630747427719429) | DataAiMlIntern | Canada | Aug 15, 2026 | Aug 15, 2026 20:40 UTC |
+| Anthropic | [Staff+ Software Engineer, Platform Ecosystem](https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-platform-ecosystem-5392335008) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 20:19 UTC |
 | Amazon | [Software Development Engineer, Amazon Security: ASCOT Engineering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-security-ascot-engineering-32b498e7-152b-42cb-9297-1050ee1290ba) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:25 UTC |
 | Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2018607externalenglobal) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:19 UTC |
 | CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0991055) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior AI Compiler Engineer, MLIR](https://www.scoutjob.me/jobs/nvidia-senior-ai-compiler-engineer-mlir-893396914461) | SeniorSoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
 | Qualcomm | [ASICS Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-asics-engineer-staff-446717112057) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 15, 2026 | Aug 15, 2026 05:09 UTC |
 | Apple | [Quality Engineer, Retail Demo Experiences](https://www.scoutjob.me/jobs/apple-quality-engineer-retail-demo-experiences-200678110) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 04:24 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960468) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 04:05 UTC |
-| Apple | [Contact Center Infrastructure IVR Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-ivr-engineer-200678067) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
-| Apple | [Contact Center Infrastructure Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-engineer-200678066) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
-| Microsoft | [Member of Technical Staff - Post Training](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-post-training-1970393556971465) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
-| Microsoft | [Senior EE - Systems Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-ee-systems-operations-engineer-1970393556962760) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
