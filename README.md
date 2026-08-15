@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960468) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 04:05 UTC |
+| Apple | [Contact Center Infrastructure IVR Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-ivr-engineer-200678067) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
+| Apple | [Contact Center Infrastructure Engineer](https://www.scoutjob.me/jobs/apple-contact-center-infrastructure-engineer-200678066) | SoftwareEngineeringExtensive | China | Aug 15, 2026 | Aug 15, 2026 04:02 UTC |
 | Microsoft | [Member of Technical Staff - Post Training](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-post-training-1970393556971465) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
 | Microsoft | [Senior EE - Systems Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-ee-systems-operations-engineer-1970393556962760) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
 | Microsoft | [Principal Software Engineer - AI Frameworks](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-frameworks-1970393556960420) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 02:59 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Software Development Engineer, PMO - Apple Ads](https://www.scoutjob.me/jobs/apple-software-development-engineer-pmo-apple-ads-200678212) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
 | Apple | [Systems Architect - Apple Pay](https://www.scoutjob.me/jobs/apple-systems-architect-apple-pay-200671413) | SeniorSoftwareEngineeringExtensive | United States | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
 | Airbnb | [Staff Software Engineer, Passport & Commerce (Backend)](https://www.scoutjob.me/jobs/airbnb-staff-software-engineer-passport-commerce-backend-8130817) | SeniorSoftwareEngineering | Remote | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
-| Atlassian | [Senior Machine Learning System Engineer](https://www.scoutjob.me/jobs/atlassian-senior-machine-learning-system-engineer-26660) | SeniorDataAiMl | Remote | Aug 14, 2026 | Aug 14, 2026 20:55 UTC |
-| Atlassian | [Machine Learning Platform Engineer](https://www.scoutjob.me/jobs/atlassian-machine-learning-platform-engineer-26659) | DataAiMl | Remote | Aug 14, 2026 | Aug 14, 2026 20:55 UTC |
-| OpenAI | [Applied AI Engineer, Digital Natives](https://www.scoutjob.me/jobs/openai-applied-ai-engineer-digital-natives-0ed5f6c7-3977-4da9-9961-202fe76de456) | DataAiMl | Brazil | Aug 14, 2026 | Aug 14, 2026 20:46 UTC |
