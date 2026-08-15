@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Analog System Electrical Engineer - iPhone](https://www.scoutjob.me/jobs/apple-analog-system-electrical-engineer-iphone-200678261) | HardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 06:47 UTC |
 | NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893396958684) | SeniorSoftwareEngineering | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
 | NVIDIA | [Senior Applied Research Scientist – GPU Native Numerical Algorithms](https://www.scoutjob.me/jobs/nvidia-senior-applied-research-scientist-gpu-native-numerical-algorithms-893396996169) | SeniorDataAiMl | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
 | Apple | [Worldwide Product Configuration Management (WPCM) Change Analyst](https://www.scoutjob.me/jobs/apple-worldwide-product-configuration-management-wpcm-change-analyst-200678143) | Analyst | United States | Aug 15, 2026 | Aug 15, 2026 06:07 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Lead Software Engineer - Full Stack (Java & React)](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-full-stack-java-react-210744288) | SeniorSoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 21:37 UTC |
 | Amazon | [Software Development Engineer II, Amazon](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-c9007683-0371-4ff6-a012-203c837a8394) | SoftwareEngineering | India | Aug 14, 2026 | Aug 14, 2026 21:34 UTC |
 | American Express | [Senior Analyst-Control Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-control-management-26012521) | SeniorAnalyst | United States | Aug 14, 2026 | Aug 14, 2026 21:33 UTC |
-| Snowflake | [Solution Engineer](https://www.scoutjob.me/jobs/snowflake-solution-engineer-sncous1889e40e63e14f13a512656c9fc5cf65externalenus81de2dde02554c9f8db5e22e5a96891e) | SoftwareEngineeringExtensive | United States | Aug 14, 2026 | Aug 14, 2026 21:31 UTC |
