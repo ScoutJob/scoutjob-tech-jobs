@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893396958684) | SeniorSoftwareEngineering | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
+| NVIDIA | [Senior Applied Research Scientist – GPU Native Numerical Algorithms](https://www.scoutjob.me/jobs/nvidia-senior-applied-research-scientist-gpu-native-numerical-algorithms-893396996169) | SeniorDataAiMl | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
+| Apple | [Worldwide Product Configuration Management (WPCM) Change Analyst](https://www.scoutjob.me/jobs/apple-worldwide-product-configuration-management-wpcm-change-analyst-200678143) | Analyst | United States | Aug 15, 2026 | Aug 15, 2026 06:07 UTC |
+| NVIDIA | [Compiler Engineer - AI Inference](https://www.scoutjob.me/jobs/nvidia-compiler-engineer-ai-inference-893397024287) | SoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
+| NVIDIA | [Senior AI Compiler Engineer, MLIR](https://www.scoutjob.me/jobs/nvidia-senior-ai-compiler-engineer-mlir-893396914461) | SeniorSoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
 | Qualcomm | [ASICS Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-asics-engineer-staff-446717112057) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 15, 2026 | Aug 15, 2026 05:09 UTC |
 | Apple | [Quality Engineer, Retail Demo Experiences](https://www.scoutjob.me/jobs/apple-quality-engineer-retail-demo-experiences-200678110) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 04:24 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960468) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 04:05 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer II, Amazon](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-c9007683-0371-4ff6-a012-203c837a8394) | SoftwareEngineering | India | Aug 14, 2026 | Aug 14, 2026 21:34 UTC |
 | American Express | [Senior Analyst-Control Management](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-control-management-26012521) | SeniorAnalyst | United States | Aug 14, 2026 | Aug 14, 2026 21:33 UTC |
 | Snowflake | [Solution Engineer](https://www.scoutjob.me/jobs/snowflake-solution-engineer-sncous1889e40e63e14f13a512656c9fc5cf65externalenus81de2dde02554c9f8db5e22e5a96891e) | SoftwareEngineeringExtensive | United States | Aug 14, 2026 | Aug 14, 2026 21:31 UTC |
-| Apple | [Senior Software Engineer, Apple Services Engineering](https://www.scoutjob.me/jobs/apple-senior-software-engineer-apple-services-engineering-200678225) | SeniorSoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 21:21 UTC |
-| Apple | [Software Quality Engineer, Sensing & Connectivity](https://www.scoutjob.me/jobs/apple-software-quality-engineer-sensing-connectivity-200678213) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 21:09 UTC |
-| ServiceNow | [Senior Software Engineering Manager \| Applied AI Engineering](https://www.scoutjob.me/jobs/servicenow-senior-software-engineering-manager-applied-ai-engineering-jb0074684) | EngineeringManagement | United States | Aug 14, 2026 | Aug 14, 2026 20:58 UTC |
-| Lyft | [Software Engineer, Fulfillment Core Services](https://www.scoutjob.me/jobs/lyft-software-engineer-fulfillment-core-services-8716222002) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:57 UTC |
-| Apple | [Software Development Engineer, PMO - Apple Ads](https://www.scoutjob.me/jobs/apple-software-development-engineer-pmo-apple-ads-200678212) | SoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:56 UTC |
