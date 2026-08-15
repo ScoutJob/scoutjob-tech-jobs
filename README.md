@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III-Java Full Stack](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-full-stack-210771851) | SeniorSoftwareEngineering | India | Aug 15, 2026 | Aug 15, 2026 21:44 UTC |
 | JPMorgan Chase | [Senior Lead Architect](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-architect-210777225) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 20:55 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Data Engineer and Applied AI](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-engineer-and-applied-ai-210774710) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 20:55 UTC |
 | ByteDance | [Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer](https://www.scoutjob.me/jobs/bytedance-software-engineer-intern-global-payment-infra-and-sre-2027-summer-7668315137242351925) | SoftwareEngineeringIntern | Canada | Aug 15, 2026 | Aug 15, 2026 20:40 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Compiler Engineer - AI Inference](https://www.scoutjob.me/jobs/nvidia-compiler-engineer-ai-inference-893397024287) | SoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
 | NVIDIA | [Senior AI Compiler Engineer, MLIR](https://www.scoutjob.me/jobs/nvidia-senior-ai-compiler-engineer-mlir-893396914461) | SeniorSoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
 | Qualcomm | [ASICS Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-asics-engineer-staff-446717112057) | SeniorSoftwareEngineeringExtensive | Taiwan | Aug 15, 2026 | Aug 15, 2026 05:09 UTC |
-| Apple | [Quality Engineer, Retail Demo Experiences](https://www.scoutjob.me/jobs/apple-quality-engineer-retail-demo-experiences-200678110) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 04:24 UTC |
