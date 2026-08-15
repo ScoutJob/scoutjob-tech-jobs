@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, Early Career - 2026](https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2026-69d72561-5469-4621-a5ca-ad83a9433f00) | SoftwareEngineering | Canada | Aug 15, 2026 | Aug 15, 2026 02:19 UTC |
+| Microsoft | [Digital Solution Engineer](https://www.scoutjob.me/jobs/microsoft-digital-solution-engineer-1970393556962368) | SoftwareEngineeringExtensive | Malaysia | Aug 15, 2026 | Aug 15, 2026 02:11 UTC |
+| Amazon | [Software Development Engineer, Agentic WorkSpaces](https://www.scoutjob.me/jobs/amazon-software-development-engineer-agentic-workspaces-5cbeeb81-6f6e-4441-91d2-2285d35b9ec0) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 01:57 UTC |
+| Amazon | [Software Development Engineer, AWS OpenSearch](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-opensearch-88ffe298-1dd0-4cff-87e9-c7f28fa7be9a) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 01:45 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556959678) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 01:07 UTC |
 | Apple | [Product RF Design Engineer](https://www.scoutjob.me/jobs/apple-product-rf-design-engineer-200678069) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 01:03 UTC |
 | ByteDance | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://www.scoutjob.me/jobs/bytedance-research-engineer-graduate-ai-infra-compute-2027-start-phd-7667304540048787765) | DataAiMlIntern | Canada | Aug 15, 2026 | Aug 15, 2026 01:00 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Sr Software Development Engineer, Perception, Fauna](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-perception-fauna-aedebda8-bf0f-40d0-b144-a02d50111334) | SeniorSoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 20:10 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer- AI/ML Platform](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-ai-ml-platform-210774862) | SeniorDataAiMl | United States | Aug 14, 2026 | Aug 14, 2026 20:01 UTC |
 | Amazon | [Software Development Engineer, Playback Team](https://www.scoutjob.me/jobs/amazon-software-development-engineer-playback-team-b79a4478-dd81-464c-bf97-47a247fb3c23) | SoftwareEngineering | United Kingdom | Aug 14, 2026 | Aug 14, 2026 20:00 UTC |
-| AMD | [DFT Engineer](https://www.scoutjob.me/jobs/amd-dft-engineer-88522) | HardwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 19:59 UTC |
-| AMD | [Lead Formal Verification Engineer](https://www.scoutjob.me/jobs/amd-lead-formal-verification-engineer-89930) | SeniorHardwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 19:59 UTC |
-| Atlassian | [Senior Engineering Manager – Incident Response](https://www.scoutjob.me/jobs/atlassian-senior-engineering-manager-incident-response-26656) | EngineeringManagement | Remote | Aug 14, 2026 | Aug 14, 2026 19:59 UTC |
-| Oracle | [Principal Systems Software Engineer - GPU Platform Systems](https://www.scoutjob.me/jobs/oracle-principal-systems-software-engineer-gpu-platform-systems-342727) | SeniorSoftwareEngineering | United States | Aug 14, 2026 | Aug 14, 2026 19:52 UTC |
