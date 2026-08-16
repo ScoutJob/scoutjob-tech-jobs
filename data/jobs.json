@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-16T03:40:45.056789+00:00",
+  "generatedAtUtc": "2026-08-16T04:27:52.539647+00:00",
   "publicDelayMinutes": 60,
-  "total": 453,
+  "total": 450,
   "jobs": [
     {
       "id": "eb3f5daf-c06c-492b-a64b-454a84956424",
@@ -7202,54 +7202,6 @@
       "lastVerifiedAtUtc": "2026-08-14T04:32:17.653489Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/roblox-senior-software-engineer-orchestration-8047831",
       "sourceUrl": "https://careers.roblox.com/jobs/8047831"
-    },
-    {
-      "id": "8c18d34a-6ba7-474f-91d0-f5c75bb63543",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Software Engineer II - Java",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:59:06.411145Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:59:06.411145Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-java-210752182",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210752182"
-    },
-    {
-      "id": "090de9ee-ec0b-49cc-87c1-c2560b80c49b",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Database Engineer - Ad",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:57:39.625298Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:57:39.625298Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-database-engineer-ad-200678050",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200678050/database-engineer-ad"
-    },
-    {
-      "id": "0bf26c9a-c51c-4edb-973b-9be7c977b935",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Software Development Engineer, Early Career - 2027, Device - Shenzhen",
-      "roleCategory": "SoftwareEngineering",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:41:12.070884Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:41:12.070884Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2027-device-shenzhen-6112c9f8-8e6d-42d3-93e2-7943ed568fab",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
     }
   ]
 }
