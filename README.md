@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [RTL Design(DDR)- Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-rtl-design-ddr-sr-engineer-446720363603) | SeniorHardwareEngineering | India | Aug 16, 2026 | Aug 16, 2026 16:04 UTC |
 | JPMorgan Chase | [Site Reliability Engineer III - Machine Learning](https://www.scoutjob.me/jobs/jpmorgan-site-reliability-engineer-iii-machine-learning-210777943) | SeniorDataAiMl | United States | Aug 16, 2026 | Aug 16, 2026 14:44 UTC |
 | Qualcomm | [RTL Design (DDR)-Sr Lead](https://www.scoutjob.me/jobs/qualcomm-rtl-design-ddr-sr-lead-446720363614) | SeniorHardwareEngineering | India | Aug 16, 2026 | Aug 16, 2026 14:08 UTC |
 | NVIDIA | [Data Science Student, Network Solutions Validation](https://www.scoutjob.me/jobs/nvidia-data-science-student-network-solutions-validation-893394241559) | DataAiMl | Israel | Aug 16, 2026 | Aug 16, 2026 14:07 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170864) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
 | Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170860) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
 | Adobe | [Senior Data Engineer](https://www.scoutjob.me/jobs/adobe-senior-data-engineer-r171024) | SeniorDataAiMl | India | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r171041) | SoftwareEngineering | Spain | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
