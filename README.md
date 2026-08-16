@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [RISCV Infra System IP Design -Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-riscv-infra-system-ip-design-sr-engineer-446720310183) | SeniorSoftwareEngineeringExtensive | India | Aug 16, 2026 | Aug 16, 2026 10:19 UTC |
 | Qualcomm | [RISCV Infra System IP Design-Engineer](https://www.scoutjob.me/jobs/qualcomm-riscv-infra-system-ip-design-engineer-446720310185) | SoftwareEngineeringExtensive | India | Aug 16, 2026 | Aug 16, 2026 09:47 UTC |
 | Cisco | [Solutions Engineer - Splunk](https://www.scoutjob.me/jobs/cisco-solutions-engineer-splunk-ciscisglobal2022353externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
 | Cisco | [Failure Analysis Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-failure-analysis-engineer-hybrid-ciscisglobal2022033externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Software Development Engineer](https://www.scoutjob.me/jobs/adobe-software-development-engineer-r170818) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
 | Apple | [Analog System Electrical Engineer - iPhone](https://www.scoutjob.me/jobs/apple-analog-system-electrical-engineer-iphone-200678261) | HardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 06:47 UTC |
 | NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893396958684) | SeniorSoftwareEngineering | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
-| NVIDIA | [Senior Applied Research Scientist – GPU Native Numerical Algorithms](https://www.scoutjob.me/jobs/nvidia-senior-applied-research-scientist-gpu-native-numerical-algorithms-893396996169) | SeniorDataAiMl | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
