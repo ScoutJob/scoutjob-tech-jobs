@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-16T09:19:23.365949+00:00",
+  "generatedAtUtc": "2026-08-16T10:15:09.900961+00:00",
   "publicDelayMinutes": 60,
-  "total": 411,
+  "total": 410,
   "jobs": [
     {
       "id": "e39cf303-4124-4ae6-b26c-81bb1fa9724e",
@@ -6562,22 +6562,6 @@
       "lastVerifiedAtUtc": "2026-08-14T10:21:02.804735Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-kafka-streams-210778988",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210778988"
-    },
-    {
-      "id": "1ce4922c-07ef-4aeb-931a-7ec09850f1f8",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Software Development Engineer, Everyday Essentials Experiences",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T10:08:12.292107Z",
-      "lastVerifiedAtUtc": "2026-08-14T10:08:12.292107Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-everyday-essentials-experiences-a5c6be4d-3115-41eb-b3de-c04319336a4f",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10502106/software-development-engineer-everyday-essentials-experiences"
     }
   ]
 }
