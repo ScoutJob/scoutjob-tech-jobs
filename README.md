@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Solutions Engineer - Splunk](https://www.scoutjob.me/jobs/cisco-solutions-engineer-splunk-ciscisglobal2022353externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
+| Cisco | [Failure Analysis Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-failure-analysis-engineer-hybrid-ciscisglobal2022033externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
 | AMD | [Graduate Trainee - Product Development Engineer (Program Management)](https://www.scoutjob.me/jobs/amd-graduate-trainee-product-development-engineer-program-management-89071) | SoftwareEngineeringIntern | Malaysia | Aug 16, 2026 | Aug 16, 2026 04:46 UTC |
 | JPMorgan Chase | [Software Engineer III-Java Full Stack](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-full-stack-210771851) | SeniorSoftwareEngineering | India | Aug 15, 2026 | Aug 15, 2026 21:44 UTC |
 | JPMorgan Chase | [Senior Lead Architect](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-architect-210777225) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 20:55 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893396958684) | SeniorSoftwareEngineering | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
 | NVIDIA | [Senior Applied Research Scientist – GPU Native Numerical Algorithms](https://www.scoutjob.me/jobs/nvidia-senior-applied-research-scientist-gpu-native-numerical-algorithms-893396996169) | SeniorDataAiMl | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
 | Apple | [Worldwide Product Configuration Management (WPCM) Change Analyst](https://www.scoutjob.me/jobs/apple-worldwide-product-configuration-management-wpcm-change-analyst-200678143) | Analyst | United States | Aug 15, 2026 | Aug 15, 2026 06:07 UTC |
-| NVIDIA | [Compiler Engineer - AI Inference](https://www.scoutjob.me/jobs/nvidia-compiler-engineer-ai-inference-893397024287) | SoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
-| NVIDIA | [Senior AI Compiler Engineer, MLIR](https://www.scoutjob.me/jobs/nvidia-senior-ai-compiler-engineer-mlir-893396914461) | SeniorSoftwareEngineeringExtensive | Remote | Aug 15, 2026 | Aug 15, 2026 05:45 UTC |
