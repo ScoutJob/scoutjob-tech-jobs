@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [RISCV Infra System IP Design-Engineer](https://www.scoutjob.me/jobs/qualcomm-riscv-infra-system-ip-design-engineer-446720310185) | SoftwareEngineeringExtensive | India | Aug 16, 2026 | Aug 16, 2026 09:47 UTC |
 | Cisco | [Solutions Engineer - Splunk](https://www.scoutjob.me/jobs/cisco-solutions-engineer-splunk-ciscisglobal2022353externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
 | Cisco | [Failure Analysis Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-failure-analysis-engineer-hybrid-ciscisglobal2022033externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 16, 2026 | Aug 16, 2026 06:44 UTC |
 | AMD | [Graduate Trainee - Product Development Engineer (Program Management)](https://www.scoutjob.me/jobs/amd-graduate-trainee-product-development-engineer-program-management-89071) | SoftwareEngineeringIntern | Malaysia | Aug 16, 2026 | Aug 16, 2026 04:46 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Analog System Electrical Engineer - iPhone](https://www.scoutjob.me/jobs/apple-analog-system-electrical-engineer-iphone-200678261) | HardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 06:47 UTC |
 | NVIDIA | [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-c-and-cuda-analytics-and-data-intelligence-893396958684) | SeniorSoftwareEngineering | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
 | NVIDIA | [Senior Applied Research Scientist – GPU Native Numerical Algorithms](https://www.scoutjob.me/jobs/nvidia-senior-applied-research-scientist-gpu-native-numerical-algorithms-893396996169) | SeniorDataAiMl | Remote | Aug 15, 2026 | Aug 15, 2026 06:09 UTC |
-| Apple | [Worldwide Product Configuration Management (WPCM) Change Analyst](https://www.scoutjob.me/jobs/apple-worldwide-product-configuration-management-wpcm-change-analyst-200678143) | Analyst | United States | Aug 15, 2026 | Aug 15, 2026 06:07 UTC |
