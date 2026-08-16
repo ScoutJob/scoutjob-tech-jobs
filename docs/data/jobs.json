@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-16T00:50:46.995923+00:00",
+  "generatedAtUtc": "2026-08-16T02:17:07.831602+00:00",
   "publicDelayMinutes": 60,
-  "total": 461,
+  "total": 457,
   "jobs": [
     {
       "id": "eb3f5daf-c06c-492b-a64b-454a84956424",
@@ -7314,70 +7314,6 @@
       "lastVerifiedAtUtc": "2026-08-14T02:45:34.894341Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-staff-data-engineer-200673278",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200673278/staff-data-engineer"
-    },
-    {
-      "id": "915375cb-3efc-4af2-bd8b-56e4216c1230",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Executive Director Principal Software Engineer - Athena Platform",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T01:39:12.746421Z",
-      "lastVerifiedAtUtc": "2026-08-14T01:39:12.746421Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-executive-director-principal-software-engineer-athena-platform-210778237",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210778237"
-    },
-    {
-      "id": "00dbc8b0-e5d6-45c5-aa75-dbf576b3c01e",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Silicon Design Engineer 2 - Multi subsystem verification",
-      "roleCategory": "HardwareEngineering",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T01:36:11.670546Z",
-      "lastVerifiedAtUtc": "2026-08-14T01:36:11.670546Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-silicon-design-engineer-2-multi-subsystem-verification-89935",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/89935"
-    },
-    {
-      "id": "0956d611-e77b-4298-a521-09cd23c450a3",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Solutions Engineer-US Commercial, San Francisco",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T01:30:56.768302Z",
-      "lastVerifiedAtUtc": "2026-08-14T01:30:56.768302Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-solutions-engineer-us-commercial-san-francisco-ciscisglobal2021879externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Solutions-Engineer-US-Commercial--San-Francisco_2021879/apply"
-    },
-    {
-      "id": "f14fdef1-c6cd-4b5c-aeac-a655e1b76886",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineer",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T00:58:07.867531Z",
-      "lastVerifiedAtUtc": "2026-08-14T00:58:07.867531Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2016826externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer_2016826-1/apply"
     }
   ]
 }
