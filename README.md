@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ByteDance | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://www.scoutjob.me/jobs/bytedance-visual-generation-multimodal-evaluation-machine-learning-engineer-graduate-aml-ark-us-2027-7671102043532462389) | DataAiMlIntern | China | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
+| ByteDance | [Research Intern (ByteBrain-AIOps) - 2027 Start (PhD)](https://www.scoutjob.me/jobs/bytedance-research-intern-bytebrain-aiops-2027-start-phd-7667380188619131189) | DataAiMlIntern | Canada | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
+| ByteDance | [Payroll Analyst - APAC](https://www.scoutjob.me/jobs/bytedance-payroll-analyst-apac-7654059683778808117) | Analyst | Canada | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
+| TikTok | [Big Data Engineer Intern (TikTok Live Recommendation Architecture) - 2027 Start](https://www.scoutjob.me/jobs/tiktok-big-data-engineer-intern-tiktok-live-recommendation-architecture-2027-start-7667917497487657269) | DataAiMlIntern | Canada | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
+| JPMorgan Chase | [Lead Software Engineer- Full Stack Java/ React](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-full-stack-java-react-210769130) | SeniorSoftwareEngineering | United States | Aug 16, 2026 | Aug 16, 2026 19:37 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Fullstack Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-fullstack-java-210773573) | SeniorSoftwareEngineering | United States | Aug 16, 2026 | Aug 16, 2026 19:37 UTC |
+| JPMorgan Chase | [Sr Lead Software Engineer - Java Fullstack/ AI](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-java-fullstack-ai-210777349) | SeniorSoftwareEngineering | United States | Aug 16, 2026 | Aug 16, 2026 19:15 UTC |
 | Qualcomm | [RTL Design(DDR)- Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-rtl-design-ddr-sr-engineer-446720363603) | SeniorHardwareEngineering | India | Aug 16, 2026 | Aug 16, 2026 16:04 UTC |
 | JPMorgan Chase | [Site Reliability Engineer III - Machine Learning](https://www.scoutjob.me/jobs/jpmorgan-site-reliability-engineer-iii-machine-learning-210777943) | SeniorDataAiMl | United States | Aug 16, 2026 | Aug 16, 2026 14:44 UTC |
 | Qualcomm | [RTL Design (DDR)-Sr Lead](https://www.scoutjob.me/jobs/qualcomm-rtl-design-ddr-sr-lead-446720363614) | SeniorHardwareEngineering | India | Aug 16, 2026 | Aug 16, 2026 14:08 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Adobe | [Applied Scientist 5.5](https://www.scoutjob.me/jobs/adobe-applied-scientist-5-5-r169437) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
 | Adobe | [Applied Scientist 5](https://www.scoutjob.me/jobs/adobe-applied-scientist-5-r171066) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
 | Adobe | [Principal Applied Scientist](https://www.scoutjob.me/jobs/adobe-principal-applied-scientist-r169520) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Applied Scientist](https://www.scoutjob.me/jobs/adobe-applied-scientist-r171218) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Senior Data Scientist, Firefly](https://www.scoutjob.me/jobs/adobe-senior-data-scientist-firefly-r170986) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Data Scientist](https://www.scoutjob.me/jobs/adobe-data-scientist-r170880) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Senior Machine Learning Engineer, AI Platform](https://www.scoutjob.me/jobs/adobe-senior-machine-learning-engineer-ai-platform-r166678) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170864) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Machine Learning Engineer](https://www.scoutjob.me/jobs/adobe-machine-learning-engineer-r170860) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Senior Data Engineer](https://www.scoutjob.me/jobs/adobe-senior-data-engineer-r171024) | SeniorDataAiMl | India | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
