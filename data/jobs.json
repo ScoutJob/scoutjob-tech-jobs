@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-16T02:17:07.831602+00:00",
+  "generatedAtUtc": "2026-08-16T03:40:45.056789+00:00",
   "publicDelayMinutes": 60,
-  "total": 457,
+  "total": 453,
   "jobs": [
     {
       "id": "eb3f5daf-c06c-492b-a64b-454a84956424",
@@ -7250,70 +7250,6 @@
       "lastVerifiedAtUtc": "2026-08-14T03:41:12.070884Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-early-career-2027-device-shenzhen-6112c9f8-8e6d-42d3-93e2-7943ed568fab",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10501875/software-development-engineer-early-career-2027-device-shenzhen"
-    },
-    {
-      "id": "e3bbc203-8a8d-4417-9343-cb996dfd5b5f",
-      "company": "Discord",
-      "companySlug": "discord",
-      "title": "QA/DevOps Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:40:32.887571Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:40:32.887571Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/discord-qa-devops-engineer-8703614002",
-      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8703614002"
-    },
-    {
-      "id": "fd28aa3a-6fc0-446d-af77-2399f3aea184",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Quality Engineer, Retail Interactive Technology",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:29:05.820045Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:29:05.820045Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-quality-engineer-retail-interactive-technology-200678046",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200678046/quality-engineer-retail-interactive-technology"
-    },
-    {
-      "id": "9117b0f5-bf9b-4352-9e9c-776a88ef5785",
-      "company": "AMD",
-      "companySlug": "amd",
-      "title": "Graduate Trainee - Product Development Engineer 1",
-      "roleCategory": "SoftwareEngineeringIntern",
-      "country": "Malaysia",
-      "location": "Malaysia",
-      "isRemote": false,
-      "isInternship": true,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T03:05:30.647539Z",
-      "lastVerifiedAtUtc": "2026-08-14T03:05:30.647539Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-graduate-trainee-product-development-engineer-1-89072",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/89072"
-    },
-    {
-      "id": "9b44234c-4a20-46c2-ae64-dc495fa5cc94",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Staff Data Engineer",
-      "roleCategory": "SeniorDataAiMl",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-14T02:45:34.894341Z",
-      "lastVerifiedAtUtc": "2026-08-14T02:45:34.894341Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-staff-data-engineer-200673278",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200673278/staff-data-engineer"
     }
   ]
 }
