@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://www.scoutjob.me/jobs/americanexpress-campus-graduate-masters-summer-internship-program-2027-software-engineer-enterprise-techno-26011987) | SoftwareEngineeringIntern | United States | Aug 17, 2026 | Aug 17, 2026 04:21 UTC |
+| American Express | [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://www.scoutjob.me/jobs/americanexpress-campus-graduate-masters-summer-internship-program-2027-software-engineer-enterprise-techno-26011082) | SoftwareEngineeringIntern | United States | Aug 17, 2026 | Aug 17, 2026 04:21 UTC |
+| AMD | [SerDes Verification Engineer](https://www.scoutjob.me/jobs/amd-serdes-verification-engineer-90360) | HardwareEngineering | Singapore | Aug 17, 2026 | Aug 17, 2026 04:11 UTC |
+| AMD | [SerDes Verification Engineer](https://www.scoutjob.me/jobs/amd-serdes-verification-engineer-90359) | HardwareEngineering | Singapore | Aug 17, 2026 | Aug 17, 2026 03:58 UTC |
+| AMD | [Silicon Design Verification Engineer](https://www.scoutjob.me/jobs/amd-silicon-design-verification-engineer-90430) | HardwareEngineering | Malaysia | Aug 17, 2026 | Aug 17, 2026 03:45 UTC |
 | American Express | [Compliance Analyst (AML)](https://www.scoutjob.me/jobs/americanexpress-compliance-analyst-aml-26012143) | Analyst | Thailand | Aug 17, 2026 | Aug 17, 2026 03:05 UTC |
 | AMD | [Principal Datacenter Platform Validation Lab Engineer](https://www.scoutjob.me/jobs/amd-principal-datacenter-platform-validation-lab-engineer-90404) | SeniorSoftwareEngineeringExtensive | Malaysia | Aug 17, 2026 | Aug 17, 2026 02:44 UTC |
 | JPMorgan Chase | [Client Data Analyst](https://www.scoutjob.me/jobs/jpmorgan-client-data-analyst-210773805) | DataAiMl | Malaysia | Aug 17, 2026 | Aug 17, 2026 02:36 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Cloud Solution Architect- AI Business Solutions-Copilot](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-ai-business-solutions-copilot-1970393556953463) | SeniorSoftwareEngineeringExtensive | Argentina | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Senior Applied Scientist - Ads Ranking & Retrieval](https://www.scoutjob.me/jobs/microsoft-senior-applied-scientist-ads-ranking-retrieval-1970393556958535) | SeniorDataAiMl | India | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Security Usage Analyst](https://www.scoutjob.me/jobs/microsoft-security-usage-analyst-1970393556958358) | Analyst | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Principal Applied Scientist - Ads Ranking & Retrieval](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-ads-ranking-retrieval-1970393556958587) | SeniorDataAiMl | India | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556958256) | SoftwareEngineering | Romania | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960972) | SoftwareEngineering | China | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Solution Engineer - Copilot](https://www.scoutjob.me/jobs/microsoft-solution-engineer-copilot-1970393556962540) | SoftwareEngineeringExtensive | Poland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556962456) | SeniorSoftwareEngineering | Ireland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
