@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III - Java AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-aws-210741962) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 08:18 UTC |
+| OpenAI | [Lead Thermal Simulation Engineer](https://www.scoutjob.me/jobs/openai-lead-thermal-simulation-engineer-cebd0a1e-2724-4beb-8ed0-d9c7934d1222) | SeniorHardwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 08:17 UTC |
+| TikTok | [Data Engineer Intern (Data Platform Global Live) 2027 Summer](https://www.scoutjob.me/jobs/tiktok-data-engineer-intern-data-platform-global-live-2027-summer-7674032146438162693) | DataAiMlIntern | United States | Aug 17, 2026 | Aug 17, 2026 08:14 UTC |
+| Anthropic | [Applied AI Architect, Industries](https://www.scoutjob.me/jobs/anthropic-applied-ai-architect-industries-5390778008) | SeniorSoftwareEngineeringExtensive | Germany | Aug 17, 2026 | Aug 17, 2026 07:42 UTC |
+| ServiceNow | [Principal Platform Architect](https://www.scoutjob.me/jobs/servicenow-principal-platform-architect-jb0074777) | SeniorSoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:34 UTC |
 | Apple | [Cellular RF Transmitter Systems Engineer (m/f/d)](https://www.scoutjob.me/jobs/apple-cellular-rf-transmitter-systems-engineer-m-f-d-200678117) | SoftwareEngineeringExtensive | Germany | Aug 17, 2026 | Aug 17, 2026 07:32 UTC |
 | Apple | [Cellular RF Transmitter Systems Engineer](https://www.scoutjob.me/jobs/apple-cellular-rf-transmitter-systems-engineer-200678118) | SoftwareEngineeringExtensive | Austria | Aug 17, 2026 | Aug 17, 2026 07:32 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Python and AI](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-python-and-ai-210778577) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 07:23 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Amazon Security: ASCOT Engineering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-security-ascot-engineering-32b498e7-152b-42cb-9297-1050ee1290ba) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:25 UTC |
 | Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2018607externalenglobal) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 18:19 UTC |
 | CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r0991055) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
-| CVS Health | [Senior Data Scientist](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-r1006559) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
-| CVS Health | [Staff Application Security Engineer – AI & Agentic Systems](https://www.scoutjob.me/jobs/cvs-staff-application-security-engineer-ai-agentic-systems-r0979551) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
-| CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r0992884) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
-| CVS Health | [Data Engineer](https://www.scoutjob.me/jobs/cvs-data-engineer-r1002562) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
-| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r0991044) | SoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 16:25 UTC |
