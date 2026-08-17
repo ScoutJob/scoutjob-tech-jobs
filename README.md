@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Compliance Analyst (AML)](https://www.scoutjob.me/jobs/americanexpress-compliance-analyst-aml-26012143) | Analyst | Thailand | Aug 17, 2026 | Aug 17, 2026 03:05 UTC |
+| AMD | [Principal Datacenter Platform Validation Lab Engineer](https://www.scoutjob.me/jobs/amd-principal-datacenter-platform-validation-lab-engineer-90404) | SeniorSoftwareEngineeringExtensive | Malaysia | Aug 17, 2026 | Aug 17, 2026 02:44 UTC |
 | JPMorgan Chase | [Client Data Analyst](https://www.scoutjob.me/jobs/jpmorgan-client-data-analyst-210773805) | DataAiMl | Malaysia | Aug 17, 2026 | Aug 17, 2026 02:36 UTC |
 | Apple | [GC Sales Finance PART Analyst](https://www.scoutjob.me/jobs/apple-gc-sales-finance-part-analyst-200675943) | Analyst | China | Aug 17, 2026 | Aug 17, 2026 02:21 UTC |
 | Apple | [Store Apps Engineering DevOPs Engineer](https://www.scoutjob.me/jobs/apple-store-apps-engineering-devops-engineer-200676247) | SoftwareEngineeringExtensive | China | Aug 17, 2026 | Aug 17, 2026 02:21 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556960972) | SoftwareEngineering | China | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Solution Engineer - Copilot](https://www.scoutjob.me/jobs/microsoft-solution-engineer-copilot-1970393556962540) | SoftwareEngineeringExtensive | Poland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556962456) | SeniorSoftwareEngineering | Ireland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556961703) | SoftwareEngineering | Ireland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Sr Cloud Solution Architect - Cloud & AI](https://www.scoutjob.me/jobs/microsoft-sr-cloud-solution-architect-cloud-ai-1970393556962306) | SeniorSoftwareEngineeringExtensive | Brazil | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
