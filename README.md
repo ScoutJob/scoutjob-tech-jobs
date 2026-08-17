@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Java Full Stack Software Engineer II - React / PostgreSQL](https://www.scoutjob.me/jobs/jpmorgan-java-full-stack-software-engineer-ii-react-postgresql-210780505) | SoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 14:13 UTC |
+| JPMorgan Chase | [Android Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-android-lead-software-engineer-210780246) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 14:03 UTC |
+| Okta | [IT Automation and AI Engineer](https://www.scoutjob.me/jobs/okta-it-automation-and-ai-engineer-8132173) | DataAiMl | India | Aug 17, 2026 | Aug 17, 2026 14:03 UTC |
+| American Express | [Data Engineer III](https://www.scoutjob.me/jobs/americanexpress-data-engineer-iii-26012714) | SeniorDataAiMl | India | Aug 17, 2026 | Aug 17, 2026 14:00 UTC |
+| JPMorgan Chase | [Lead Software Engineer Java AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-aws-210741302) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 13:52 UTC |
+| JPMorgan Chase | [Software Engineer III - Data Engineer/Applied AI (LLMs)](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-data-engineer-applied-ai-llms-210780856) | SeniorDataAiMl | United States | Aug 17, 2026 | Aug 17, 2026 13:52 UTC |
+| Apple | [Senior Software Engineer - iCloud Platform](https://www.scoutjob.me/jobs/apple-senior-software-engineer-icloud-platform-200678083) | SeniorSoftwareEngineering | United Kingdom | Aug 17, 2026 | Aug 17, 2026 13:50 UTC |
+| JPMorgan Chase | [Senior Data Engineer III](https://www.scoutjob.me/jobs/jpmorgan-senior-data-engineer-iii-210779446) | SeniorDataAiMl | United Kingdom | Aug 17, 2026 | Aug 17, 2026 13:42 UTC |
+| JPMorgan Chase | [Software Engineer III - SDET](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-sdet-210778546) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 13:42 UTC |
+| AMD | [Reliability Engineer](https://www.scoutjob.me/jobs/amd-reliability-engineer-89125) | SoftwareEngineeringExtensive | United States | Aug 17, 2026 | Aug 17, 2026 13:27 UTC |
 | JPMorgan Chase | [Software Engineer III-JAVA/Microservices Arch/AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-microservices-arch-aws-210775385) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 12:58 UTC |
 | JPMorgan Chase | [FullStack Java Software Engineer III - React/AWS](https://www.scoutjob.me/jobs/jpmorgan-fullstack-java-software-engineer-iii-react-aws-210774925) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 12:58 UTC |
 | JPMorgan Chase | [Software Engineer II - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-java-210773912) | SoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 12:58 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Software Engineer III- JPM Personal Investing- Mid Level](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-jpm-personal-investing-mid-level-210690639) | SeniorSoftwareEngineering | United Kingdom | Aug 17, 2026 | Aug 17, 2026 07:13 UTC |
 | Qualcomm | [Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-446720368605) | SeniorSoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:13 UTC |
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446720419743) | SoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:13 UTC |
-| Apple | [SRE Engineer](https://www.scoutjob.me/jobs/apple-sre-engineer-200677280) | SoftwareEngineeringExtensive | China | Aug 17, 2026 | Aug 17, 2026 07:11 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Java, Springboot, SQL](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-springboot-sql-210778163) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 07:02 UTC |
-| Qualcomm | [ADAS Software Engineer Staff](https://www.scoutjob.me/jobs/qualcomm-adas-software-engineer-staff-446719175575) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Qualcomm | [STA Engineer](https://www.scoutjob.me/jobs/qualcomm-sta-engineer-446720363110) | SoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Qualcomm | [Engineer/Senior Engineer- ML Libraries/ARM](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-engineer-ml-libraries-arm-446720181055) | SeniorSoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Qualcomm | [Experienced Engineer – Power, Performance Benchmarking and Competitive Analysis](https://www.scoutjob.me/jobs/qualcomm-experienced-engineer-power-performance-benchmarking-and-competitive-analysis-446720449147) | SoftwareEngineeringExtensive | China | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Qualcomm | [Product Security Engineer](https://www.scoutjob.me/jobs/qualcomm-product-security-engineer-446720449156) | SoftwareEngineeringExtensive | China | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Qualcomm | [Senior Lead Engineer - Linux Kernel Development](https://www.scoutjob.me/jobs/qualcomm-senior-lead-engineer-linux-kernel-development-446720449165) | SeniorSoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 07:01 UTC |
-| Cisco | [Software Engineering Technical Leader (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-remote-ciscisglobal2020990externalenglobal) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 06:54 UTC |
-| Cisco | [Finance Analyst](https://www.scoutjob.me/jobs/cisco-finance-analyst-ciscisglobal2020801externalenglobal) | Analyst | United States | Aug 17, 2026 | Aug 17, 2026 06:54 UTC |
