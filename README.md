@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Dev Engineer, Profit Intelligence](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-profit-intelligence-6f0421ef-339d-4889-ba57-5f946887b986) | SoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 00:53 UTC |
+| Amazon | [Software Development Engineer, Ordering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ordering-66e9af54-afff-4e40-abe3-6ad9a66e2eb7) | SoftwareEngineering | Canada | Aug 17, 2026 | Aug 17, 2026 00:53 UTC |
+| Qualcomm | [Engineer, Staff - Cambridge, UK](https://www.scoutjob.me/jobs/qualcomm-engineer-staff-cambridge-uk-446720412818) | SeniorSoftwareEngineeringExtensive | United Kingdom | Aug 17, 2026 | Aug 17, 2026 00:17 UTC |
+| Canva | [Staff Software Engineer - Video Performance - (Bay area only)](https://www.scoutjob.me/jobs/canva-staff-software-engineer-video-performance-bay-area-only-6000000001318025) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 00:04 UTC |
 | ByteDance | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://www.scoutjob.me/jobs/bytedance-visual-generation-multimodal-evaluation-machine-learning-engineer-graduate-aml-ark-us-2027-7671102043532462389) | DataAiMlIntern | China | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
 | ByteDance | [Research Intern (ByteBrain-AIOps) - 2027 Start (PhD)](https://www.scoutjob.me/jobs/bytedance-research-intern-bytebrain-aiops-2027-start-phd-7667380188619131189) | DataAiMlIntern | Canada | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
 | ByteDance | [Payroll Analyst - APAC](https://www.scoutjob.me/jobs/bytedance-payroll-analyst-apac-7654059683778808117) | Analyst | Canada | Aug 16, 2026 | Aug 16, 2026 19:54 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Intel | [Senior Middleware Software Development Engineer](https://www.scoutjob.me/jobs/intel-senior-middleware-software-development-engineer-jr0286296) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 07:44 UTC |
 | Walmart Global Tech | [(USA) Front End Coach](https://www.scoutjob.me/jobs/walmart-usa-front-end-coach-r-2609318) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 07:36 UTC |
 | Adobe | [Director, Engineering – Agentic Product](https://www.scoutjob.me/jobs/adobe-director-engineering-agentic-product-r170801) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Engineering Manager](https://www.scoutjob.me/jobs/adobe-engineering-manager-r170413) | EngineeringManagement | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Applied Scientist 5.5](https://www.scoutjob.me/jobs/adobe-applied-scientist-5-5-r169437) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Applied Scientist 5](https://www.scoutjob.me/jobs/adobe-applied-scientist-5-r171066) | DataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
-| Adobe | [Principal Applied Scientist](https://www.scoutjob.me/jobs/adobe-principal-applied-scientist-r169520) | SeniorDataAiMl | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
