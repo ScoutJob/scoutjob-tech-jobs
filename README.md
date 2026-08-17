@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Process Development Engineer (R&D)](https://www.scoutjob.me/jobs/apple-process-development-engineer-r-d-200623147) | SoftwareEngineeringExtensive | Singapore | Aug 17, 2026 | Aug 17, 2026 06:33 UTC |
+| JPMorgan Chase | [Software Engineer III – AWS, Java/Python, Kubernetes, CI/CD](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-aws-java-python-kubernetes-ci-cd-210776694) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 06:01 UTC |
+| Amazon | [Software Dev Engineer II, L5, AWS Web Toolkit, Platform Experience](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-l5-aws-web-toolkit-platform-experience-3efe9fbe-59d1-4cee-96eb-df7e5983ebd3) | SeniorSoftwareEngineering | United States | Aug 17, 2026 | Aug 17, 2026 05:49 UTC |
+| JPMorgan Chase | [Data Scientist Associate - Customer Analytics](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-associate-customer-analytics-210780571) | DataAiMl | India | Aug 17, 2026 | Aug 17, 2026 05:41 UTC |
 | JPMorgan Chase | [Software Engineer III - Java Full Stack with ReactJS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-full-stack-with-reactjs-210771025) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 05:19 UTC |
 | Amazon | [Data Center Engineering Operations , DCEO](https://www.scoutjob.me/jobs/amazon-data-center-engineering-operations-dceo-0f736513-d150-40ef-869e-6910ab0cb604) | SoftwareEngineeringExtensive | India | Aug 17, 2026 | Aug 17, 2026 05:17 UTC |
 | Okta | [Principal Software Engineer](https://www.scoutjob.me/jobs/okta-principal-software-engineer-8071508) | SeniorSoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 05:07 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556961694) | SoftwareEngineering | China | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556958009) | SoftwareEngineering | India | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Software Engineer Playready](https://www.scoutjob.me/jobs/microsoft-software-engineer-playready-1970393556958010) | SoftwareEngineering | India | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556961504) | SeniorSoftwareEngineering | India | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Senior Physical Design Engineer](https://www.scoutjob.me/jobs/microsoft-senior-physical-design-engineer-1970393556962581) | SeniorHardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Senior Software Engineer - ARM Platform Readiness & Intelligence](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-arm-platform-readiness-intelligence-1970393556960428) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Microsoft | [Senior Software Engineer, Ads](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-ads-1970393556960260) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
