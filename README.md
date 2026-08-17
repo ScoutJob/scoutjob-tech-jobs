@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Client Data Analyst](https://www.scoutjob.me/jobs/jpmorgan-client-data-analyst-210773805) | DataAiMl | Malaysia | Aug 17, 2026 | Aug 17, 2026 02:36 UTC |
+| Apple | [GC Sales Finance PART Analyst](https://www.scoutjob.me/jobs/apple-gc-sales-finance-part-analyst-200675943) | Analyst | China | Aug 17, 2026 | Aug 17, 2026 02:21 UTC |
+| Apple | [Store Apps Engineering DevOPs Engineer](https://www.scoutjob.me/jobs/apple-store-apps-engineering-devops-engineer-200676247) | SoftwareEngineeringExtensive | China | Aug 17, 2026 | Aug 17, 2026 02:21 UTC |
+| Amazon | [Software Dev Engineer II, UTR Tech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-utr-tech-3169ba63-9f3b-4c5b-860a-d43a6108d411) | SoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 02:10 UTC |
+| Amazon | [Software Dev Engineer II, UTR Tech, UTR Tech](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-utr-tech-utr-tech-873736bc-5608-4907-81cc-a99a54c4f9ae) | SoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 01:26 UTC |
 | Amazon | [Software Dev Engineer, Profit Intelligence](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-profit-intelligence-6f0421ef-339d-4889-ba57-5f946887b986) | SoftwareEngineering | India | Aug 17, 2026 | Aug 17, 2026 00:53 UTC |
 | Amazon | [Software Development Engineer, Ordering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ordering-66e9af54-afff-4e40-abe3-6ad9a66e2eb7) | SoftwareEngineering | Canada | Aug 17, 2026 | Aug 17, 2026 00:53 UTC |
 | Qualcomm | [Engineer, Staff - Cambridge, UK](https://www.scoutjob.me/jobs/qualcomm-engineer-staff-cambridge-uk-446720412818) | SeniorSoftwareEngineeringExtensive | United Kingdom | Aug 17, 2026 | Aug 17, 2026 00:17 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556962456) | SeniorSoftwareEngineering | Ireland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556961703) | SoftwareEngineering | Ireland | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
 | Microsoft | [Sr Cloud Solution Architect - Cloud & AI](https://www.scoutjob.me/jobs/microsoft-sr-cloud-solution-architect-cloud-ai-1970393556962306) | SeniorSoftwareEngineeringExtensive | Brazil | Aug 15, 2026 | Aug 15, 2026 09:19 UTC |
-| Intel | [Senior CPU RTL Design Engineer](https://www.scoutjob.me/jobs/intel-senior-cpu-rtl-design-engineer-jr0286459) | SeniorHardwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 07:44 UTC |
-| Intel | [Senior CPU Front End Methodology Engineer](https://www.scoutjob.me/jobs/intel-senior-cpu-front-end-methodology-engineer-jr0286460) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 07:44 UTC |
-| Intel | [Senior Middleware Software Development Engineer](https://www.scoutjob.me/jobs/intel-senior-middleware-software-development-engineer-jr0286296) | SeniorSoftwareEngineering | United States | Aug 15, 2026 | Aug 15, 2026 07:44 UTC |
-| Walmart Global Tech | [(USA) Front End Coach](https://www.scoutjob.me/jobs/walmart-usa-front-end-coach-r-2609318) | SoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 07:36 UTC |
-| Adobe | [Director, Engineering – Agentic Product](https://www.scoutjob.me/jobs/adobe-director-engineering-agentic-product-r170801) | SeniorSoftwareEngineeringExtensive | United States | Aug 15, 2026 | Aug 15, 2026 07:23 UTC |
