@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Duolingo | [Senior Engineering Manager, Product](https://www.scoutjob.me/jobs/duolingo-senior-engineering-manager-product-8725661002) | EngineeringManagement | United States | Aug 18, 2026 | Aug 18, 2026 12:29 UTC |
+| Duolingo | [Senior Engineering Manager, Product](https://www.scoutjob.me/jobs/duolingo-senior-engineering-manager-product-8725638002) | EngineeringManagement | United States | Aug 18, 2026 | Aug 18, 2026 12:29 UTC |
+| American Express | [TCPS Analyst](https://www.scoutjob.me/jobs/americanexpress-tcps-analyst-26012611) | Analyst | India | Aug 18, 2026 | Aug 18, 2026 11:35 UTC |
 | Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-343089) | SeniorSoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 11:28 UTC |
 | NVIDIA | [HPC Engineer](https://www.scoutjob.me/jobs/nvidia-hpc-engineer-893397075957) | DataAiMl | Remote | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
 | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://www.scoutjob.me/jobs/nvidia-software-engineering-intern-nccl-2026-893396914711) | SoftwareEngineeringIntern | China | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Wafer Process/ Product Engineer](https://www.scoutjob.me/jobs/amd-wafer-process-product-engineer-90581) | SoftwareEngineeringExtensive | Taiwan | Aug 18, 2026 | Aug 18, 2026 04:27 UTC |
 | GitHub | [Staff Software Engineer, CoPilot Agent Platform](https://www.scoutjob.me/jobs/github-staff-software-engineer-copilot-agent-platform-5708) | SeniorSoftwareEngineering | Remote | Aug 18, 2026 | Aug 18, 2026 04:17 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556971798) | SoftwareEngineering | Ireland | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Senior Cloud Network Engineer](https://www.scoutjob.me/jobs/microsoft-senior-cloud-network-engineer-1970393556962215) | SeniorSoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556959277) | SeniorSoftwareEngineering | India | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Principal Software Engineer - AI Infrastructure Engineering Systems](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-infrastructure-engineering-systems-1970393556962258) | SeniorSoftwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
