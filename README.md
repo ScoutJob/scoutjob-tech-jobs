@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-343089) | SeniorSoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 11:28 UTC |
+| NVIDIA | [HPC Engineer](https://www.scoutjob.me/jobs/nvidia-hpc-engineer-893397075957) | DataAiMl | Remote | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
+| NVIDIA | [Software Engineering Intern, NCCL - 2026](https://www.scoutjob.me/jobs/nvidia-software-engineering-intern-nccl-2026-893396914711) | SoftwareEngineeringIntern | China | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
+| NVIDIA | [Principal Engineer, Project Management - Chip Power](https://www.scoutjob.me/jobs/nvidia-principal-engineer-project-management-chip-power-893397077555) | SeniorHardwareEngineering | Israel | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
+| NVIDIA | [Cyber Security Analyst](https://www.scoutjob.me/jobs/nvidia-cyber-security-analyst-893397078429) | Analyst | India | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
+| NVIDIA | [Verification Engineer - New College Grad 2026](https://www.scoutjob.me/jobs/nvidia-verification-engineer-new-college-grad-2026-893396250446) | HardwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 10:54 UTC |
+| JPMorgan Chase | [Data Domain Architect Assoc](https://www.scoutjob.me/jobs/jpmorgan-data-domain-architect-assoc-210780946) | SeniorSoftwareEngineeringExtensive | India | Aug 18, 2026 | Aug 18, 2026 10:44 UTC |
+| JPMorgan Chase | [Software Engineer III – ServiceNow Developer](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-servicenow-developer-210779192) | SeniorSoftwareEngineering | India | Aug 18, 2026 | Aug 18, 2026 10:22 UTC |
 | Apple | [Store Apps Engineering DevOPs Engineer](https://www.scoutjob.me/jobs/apple-store-apps-engineering-devops-engineer-200677551) | SoftwareEngineeringExtensive | China | Aug 18, 2026 | Aug 18, 2026 10:09 UTC |
 | Apple | [Store Apps Engineering DevOPs Engineer](https://www.scoutjob.me/jobs/apple-store-apps-engineering-devops-engineer-200677530) | SoftwareEngineeringExtensive | China | Aug 18, 2026 | Aug 18, 2026 10:09 UTC |
 | American Express | [Senior Analyst-Data Science](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-data-science-26012527) | SeniorAnalyst | Singapore | Aug 18, 2026 | Aug 18, 2026 10:08 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Cloud Network Engineer](https://www.scoutjob.me/jobs/microsoft-senior-cloud-network-engineer-1970393556962215) | SeniorSoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556959277) | SeniorSoftwareEngineering | India | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
 | Microsoft | [Principal Software Engineer - AI Infrastructure Engineering Systems](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-infrastructure-engineering-systems-1970393556962258) | SeniorSoftwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Software Engineer Student Worker](https://www.scoutjob.me/jobs/microsoft-software-engineer-student-worker-1970393556971829) | SoftwareEngineering | Serbia | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [ROP-Software engineer II](https://www.scoutjob.me/jobs/microsoft-rop-software-engineer-ii-1970393556869811) | SoftwareEngineering | India | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556962633) | SeniorSoftwareEngineering | Czech Republic | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Principal Applied Scientist](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-1970393556962007) | SeniorDataAiMl | India | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Microsoft | [Member of Technical Staff - Software Engineer, Health AI](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-software-engineer-health-ai-1970393556971123) | SeniorSoftwareEngineering | United Kingdom | Aug 18, 2026 | Aug 18, 2026 04:09 UTC |
-| Apple | [Software Engineering Manager - eBusiness](https://www.scoutjob.me/jobs/apple-software-engineering-manager-ebusiness-200677888) | EngineeringManagement | China | Aug 18, 2026 | Aug 18, 2026 03:17 UTC |
-| Qualcomm | [CPU STA CAD Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-sta-cad-engineer-446720476815) | SoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 03:08 UTC |
-| Apple | [Technical Operation SRE Manager](https://www.scoutjob.me/jobs/apple-technical-operation-sre-manager-200677278) | SeniorSoftwareEngineeringExtensive | China | Aug 18, 2026 | Aug 18, 2026 03:06 UTC |
