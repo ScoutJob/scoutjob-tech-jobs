@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Dev Engineer II, Oracle Database@AWS](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-oracle-database-aws-252c77cd-2e1a-4169-929b-d1e33e4e606b) | SoftwareEngineering | Canada | Aug 19, 2026 | Aug 19, 2026 08:07 UTC |
+| AMD | [SMTS Silicon Design Engineer](https://www.scoutjob.me/jobs/amd-smts-silicon-design-engineer-89832) | HardwareEngineering | Taiwan | Aug 19, 2026 | Aug 19, 2026 08:06 UTC |
+| Apple | [Software Development Engineer, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-development-engineer-is-t-ai-data-platforms-200678354) | SoftwareEngineering | China | Aug 19, 2026 | Aug 19, 2026 07:56 UTC |
+| Canva | [Staff Frontend Engineer, Editing Performance - Design experience](https://www.scoutjob.me/jobs/canva-staff-frontend-engineer-editing-performance-design-experience-6000000001331173) | SeniorSoftwareEngineeringExtensive | Australia | Aug 19, 2026 | Aug 19, 2026 07:55 UTC |
+| Canva | [Staff Frontend Engineer - Photo Editing - Design experience](https://www.scoutjob.me/jobs/canva-staff-frontend-engineer-photo-editing-design-experience-6000000001331178) | SeniorSoftwareEngineeringExtensive | Australia | Aug 19, 2026 | Aug 19, 2026 07:55 UTC |
 | Amazon | [Software Development Engineer II , Cross Border Haul Team](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-cross-border-haul-team-d4cddd94-b6de-498d-8430-b80b035b95c3) | SoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 07:24 UTC |
 | AMD | [EDA Lead Software Development Engineer](https://www.scoutjob.me/jobs/amd-eda-lead-software-development-engineer-90803) | SeniorSoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 07:23 UTC |
 | Apple | [Language Engineer (Hindi)](https://www.scoutjob.me/jobs/apple-language-engineer-hindi-200678885) | SoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 07:13 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Solution Architect Manager](https://www.scoutjob.me/jobs/microsoft-solution-architect-manager-1970393556946160) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
 | Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556962660) | EngineeringManagement | Denmark | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
 | Microsoft | [Sourcing Engineer](https://www.scoutjob.me/jobs/microsoft-sourcing-engineer-1970393556972462) | SoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556972042) | EngineeringManagement | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Développeur(euse) logiciel senior / Senior Software Engineering](https://www.scoutjob.me/jobs/microsoft-d-veloppeur-euse-logiciel-senior-senior-software-engineering-1970393556863442) | SeniorSoftwareEngineering | Canada | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [FW Enablement Engineer](https://www.scoutjob.me/jobs/microsoft-fw-enablement-engineer-1970393556962098) | SoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Principal Software Engineer - AI Experiences, Microsoft Edge](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-experiences-microsoft-edge-1970393556971338) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556958701) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
