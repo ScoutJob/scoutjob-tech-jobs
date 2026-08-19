@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210781461) | SoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 09:57 UTC |
+| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210781982) | SoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 09:57 UTC |
+| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210774131) | SoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 09:57 UTC |
+| AMD | [Product Development Engineer](https://www.scoutjob.me/jobs/amd-product-development-engineer-91046) | SoftwareEngineeringExtensive | Taiwan | Aug 19, 2026 | Aug 19, 2026 09:44 UTC |
+| JPMorgan Chase | [Principal Software Engineer -Forward Deployment Engineer Reframe](https://www.scoutjob.me/jobs/jpmorgan-principal-software-engineer-forward-deployment-engineer-reframe-210780917) | SeniorSoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 09:36 UTC |
+| JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210774004) | SeniorSoftwareEngineering | United Kingdom | Aug 19, 2026 | Aug 19, 2026 09:36 UTC |
 | Qualcomm | [Engineer, Senior Staff cloud data platforms - Ramat Gan](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-staff-cloud-data-platforms-ramat-gan-446720462722) | SeniorSoftwareEngineeringExtensive | Israel | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
 | Qualcomm | [Flip Chip Bonding Process Engineer](https://www.scoutjob.me/jobs/qualcomm-flip-chip-bonding-process-engineer-446720513527) | HardwareEngineering | Singapore | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
 | Qualcomm | [Lead Engineer, Senior-PPAT](https://www.scoutjob.me/jobs/qualcomm-lead-engineer-senior-ppat-446720515252) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Software Engineer, DGX Cloud Production Engineering](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-production-engineering-893397104959) | SeniorSoftwareEngineering | Remote | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
 | NVIDIA | [Software Security Compiler Engineer](https://www.scoutjob.me/jobs/nvidia-software-security-compiler-engineer-893393728558) | SoftwareEngineering | Remote | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
 | NVIDIA | [Senior Solutions Architect, Agentic AI — Safety and Security](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-agentic-ai-safety-and-security-893397106477) | SeniorSoftwareEngineeringExtensive | Remote | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
-| NVIDIA | [CPU Design Methodology Engineer](https://www.scoutjob.me/jobs/nvidia-cpu-design-methodology-engineer-893397112870) | SoftwareEngineeringExtensive | Remote | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
-| NVIDIA | [Senior ASIC Verification Engineer - HSIO](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-hsio-893397112873) | SeniorHardwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
-| NVIDIA | [Principal Process Architect, Automotive Software](https://www.scoutjob.me/jobs/nvidia-principal-process-architect-automotive-software-893397112876) | SeniorSoftwareEngineering | Remote | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
-| Microsoft | [Data Engineer II](https://www.scoutjob.me/jobs/microsoft-data-engineer-ii-1970393556962716) | DataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-1970393556961637) | SeniorSoftwareEngineeringExtensive | Brazil | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Principal AI Architect - M365 IC3 Team (Intelligent Conversation and Communications Cloud)](https://www.scoutjob.me/jobs/microsoft-principal-ai-architect-m365-ic3-team-intelligent-conversation-and-communications-cloud-1970393556959677) | SeniorSoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
