@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Sr Director of Software Engineering Global AuthE](https://www.scoutjob.me/jobs/jpmorgan-sr-director-of-software-engineering-global-authe-210747726) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 12:20 UTC |
+| Microsoft | [AI Software Engineering Intern](https://www.scoutjob.me/jobs/microsoft-ai-software-engineering-intern-1970393556962891) | SoftwareEngineeringIntern | United States | Aug 19, 2026 | Aug 19, 2026 12:15 UTC |
+| JPMorgan Chase | [Infrastructure Engineer III AV/ Multimedia Engineer](https://www.scoutjob.me/jobs/jpmorgan-infrastructure-engineer-iii-av-multimedia-engineer-210782093) | SeniorSoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 11:58 UTC |
+| JPMorgan Chase | [Software Engineer II - Full Stack Developer](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-full-stack-developer-210778811) | SoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 11:58 UTC |
+| Anthropic | [[India] Solutions Architect, Applied AI](https://www.scoutjob.me/jobs/anthropic-india-solutions-architect-applied-ai-5390746008) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 11:44 UTC |
 | JPMorgan Chase | [Infrastructure Engineer III](https://www.scoutjob.me/jobs/jpmorgan-infrastructure-engineer-iii-210780903) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 11:14 UTC |
 | JPMorgan Chase | [Software Engineer III - Java, React & AI](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-react-ai-210781965) | SeniorSoftwareEngineering | United Kingdom | Aug 19, 2026 | Aug 19, 2026 11:14 UTC |
 | AMD | [Security Vulnerability Testing/Assessment Engineer](https://www.scoutjob.me/jobs/amd-security-vulnerability-testing-assessment-engineer-90709) | SoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 11:00 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Oracle HCM Functional Consultant with ORC Module (Infrastructure Engineer II)](https://www.scoutjob.me/jobs/jpmorgan-oracle-hcm-functional-consultant-with-orc-module-infrastructure-engineer-ii-210741402) | SoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 05:38 UTC |
 | Apple | [Platform Software Engineer, Audio Software Integration](https://www.scoutjob.me/jobs/apple-platform-software-engineer-audio-software-integration-200654008) | SoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 05:36 UTC |
 | AMD | [Physical Design Engineer](https://www.scoutjob.me/jobs/amd-physical-design-engineer-90056) | HardwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 05:34 UTC |
-| AMD | [Silicon Design Staff Engineer](https://www.scoutjob.me/jobs/amd-silicon-design-staff-engineer-90511) | SeniorHardwareEngineering | Malaysia | Aug 19, 2026 | Aug 19, 2026 05:34 UTC |
-| Atlassian | [Pricipal Data Scientist](https://www.scoutjob.me/jobs/atlassian-pricipal-data-scientist-26696) | DataAiMl | Remote | Aug 19, 2026 | Aug 19, 2026 05:34 UTC |
-| Anthropic | [Product Engineer, Applied AI](https://www.scoutjob.me/jobs/anthropic-product-engineer-applied-ai-5390799008) | SoftwareEngineeringExtensive | Japan | Aug 19, 2026 | Aug 19, 2026 05:24 UTC |
-| American Express | [Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan)](https://www.scoutjob.me/jobs/americanexpress-campus-internship-programme-insurance-marketing-product-analyst-intern-2026-milan-26012086) | Analyst | Italy | Aug 19, 2026 | Aug 19, 2026 05:24 UTC |
-| American Express | [Senior Analyst-Data Analytics](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-data-analytics-26012602) | SeniorAnalyst | India | Aug 19, 2026 | Aug 19, 2026 04:40 UTC |
