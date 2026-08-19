@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Software Engineer - Trading System](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-trading-system-210781396) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 02:40 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java, Blockchain](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-blockchain-210779937) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 02:16 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Trading Systems](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-trading-systems-210781402) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 02:16 UTC |
 | Apple | [Display Panel Design Engineer](https://www.scoutjob.me/jobs/apple-display-panel-design-engineer-200678848) | SoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 02:03 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Software Engineer (Data Solutions), IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-solutions-is-t-ai-data-platforms-200678654) | SoftwareEngineering | China | Aug 18, 2026 | Aug 18, 2026 21:01 UTC |
 | Amazon | [Software Engineer II, Athena Engine Front End](https://www.scoutjob.me/jobs/amazon-software-engineer-ii-athena-engine-front-end-07f703ca-f3c1-4629-af9d-f51acafd0e47) | SoftwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 21:00 UTC |
 | DoorDash | [Staff Machine Learning Scientist, Applied Causal Inference](https://www.scoutjob.me/jobs/doordash-staff-machine-learning-scientist-applied-causal-inference-8140067) | SeniorDataAiMl | United States | Aug 18, 2026 | Aug 18, 2026 21:00 UTC |
-| DoorDash | [Staff Machine Learning Engineer, Causal Inference](https://www.scoutjob.me/jobs/doordash-staff-machine-learning-engineer-causal-inference-8139942) | SeniorDataAiMl | United States | Aug 18, 2026 | Aug 18, 2026 21:00 UTC |
