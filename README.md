@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Engineer, Senior Staff cloud data platforms - Ramat Gan](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-staff-cloud-data-platforms-ramat-gan-446720462722) | SeniorSoftwareEngineeringExtensive | Israel | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
+| Qualcomm | [Flip Chip Bonding Process Engineer](https://www.scoutjob.me/jobs/qualcomm-flip-chip-bonding-process-engineer-446720513527) | HardwareEngineering | Singapore | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
+| Qualcomm | [Lead Engineer, Senior-PPAT](https://www.scoutjob.me/jobs/qualcomm-lead-engineer-senior-ppat-446720515252) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
+| Qualcomm | [Staff Engineer, AI Software Embedded Engineer - Hod Hasharon](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-ai-software-embedded-engineer-hod-hasharon-446720515863) | SeniorSoftwareEngineering | Israel | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
+| Qualcomm | [V2X Customer Engineer - Netanya](https://www.scoutjob.me/jobs/qualcomm-v2x-customer-engineer-netanya-446720516229) | SoftwareEngineeringExtensive | Israel | Aug 19, 2026 | Aug 19, 2026 09:14 UTC |
+| American Express | [Analyst - Data Governance & Management](https://www.scoutjob.me/jobs/americanexpress-analyst-data-governance-management-26012713) | Analyst | India | Aug 19, 2026 | Aug 19, 2026 09:11 UTC |
+| AMD | [Senior Field Application Engineer - HPC](https://www.scoutjob.me/jobs/amd-senior-field-application-engineer-hpc-90840) | SeniorDataAiMl | United Kingdom | Aug 19, 2026 | Aug 19, 2026 08:49 UTC |
+| AMD | [CPU Architecture and RTL Design](https://www.scoutjob.me/jobs/amd-cpu-architecture-and-rtl-design-89735) | HardwareEngineering | United Kingdom | Aug 19, 2026 | Aug 19, 2026 08:28 UTC |
 | Amazon | [Software Dev Engineer II, Oracle Database@AWS](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-oracle-database-aws-252c77cd-2e1a-4169-929b-d1e33e4e606b) | SoftwareEngineering | Canada | Aug 19, 2026 | Aug 19, 2026 08:07 UTC |
 | AMD | [SMTS Silicon Design Engineer](https://www.scoutjob.me/jobs/amd-smts-silicon-design-engineer-89832) | HardwareEngineering | Taiwan | Aug 19, 2026 | Aug 19, 2026 08:06 UTC |
 | Apple | [Software Development Engineer, IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-development-engineer-is-t-ai-data-platforms-200678354) | SoftwareEngineering | China | Aug 19, 2026 | Aug 19, 2026 07:56 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Data Engineer II](https://www.scoutjob.me/jobs/microsoft-data-engineer-ii-1970393556962716) | DataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
 | Microsoft | [Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-1970393556961637) | SeniorSoftwareEngineeringExtensive | Brazil | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
 | Microsoft | [Principal AI Architect - M365 IC3 Team (Intelligent Conversation and Communications Cloud)](https://www.scoutjob.me/jobs/microsoft-principal-ai-architect-m365-ic3-team-intelligent-conversation-and-communications-cloud-1970393556959677) | SeniorSoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556962699) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556649771) | SoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Principal Geotechnical Engineer](https://www.scoutjob.me/jobs/microsoft-principal-geotechnical-engineer-1970393556971193) | SeniorSoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Software Engineer - II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556971410) | SoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556971514) | SeniorSoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Solution Architect Manager](https://www.scoutjob.me/jobs/microsoft-solution-architect-manager-1970393556946160) | SeniorSoftwareEngineeringExtensive | India | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Principal Software Engineering Manager](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-1970393556962660) | EngineeringManagement | Denmark | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
-| Microsoft | [Sourcing Engineer](https://www.scoutjob.me/jobs/microsoft-sourcing-engineer-1970393556972462) | SoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 04:09 UTC |
