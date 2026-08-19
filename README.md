@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Anthropic | [Product Engineer, Applied AI](https://www.scoutjob.me/jobs/anthropic-product-engineer-applied-ai-5390799008) | SoftwareEngineeringExtensive | Japan | Aug 19, 2026 | Aug 19, 2026 05:24 UTC |
+| American Express | [Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan)](https://www.scoutjob.me/jobs/americanexpress-campus-internship-programme-insurance-marketing-product-analyst-intern-2026-milan-26012086) | Analyst | Italy | Aug 19, 2026 | Aug 19, 2026 05:24 UTC |
+| American Express | [Senior Analyst-Data Analytics](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-data-analytics-26012602) | SeniorAnalyst | India | Aug 19, 2026 | Aug 19, 2026 04:40 UTC |
+| Apple | [Senior Software Engineer, Apple Services Engineering](https://www.scoutjob.me/jobs/apple-senior-software-engineer-apple-services-engineering-200671429) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 04:30 UTC |
 | JPMorgan Chase | [Software Engineer III - Java AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-aws-210763461) | SeniorSoftwareEngineering | India | Aug 19, 2026 | Aug 19, 2026 04:21 UTC |
 | NVIDIA | [Senior Solution Architect, Generative AI - CSP](https://www.scoutjob.me/jobs/nvidia-senior-solution-architect-generative-ai-csp-893397105939) | SeniorDataAiMl | India | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
 | NVIDIA | [Senior Mask Design Engineer – Hardware](https://www.scoutjob.me/jobs/nvidia-senior-mask-design-engineer-hardware-893397111654) | SeniorHardwareEngineering | Taiwan | Aug 19, 2026 | Aug 19, 2026 04:20 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Software Engineer (Data Solutions), IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-software-engineer-data-solutions-is-t-ai-data-platforms-200678655) | SoftwareEngineering | China | Aug 18, 2026 | Aug 18, 2026 22:54 UTC |
 | Amazon | [Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Outbound/Flow, AFT Outbound Execution Teams](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-fulfillment-technologies-aft-outbound-flow-aft-outbou-df81d787-ddaa-4702-8efe-66801f11a83e) | SoftwareEngineering | Canada | Aug 18, 2026 | Aug 18, 2026 22:42 UTC |
 | Amazon | [Software Development Engineer II, Ordering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-ordering-5cf1bb52-622c-46a1-a4cd-d2dbf71c2a72) | SoftwareEngineering | Canada | Aug 18, 2026 | Aug 18, 2026 22:42 UTC |
-| Cloudflare | [Senior Manager, Solutions Architecture, AI & Developer Platform](https://www.scoutjob.me/jobs/cloudflare-senior-manager-solutions-architecture-ai-developer-platform-8113115) | SeniorSoftwareEngineeringExtensive | United States | Aug 18, 2026 | Aug 18, 2026 22:41 UTC |
-| Cisco | [Data Science Engineer II (Full Time) - United States](https://www.scoutjob.me/jobs/cisco-data-science-engineer-ii-full-time-united-states-ciscisglobal2023062externalenglobal) | DataAiMl | United States | Aug 18, 2026 | Aug 18, 2026 22:37 UTC |
-| Cisco | [Software Engineer, CX Engineering](https://www.scoutjob.me/jobs/cisco-software-engineer-cx-engineering-ciscisglobal2021701externalenglobal) | SoftwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 22:37 UTC |
-| JPMorgan Chase | [Java Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-java-software-engineer-iii-210772978) | SeniorSoftwareEngineering | United States | Aug 18, 2026 | Aug 18, 2026 22:34 UTC |
