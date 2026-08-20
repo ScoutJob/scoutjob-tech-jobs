@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [React Lead Software Engineer — Application Owner](https://www.scoutjob.me/jobs/jpmorgan-react-lead-software-engineer-application-owner-210782269) | SeniorSoftwareEngineering | United Kingdom | Aug 20, 2026 | Aug 20, 2026 07:26 UTC |
+| JPMorgan Chase | [Snr. Lead Software Engineer - Data Platforms](https://www.scoutjob.me/jobs/jpmorgan-snr-lead-software-engineer-data-platforms-210781445) | SeniorSoftwareEngineering | United Kingdom | Aug 20, 2026 | Aug 20, 2026 07:26 UTC |
+| Cisco | [Business Architect (Hybrid)](https://www.scoutjob.me/jobs/cisco-business-architect-hybrid-ciscisglobal2020293externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Aug 20, 2026 | Aug 20, 2026 07:17 UTC |
+| American Express | [Software Engineer I](https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26012390) | SoftwareEngineering | India | Aug 20, 2026 | Aug 20, 2026 06:58 UTC |
+| American Express | [Analyst-Ops Risk Mgmt](https://www.scoutjob.me/jobs/americanexpress-analyst-ops-risk-mgmt-26012913) | Analyst | India | Aug 20, 2026 | Aug 20, 2026 06:34 UTC |
 | JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210761819) | SeniorSoftwareEngineering | India | Aug 20, 2026 | Aug 20, 2026 06:16 UTC |
 | American Express | [Associate -Technology Operations Engineering](https://www.scoutjob.me/jobs/americanexpress-associate-technology-operations-engineering-26012813) | SoftwareEngineeringExtensive | India | Aug 20, 2026 | Aug 20, 2026 06:02 UTC |
 | Qualcomm | [SerDes High Speed IP ATE Test Development & Characterization Engineer](https://www.scoutjob.me/jobs/qualcomm-serdes-high-speed-ip-ate-test-development-characterization-engineer-446720308650) | SoftwareEngineeringExtensive | Singapore | Aug 20, 2026 | Aug 20, 2026 05:54 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Roblox | [Senior Software Engineer, Core UI](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-core-ui-8036724) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 00:22 UTC |
 | Apple | [Sr. Software Engineer (Data Solutions), IS&T Ai & Data Platforms](https://www.scoutjob.me/jobs/apple-sr-software-engineer-data-solutions-is-t-ai-data-platforms-200677559) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 00:21 UTC |
 | Microsoft | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-principal-software-engineer-1970393556972074) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 00:17 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556972133) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 00:17 UTC |
-| xAI | [Human Data - Business Operations Analyst](https://www.scoutjob.me/jobs/xai-human-data-business-operations-analyst-5216863007) | Analyst | United States | Aug 20, 2026 | Aug 20, 2026 00:00 UTC |
-| ServiceNow | [Staff Machine Learning Engineer](https://www.scoutjob.me/jobs/servicenow-staff-machine-learning-engineer-jb0074818) | SeniorDataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 23:59 UTC |
-| ServiceNow | [Staff Software Engineer, Frontend/Fullstack - Moveworks](https://www.scoutjob.me/jobs/servicenow-staff-software-engineer-frontend-fullstack-moveworks-jb0073058) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 23:59 UTC |
-| ServiceNow | [Senior Research Engineer/Scientist](https://www.scoutjob.me/jobs/servicenow-senior-research-engineer-scientist-jb0074850) | SeniorDataAiMl | Canada | Aug 19, 2026 | Aug 19, 2026 23:59 UTC |
