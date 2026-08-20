@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Senior Backend Software Engineer, Emerging Technology Solutions](https://www.scoutjob.me/jobs/apple-senior-backend-software-engineer-emerging-technology-solutions-200679148) | SeniorSoftwareEngineering | Singapore | Aug 20, 2026 | Aug 20, 2026 09:04 UTC |
 | Amazon | [Data Center Engineering Operations Chief Engineer, DCEO](https://www.scoutjob.me/jobs/amazon-data-center-engineering-operations-chief-engineer-dceo-a2e54646-685f-4ab1-92f0-73d5ebafba26) | SoftwareEngineeringExtensive | Malaysia | Aug 20, 2026 | Aug 20, 2026 08:22 UTC |
 | AMD | [Software Development Engineer](https://www.scoutjob.me/jobs/amd-software-development-engineer-90446) | SoftwareEngineering | India | Aug 20, 2026 | Aug 20, 2026 08:21 UTC |
 | AMD | [Software Development Engineer](https://www.scoutjob.me/jobs/amd-software-development-engineer-90447) | SoftwareEngineering | India | Aug 20, 2026 | Aug 20, 2026 08:21 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Software Engineer III, AI Enablement](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-ai-enablement-210781351) | SeniorSoftwareEngineering | Singapore | Aug 20, 2026 | Aug 20, 2026 01:17 UTC |
 | ServiceNow | [Senior Machine Learning Engineer, GAI Search Relevance - Moveworks](https://www.scoutjob.me/jobs/servicenow-senior-machine-learning-engineer-gai-search-relevance-moveworks-jb0073056) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
 | ServiceNow | [Staff Machine Learning, GAI Search Relevance - Moveworks](https://www.scoutjob.me/jobs/servicenow-staff-machine-learning-gai-search-relevance-moveworks-jb0074597) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
-| ServiceNow | [Sr. Software Engineer, Fullstack - Moveworks](https://www.scoutjob.me/jobs/servicenow-sr-software-engineer-fullstack-moveworks-jb0074462) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
