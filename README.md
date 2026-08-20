@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Corporate Network Engineer - Associate](https://www.scoutjob.me/jobs/jpmorgan-corporate-network-engineer-associate-210782429) | SoftwareEngineeringExtensive | China | Aug 20, 2026 | Aug 20, 2026 02:36 UTC |
+| Microsoft | [Principal Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-1970393556962130) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 02:07 UTC |
+| Microsoft | [Principal Software Engineer - AI Experiences, Copilot](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-experiences-copilot-1970393556978114) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 02:07 UTC |
+| NVIDIA | [Deep Learning Compiler Engineer](https://www.scoutjob.me/jobs/nvidia-deep-learning-compiler-engineer-893396010462) | DataAiMl | Remote | Aug 20, 2026 | Aug 20, 2026 01:37 UTC |
+| Cisco | [Cloud Engineer](https://www.scoutjob.me/jobs/cisco-cloud-engineer-ciscisglobal2019819externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 20, 2026 | Aug 20, 2026 01:20 UTC |
+| JPMorgan Chase | [Software Engineer III, AI Enablement](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-ai-enablement-210781351) | SeniorSoftwareEngineering | Singapore | Aug 20, 2026 | Aug 20, 2026 01:17 UTC |
 | ServiceNow | [Senior Machine Learning Engineer, GAI Search Relevance - Moveworks](https://www.scoutjob.me/jobs/servicenow-senior-machine-learning-engineer-gai-search-relevance-moveworks-jb0073056) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
 | ServiceNow | [Staff Machine Learning, GAI Search Relevance - Moveworks](https://www.scoutjob.me/jobs/servicenow-staff-machine-learning-gai-search-relevance-moveworks-jb0074597) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
 | ServiceNow | [Sr. Software Engineer, Fullstack - Moveworks](https://www.scoutjob.me/jobs/servicenow-sr-software-engineer-fullstack-moveworks-jb0074462) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 01:06 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Lead Software Engineer - Python Quant Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-python-quant-data-engineer-210767620) | SeniorDataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 22:00 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Private Cloud](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-private-cloud-210775714) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 22:00 UTC |
 | Apple | [AIML - Sr Manager, Evaluation - Data Science & Insights](https://www.scoutjob.me/jobs/apple-aiml-sr-manager-evaluation-data-science-insights-200678963) | SeniorDataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 21:58 UTC |
-| Airbnb | [Senior Software Engineer, Payments Platform](https://www.scoutjob.me/jobs/airbnb-senior-software-engineer-payments-platform-8138002) | SeniorSoftwareEngineering | Remote | Aug 19, 2026 | Aug 19, 2026 21:58 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Full stack, Java, Spring boot, React, AWS](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-full-stack-java-spring-boot-react-aws-210714179) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 21:49 UTC |
-| JPMorgan Chase | [Software Engineer III (Full Stack)](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-full-stack-210782891) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 21:49 UTC |
-| Apple | [CPU Gate Level Synthesis Engineer](https://www.scoutjob.me/jobs/apple-cpu-gate-level-synthesis-engineer-200679065) | SoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 21:47 UTC |
-| Apple | [Debug Tools SoC Design Engineer](https://www.scoutjob.me/jobs/apple-debug-tools-soc-design-engineer-200679061) | HardwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 21:47 UTC |
-| AMD | [Principal Customer Debug Engineer](https://www.scoutjob.me/jobs/amd-principal-customer-debug-engineer-90962) | SeniorSoftwareEngineeringExtensive | United States | Aug 19, 2026 | Aug 19, 2026 21:30 UTC |
