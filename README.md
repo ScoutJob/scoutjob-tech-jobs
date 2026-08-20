@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Canva | [Engineering Director - Print](https://www.scoutjob.me/jobs/canva-engineering-director-print-6000000001333306) | EngineeringManagement | Australia | Aug 20, 2026 | Aug 20, 2026 03:28 UTC |
+| Cisco | [Data Science Analyst](https://www.scoutjob.me/jobs/cisco-data-science-analyst-ciscisglobal2023188externalenglobal) | Analyst | United States | Aug 20, 2026 | Aug 20, 2026 03:12 UTC |
+| Roblox | [Senior Software Engineer - Marketplace Foundation](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-marketplace-foundation-8142712) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 02:58 UTC |
+| Apple | [Java Backend Engineer](https://www.scoutjob.me/jobs/apple-java-backend-engineer-200677516) | SoftwareEngineeringExtensive | China | Aug 20, 2026 | Aug 20, 2026 02:45 UTC |
 | JPMorgan Chase | [Corporate Network Engineer - Associate](https://www.scoutjob.me/jobs/jpmorgan-corporate-network-engineer-associate-210782429) | SoftwareEngineeringExtensive | China | Aug 20, 2026 | Aug 20, 2026 02:36 UTC |
 | Microsoft | [Principal Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-data-scientist-1970393556962130) | SeniorDataAiMl | United States | Aug 20, 2026 | Aug 20, 2026 02:07 UTC |
 | Microsoft | [Principal Software Engineer - AI Experiences, Copilot](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-ai-experiences-copilot-1970393556978114) | SeniorSoftwareEngineering | United States | Aug 20, 2026 | Aug 20, 2026 02:07 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Personalization, Amazon Personalization](https://www.scoutjob.me/jobs/amazon-software-development-engineer-personalization-amazon-personalization-6812ec51-8ca3-4f62-b7e4-fb560677c361) | SoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 22:19 UTC |
 | Amazon | [Software Development Engineer, Personalization, Amazon Personalization](https://www.scoutjob.me/jobs/amazon-software-development-engineer-personalization-amazon-personalization-16df76d3-f540-441f-9c81-9523601449cd) | SoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 22:19 UTC |
 | Apple | [SDET - Apple Pay Quality Engineer](https://www.scoutjob.me/jobs/apple-sdet-apple-pay-quality-engineer-200678634) | SoftwareEngineeringExtensive | China | Aug 19, 2026 | Aug 19, 2026 22:08 UTC |
-| Apple | [Cloud Traffic Engineer](https://www.scoutjob.me/jobs/apple-cloud-traffic-engineer-200678631) | SoftwareEngineeringExtensive | China | Aug 19, 2026 | Aug 19, 2026 22:08 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Python Quant Data Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-python-quant-data-engineer-210767620) | SeniorDataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 22:00 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Private Cloud](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-private-cloud-210775714) | SeniorSoftwareEngineering | United States | Aug 19, 2026 | Aug 19, 2026 22:00 UTC |
-| Apple | [AIML - Sr Manager, Evaluation - Data Science & Insights](https://www.scoutjob.me/jobs/apple-aiml-sr-manager-evaluation-data-science-insights-200678963) | SeniorDataAiMl | United States | Aug 19, 2026 | Aug 19, 2026 21:58 UTC |
