@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556963032) | SoftwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 08:21 UTC |
+| Microsoft | [Copilot Solution Engineer (Enterprise)](https://www.scoutjob.me/jobs/microsoft-copilot-solution-engineer-enterprise-1970393556972854) | SoftwareEngineeringExtensive | Japan | Aug 21, 2026 | Aug 21, 2026 08:21 UTC |
+| JPMorgan Chase | [Software Engineer III – Data Engineering- Corporate Know Your Customer](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-data-engineering-corporate-know-your-customer-210778819) | SeniorSoftwareEngineering | United Kingdom | Aug 21, 2026 | Aug 21, 2026 08:20 UTC |
+| Apple | [Content Engineering Author, Developer Publications](https://www.scoutjob.me/jobs/apple-content-engineering-author-developer-publications-200679192) | SoftwareEngineeringExtensive | Switzerland | Aug 21, 2026 | Aug 21, 2026 08:19 UTC |
+| AMD | [Software SAP/ GTS Support Manager](https://www.scoutjob.me/jobs/amd-software-sap-gts-support-manager-90815) | SeniorSoftwareEngineering | Singapore | Aug 21, 2026 | Aug 21, 2026 08:07 UTC |
+| TikTok | [Data Engineer Intern (E-commerce) - 2027 Summer](https://www.scoutjob.me/jobs/tiktok-data-engineer-intern-e-commerce-2027-summer-7676250516494436661) | DataAiMlIntern | Canada | Aug 21, 2026 | Aug 21, 2026 07:44 UTC |
+| Okta | [Staff Software Engineer, Core Infrastructure](https://www.scoutjob.me/jobs/okta-staff-software-engineer-core-infrastructure-7273087) | SeniorSoftwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 07:37 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556972285) | SeniorSoftwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 07:29 UTC |
 | Microsoft | [Data&AI Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-data-ai-cloud-solution-architect-1970393556971805) | SeniorSoftwareEngineeringExtensive | Finland | Aug 21, 2026 | Aug 21, 2026 07:29 UTC |
 | Qualcomm | [FPGA Emulation Engineer, up to Staff](https://www.scoutjob.me/jobs/qualcomm-fpga-emulation-engineer-up-to-staff-446720496891) | SeniorHardwareEngineering | Taiwan | Aug 21, 2026 | Aug 21, 2026 07:17 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Verification Engineer, PCIE](https://www.scoutjob.me/jobs/nvidia-senior-verification-engineer-pcie-893397145196) | SeniorHardwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
 | NVIDIA | [Senior Staff Site Reliability Engineer](https://www.scoutjob.me/jobs/nvidia-senior-staff-site-reliability-engineer-893397145227) | SeniorSoftwareEngineeringExtensive | India | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
 | NVIDIA | [Site Reliability Engineer](https://www.scoutjob.me/jobs/nvidia-site-reliability-engineer-893397145238) | SoftwareEngineeringExtensive | India | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Senior ASIC Power Management Micro Architect, Chip Design](https://www.scoutjob.me/jobs/nvidia-senior-asic-power-management-micro-architect-chip-design-893397164923) | SeniorHardwareEngineering | Israel | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [IC Test Engineer](https://www.scoutjob.me/jobs/nvidia-ic-test-engineer-893397165033) | SoftwareEngineeringExtensive | Israel | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Chip Design Verification Engineer](https://www.scoutjob.me/jobs/nvidia-chip-design-verification-engineer-893397166939) | HardwareEngineering | Israel | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Verification Engineer - PCIE](https://www.scoutjob.me/jobs/nvidia-verification-engineer-pcie-893397145216) | HardwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Senior HPC AI Cluster Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hpc-ai-cluster-engineer-893397170102) | SeniorDataAiMl | Remote | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Senior Data Center Engineer](https://www.scoutjob.me/jobs/nvidia-senior-data-center-engineer-893397164022) | SeniorSoftwareEngineeringExtensive | Israel | Aug 21, 2026 | Aug 21, 2026 02:08 UTC |
-| NVIDIA | [Senior STA Signoff Methodology Engineer](https://www.scoutjob.me/jobs/nvidia-senior-sta-signoff-methodology-engineer-893397137415) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 02:08 UTC |
