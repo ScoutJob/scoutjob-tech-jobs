@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Director - Yield Architecture and Engineering](https://www.scoutjob.me/jobs/qualcomm-director-yield-architecture-and-engineering-446720560426) | SeniorSoftwareEngineeringExtensive | India | Aug 21, 2026 | Aug 21, 2026 09:47 UTC |
+| Cloudflare | [Senior Customer Engineer, South China](https://www.scoutjob.me/jobs/cloudflare-senior-customer-engineer-south-china-8146651) | SeniorSoftwareEngineeringExtensive | China | Aug 21, 2026 | Aug 21, 2026 09:44 UTC |
+| Amazon | [Military Data Centre Engineering Operations (DCEO), Amazon Web Services (AWS)](https://www.scoutjob.me/jobs/amazon-military-data-centre-engineering-operations-dceo-amazon-web-services-aws-08947dba-2159-4577-afc1-ceadfb254fa8) | SoftwareEngineeringExtensive | United Kingdom | Aug 21, 2026 | Aug 21, 2026 09:23 UTC |
 | Qualcomm | [SMMU Design Verification Engineer](https://www.scoutjob.me/jobs/qualcomm-smmu-design-verification-engineer-446720384410) | HardwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 09:15 UTC |
 | Spotify | [Senior Data Engineer - Data Platform](https://www.scoutjob.me/jobs/spotify-senior-data-engineer-data-platform-204f6cd7-98a3-4360-87e3-8876adf087da) | SeniorDataAiMl | United Kingdom | Aug 21, 2026 | Aug 21, 2026 09:04 UTC |
 | Amazon | [Software Dev Engineer II, Profit Intelligence](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-profit-intelligence-86cf3d3f-0baf-43fa-a416-0e95d5711bd1) | SoftwareEngineering | India | Aug 21, 2026 | Aug 21, 2026 09:02 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Software Engineer III, Post Trade Technology](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-post-trade-technology-210780905) | SeniorSoftwareEngineering | Singapore | Aug 21, 2026 | Aug 21, 2026 02:43 UTC |
 | Oracle | [Lead Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-core-infrastructure-engineer-343610) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 02:31 UTC |
 | Apple | [RF System Integration Engineer](https://www.scoutjob.me/jobs/apple-rf-system-integration-engineer-200555687) | SoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 02:18 UTC |
-| NVIDIA | [Software QA Developer Intern - 2027](https://www.scoutjob.me/jobs/nvidia-software-qa-developer-intern-2027-893397144986) | SoftwareEngineeringIntern | China | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Deep Learning Software Engineering Intern, Test Development - 2027](https://www.scoutjob.me/jobs/nvidia-deep-learning-software-engineering-intern-test-development-2027-893397145011) | DataAiMlIntern | China | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
-| NVIDIA | [Software Engineering Intern, CUDA Test Development - 2027](https://www.scoutjob.me/jobs/nvidia-software-engineering-intern-cuda-test-development-2027-893397145016) | SoftwareEngineeringIntern | China | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
