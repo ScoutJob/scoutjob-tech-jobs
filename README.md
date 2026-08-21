@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Deep Learning Engineer, Accuracy Evaluation](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-engineer-accuracy-evaluation-893396896658) | SeniorDataAiMl | Remote | Aug 21, 2026 | Aug 21, 2026 03:02 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Java/Microservices/React](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-microservices-react-210777175) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 02:43 UTC |
+| JPMorgan Chase | [Software Engineer III, Post Trade Technology](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-post-trade-technology-210780905) | SeniorSoftwareEngineering | Singapore | Aug 21, 2026 | Aug 21, 2026 02:43 UTC |
 | Oracle | [Lead Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-core-infrastructure-engineer-343610) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 02:31 UTC |
 | Apple | [RF System Integration Engineer](https://www.scoutjob.me/jobs/apple-rf-system-integration-engineer-200555687) | SoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 02:18 UTC |
 | NVIDIA | [Software QA Developer Intern - 2027](https://www.scoutjob.me/jobs/nvidia-software-qa-developer-intern-2027-893397144986) | SoftwareEngineeringIntern | China | Aug 21, 2026 | Aug 21, 2026 02:09 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [2027 PhD Research Engineering Intern/Co-op](https://www.scoutjob.me/jobs/amd-2027-phd-research-engineering-intern-co-op-90925) | SoftwareEngineeringIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
 | AMD | [2027 PhD Research Engineering Intern/Co-op](https://www.scoutjob.me/jobs/amd-2027-phd-research-engineering-intern-co-op-90926) | SoftwareEngineeringIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
 | AMD | [2027 Undergrad Software Engineer Intern/Co-op](https://www.scoutjob.me/jobs/amd-2027-undergrad-software-engineer-intern-co-op-90947) | SoftwareEngineeringIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
-| AMD | [2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://www.scoutjob.me/jobs/amd-2027-undergrad-machine-learning-ml-artificial-intelligence-ai-intern-co-op-91170) | DataAiMlIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
-| AMD | [2027 Undergrad Hardware Engineering intern/co-op](https://www.scoutjob.me/jobs/amd-2027-undergrad-hardware-engineering-intern-co-op-91173) | HardwareEngineeringIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
-| AMD | [2027 Undergrad Data Analyst Intern/co-op](https://www.scoutjob.me/jobs/amd-2027-undergrad-data-analyst-intern-co-op-91175) | DataAiMlIntern | United States | Aug 20, 2026 | Aug 20, 2026 23:33 UTC |
