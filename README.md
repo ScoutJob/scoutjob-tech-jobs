@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Software Engineering Technical Leader (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-remote-ciscisglobal2021120externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
+| Cisco | [Software Engineering Technical Leader (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-hybrid-ciscisglobal2019415externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
 | Qualcomm | [Data Engineer](https://www.scoutjob.me/jobs/qualcomm-data-engineer-446720669967) | DataAiMl | Taiwan | Aug 22, 2026 | Aug 22, 2026 09:14 UTC |
 | Qualcomm | [RFFE Testing Engineer](https://www.scoutjob.me/jobs/qualcomm-rffe-testing-engineer-446720669968) | SoftwareEngineeringExtensive | Taiwan | Aug 22, 2026 | Aug 22, 2026 09:14 UTC |
 | Walmart Global Tech | [Cashier / Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-cashier-front-end-checkout-team-associate-port-alberni-bc) | SoftwareEngineeringExtensive | Canada | Aug 22, 2026 | Aug 22, 2026 07:49 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Anthropic | [Accounting Analytics & BI Engineer](https://www.scoutjob.me/jobs/anthropic-accounting-analytics-bi-engineer-5357965008) | DataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:21 UTC |
 | American Express | [Manager, Data Science](https://www.scoutjob.me/jobs/americanexpress-manager-data-science-26012899) | SeniorDataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:09 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Back End/Full Stack/IAM](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-back-end-full-stack-iam-210771537) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 21:01 UTC |
-| ServiceNow | [Staff Machine Learning Engineer](https://www.scoutjob.me/jobs/servicenow-staff-machine-learning-engineer-jb0074821) | SeniorDataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:01 UTC |
-| Intuit | [Staff Software Engineer (Full Stack)](https://www.scoutjob.me/jobs/intuit-staff-software-engineer-full-stack-99466209280) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 21:00 UTC |
