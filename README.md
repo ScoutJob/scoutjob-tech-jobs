@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, US Amazon Dedicated Cloud Security](https://www.scoutjob.me/jobs/amazon-software-development-engineer-us-amazon-dedicated-cloud-security-50c4f91d-ce0c-4f40-b41a-467d14304ac1) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 16:05 UTC |
+| Amazon | [Software Development Engineer, Amazon Optics](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-optics-4f6ba01d-ab5c-4115-b71d-bd10e3080984) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 16:05 UTC |
+| NVIDIA | [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-security-engineer-infrastructure-security-engineering-dgx-cloud-893397071392) | SeniorSoftwareEngineeringExtensive | Remote | Aug 22, 2026 | Aug 22, 2026 15:22 UTC |
 | NVIDIA | [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-engineering-manager-infrastructure-security-engineering-dgx-cloud-893397075665) | EngineeringManagement | Remote | Aug 22, 2026 | Aug 22, 2026 14:29 UTC |
 | Cisco | [Software Engineering Technical Leader (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-remote-ciscisglobal2021120externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
 | Cisco | [Software Engineering Technical Leader (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-hybrid-ciscisglobal2019415externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Senior Staff DFT Engineer](https://www.scoutjob.me/jobs/amd-senior-staff-dft-engineer-90904) | SeniorHardwareEngineering | Canada | Aug 21, 2026 | Aug 21, 2026 21:32 UTC |
 | Microsoft | [Senior Service Engineer](https://www.scoutjob.me/jobs/microsoft-senior-service-engineer-1970393556978257) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 21:31 UTC |
 | Microsoft | [Principal Design Verification Engineer](https://www.scoutjob.me/jobs/microsoft-principal-design-verification-engineer-1970393556972064) | SeniorHardwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 21:31 UTC |
-| GitHub | [Software Engineer I, Secret Scanning](https://www.scoutjob.me/jobs/github-software-engineer-i-secret-scanning-5743) | SoftwareEngineering | Remote | Aug 21, 2026 | Aug 21, 2026 21:22 UTC |
-| Anthropic | [Accounting Analytics & BI Engineer](https://www.scoutjob.me/jobs/anthropic-accounting-analytics-bi-engineer-5357965008) | DataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:21 UTC |
-| American Express | [Manager, Data Science](https://www.scoutjob.me/jobs/americanexpress-manager-data-science-26012899) | SeniorDataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:09 UTC |
