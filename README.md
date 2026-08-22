@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Full Stack Software Engineer - Human Engineering](https://www.scoutjob.me/jobs/apple-full-stack-software-engineer-human-engineering-200679119) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 00:41 UTC |
+| Apple | [Hardware Systems Design & Integration Engineer - AirPods](https://www.scoutjob.me/jobs/apple-hardware-systems-design-integration-engineer-airpods-200679461) | HardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 00:19 UTC |
+| Amazon | [Software Development Engineer II, Network Device Lifecycle Management](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-network-device-lifecycle-management-825231cf-7668-416a-bf6b-77c72f1c5fcb) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 00:19 UTC |
+| NVIDIA | [Physical Design Power Optimization and Modeling Engineer](https://www.scoutjob.me/jobs/nvidia-physical-design-power-optimization-and-modeling-engineer-893397264353) | HardwareEngineering | Israel | Aug 22, 2026 | Aug 22, 2026 00:00 UTC |
+| Amazon | [Software Development Engineer, Amazon Autos](https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-autos-c29ac735-e5a4-46b8-86dd-368dea42acd3) | SoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 23:47 UTC |
 | Apple | [Human Factors Engineer / Researcher](https://www.scoutjob.me/jobs/apple-human-factors-engineer-researcher-200679293) | SoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 23:46 UTC |
 | Cloudflare | [Senior Oracle Fusion Engineer](https://www.scoutjob.me/jobs/cloudflare-senior-oracle-fusion-engineer-8143957) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 23:45 UTC |
 | JPMorgan Chase | [Senior Director of Software Engineering - Data and AI](https://www.scoutjob.me/jobs/jpmorgan-senior-director-of-software-engineering-data-and-ai-210782251) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 23:38 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Java & AWS Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-java-aws-software-engineer-iii-210767819) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 19:00 UTC |
 | Apple | [Software Engineer, Apple Services Engineering - Commerce](https://www.scoutjob.me/jobs/apple-software-engineer-apple-services-engineering-commerce-200673875) | SoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 18:59 UTC |
 | Qualcomm | [RISCV Infra System IP DV - Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-riscv-infra-system-ip-dv-sr-engineer-446720641743) | SeniorSoftwareEngineeringExtensive | India | Aug 21, 2026 | Aug 21, 2026 18:50 UTC |
-| Qualcomm | [#Embedded Software Engineer](https://www.scoutjob.me/jobs/qualcomm-embedded-software-engineer-446720498633) | SoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 18:50 UTC |
-| Qualcomm | [Automotive - Platform Software Sr. Staff Engineer](https://www.scoutjob.me/jobs/qualcomm-automotive-platform-software-sr-staff-engineer-446720541013) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 18:50 UTC |
-| AMD | [ML/AI Engineer](https://www.scoutjob.me/jobs/amd-ml-ai-engineer-90512) | DataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 18:47 UTC |
-| JPMorgan Chase | [Data Scientist Lead - Customer Analytics](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-lead-customer-analytics-210776598) | SeniorDataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 18:40 UTC |
-| JPMorgan Chase | [Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-lead-security-engineer-210783531) | SeniorSoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 18:40 UTC |
