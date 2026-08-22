@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [UX Designer - Xcode & AI Developer Tools](https://www.scoutjob.me/jobs/apple-ux-designer-xcode-ai-developer-tools-200679482) | SoftwareEngineeringExtensive | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
+| Apple | [Software Engineer, Accessibility](https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 04:17 UTC |
 | Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-c20bf6ac-3861-49cd-a51d-9a1e7d110ded) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:53 UTC |
 | Qualcomm | [WIFI PHY Senior Design Verification Engineer](https://www.scoutjob.me/jobs/qualcomm-wifi-phy-senior-design-verification-engineer-446720222340) | SeniorHardwareEngineering | India | Aug 22, 2026 | Aug 22, 2026 02:44 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, Ordering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ordering-e4c1456f-c34b-44ce-9071-cd6d84226f96) | SoftwareEngineering | Canada | Aug 21, 2026 | Aug 21, 2026 20:14 UTC |
 | American Express | [Sr Software Engineer II](https://www.scoutjob.me/jobs/americanexpress-sr-software-engineer-ii-26011764) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:14 UTC |
 | Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-336711) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:07 UTC |
-| OpenAI | [Data Center Physical Security Systems Engineer](https://www.scoutjob.me/jobs/openai-data-center-physical-security-systems-engineer-f69f75f5-439f-4044-8ae1-8fd810e0402d) | SoftwareEngineeringExtensive | Remote | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |
-| Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-77751762-12fd-416f-9622-53ede1bdf83d) | SeniorHardwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |

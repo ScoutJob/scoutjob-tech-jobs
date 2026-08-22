@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-08-22T06:25:22.441737+00:00",
+  "generatedAtUtc": "2026-08-22T07:24:47.163678+00:00",
   "publicDelayMinutes": 60,
-  "total": 617,
+  "total": 616,
   "jobs": [
+    {
+      "id": "3511c7a1-60f8-4147-97fe-b42a1b909211",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "UX Designer - Xcode & AI Developer Tools",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-22T05:43:48.603394Z",
+      "lastVerifiedAtUtc": "2026-08-22T05:43:48.603394Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ux-designer-xcode-ai-developer-tools-200679482",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200679482/ux-designer-xcode-ai-developer-tools"
+    },
+    {
+      "id": "49248487-8345-4385-bd7f-dbb605d6d0b8",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Software Engineer, Accessibility",
+      "roleCategory": "SoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-22T05:43:48.592772Z",
+      "lastVerifiedAtUtc": "2026-08-22T05:43:48.592772Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200679352/software-engineer-accessibility"
+    },
     {
       "id": "53c2d47c-93ed-4718-81a9-d81e79d815fe",
       "company": "Microsoft",
@@ -9826,54 +9858,6 @@
       "lastVerifiedAtUtc": "2026-08-20T07:26:39.987277Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-snr-lead-software-engineer-data-platforms-210781445",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210781445"
-    },
-    {
-      "id": "83afcdf5-a5ab-4df3-a2ab-2511f7bf757c",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Business Architect (Hybrid)",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T07:17:32.882253Z",
-      "lastVerifiedAtUtc": "2026-08-20T07:17:32.882253Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-business-architect-hybrid-ciscisglobal2020293externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Business-Architect--Hybrid-_2020293/apply"
-    },
-    {
-      "id": "a577436c-f1d2-4d30-9543-e8d9dd34773a",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Software Engineer I",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T06:58:00.217527Z",
-      "lastVerifiedAtUtc": "2026-08-20T06:58:00.217527Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-software-engineer-i-26012390",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26012390"
-    },
-    {
-      "id": "aa32fbb3-2998-4d04-b7d4-8d9ddcf03653",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Analyst-Ops Risk Mgmt",
-      "roleCategory": "Analyst",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T06:34:51.417838Z",
-      "lastVerifiedAtUtc": "2026-08-20T06:34:51.417838Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-analyst-ops-risk-mgmt-26012913",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26012913"
     }
   ]
 }
