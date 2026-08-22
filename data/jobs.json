@@ -1,8 +1,24 @@
 {
-  "generatedAtUtc": "2026-08-22T04:24:17.929207+00:00",
+  "generatedAtUtc": "2026-08-22T05:19:52.942229+00:00",
   "publicDelayMinutes": 60,
-  "total": 642,
+  "total": 640,
   "jobs": [
+    {
+      "id": "53c2d47c-93ed-4718-81a9-d81e79d815fe",
+      "company": "Microsoft",
+      "companySlug": "microsoft",
+      "title": "Principal Software Engineer",
+      "roleCategory": "SeniorSoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-22T04:17:08.048217Z",
+      "lastVerifiedAtUtc": "2026-08-22T04:17:08.048217Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556978233"
+    },
     {
       "id": "827597fc-9d17-4bd2-8beb-3bb7aaff95de",
       "company": "Amazon",
@@ -10226,54 +10242,6 @@
       "lastVerifiedAtUtc": "2026-08-20T05:22:34.835904Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-java-full-stack-java-reactjs-aws-and-exposure-to-ai-tools-software-engineer-ii-210754767",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210754767"
-    },
-    {
-      "id": "8d9c9091-120d-400d-b12f-1458649ff6af",
-      "company": "American Express",
-      "companySlug": "americanexpress",
-      "title": "Sr Cybersecurity Engineer I",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T05:19:37.74355Z",
-      "lastVerifiedAtUtc": "2026-08-20T05:19:37.74355Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/americanexpress-sr-cybersecurity-engineer-i-26012466",
-      "sourceUrl": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26012466"
-    },
-    {
-      "id": "227476ea-ab26-4a15-b442-7270c0b0fa33",
-      "company": "Anthropic",
-      "companySlug": "anthropic",
-      "title": "Business Systems Analyst",
-      "roleCategory": "Analyst",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T04:57:37.783369Z",
-      "lastVerifiedAtUtc": "2026-08-20T04:57:37.783369Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/anthropic-business-systems-analyst-5394958008",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008"
-    },
-    {
-      "id": "b256b0da-09f2-45d4-8ed2-4fe6ee4c592d",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Data Center Operation Engineer, DCO (Data Center Operations)",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "South Korea",
-      "location": "South Korea",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T04:35:17.654653Z",
-      "lastVerifiedAtUtc": "2026-08-20T04:35:17.654653Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-data-center-operation-engineer-dco-data-center-operations-d3162093-4d33-4b9b-b14b-0a667e9545f0",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10507604/data-center-operation-engineer-dco-data-center-operations"
     }
   ]
 }

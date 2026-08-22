@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 04:17 UTC |
 | Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-c20bf6ac-3861-49cd-a51d-9a1e7d110ded) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:53 UTC |
 | Qualcomm | [WIFI PHY Senior Design Verification Engineer](https://www.scoutjob.me/jobs/qualcomm-wifi-phy-senior-design-verification-engineer-446720222340) | SeniorHardwareEngineering | India | Aug 22, 2026 | Aug 22, 2026 02:44 UTC |
 | Qualcomm | [ASICS Design Verification Engineer-Senior](https://www.scoutjob.me/jobs/qualcomm-asics-design-verification-engineer-senior-446720665391) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:44 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-336711) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:07 UTC |
 | OpenAI | [Data Center Physical Security Systems Engineer](https://www.scoutjob.me/jobs/openai-data-center-physical-security-systems-engineer-f69f75f5-439f-4044-8ae1-8fd810e0402d) | SoftwareEngineeringExtensive | Remote | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |
 | Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-77751762-12fd-416f-9622-53ede1bdf83d) | SeniorHardwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Fullstack Java and React with Cloud](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-fullstack-java-and-react-with-cloud-210781669) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 19:33 UTC |
