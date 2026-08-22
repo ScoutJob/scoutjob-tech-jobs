@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-c20bf6ac-3861-49cd-a51d-9a1e7d110ded) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:53 UTC |
+| Qualcomm | [WIFI PHY Senior Design Verification Engineer](https://www.scoutjob.me/jobs/qualcomm-wifi-phy-senior-design-verification-engineer-446720222340) | SeniorHardwareEngineering | India | Aug 22, 2026 | Aug 22, 2026 02:44 UTC |
+| Qualcomm | [ASICS Design Verification Engineer-Senior](https://www.scoutjob.me/jobs/qualcomm-asics-design-verification-engineer-senior-446720665391) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:44 UTC |
 | Microsoft | [Principal SOC Modeling Architect](https://www.scoutjob.me/jobs/microsoft-principal-soc-modeling-architect-1970393556972678) | SeniorHardwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:17 UTC |
 | Microsoft | [Senior Software Engineer- M365](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-m365-1970393556962844) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:17 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556955770) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 02:17 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | OpenAI | [Data Center Physical Security Systems Engineer](https://www.scoutjob.me/jobs/openai-data-center-physical-security-systems-engineer-f69f75f5-439f-4044-8ae1-8fd810e0402d) | SoftwareEngineeringExtensive | Remote | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |
 | Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-77751762-12fd-416f-9622-53ede1bdf83d) | SeniorHardwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:05 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Fullstack Java and React with Cloud](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-fullstack-java-and-react-with-cloud-210781669) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 19:33 UTC |
-| Robinhood | [Business Analyst (New Grad)](https://www.scoutjob.me/jobs/robinhood-business-analyst-new-grad-8123231) | Analyst | United States | Aug 21, 2026 | Aug 21, 2026 19:33 UTC |
-| Amazon | [Sr. Electrical Engineer, Data Center Engineering](https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-8da8b35c-2974-420a-b271-6f6c14b9ed1d) | SeniorHardwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 19:32 UTC |
-| Apple | [Software Engineer, Apple Services Engineering - Commerce](https://www.scoutjob.me/jobs/apple-software-engineer-apple-services-engineering-commerce-200673082) | SoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 19:20 UTC |
