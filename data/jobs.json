@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-22T10:14:48.785832+00:00",
+  "generatedAtUtc": "2026-08-22T11:13:31.125777+00:00",
   "publicDelayMinutes": 60,
-  "total": 600,
+  "total": 596,
   "jobs": [
     {
       "id": "2b09e051-e76d-4377-85ef-1ae8ebd43545",
@@ -9538,70 +9538,6 @@
       "lastVerifiedAtUtc": "2026-08-20T11:23:09.515227Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-system-testing-and-automation-engineer-90190",
       "sourceUrl": "https://careers.amd.com/careers-home/jobs/90190"
-    },
-    {
-      "id": "201a9aed-3e87-40bb-ae3b-a09f669cf4ac",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Sr Lead Software Engineer - F&O Execution Data Team",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T11:04:50.047432Z",
-      "lastVerifiedAtUtc": "2026-08-20T11:04:50.047432Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-f-o-execution-data-team-210776166",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210776166"
-    },
-    {
-      "id": "19a18064-7aa4-4e0a-8544-7f0e628ab3a7",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Site Reliability Engineer III",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T10:42:51.154203Z",
-      "lastVerifiedAtUtc": "2026-08-20T10:42:51.154203Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-site-reliability-engineer-iii-210774920",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210774920"
-    },
-    {
-      "id": "b17106d7-b04e-44b9-bb96-694a61ca2cd9",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Full Stack Software Engineer III - Java, React & AWS",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T10:22:22.714664Z",
-      "lastVerifiedAtUtc": "2026-08-20T10:22:22.714664Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-full-stack-software-engineer-iii-java-react-aws-210780031",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210780031"
-    },
-    {
-      "id": "42d18a83-f55e-4490-84bb-5bfae0b8bf93",
-      "company": "JPMorgan Chase",
-      "companySlug": "jpmorgan",
-      "title": "Software Engineer II - Python",
-      "roleCategory": "SoftwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-20T10:22:22.596201Z",
-      "lastVerifiedAtUtc": "2026-08-20T10:22:22.596201Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-python-210780543",
-      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210780543"
     }
   ]
 }
