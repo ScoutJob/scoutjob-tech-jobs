@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-engineering-manager-infrastructure-security-engineering-dgx-cloud-893397075665) | EngineeringManagement | Remote | Aug 22, 2026 | Aug 22, 2026 14:29 UTC |
 | Cisco | [Software Engineering Technical Leader (Remote)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-remote-ciscisglobal2021120externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
 | Cisco | [Software Engineering Technical Leader (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-hybrid-ciscisglobal2019415externalenglobal) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 10:23 UTC |
 | Qualcomm | [Data Engineer](https://www.scoutjob.me/jobs/qualcomm-data-engineer-446720669967) | DataAiMl | Taiwan | Aug 22, 2026 | Aug 22, 2026 09:14 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | GitHub | [Software Engineer I, Secret Scanning](https://www.scoutjob.me/jobs/github-software-engineer-i-secret-scanning-5743) | SoftwareEngineering | Remote | Aug 21, 2026 | Aug 21, 2026 21:22 UTC |
 | Anthropic | [Accounting Analytics & BI Engineer](https://www.scoutjob.me/jobs/anthropic-accounting-analytics-bi-engineer-5357965008) | DataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:21 UTC |
 | American Express | [Manager, Data Science](https://www.scoutjob.me/jobs/americanexpress-manager-data-science-26012899) | SeniorDataAiMl | United States | Aug 21, 2026 | Aug 21, 2026 21:09 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Back End/Full Stack/IAM](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-back-end-full-stack-iam-210771537) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 21:01 UTC |
