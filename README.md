@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-drumheller-ab) | SeniorSoftwareEngineeringExtensive | Canada | Aug 22, 2026 | Aug 22, 2026 07:15 UTC |
+| Walmart Global Tech | [Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-front-end-checkout-team-associate-can-mb-winnipeg-03119-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Aug 22, 2026 | Aug 22, 2026 07:15 UTC |
 | Apple | [UX Designer - Xcode & AI Developer Tools](https://www.scoutjob.me/jobs/apple-ux-designer-xcode-ai-developer-tools-200679482) | SoftwareEngineeringExtensive | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
 | Apple | [Software Engineer, Accessibility](https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 04:17 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Twilio | [Software Engineer L2-Messaging API](https://www.scoutjob.me/jobs/twilio-software-engineer-l2-messaging-api-1099553093091) | SoftwareEngineering | Remote | Aug 21, 2026 | Aug 21, 2026 20:22 UTC |
 | Amazon | [Data Center Controls Engineer](https://www.scoutjob.me/jobs/amazon-data-center-controls-engineer-d69adf62-f9e5-4b7f-9eef-eba32f8154b6) | SoftwareEngineeringExtensive | United States | Aug 21, 2026 | Aug 21, 2026 20:15 UTC |
 | Amazon | [Software Development Engineer, Ordering](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ordering-e4c1456f-c34b-44ce-9071-cd6d84226f96) | SoftwareEngineering | Canada | Aug 21, 2026 | Aug 21, 2026 20:14 UTC |
-| American Express | [Sr Software Engineer II](https://www.scoutjob.me/jobs/americanexpress-sr-software-engineer-ii-26011764) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:14 UTC |
-| Oracle | [Senior Principal Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-principal-software-engineer-336711) | SeniorSoftwareEngineering | United States | Aug 21, 2026 | Aug 21, 2026 20:07 UTC |
