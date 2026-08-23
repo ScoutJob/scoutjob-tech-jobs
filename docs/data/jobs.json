@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-23T11:13:46.154186+00:00",
+  "generatedAtUtc": "2026-08-23T12:22:23.299176+00:00",
   "publicDelayMinutes": 60,
-  "total": 218,
+  "total": 217,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -3474,22 +3474,6 @@
       "lastVerifiedAtUtc": "2026-08-21T12:50:37.927508Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/github-staff-software-engineer-5740",
       "sourceUrl": "https://www.github.careers/careers-home/jobs/5740"
-    },
-    {
-      "id": "d1bd0781-09c5-4227-b6ec-75869d456fcb",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Performance Modelling Architect - Platform Architecture",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-21T11:23:24.559289Z",
-      "lastVerifiedAtUtc": "2026-08-21T11:23:24.559289Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-performance-modelling-architect-platform-architecture-200665591",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200665591/performance-modelling-architect-platform-architecture"
     }
   ]
 }
