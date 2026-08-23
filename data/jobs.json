@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-23T09:19:49.228209+00:00",
+  "generatedAtUtc": "2026-08-23T10:15:28.720614+00:00",
   "publicDelayMinutes": 60,
-  "total": 232,
+  "total": 229,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -3666,54 +3666,6 @@
       "lastVerifiedAtUtc": "2026-08-21T10:27:58.856602Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-senior-physical-design-engineer-server-soc-chiplet-implementation-90827",
       "sourceUrl": "https://careers.amd.com/careers-home/jobs/90827"
-    },
-    {
-      "id": "fc2b050d-4f72-4587-baed-37b98a172661",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Director - Yield Architecture and Engineering",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-21T09:47:54.357541Z",
-      "lastVerifiedAtUtc": "2026-08-21T09:47:54.357541Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-director-yield-architecture-and-engineering-446720560426",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446720560426"
-    },
-    {
-      "id": "b03bcd72-8180-45e7-bc4d-bb0aa9af5169",
-      "company": "Cloudflare",
-      "companySlug": "cloudflare",
-      "title": "Senior Customer Engineer, South China",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "China",
-      "location": "China",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-21T09:44:01.592762Z",
-      "lastVerifiedAtUtc": "2026-08-21T09:44:01.592762Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cloudflare-senior-customer-engineer-south-china-8146651",
-      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/8146651"
-    },
-    {
-      "id": "43c5a45e-e46f-4536-a213-2cbe1dbae540",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Military Data Centre Engineering Operations (DCEO), Amazon Web Services (AWS)",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United Kingdom",
-      "location": "United Kingdom",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-21T09:23:49.798494Z",
-      "lastVerifiedAtUtc": "2026-08-21T09:23:49.798494Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-military-data-centre-engineering-operations-dceo-amazon-web-services-aws-08947dba-2159-4577-afc1-ceadfb254fa8",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10509900/military-data-centre-engineering-operations-dceo-amazon-web-services-aws"
     }
   ]
 }
