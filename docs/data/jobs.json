@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T09:38:03.860628+00:00",
+  "generatedAtUtc": "2026-08-24T10:29:47.095459+00:00",
   "publicDelayMinutes": 60,
-  "total": 6,
+  "total": 4,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -66,38 +66,6 @@
       "lastVerifiedAtUtc": "2026-08-22T14:29:11.364375Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-engineering-manager-infrastructure-security-engineering-dgx-cloud-893397075665",
       "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893397075665"
-    },
-    {
-      "id": "60cf0ef1-cc1d-4478-ba6a-88e66a19fc18",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineering Technical Leader (Remote)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T10:23:56.082081Z",
-      "lastVerifiedAtUtc": "2026-08-22T10:23:56.082081Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-remote-ciscisglobal2021120externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader--Remote-_2021120/apply"
-    },
-    {
-      "id": "dc9ed4f7-3e67-4289-9748-511bdb738329",
-      "company": "Cisco",
-      "companySlug": "cisco",
-      "title": "Software Engineering Technical Leader (Hybrid)",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T10:23:56.060097Z",
-      "lastVerifiedAtUtc": "2026-08-22T10:23:56.060097Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-hybrid-ciscisglobal2019415externalenglobal",
-      "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Software-Engineering-Technical-Leader--Hybrid-_2019415/apply"
     }
   ]
 }
