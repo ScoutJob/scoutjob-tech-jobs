@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T13:43:18.874609+00:00",
+  "generatedAtUtc": "2026-08-24T14:33:35.885682+00:00",
   "publicDelayMinutes": 60,
-  "total": 4,
+  "total": 3,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -50,22 +50,6 @@
       "lastVerifiedAtUtc": "2026-08-22T15:22:39.379852Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-security-engineer-infrastructure-security-engineering-dgx-cloud-893397071392",
       "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893397071392"
-    },
-    {
-      "id": "5338c9f6-8b0e-43d0-9ff4-103ecfa60319",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud",
-      "roleCategory": "EngineeringManagement",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T14:29:11.364375Z",
-      "lastVerifiedAtUtc": "2026-08-22T14:29:11.364375Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-engineering-manager-infrastructure-security-engineering-dgx-cloud-893397075665",
-      "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893397075665"
     }
   ]
 }
