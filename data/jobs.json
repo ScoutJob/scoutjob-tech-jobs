@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T05:31:20.179084+00:00",
+  "generatedAtUtc": "2026-08-24T06:39:53.739718+00:00",
   "publicDelayMinutes": 60,
-  "total": 18,
+  "total": 16,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -258,38 +258,6 @@
       "lastVerifiedAtUtc": "2026-08-22T07:15:21.851667Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/walmart-front-end-checkout-team-associate-can-mb-winnipeg-03119-wm-supercenter",
       "sourceUrl": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-MB-WINNIPEG-03119-WM-SUPERCENTER/Front-End-Checkout-Team-Associate_R-2618470"
-    },
-    {
-      "id": "3511c7a1-60f8-4147-97fe-b42a1b909211",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "UX Designer - Xcode & AI Developer Tools",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T05:43:48.603394Z",
-      "lastVerifiedAtUtc": "2026-08-22T05:43:48.603394Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-ux-designer-xcode-ai-developer-tools-200679482",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200679482/ux-designer-xcode-ai-developer-tools"
-    },
-    {
-      "id": "49248487-8345-4385-bd7f-dbb605d6d0b8",
-      "company": "Apple",
-      "companySlug": "apple",
-      "title": "Software Engineer, Accessibility",
-      "roleCategory": "SoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T05:43:48.592772Z",
-      "lastVerifiedAtUtc": "2026-08-22T05:43:48.592772Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352",
-      "sourceUrl": "https://jobs.apple.com/en-us/details/200679352/software-engineer-accessibility"
     }
   ]
 }
