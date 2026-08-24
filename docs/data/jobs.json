@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T08:38:23.098386+00:00",
+  "generatedAtUtc": "2026-08-24T09:38:03.860628+00:00",
   "publicDelayMinutes": 60,
-  "total": 8,
+  "total": 6,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -98,38 +98,6 @@
       "lastVerifiedAtUtc": "2026-08-22T10:23:56.060097Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-hybrid-ciscisglobal2019415externalenglobal",
       "sourceUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Software-Engineering-Technical-Leader--Hybrid-_2019415/apply"
-    },
-    {
-      "id": "2b09e051-e76d-4377-85ef-1ae8ebd43545",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "Data Engineer",
-      "roleCategory": "DataAiMl",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T09:14:27.714061Z",
-      "lastVerifiedAtUtc": "2026-08-22T09:14:27.714061Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-data-engineer-446720669967",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446720669967"
-    },
-    {
-      "id": "4c3a44a1-38a7-4845-ae86-702926d8173c",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "RFFE Testing Engineer",
-      "roleCategory": "SoftwareEngineeringExtensive",
-      "country": "Taiwan",
-      "location": "Taiwan",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T09:14:27.564252Z",
-      "lastVerifiedAtUtc": "2026-08-22T09:14:27.564252Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-rffe-testing-engineer-446720669968",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446720669968"
     }
   ]
 }
