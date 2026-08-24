@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T03:46:30.656103+00:00",
+  "generatedAtUtc": "2026-08-24T04:36:43.975398+00:00",
   "publicDelayMinutes": 60,
-  "total": 19,
+  "total": 18,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -290,22 +290,6 @@
       "lastVerifiedAtUtc": "2026-08-22T05:43:48.592772Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352",
       "sourceUrl": "https://jobs.apple.com/en-us/details/200679352/software-engineer-accessibility"
-    },
-    {
-      "id": "53c2d47c-93ed-4718-81a9-d81e79d815fe",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Principal Software Engineer",
-      "roleCategory": "SeniorSoftwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T04:17:08.048217Z",
-      "lastVerifiedAtUtc": "2026-08-22T04:17:08.048217Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556978233"
     }
   ]
 }

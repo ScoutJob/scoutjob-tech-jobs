@@ -44,4 +44,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Walmart Global Tech | [Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-front-end-checkout-team-associate-can-mb-winnipeg-03119-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Aug 22, 2026 | Aug 22, 2026 07:15 UTC |
 | Apple | [UX Designer - Xcode & AI Developer Tools](https://www.scoutjob.me/jobs/apple-ux-designer-xcode-ai-developer-tools-200679482) | SoftwareEngineeringExtensive | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
 | Apple | [Software Engineer, Accessibility](https://www.scoutjob.me/jobs/apple-software-engineer-accessibility-200679352) | SoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 05:43 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233) | SeniorSoftwareEngineering | United States | Aug 22, 2026 | Aug 22, 2026 04:17 UTC |
