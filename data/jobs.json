@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T02:18:25.544651+00:00",
+  "generatedAtUtc": "2026-08-24T03:46:30.656103+00:00",
   "publicDelayMinutes": 60,
-  "total": 22,
+  "total": 19,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -306,54 +306,6 @@
       "lastVerifiedAtUtc": "2026-08-22T04:17:08.048217Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556978233",
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556978233"
-    },
-    {
-      "id": "827597fc-9d17-4bd2-8beb-3bb7aaff95de",
-      "company": "Amazon",
-      "companySlug": "amazon",
-      "title": "Sr. Electrical Engineer, Data Center Engineering",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T02:53:08.355153Z",
-      "lastVerifiedAtUtc": "2026-08-22T02:53:08.355153Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-sr-electrical-engineer-data-center-engineering-c20bf6ac-3861-49cd-a51d-9a1e7d110ded",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/10511451/sr-electrical-engineer-data-center-engineering"
-    },
-    {
-      "id": "e7df2175-669d-4896-ad2e-71845e477b25",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "WIFI PHY Senior Design Verification Engineer",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "India",
-      "location": "India",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T02:44:30.587614Z",
-      "lastVerifiedAtUtc": "2026-08-22T02:44:30.587614Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-wifi-phy-senior-design-verification-engineer-446720222340",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446720222340"
-    },
-    {
-      "id": "06596bea-c8aa-4275-80ca-10e1a858a4da",
-      "company": "Qualcomm",
-      "companySlug": "qualcomm",
-      "title": "ASICS Design Verification Engineer-Senior",
-      "roleCategory": "SeniorHardwareEngineering",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T02:44:30.385227Z",
-      "lastVerifiedAtUtc": "2026-08-22T02:44:30.385227Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/qualcomm-asics-design-verification-engineer-senior-446720665391",
-      "sourceUrl": "https://careers.qualcomm.com/careers/job/446720665391"
     }
   ]
 }
