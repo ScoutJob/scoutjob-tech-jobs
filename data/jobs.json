@@ -1,7 +1,7 @@
 {
-  "generatedAtUtc": "2026-08-24T14:33:35.885682+00:00",
+  "generatedAtUtc": "2026-08-24T15:30:58.607377+00:00",
   "publicDelayMinutes": 60,
-  "total": 3,
+  "total": 2,
   "jobs": [
     {
       "id": "2d081f19-152b-45c2-b196-a0570c9b9741",
@@ -34,22 +34,6 @@
       "lastVerifiedAtUtc": "2026-08-22T16:05:05.684541Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-software-development-engineer-amazon-optics-4f6ba01d-ab5c-4115-b71d-bd10e3080984",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10511479/software-development-engineer-amazon-optics"
-    },
-    {
-      "id": "25b9b3ed-199f-426e-9e21-62f78d887375",
-      "company": "NVIDIA",
-      "companySlug": "nvidia",
-      "title": "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Remote",
-      "location": "Remote",
-      "isRemote": true,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-08-22T15:22:39.379852Z",
-      "lastVerifiedAtUtc": "2026-08-22T15:22:39.379852Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/nvidia-senior-security-engineer-infrastructure-security-engineering-dgx-cloud-893397071392",
-      "sourceUrl": "https://nvidia.eightfold.ai/careers/job/893397071392"
     }
   ]
 }
