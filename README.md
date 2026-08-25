@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Lyft | [Financial Analyst](https://www.scoutjob.me/jobs/lyft-financial-analyst-8743240002) | Analyst | Canada | Aug 25, 2026 | Aug 25, 2026 22:04 UTC |
+| Apple | [Silicon Debug Engineer](https://www.scoutjob.me/jobs/apple-silicon-debug-engineer-200679982) | HardwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 22:03 UTC |
+| PayPal | [Sr Software Engineer](https://www.scoutjob.me/jobs/paypal-sr-software-engineer-274922048863) | SeniorSoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 21:53 UTC |
+| Apple | [Machine Learning Engineer, Human Centered AI - Evaluations & Insights](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-human-centered-ai-evaluations-insights-200679685) | DataAiMl | United States | Aug 25, 2026 | Aug 25, 2026 21:51 UTC |
+| Figma | [Forward Deployed Engineer](https://www.scoutjob.me/jobs/figma-forward-deployed-engineer-6158162004) | SoftwareEngineeringExtensive | United States | Aug 25, 2026 | Aug 25, 2026 21:51 UTC |
+| Amazon | [Software Development Engineer, Recipient Experience, Your Orders](https://www.scoutjob.me/jobs/amazon-software-development-engineer-recipient-experience-your-orders-598ceae4-ec31-4953-9587-8c4e79b5108c) | SoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 21:51 UTC |
+| JPMorgan Chase | [Lead Software Engineer - CDN Operations](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-cdn-operations-210779489) | SeniorSoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 21:40 UTC |
+| OpenAI | [Systems Integration Engineer, Build Systems \| Consumer Devices](https://www.scoutjob.me/jobs/openai-systems-integration-engineer-build-systems-consumer-devices-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea) | SoftwareEngineeringExtensive | United States | Aug 25, 2026 | Aug 25, 2026 21:38 UTC |
+| JPMorgan Chase | [AI/ ML Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-ai-ml-software-engineer-ii-210704209) | SoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 21:26 UTC |
+| AMD | [Senior Staff Product Development Engineer](https://www.scoutjob.me/jobs/amd-senior-staff-product-development-engineer-91328) | SeniorSoftwareEngineeringExtensive | United States | Aug 25, 2026 | Aug 25, 2026 21:23 UTC |
 | PayPal | [Principal Engineer — Machine Learning](https://www.scoutjob.me/jobs/paypal-principal-engineer-machine-learning-274920220545) | SeniorDataAiMl | United States | Aug 25, 2026 | Aug 25, 2026 21:03 UTC |
 | PayPal | [Principal Engineer, Agentic Systems](https://www.scoutjob.me/jobs/paypal-principal-engineer-agentic-systems-274920220522) | SeniorSoftwareEngineeringExtensive | United States | Aug 25, 2026 | Aug 25, 2026 21:03 UTC |
 | Apple | [Machine Learning Engineer, Software QA - Creativity Apps](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-software-qa-creativity-apps-200679759) | DataAiMl | Canada | Aug 25, 2026 | Aug 25, 2026 21:02 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Engineering Manager - CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-manager-coreai-1970393556972489) | EngineeringManagement | United States | Aug 25, 2026 | Aug 25, 2026 18:10 UTC |
 | Amazon | [Software dev engineer, WWGST Workforce management](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-wwgst-workforce-management-d1b83721-1217-450a-b6d6-b28cc88ab709) | SoftwareEngineering | India | Aug 25, 2026 | Aug 25, 2026 18:01 UTC |
 | Apple | [DRM Software Engineer](https://www.scoutjob.me/jobs/apple-drm-software-engineer-200679922) | SoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 18:01 UTC |
-| Apple | [Silicon Validation/Emulation Design Engineer](https://www.scoutjob.me/jobs/apple-silicon-validation-emulation-design-engineer-200678537) | HardwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 18:01 UTC |
-| Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-342728) | SeniorSoftwareEngineering | United States | Aug 25, 2026 | Aug 25, 2026 17:53 UTC |
-| Qualcomm | [Project Analyst](https://www.scoutjob.me/jobs/qualcomm-project-analyst-446719762891) | Analyst | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [GPU (RTL) Design - Sr Lead](https://www.scoutjob.me/jobs/qualcomm-gpu-rtl-design-sr-lead-446720529458) | SeniorHardwareEngineering | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [GPU (RTL) Design - Sr Lead](https://www.scoutjob.me/jobs/qualcomm-gpu-rtl-design-sr-lead-446720529477) | SeniorHardwareEngineering | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [Engineer - Linux Audio device drivers](https://www.scoutjob.me/jobs/qualcomm-engineer-linux-audio-device-drivers-446720545291) | SoftwareEngineeringExtensive | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [Senior Engineer - Linux Audio device drivers](https://www.scoutjob.me/jobs/qualcomm-senior-engineer-linux-audio-device-drivers-446720545292) | SeniorSoftwareEngineeringExtensive | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [Senior Lead RTL/Synthesis Engineer](https://www.scoutjob.me/jobs/qualcomm-senior-lead-rtl-synthesis-engineer-446720560443) | SeniorHardwareEngineering | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [HSIO Characterization Engineer](https://www.scoutjob.me/jobs/qualcomm-hsio-characterization-engineer-446720710355) | SoftwareEngineeringExtensive | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
-| Qualcomm | [Physical Design Engineer (Multiple levels)](https://www.scoutjob.me/jobs/qualcomm-physical-design-engineer-multiple-levels-446720711660) | HardwareEngineering | India | Aug 25, 2026 | Aug 25, 2026 17:52 UTC |
