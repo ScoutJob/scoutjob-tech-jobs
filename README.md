@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001353447) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
+| Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001353471) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
+| AMD | [AI Software Development Eng.](https://www.scoutjob.me/jobs/amd-ai-software-development-eng-91526) | SoftwareEngineering | China | Aug 26, 2026 | Aug 26, 2026 06:05 UTC |
+| Snowflake | [Senior Data Engineer](https://www.scoutjob.me/jobs/snowflake-senior-data-engineer-sncous7616858a5b4545aea2eed526092211a5externalenusb045d3f3d718480c8c182b0ee91c84af) | SeniorDataAiMl | India | Aug 26, 2026 | Aug 26, 2026 05:47 UTC |
+| Intuit | [Senior Machine Learning Engineer](https://www.scoutjob.me/jobs/intuit-senior-machine-learning-engineer-99742134096-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstates) | SeniorDataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 05:37 UTC |
 | Canva | [Engineering Manager - (ML) - Evaluation Platform](https://www.scoutjob.me/jobs/canva-engineering-manager-ml-evaluation-platform-6000000001353134) | EngineeringManagement | Australia | Aug 26, 2026 | Aug 26, 2026 05:13 UTC |
 | Microsoft | [Software Engineering - Commercial Engineering & AI (CEAI)](https://www.scoutjob.me/jobs/microsoft-software-engineering-commercial-engineering-ai-ceai-1970393556977374) | SoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 05:11 UTC |
 | JPMorgan Chase | [Lead Software Engineer- Salesforce](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-salesforce-210784415) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 04:17 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Engineering Manager, Data Labeling Platform](https://www.scoutjob.me/jobs/nvidia-engineering-manager-data-labeling-platform-893397308338) | EngineeringManagement | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Engineering Manager, Local AI Agents](https://www.scoutjob.me/jobs/nvidia-engineering-manager-local-ai-agents-893397308370) | EngineeringManagement | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Senior Test Developer – Automotive Simulation Testing & Failure-Triage Lead](https://www.scoutjob.me/jobs/nvidia-senior-test-developer-automotive-simulation-testing-failure-triage-lead-893397325253) | SeniorSoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior System Software Architect, Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-system-software-architect-autonomous-vehicles-893397325277) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| JPMorgan Chase | [Senior Manager - Applied Machine Learning - Vice President](https://www.scoutjob.me/jobs/jpmorgan-senior-manager-applied-machine-learning-vice-president-210784638) | SeniorDataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Data and Payments Data Platform](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-and-payments-data-platform-210782902) | SeniorDataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| JPMorgan Chase | [Sr. Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-210780804) | SeniorSoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Software Engineer, DGX Cloud Orchestration](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-orchestration-893396942359) | SeniorSoftwareEngineering | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
