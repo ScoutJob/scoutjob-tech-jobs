@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer- Salesforce](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-salesforce-210784415) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 04:17 UTC |
+| Oracle | [Senior Communications Strategist, Engineering](https://www.scoutjob.me/jobs/oracle-senior-communications-strategist-engineering-343852) | SeniorSoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 03:55 UTC |
+| Cloudflare | [Associate Solutions Engineer - Beijing](https://www.scoutjob.me/jobs/cloudflare-associate-solutions-engineer-beijing-8152697) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 03:51 UTC |
+| Zoom | [Research Scientist](https://www.scoutjob.me/jobs/zoom-research-scientist-research-scientist-seattle-washington-united-states-c81ade21-72cf-481a-8136-3b2993def5c4) | DataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 03:49 UTC |
+| Apple | [Wireless Bluetooth Tools & Triage Software Engineer](https://www.scoutjob.me/jobs/apple-wireless-bluetooth-tools-triage-software-engineer-200680025) | SoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 03:35 UTC |
+| AMD | [Sr. Firmware Engineer](https://www.scoutjob.me/jobs/amd-sr-firmware-engineer-91525) | SeniorHardwareEngineering | Taiwan | Aug 26, 2026 | Aug 26, 2026 03:34 UTC |
 | Apple | [Scientific Computing Engineer](https://www.scoutjob.me/jobs/apple-scientific-computing-engineer-200680038) | SoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 03:24 UTC |
 | Walmart Global Tech | [Process Engineer](https://www.scoutjob.me/jobs/walmart-process-engineer-usa-tx-desoto-06938-automated-consolidation-center) | SoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 03:18 UTC |
 | Qualcomm | [Heterogeneous Integration Physical Design Engineer, Staff](https://www.scoutjob.me/jobs/qualcomm-heterogeneous-integration-physical-design-engineer-staff-446720727625) | SeniorHardwareEngineering | Taiwan | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Software Engineer, DGX Cloud Orchestration](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-orchestration-893396942359) | SeniorSoftwareEngineering | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [System Software Engineer, HPC Performance](https://www.scoutjob.me/jobs/nvidia-system-software-engineer-hpc-performance-893397337597) | DataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Senior Manager, Engineering - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-manager-engineering-autonomous-vehicles-893397341394) | SeniorSoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Principal Software Engineer – Infrastructure](https://www.scoutjob.me/jobs/nvidia-principal-software-engineer-infrastructure-893397341399) | SeniorSoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Application Engineer, HPC and AI for Physics](https://www.scoutjob.me/jobs/nvidia-senior-application-engineer-hpc-and-ai-for-physics-893397341495) | SeniorDataAiMl | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Site Reliability Engineer](https://www.scoutjob.me/jobs/nvidia-senior-site-reliability-engineer-893397278314) | SeniorSoftwareEngineeringExtensive | Israel | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [ASIC Design Engineer - RTL and Circuits](https://www.scoutjob.me/jobs/nvidia-asic-design-engineer-rtl-and-circuits-893397278328) | HardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior SRAM Engineer](https://www.scoutjob.me/jobs/nvidia-senior-sram-engineer-893397112852) | SeniorSoftwareEngineeringExtensive | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior AI Agent Test Development Engineer, SDET](https://www.scoutjob.me/jobs/nvidia-senior-ai-agent-test-development-engineer-sdet-893397145014) | SeniorDataAiMl | China | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
