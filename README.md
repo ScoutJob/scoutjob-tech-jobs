@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Snowflake | [Solution Engineer - FS](https://www.scoutjob.me/jobs/snowflake-solution-engineer-fs-sncousfa6fb6f64870461ab16d217a9f115396externalenus96cb8446dc3b44e7ac7c99c94eeae8da) | SoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 13:35 UTC |
+| JPMorgan Chase | [Lead Infrastructure Engineer- Proxy & Network Security UK](https://www.scoutjob.me/jobs/jpmorgan-lead-infrastructure-engineer-proxy-network-security-uk-210784801) | SeniorSoftwareEngineeringExtensive | United Kingdom | Aug 26, 2026 | Aug 26, 2026 13:29 UTC |
+| AMD | [Mixed Signal Circuit Design Analysis & CAD Engineer ( Temporary/ Seasonal)](https://www.scoutjob.me/jobs/amd-mixed-signal-circuit-design-analysis-cad-engineer-temporary-seasonal-91052) | HardwareEngineering | Canada | Aug 26, 2026 | Aug 26, 2026 13:26 UTC |
+| Zoom | [Software Engineer](https://www.scoutjob.me/jobs/zoom-software-engineer-software-engineer-seattle-washington-united-states) | SoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 13:20 UTC |
+| JPMorgan Chase | [Software Engineer II (AWS Infrastructure)](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-aws-infrastructure-210784532) | SoftwareEngineering | United Kingdom | Aug 26, 2026 | Aug 26, 2026 13:17 UTC |
+| DoorDash | [Engineer Manager, Proactive Security - Platform](https://www.scoutjob.me/jobs/doordash-engineer-manager-proactive-security-platform-8154443) | SeniorSoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 13:04 UTC |
 | Qualcomm | [CPU Performance Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-performance-engineer-446720333740) | SoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 12:42 UTC |
 | Qualcomm | [CPU Performance Associate Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-performance-associate-engineer-446720333742) | SoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 12:42 UTC |
 | Qualcomm | [Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-446720680498) | SeniorSoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 12:42 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Senior Data Engineer](https://www.scoutjob.me/jobs/apple-senior-data-engineer-200680075) | SeniorDataAiMl | Singapore | Aug 26, 2026 | Aug 26, 2026 07:00 UTC |
 | Airbnb | [Senior Data Engineer, BizTech](https://www.scoutjob.me/jobs/airbnb-senior-data-engineer-biztech-8152721) | SeniorDataAiMl | Remote | Aug 26, 2026 | Aug 26, 2026 06:59 UTC |
 | AMD | [Senior RTL design engineer - SOC Intergration](https://www.scoutjob.me/jobs/amd-senior-rtl-design-engineer-soc-intergration-79511) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:58 UTC |
-| AMD | [RTL Design Manager](https://www.scoutjob.me/jobs/amd-rtl-design-manager-89953) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:58 UTC |
-| JPMorgan Chase | [Java FullStack - React with Public Cloud (Software Engineer II)](https://www.scoutjob.me/jobs/jpmorgan-java-fullstack-react-with-public-cloud-software-engineer-ii-210780417) | SoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:49 UTC |
-| Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001353447) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
-| Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001353471) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
-| AMD | [AI Software Development Eng.](https://www.scoutjob.me/jobs/amd-ai-software-development-eng-91526) | SoftwareEngineering | China | Aug 26, 2026 | Aug 26, 2026 06:05 UTC |
-| Snowflake | [Senior Data Engineer](https://www.scoutjob.me/jobs/snowflake-senior-data-engineer-sncous7616858a5b4545aea2eed526092211a5externalenusb045d3f3d718480c8c182b0ee91c84af) | SeniorDataAiMl | India | Aug 26, 2026 | Aug 26, 2026 05:47 UTC |
