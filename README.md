@@ -26,6 +26,19 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [AI Framework Engineer](https://www.scoutjob.me/jobs/amd-ai-framework-engineer-89499) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 07:19 UTC |
+| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556978923) | SoftwareEngineering | China | Aug 26, 2026 | Aug 26, 2026 07:13 UTC |
+| Microsoft | [Senior Software Engineer(IC3 Data Platform)](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-ic3-data-platform-1970393556979682) | SeniorDataAiMl | China | Aug 26, 2026 | Aug 26, 2026 07:13 UTC |
+| AMD | [SOC DFX Design Architect](https://www.scoutjob.me/jobs/amd-soc-dfx-design-architect-91263) | SeniorHardwareEngineering | Malaysia | Aug 26, 2026 | Aug 26, 2026 07:09 UTC |
+| AMD | [Senior Staff SOC DFX RTL Design Engineer](https://www.scoutjob.me/jobs/amd-senior-staff-soc-dfx-rtl-design-engineer-91269) | SeniorHardwareEngineering | Malaysia | Aug 26, 2026 | Aug 26, 2026 07:09 UTC |
+| AMD | [Senior Staff SOC DFX Verification Engineer](https://www.scoutjob.me/jobs/amd-senior-staff-soc-dfx-verification-engineer-91270) | SeniorHardwareEngineering | Malaysia | Aug 26, 2026 | Aug 26, 2026 07:09 UTC |
+| AMD | [AI Framework Engineer](https://www.scoutjob.me/jobs/amd-ai-framework-engineer-89498) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 07:09 UTC |
+| AMD | [AI Framework Engineer](https://www.scoutjob.me/jobs/amd-ai-framework-engineer-89500) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 07:09 UTC |
+| Apple | [Senior Data Engineer](https://www.scoutjob.me/jobs/apple-senior-data-engineer-200680075) | SeniorDataAiMl | Singapore | Aug 26, 2026 | Aug 26, 2026 07:00 UTC |
+| Airbnb | [Senior Data Engineer, BizTech](https://www.scoutjob.me/jobs/airbnb-senior-data-engineer-biztech-8152721) | SeniorDataAiMl | Remote | Aug 26, 2026 | Aug 26, 2026 06:59 UTC |
+| AMD | [Senior RTL design engineer - SOC Intergration](https://www.scoutjob.me/jobs/amd-senior-rtl-design-engineer-soc-intergration-79511) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:58 UTC |
+| AMD | [RTL Design Manager](https://www.scoutjob.me/jobs/amd-rtl-design-manager-89953) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:58 UTC |
+| JPMorgan Chase | [Java FullStack - React with Public Cloud (Software Engineer II)](https://www.scoutjob.me/jobs/jpmorgan-java-fullstack-react-with-public-cloud-software-engineer-ii-210780417) | SoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 06:49 UTC |
 | Canva | [Staff Production Engineer](https://www.scoutjob.me/jobs/canva-staff-production-engineer-6000000001353447) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
 | Canva | [Principal Production Engineer](https://www.scoutjob.me/jobs/canva-principal-production-engineer-6000000001353471) | SeniorSoftwareEngineeringExtensive | Australia | Aug 26, 2026 | Aug 26, 2026 06:30 UTC |
 | AMD | [AI Software Development Eng.](https://www.scoutjob.me/jobs/amd-ai-software-development-eng-91526) | SoftwareEngineering | China | Aug 26, 2026 | Aug 26, 2026 06:05 UTC |
@@ -88,16 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Tools Development Engineer](https://www.scoutjob.me/jobs/nvidia-senior-tools-development-engineer-893397309125) | SeniorSoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [ASIC Physical Design Engineer (RDSS Intern)](https://www.scoutjob.me/jobs/nvidia-asic-physical-design-engineer-rdss-intern-893397309127) | HardwareEngineeringIntern | Taiwan | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Deep Learning Software Engineering Intern, Test Development - 2027](https://www.scoutjob.me/jobs/nvidia-deep-learning-software-engineering-intern-test-development-2027-893397309132) | DataAiMlIntern | China | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [ASIC Engineering Intern, Networking Chip Design - 2027](https://www.scoutjob.me/jobs/nvidia-asic-engineering-intern-networking-chip-design-2027-893397309146) | HardwareEngineeringIntern | China | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [ASIC Physical Design Intern - 2027](https://www.scoutjob.me/jobs/nvidia-asic-physical-design-intern-2027-893397309147) | HardwareEngineeringIntern | Taiwan | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Robotics Regional Sales Lead - EMEA](https://www.scoutjob.me/jobs/nvidia-robotics-regional-sales-lead-emea-893397311774) | SeniorDataAiMl | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Strategy Analyst - UK](https://www.scoutjob.me/jobs/nvidia-strategy-analyst-uk-893397311837) | Analyst | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Partner Solutions Architect – Nordics](https://www.scoutjob.me/jobs/nvidia-partner-solutions-architect-nordics-893394465898) | SeniorSoftwareEngineeringExtensive | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Formal Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-formal-verification-engineer-893397145221) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Manager, Software Engineering - RL Post-Training Frameworks](https://www.scoutjob.me/jobs/nvidia-senior-manager-software-engineering-rl-post-training-frameworks-893397341502) | SeniorSoftwareEngineering | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Software Engineer, Fleet Intelligence Agent Systems](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-fleet-intelligence-agent-systems-893397305657) | SeniorSoftwareEngineering | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [System Software Engineer, Multi-Node Analysis](https://www.scoutjob.me/jobs/nvidia-system-software-engineer-multi-node-analysis-893397308233) | SoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Principal Software Engineer](https://www.scoutjob.me/jobs/nvidia-principal-software-engineer-893397337740) | SeniorSoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Engineering Manager, Data Labeling Platform](https://www.scoutjob.me/jobs/nvidia-engineering-manager-data-labeling-platform-893397308338) | EngineeringManagement | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Engineering Manager, Local AI Agents](https://www.scoutjob.me/jobs/nvidia-engineering-manager-local-ai-agents-893397308370) | EngineeringManagement | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Test Developer – Automotive Simulation Testing & Failure-Triage Lead](https://www.scoutjob.me/jobs/nvidia-senior-test-developer-automotive-simulation-testing-failure-triage-lead-893397325253) | SeniorSoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
