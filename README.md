@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ServiceNow | [Forward Deployed Solution Engineer – Applied AI FDE](https://www.scoutjob.me/jobs/servicenow-forward-deployed-solution-engineer-applied-ai-fde-jb0075023) | SoftwareEngineeringExtensive | France | Aug 26, 2026 | Aug 26, 2026 08:29 UTC |
+| TikTok | [Backend Software Engineer - TikTok Live (Data Platform) - Singapore](https://www.scoutjob.me/jobs/tiktok-backend-software-engineer-tiktok-live-data-platform-singapore-7083427129251399950) | DataAiMl | Canada | Aug 26, 2026 | Aug 26, 2026 08:24 UTC |
+| Microsoft | [Director - Cloud Solution Architecture - Cloud & AI Platform](https://www.scoutjob.me/jobs/microsoft-director-cloud-solution-architecture-cloud-ai-platform-1970393556971843) | SeniorDataAiMl | United Kingdom | Aug 26, 2026 | Aug 26, 2026 08:07 UTC |
+| American Express | [Lead Analyst](https://www.scoutjob.me/jobs/americanexpress-lead-analyst-26013093) | SeniorAnalyst | India | Aug 26, 2026 | Aug 26, 2026 07:52 UTC |
 | AMD | [AI Framework Engineer](https://www.scoutjob.me/jobs/amd-ai-framework-engineer-89499) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 07:19 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556978923) | SoftwareEngineering | China | Aug 26, 2026 | Aug 26, 2026 07:13 UTC |
 | Microsoft | [Senior Software Engineer(IC3 Data Platform)](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-ic3-data-platform-1970393556979682) | SeniorDataAiMl | China | Aug 26, 2026 | Aug 26, 2026 07:13 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Business Systems Analyst, FICO](https://www.scoutjob.me/jobs/nvidia-senior-business-systems-analyst-fico-893397308805) | SeniorAnalyst | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Senior System Software Engineer - AUTOSAR](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-autosar-893397308827) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Senior Solution Architect — Sales AI Applications](https://www.scoutjob.me/jobs/nvidia-senior-solution-architect-sales-ai-applications-893397308829) | SeniorSoftwareEngineeringExtensive | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Tools Development Engineer](https://www.scoutjob.me/jobs/nvidia-tools-development-engineer-893397308843) | SoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Tools Development Engineer](https://www.scoutjob.me/jobs/nvidia-senior-tools-development-engineer-893397309125) | SeniorSoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [ASIC Physical Design Engineer (RDSS Intern)](https://www.scoutjob.me/jobs/nvidia-asic-physical-design-engineer-rdss-intern-893397309127) | HardwareEngineeringIntern | Taiwan | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Deep Learning Software Engineering Intern, Test Development - 2027](https://www.scoutjob.me/jobs/nvidia-deep-learning-software-engineering-intern-test-development-2027-893397309132) | DataAiMlIntern | China | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
