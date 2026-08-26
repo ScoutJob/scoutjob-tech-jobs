@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Canva | [Engineering Manager - (ML) - Evaluation Platform](https://www.scoutjob.me/jobs/canva-engineering-manager-ml-evaluation-platform-6000000001353134) | EngineeringManagement | Australia | Aug 26, 2026 | Aug 26, 2026 05:13 UTC |
+| Microsoft | [Software Engineering - Commercial Engineering & AI (CEAI)](https://www.scoutjob.me/jobs/microsoft-software-engineering-commercial-engineering-ai-ceai-1970393556977374) | SoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 05:11 UTC |
 | JPMorgan Chase | [Lead Software Engineer- Salesforce](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-salesforce-210784415) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 04:17 UTC |
 | Oracle | [Senior Communications Strategist, Engineering](https://www.scoutjob.me/jobs/oracle-senior-communications-strategist-engineering-343852) | SeniorSoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 03:55 UTC |
 | Cloudflare | [Associate Solutions Engineer - Beijing](https://www.scoutjob.me/jobs/cloudflare-associate-solutions-engineer-beijing-8152697) | SoftwareEngineeringExtensive | China | Aug 26, 2026 | Aug 26, 2026 03:51 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Lead Software Engineer - Data and Payments Data Platform](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-data-and-payments-data-platform-210782902) | SeniorDataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | JPMorgan Chase | [Sr. Lead Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-210780804) | SeniorSoftwareEngineering | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
 | NVIDIA | [Senior Software Engineer, DGX Cloud Orchestration](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-dgx-cloud-orchestration-893396942359) | SeniorSoftwareEngineering | Remote | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [System Software Engineer, HPC Performance](https://www.scoutjob.me/jobs/nvidia-system-software-engineer-hpc-performance-893397337597) | DataAiMl | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |
-| NVIDIA | [Senior Manager, Engineering - Autonomous Vehicles](https://www.scoutjob.me/jobs/nvidia-senior-manager-engineering-autonomous-vehicles-893397341394) | SeniorSoftwareEngineeringExtensive | United States | Aug 26, 2026 | Aug 26, 2026 01:36 UTC |

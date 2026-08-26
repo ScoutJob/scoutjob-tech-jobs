@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-08-26T05:26:03.675009+00:00",
+  "generatedAtUtc": "2026-08-26T06:34:02.665488+00:00",
   "publicDelayMinutes": 60,
-  "total": 599,
+  "total": 601,
   "jobs": [
+    {
+      "id": "5246b1d1-a869-407b-9079-636a2a8916ef",
+      "company": "Canva",
+      "companySlug": "canva",
+      "title": "Engineering Manager - (ML) - Evaluation Platform",
+      "roleCategory": "EngineeringManagement",
+      "country": "Australia",
+      "location": "Australia",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-26T05:13:08.765146Z",
+      "lastVerifiedAtUtc": "2026-08-26T05:13:08.765146Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/canva-engineering-manager-ml-evaluation-platform-6000000001353134",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Canva/6000000001353134"
+    },
+    {
+      "id": "6a167b1c-8009-4398-a1ad-e47d5d7d4f9c",
+      "company": "Microsoft",
+      "companySlug": "microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "roleCategory": "SoftwareEngineering",
+      "country": "United States",
+      "location": "United States",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-08-26T05:11:10.426709Z",
+      "lastVerifiedAtUtc": "2026-08-26T05:11:10.426709Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-software-engineering-commercial-engineering-ai-ceai-1970393556977374",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556977374"
+    },
     {
       "id": "bce201ee-b621-421c-b1b0-6ea353efa39c",
       "company": "JPMorgan Chase",
