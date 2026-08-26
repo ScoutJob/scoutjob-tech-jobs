@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-210760824) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 11:34 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Full Stack React/Java - Risk Frameworks](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-full-stack-react-java-risk-frameworks-210781485) | SeniorSoftwareEngineering | United Kingdom | Aug 26, 2026 | Aug 26, 2026 11:01 UTC |
+| ServiceNow | [Staff Data Engineer](https://www.scoutjob.me/jobs/servicenow-staff-data-engineer-jb0074973) | SeniorDataAiMl | India | Aug 26, 2026 | Aug 26, 2026 10:38 UTC |
+| JPMorgan Chase | [Python/Front Office Software Engineer for Commodities UK](https://www.scoutjob.me/jobs/jpmorgan-python-front-office-software-engineer-for-commodities-uk-210746955) | SoftwareEngineering | United Kingdom | Aug 26, 2026 | Aug 26, 2026 10:38 UTC |
+| American Express | [Analyst-Risk Management](https://www.scoutjob.me/jobs/americanexpress-analyst-risk-management-26013005) | Analyst | India | Aug 26, 2026 | Aug 26, 2026 10:35 UTC |
 | Microsoft | [Principal Software Engineering](https://www.scoutjob.me/jobs/microsoft-principal-software-engineering-1970393556977369) | SeniorSoftwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 10:06 UTC |
 | Okta | [Senior Analyst, People Analytics](https://www.scoutjob.me/jobs/okta-senior-analyst-people-analytics-8154385) | SeniorAnalyst | India | Aug 26, 2026 | Aug 26, 2026 10:04 UTC |
 | Anthropic | [Applied AI Architect, Industries](https://www.scoutjob.me/jobs/anthropic-applied-ai-architect-industries-5390770008) | SeniorSoftwareEngineeringExtensive | Italy | Aug 26, 2026 | Aug 26, 2026 10:01 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Engineer, AI Software/Machine Learning (C++)](https://www.scoutjob.me/jobs/qualcomm-engineer-ai-software-machine-learning-c-446720740550) | DataAiMl | Canada | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
 | Qualcomm | [IP/SoC Design - Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-ip-soc-design-sr-engineer-446720560736) | SeniorHardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
 | Qualcomm | [Engineer- Sensor Test](https://www.scoutjob.me/jobs/qualcomm-engineer-sensor-test-446720680491) | SoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
-| Qualcomm | [ASIC Design Engineering - Multiple function](https://www.scoutjob.me/jobs/qualcomm-asic-design-engineering-multiple-function-446720682533) | HardwareEngineering | Taiwan | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
-| Qualcomm | [SOC Design Implementation Engineer](https://www.scoutjob.me/jobs/qualcomm-soc-design-implementation-engineer-446720693504) | HardwareEngineering | India | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
-| Qualcomm | [FY27 IT Cloud Engineering Intern - Cork 8 months](https://www.scoutjob.me/jobs/qualcomm-fy27-it-cloud-engineering-intern-cork-8-months-446720699932) | SoftwareEngineeringIntern | Ireland | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
-| Qualcomm | [FY27 IT Engineer Data Protection Intern - 8 months](https://www.scoutjob.me/jobs/qualcomm-fy27-it-engineer-data-protection-intern-8-months-446720700001) | SoftwareEngineeringIntern | Ireland | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
-| Qualcomm | [Engineer- Graphics Development](https://www.scoutjob.me/jobs/qualcomm-engineer-graphics-development-446720636013) | SoftwareEngineeringExtensive | India | Aug 26, 2026 | Aug 26, 2026 03:14 UTC |
