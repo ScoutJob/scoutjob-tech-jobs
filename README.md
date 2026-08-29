@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Senior Software Development Engineer, Amazon Leo - Developer Productivity, AI, Test and Simulation](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-amazon-leo-developer-productivity-ai-test-and-simulat-8361a8d5-23a8-4cd7-b13d-9029ebcb0c16) | SeniorSoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 16:55 UTC |
+| Oracle | [Senior Supply Chain Engineer](https://www.scoutjob.me/jobs/oracle-senior-supply-chain-engineer-343573) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 16:36 UTC |
+| Oracle | [Senior Supply Chain Engineer](https://www.scoutjob.me/jobs/oracle-senior-supply-chain-engineer-343574) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 16:36 UTC |
 | Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-4b90123c-d1bd-4a8e-9aa4-e20606b84926) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
 | Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-7cb4b804-46ee-47cd-9ad2-193e8d98f81d) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
 | Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-d72412cb-9fc2-498b-8432-00f74596fc7a) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cisco | [Solutions Engineer - US Commercial - RTP](https://www.scoutjob.me/jobs/cisco-solutions-engineer-us-commercial-rtp-ciscisglobal2023714externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:27 UTC |
 | Apple | [Hardware Electrical Rework Lab Technician](https://www.scoutjob.me/jobs/apple-hardware-electrical-rework-lab-technician-200680762) | HardwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
 | Apple | [Site Reliability Engineer - Data, Apple Ads](https://www.scoutjob.me/jobs/apple-site-reliability-engineer-data-apple-ads-200680797) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
-| Amazon | [Sr. Software Development Engineer, Quick Core Experience](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-quick-core-experience-d7e5b916-14f1-482a-9420-5b21ad0ab3ca) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
-| Microsoft | [Sr Enterprise Cloud Solution Architect-CTJ-Top Secret](https://www.scoutjob.me/jobs/microsoft-sr-enterprise-cloud-solution-architect-ctj-top-secret-1970393556982605) | SeniorSoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Microsoft | [Software Engineer Intune](https://www.scoutjob.me/jobs/microsoft-software-engineer-intune-1970393556982925) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
