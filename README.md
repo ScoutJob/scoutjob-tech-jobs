@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Full Stack Engineer - Sr Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-full-stack-engineer-sr-lead-security-engineer-210785987) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 22:04 UTC |
 | JPMorgan Chase | [AI Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-lead-security-engineer-210775811) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 20:08 UTC |
 | Microsoft | [Principal Security Operations Engineer](https://www.scoutjob.me/jobs/microsoft-principal-security-operations-engineer-1970393556983224) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 17:13 UTC |
 | Microsoft | [Senior Security Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-operations-engineer-1970393556983225) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 17:13 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Environment, Health and Safety (EHS) Engineer](https://www.scoutjob.me/jobs/apple-environment-health-and-safety-ehs-engineer-200679895) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:55 UTC |
 | AMD | [Sr. Director, AI Models Software Development](https://www.scoutjob.me/jobs/amd-sr-director-ai-models-software-development-91756) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:54 UTC |
 | Apple | [HomeKit Machine Learning Engineer](https://www.scoutjob.me/jobs/apple-homekit-machine-learning-engineer-200680682) | DataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 22:44 UTC |
-| American Express | [Analyst-Control Management](https://www.scoutjob.me/jobs/americanexpress-analyst-control-management-26012966) | Analyst | United States | Aug 28, 2026 | Aug 28, 2026 22:32 UTC |
