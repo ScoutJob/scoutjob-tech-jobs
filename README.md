@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [AI Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-lead-security-engineer-210775811) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 20:08 UTC |
+| Microsoft | [Principal Security Operations Engineer](https://www.scoutjob.me/jobs/microsoft-principal-security-operations-engineer-1970393556983224) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 17:13 UTC |
+| Microsoft | [Senior Security Operations Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-operations-engineer-1970393556983225) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 17:13 UTC |
 | Amazon | [Senior Software Development Engineer, Amazon Leo - Developer Productivity, AI, Test and Simulation](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-amazon-leo-developer-productivity-ai-test-and-simulat-8361a8d5-23a8-4cd7-b13d-9029ebcb0c16) | SeniorSoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 16:55 UTC |
 | Oracle | [Senior Supply Chain Engineer](https://www.scoutjob.me/jobs/oracle-senior-supply-chain-engineer-343573) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 16:36 UTC |
 | Oracle | [Senior Supply Chain Engineer](https://www.scoutjob.me/jobs/oracle-senior-supply-chain-engineer-343574) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 16:36 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Sr. Director, AI Models Software Development](https://www.scoutjob.me/jobs/amd-sr-director-ai-models-software-development-91756) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:54 UTC |
 | Apple | [HomeKit Machine Learning Engineer](https://www.scoutjob.me/jobs/apple-homekit-machine-learning-engineer-200680682) | DataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 22:44 UTC |
 | American Express | [Analyst-Control Management](https://www.scoutjob.me/jobs/americanexpress-analyst-control-management-26012966) | Analyst | United States | Aug 28, 2026 | Aug 28, 2026 22:32 UTC |
-| Cisco | [Solutions Engineer - US Commercial - RTP](https://www.scoutjob.me/jobs/cisco-solutions-engineer-us-commercial-rtp-ciscisglobal2023714externalenglobal) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:27 UTC |
-| Apple | [Hardware Electrical Rework Lab Technician](https://www.scoutjob.me/jobs/apple-hardware-electrical-rework-lab-technician-200680762) | HardwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
-| Apple | [Site Reliability Engineer - Data, Apple Ads](https://www.scoutjob.me/jobs/apple-site-reliability-engineer-data-apple-ads-200680797) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
