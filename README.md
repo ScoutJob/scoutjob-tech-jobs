@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-4b90123c-d1bd-4a8e-9aa4-e20606b84926) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
+| Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-7cb4b804-46ee-47cd-9ad2-193e8d98f81d) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
+| Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-d72412cb-9fc2-498b-8432-00f74596fc7a) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
+| Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-75c5b046-ddd1-4a04-8894-c335f739b371) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
+| Amazon | [Software Development Engineer II, AWS Lambda](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-aws-lambda-6ddb01a8-9c85-4f8a-ae3f-d0403b27b44a) | SoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 12:36 UTC |
 | AMD | [Sr. System Design Mechanical Engineer](https://www.scoutjob.me/jobs/amd-sr-system-design-mechanical-engineer-88885) | SeniorHardwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 07:43 UTC |
 | Intel | [Senior Out-of-Order CPU Architect](https://www.scoutjob.me/jobs/intel-senior-out-of-order-cpu-architect-jr0282126) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 07:37 UTC |
 | Intel | [Senior Software Application Development Engineer](https://www.scoutjob.me/jobs/intel-senior-software-application-development-engineer-jr0282933) | SeniorSoftwareEngineering | United States | Aug 29, 2026 | Aug 29, 2026 07:37 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Sr. Software Development Engineer, Quick Core Experience](https://www.scoutjob.me/jobs/amazon-sr-software-development-engineer-quick-core-experience-d7e5b916-14f1-482a-9420-5b21ad0ab3ca) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:21 UTC |
 | Microsoft | [Sr Enterprise Cloud Solution Architect-CTJ-Top Secret](https://www.scoutjob.me/jobs/microsoft-sr-enterprise-cloud-solution-architect-ctj-top-secret-1970393556982605) | SeniorSoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
 | Microsoft | [Software Engineer Intune](https://www.scoutjob.me/jobs/microsoft-software-engineer-intune-1970393556982925) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Microsoft | [Software Engineer - Intune](https://www.scoutjob.me/jobs/microsoft-software-engineer-intune-1970393556982924) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556980225) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556972075) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393556980947) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:18 UTC |
-| Apple | [Machine Learning Evaluation Engineer](https://www.scoutjob.me/jobs/apple-machine-learning-evaluation-engineer-200680655) | DataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 22:10 UTC |
