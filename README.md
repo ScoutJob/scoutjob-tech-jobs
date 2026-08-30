@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Network Deployment Engineer, PoP Management - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-network-deployment-engineer-pop-management-dgx-cloud-893397444113) | SeniorSoftwareEngineeringExtensive | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
+| NVIDIA | [Staff Product Engineer, Manufacturing - Board](https://www.scoutjob.me/jobs/nvidia-staff-product-engineer-manufacturing-board-893397444121) | SeniorSoftwareEngineeringExtensive | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
+| NVIDIA | [Senior AI Engineer, High Performance AI](https://www.scoutjob.me/jobs/nvidia-senior-ai-engineer-high-performance-ai-893397443931) | SeniorDataAiMl | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
+| NVIDIA | [Staff Product Engineer, Manufacturing - Networking](https://www.scoutjob.me/jobs/nvidia-staff-product-engineer-manufacturing-networking-893397444122) | SeniorSoftwareEngineeringExtensive | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
+| Cisco | [Senior Process & Automation Engineer -Supply Chain(Hybrid)](https://www.scoutjob.me/jobs/cisco-senior-process-automation-engineer-supply-chain-hybrid-ciscisglobal2019118externalenglobal) | SeniorSoftwareEngineeringExtensive | United States | Aug 30, 2026 | Aug 30, 2026 00:14 UTC |
 | JPMorgan Chase | [Full Stack Engineer - Sr Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-full-stack-engineer-sr-lead-security-engineer-210785987) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 22:04 UTC |
 | JPMorgan Chase | [AI Lead Security Engineer](https://www.scoutjob.me/jobs/jpmorgan-ai-lead-security-engineer-210775811) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 20:08 UTC |
 | Microsoft | [Principal Security Operations Engineer](https://www.scoutjob.me/jobs/microsoft-principal-security-operations-engineer-1970393556983224) | SeniorSoftwareEngineeringExtensive | United States | Aug 29, 2026 | Aug 29, 2026 17:13 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Roblox | [Software Engineer, Economy Platform](https://www.scoutjob.me/jobs/roblox-software-engineer-economy-platform-8060254) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 23:08 UTC |
 | ServiceNow | [Sr Staff AI Engineer - Veza](https://www.scoutjob.me/jobs/servicenow-sr-staff-ai-engineer-veza-jb0075074) | SeniorDataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 23:08 UTC |
 | American Express | [Sr AI Engineer II - Agentic AI](https://www.scoutjob.me/jobs/americanexpress-sr-ai-engineer-ii-agentic-ai-26012915) | SeniorDataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 23:04 UTC |
-| American Express | [Senior Associate-Technology Operations Engineering](https://www.scoutjob.me/jobs/americanexpress-senior-associate-technology-operations-engineering-26012827) | SeniorSoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 23:04 UTC |
-| Lyft | [Staff Software Engineer](https://www.scoutjob.me/jobs/lyft-staff-software-engineer-8761940002) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:55 UTC |
-| Apple | [Environment, Health and Safety (EHS) Engineer](https://www.scoutjob.me/jobs/apple-environment-health-and-safety-ehs-engineer-200679895) | SoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 22:55 UTC |
-| AMD | [Sr. Director, AI Models Software Development](https://www.scoutjob.me/jobs/amd-sr-director-ai-models-software-development-91756) | SeniorSoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 22:54 UTC |
-| Apple | [HomeKit Machine Learning Engineer](https://www.scoutjob.me/jobs/apple-homekit-machine-learning-engineer-200680682) | DataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 22:44 UTC |
