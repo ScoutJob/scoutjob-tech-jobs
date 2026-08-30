@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior IT Enterprise Security Engineer](https://www.scoutjob.me/jobs/nvidia-senior-it-enterprise-security-engineer-893397452540) | SeniorSoftwareEngineeringExtensive | Israel | Aug 30, 2026 | Aug 30, 2026 04:52 UTC |
+| NVIDIA | [Senior Software Systems Engineer, L3 and L4 - Autonomous Driving](https://www.scoutjob.me/jobs/nvidia-senior-software-systems-engineer-l3-and-l4-autonomous-driving-893393786983) | SeniorSoftwareEngineering | Remote | Aug 30, 2026 | Aug 30, 2026 04:52 UTC |
 | NVIDIA | [Senior Network Deployment Engineer, PoP Management - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-network-deployment-engineer-pop-management-dgx-cloud-893397444113) | SeniorSoftwareEngineeringExtensive | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
 | NVIDIA | [Staff Product Engineer, Manufacturing - Board](https://www.scoutjob.me/jobs/nvidia-staff-product-engineer-manufacturing-board-893397444121) | SeniorSoftwareEngineeringExtensive | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
 | NVIDIA | [Senior AI Engineer, High Performance AI](https://www.scoutjob.me/jobs/nvidia-senior-ai-engineer-high-performance-ai-893397443931) | SeniorDataAiMl | Remote | Aug 30, 2026 | Aug 30, 2026 01:45 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior BAS Engineer](https://www.scoutjob.me/jobs/microsoft-senior-bas-engineer-1970393556982065) | SeniorSoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 23:14 UTC |
 | Microsoft | [Industry Architect - Research & Development](https://www.scoutjob.me/jobs/microsoft-industry-architect-research-development-1970393556950611) | SeniorSoftwareEngineeringExtensive | United States | Aug 28, 2026 | Aug 28, 2026 23:14 UTC |
 | Roblox | [Software Engineer, Economy Platform](https://www.scoutjob.me/jobs/roblox-software-engineer-economy-platform-8060254) | SoftwareEngineering | United States | Aug 28, 2026 | Aug 28, 2026 23:08 UTC |
-| ServiceNow | [Sr Staff AI Engineer - Veza](https://www.scoutjob.me/jobs/servicenow-sr-staff-ai-engineer-veza-jb0075074) | SeniorDataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 23:08 UTC |
-| American Express | [Sr AI Engineer II - Agentic AI](https://www.scoutjob.me/jobs/americanexpress-sr-ai-engineer-ii-agentic-ai-26012915) | SeniorDataAiMl | United States | Aug 28, 2026 | Aug 28, 2026 23:04 UTC |
