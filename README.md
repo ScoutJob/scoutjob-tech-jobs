@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ServiceNow | [Staff Full-Stack Engineer, Experience Team](https://www.scoutjob.me/jobs/servicenow-staff-full-stack-engineer-experience-team-jb0075117) | SeniorSoftwareEngineeringExtensive | United States | Sep 05, 2026 | Sep 05, 2026 21:05 UTC |
 | Microsoft | [Cloud & AI Platform Solution Engineer - Melbourne](https://www.scoutjob.me/jobs/microsoft-cloud-ai-platform-solution-engineer-melbourne-1970393556986923) | DataAiMl | Australia | Sep 05, 2026 | Sep 05, 2026 19:45 UTC |
 | Amazon | [Software Dev Engineer, Paragon](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-paragon-5d15c8ec-14d8-42b2-9dd0-f460a7693e1e) | SoftwareEngineering | India | Sep 05, 2026 | Sep 05, 2026 19:21 UTC |
 | Amazon | [Software Dev Engineer II, Paragon Workbench](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-paragon-workbench-e2f082e9-56d4-441d-91ff-27cfaf7da8da) | SoftwareEngineering | India | Sep 05, 2026 | Sep 05, 2026 19:21 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210784142) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:52 UTC |
 | Cloudflare | [Systems Engineer - Database Platform](https://www.scoutjob.me/jobs/cloudflare-systems-engineer-database-platform-8158016) | SoftwareEngineeringExtensive | United States | Sep 04, 2026 | Sep 04, 2026 22:49 UTC |
 | Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-7903cfa0-86fd-47e2-ac1c-7e8a10fe7ded) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
-| Amazon | [Senior Software Dev Engineer , AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-senior-software-dev-engineer-aws-elastic-container-service-db3a2cc1-38fd-4822-847a-3dd1f5402e2a) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
