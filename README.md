@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-on-hamilton-01128-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Sep 05, 2026 | Sep 05, 2026 16:38 UTC |
+| Walmart Global Tech | [Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-front-end-checkout-team-associate-can-mb-portage-la-prairie-03069-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Sep 05, 2026 | Sep 05, 2026 16:15 UTC |
 | JPMorgan Chase | [Software Engineer II - Platform Engineer Databricks](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-platform-engineer-databricks-210786726) | SoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 14:01 UTC |
 | Walmart Global Tech | [Optical Associate, Non-Certified – Sam’s Club](https://www.scoutjob.me/jobs/walmart-optical-associate-non-certified-sam-s-club-usa-ca-lathrop-07684-sams-club) | HardwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 13:55 UTC |
 | Microsoft | [CE Industrial Controls Systems Engineer](https://www.scoutjob.me/jobs/microsoft-ce-industrial-controls-systems-engineer-1970393556988028) | SoftwareEngineeringExtensive | Ireland | Sep 05, 2026 | Sep 05, 2026 13:52 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-8889d9e0-dbe7-4c36-ae26-865675f2531f) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
 | Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-f310665a-6cc1-4cc3-929e-034d03a06293) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
 | Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-2203890c-81d4-4280-95e5-adfbb496650b) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
-| Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-7942408c-ce57-4a1a-9d86-2f33b8e15a18) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
-| Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-8118e22e-78fe-48bc-aee5-be6db9f55cd8) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
