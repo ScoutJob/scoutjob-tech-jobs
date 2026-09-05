@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Solution Architect](https://www.scoutjob.me/jobs/microsoft-solution-architect-1970393556979564) | SeniorSoftwareEngineeringExtensive | United Kingdom | Sep 05, 2026 | Sep 05, 2026 10:26 UTC |
+| Microsoft | [AI Business Solutions Solution Engineering Leader](https://www.scoutjob.me/jobs/microsoft-ai-business-solutions-solution-engineering-leader-1970393556983402) | SeniorSoftwareEngineeringExtensive | United Kingdom | Sep 05, 2026 | Sep 05, 2026 10:26 UTC |
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556981172) | SeniorSoftwareEngineering | Canada | Sep 05, 2026 | Sep 05, 2026 10:26 UTC |
+| Apple | [SMT(PCBA) DFM Engineer](https://www.scoutjob.me/jobs/apple-smt-pcba-dfm-engineer-200673824) | SoftwareEngineeringExtensive | China | Sep 05, 2026 | Sep 05, 2026 09:11 UTC |
 | NVIDIA | [Senior Hardware Validation Engineer](https://www.scoutjob.me/jobs/nvidia-senior-hardware-validation-engineer-893394706523) | SeniorHardwareEngineering | Israel | Sep 05, 2026 | Sep 05, 2026 08:12 UTC |
 | Walmart Global Tech | [Senior Analyst, Product Marketing - Content Analyst](https://www.scoutjob.me/jobs/walmart-senior-analyst-product-marketing-content-analyst-usa-vizio-los-angeles-ca-los-angeles-home-office) | SeniorAnalyst | United States | Sep 05, 2026 | Sep 05, 2026 07:47 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-brandon-mb) | SoftwareEngineeringExtensive | Canada | Sep 05, 2026 | Sep 05, 2026 07:47 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Principal Solutions Engineering – AI server/rack Infrastructure](https://www.scoutjob.me/jobs/amd-principal-solutions-engineering-ai-server-rack-infrastructure-92069) | SeniorSoftwareEngineeringExtensive | United States | Sep 04, 2026 | Sep 04, 2026 22:05 UTC |
 | American Express | [Senior Analyst, Ad Operations](https://www.scoutjob.me/jobs/americanexpress-senior-analyst-ad-operations-26013450) | SeniorAnalyst | United States | Sep 04, 2026 | Sep 04, 2026 22:05 UTC |
 | JPMorgan Chase | [Lead Software Engineer - AI/ML Engineering, GPU ML Serving](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-ai-ml-engineering-gpu-ml-serving-210788451) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 21:57 UTC |
-| Apple | [CPU Verification Engineer](https://www.scoutjob.me/jobs/apple-cpu-verification-engineer-200682021) | HardwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 21:55 UTC |
-| AMD | [Senior Manager Customer Debug Engineering](https://www.scoutjob.me/jobs/amd-senior-manager-customer-debug-engineering-92072) | SeniorSoftwareEngineeringExtensive | United States | Sep 04, 2026 | Sep 04, 2026 21:53 UTC |
-| AMD | [Customer Debug Engineer](https://www.scoutjob.me/jobs/amd-customer-debug-engineer-92073) | SoftwareEngineeringExtensive | United States | Sep 04, 2026 | Sep 04, 2026 21:53 UTC |
-| HubSpot | [Manager, Solutions Engineering Sales Flex - Bogota, Colombia Apply](https://www.scoutjob.me/jobs/hubspot-manager-solutions-engineering-sales-flex-bogota-colombia-apply-8139928) | SeniorSoftwareEngineeringExtensive | Colombia | Sep 04, 2026 | Sep 04, 2026 21:42 UTC |
