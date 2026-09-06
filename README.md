@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ed585b94-5f6a-4225-971d-2a3332cf91f0) | SoftwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 13:56 UTC |
+| Amazon | [Software Development Engineer](https://www.scoutjob.me/jobs/amazon-software-development-engineer-b20b150e-ac7c-4388-a361-ec9773a693b7) | SoftwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 13:56 UTC |
+| NVIDIA | [Software Engineer – Networking Platforms, Diagnostics Tools and Performance](https://www.scoutjob.me/jobs/nvidia-software-engineer-networking-platforms-diagnostics-tools-and-performance-893397561032) | SoftwareEngineering | Israel | Sep 06, 2026 | Sep 06, 2026 13:02 UTC |
+| Amazon | [Software Development Engineer, Shopping Personalization AI, Amazon Stores](https://www.scoutjob.me/jobs/amazon-software-development-engineer-shopping-personalization-ai-amazon-stores-19d42bb4-870c-42fa-a073-7f05fc003375) | SoftwareEngineering | Israel | Sep 06, 2026 | Sep 06, 2026 12:47 UTC |
 | Apple | [Product Solutions Analyst](https://www.scoutjob.me/jobs/apple-product-solutions-analyst-200680652) | Analyst | China | Sep 06, 2026 | Sep 06, 2026 12:21 UTC |
 | Qualcomm | [Multi-Media Post-Silicon validation Engineer](https://www.scoutjob.me/jobs/qualcomm-multi-media-post-silicon-validation-engineer-446720989196) | HardwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 10:12 UTC |
 | AMD | [Sr. RTL Design Engineer](https://www.scoutjob.me/jobs/amd-sr-rtl-design-engineer-91609) | SeniorHardwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 06:53 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Development Engineer - XBOX Product Growth](https://www.scoutjob.me/jobs/microsoft-principal-software-development-engineer-xbox-product-growth-1970393556988107) | SeniorSoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
 | Microsoft | [Senior Software Development Engineer - XBOX Product Growth](https://www.scoutjob.me/jobs/microsoft-senior-software-development-engineer-xbox-product-growth-1970393556988104) | SeniorSoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
 | Microsoft | [Senior Backend Software Engineer, Dataverse](https://www.scoutjob.me/jobs/microsoft-senior-backend-software-engineer-dataverse-1970393556979250) | SeniorSoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
-| Microsoft | [Firmware Engineering INTERN](https://www.scoutjob.me/jobs/microsoft-firmware-engineering-intern-1970393556981972) | HardwareEngineeringIntern | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
-| Microsoft | [Senior Software Engineer - Windows Solutions FDE](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-windows-solutions-fde-1970393556983319) | SeniorSoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
-| JPMorgan Chase | [Senior Lead Software Engineer - AI/ML Developer](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-ai-ml-developer-210786994) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:37 UTC |
-| Cisco | [Senior Software Engineer (Backend)](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-backend-ciscisglobal2023427externalenglobal) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:17 UTC |
