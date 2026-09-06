@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [Sr. RTL Design Engineer](https://www.scoutjob.me/jobs/amd-sr-rtl-design-engineer-91609) | SeniorHardwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 06:53 UTC |
 | Microsoft | [Responsible Content Analyst 2](https://www.scoutjob.me/jobs/microsoft-responsible-content-analyst-2-1970393556982985) | Analyst | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
 | Microsoft | [Senior Security Solution Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-solution-engineer-1970393556984182) | SeniorSoftwareEngineeringExtensive | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
 | Microsoft | [System Software Engineer - WSD](https://www.scoutjob.me/jobs/microsoft-system-software-engineer-wsd-1970393556986837) | SoftwareEngineering | Czech Republic | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cisco | [Senior Software Engineer (Backend)](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-backend-ciscisglobal2023427externalenglobal) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:17 UTC |
 | Amazon | [Senior Software Development Engineer - Release Engineering, Network Product Development](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-release-engineering-network-product-development-da7b804b-2d0c-4510-9387-04bd3d524286) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
 | Amazon | [Software Development Engineer, DevX LIFT](https://www.scoutjob.me/jobs/amazon-software-development-engineer-devx-lift-a23466b9-abca-4d61-936b-fab30613afc8) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
-| PayPal | [Cybersecurity Engineer - Recent Graduate](https://www.scoutjob.me/jobs/paypal-cybersecurity-engineer-recent-graduate-274922260561) | SoftwareEngineeringIntern | United States | Sep 04, 2026 | Sep 04, 2026 22:52 UTC |
