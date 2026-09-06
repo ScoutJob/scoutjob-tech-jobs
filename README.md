@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Responsible Content Analyst 2](https://www.scoutjob.me/jobs/microsoft-responsible-content-analyst-2-1970393556982985) | Analyst | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
+| Microsoft | [Senior Security Solution Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-solution-engineer-1970393556984182) | SeniorSoftwareEngineeringExtensive | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
+| Microsoft | [System Software Engineer - WSD](https://www.scoutjob.me/jobs/microsoft-system-software-engineer-wsd-1970393556986837) | SoftwareEngineering | Czech Republic | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
 | ServiceNow | [Staff Full-Stack Engineer, Experience Team](https://www.scoutjob.me/jobs/servicenow-staff-full-stack-engineer-experience-team-jb0075117) | SeniorSoftwareEngineeringExtensive | United States | Sep 05, 2026 | Sep 05, 2026 21:05 UTC |
 | Microsoft | [Cloud & AI Platform Solution Engineer - Melbourne](https://www.scoutjob.me/jobs/microsoft-cloud-ai-platform-solution-engineer-melbourne-1970393556986923) | DataAiMl | Australia | Sep 05, 2026 | Sep 05, 2026 19:45 UTC |
 | Amazon | [Software Dev Engineer, Paragon](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-paragon-5d15c8ec-14d8-42b2-9dd0-f460a7693e1e) | SoftwareEngineering | India | Sep 05, 2026 | Sep 05, 2026 19:21 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Senior Software Development Engineer - Release Engineering, Network Product Development](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-release-engineering-network-product-development-da7b804b-2d0c-4510-9387-04bd3d524286) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
 | Amazon | [Software Development Engineer, DevX LIFT](https://www.scoutjob.me/jobs/amazon-software-development-engineer-devx-lift-a23466b9-abca-4d61-936b-fab30613afc8) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
 | PayPal | [Cybersecurity Engineer - Recent Graduate](https://www.scoutjob.me/jobs/paypal-cybersecurity-engineer-recent-graduate-274922260561) | SoftwareEngineeringIntern | United States | Sep 04, 2026 | Sep 04, 2026 22:52 UTC |
-| JPMorgan Chase | [Software Engineer II](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-210784142) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:52 UTC |
-| Cloudflare | [Systems Engineer - Database Platform](https://www.scoutjob.me/jobs/cloudflare-systems-engineer-database-platform-8158016) | SoftwareEngineeringExtensive | United States | Sep 04, 2026 | Sep 04, 2026 22:49 UTC |
-| Amazon | [Software Dev Engineer, AWS Elastic Container Service](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-aws-elastic-container-service-7903cfa0-86fd-47e2-ac1c-7e8a10fe7ded) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 22:39 UTC |
