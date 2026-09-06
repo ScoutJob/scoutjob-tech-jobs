@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Product Solutions Analyst](https://www.scoutjob.me/jobs/apple-product-solutions-analyst-200680652) | Analyst | China | Sep 06, 2026 | Sep 06, 2026 12:21 UTC |
+| Qualcomm | [Multi-Media Post-Silicon validation Engineer](https://www.scoutjob.me/jobs/qualcomm-multi-media-post-silicon-validation-engineer-446720989196) | HardwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 10:12 UTC |
 | AMD | [Sr. RTL Design Engineer](https://www.scoutjob.me/jobs/amd-sr-rtl-design-engineer-91609) | SeniorHardwareEngineering | India | Sep 06, 2026 | Sep 06, 2026 06:53 UTC |
 | Microsoft | [Responsible Content Analyst 2](https://www.scoutjob.me/jobs/microsoft-responsible-content-analyst-2-1970393556982985) | Analyst | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
 | Microsoft | [Senior Security Solution Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-solution-engineer-1970393556984182) | SeniorSoftwareEngineeringExtensive | United States | Sep 06, 2026 | Sep 06, 2026 00:15 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineer - Windows Solutions FDE](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-windows-solutions-fde-1970393556983319) | SeniorSoftwareEngineering | United States | Sep 05, 2026 | Sep 05, 2026 00:28 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - AI/ML Developer](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-ai-ml-developer-210786994) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:37 UTC |
 | Cisco | [Senior Software Engineer (Backend)](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-backend-ciscisglobal2023427externalenglobal) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:17 UTC |
-| Amazon | [Senior Software Development Engineer - Release Engineering, Network Product Development](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-release-engineering-network-product-development-da7b804b-2d0c-4510-9387-04bd3d524286) | SeniorSoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
-| Amazon | [Software Development Engineer, DevX LIFT](https://www.scoutjob.me/jobs/amazon-software-development-engineer-devx-lift-a23466b9-abca-4d61-936b-fab30613afc8) | SoftwareEngineering | United States | Sep 04, 2026 | Sep 04, 2026 23:01 UTC |
