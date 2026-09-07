@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ByteDance | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.scoutjob.me/jobs/bytedance-multi-cloud-cdn-data-platform-engineer-graduate-cdn-platform-2027-start-7673632479987992837) | DataAiMlIntern | Canada | Sep 07, 2026 | Sep 07, 2026 20:37 UTC |
+| Zoom | [DevOps Engineer](https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-remote-united-states-13f0b5c5-0b2b-446b-b5cc-4a65981e6649) | SoftwareEngineeringExtensive | Remote | Sep 07, 2026 | Sep 07, 2026 19:59 UTC |
 | Amazon | [Software Development Engineer II , Amazon Cross Border Tech](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-cross-border-tech-79a88cb2-f125-47bc-9fb5-0f6eaa4059ab) | SoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 18:08 UTC |
 | Amazon | [Software Development Manager, Measurements and Data Science (MADS)](https://www.scoutjob.me/jobs/amazon-software-development-manager-measurements-and-data-science-mads-43b0d9f7-1fd9-48a1-8207-20072ed661e8) | EngineeringManagement | India | Sep 07, 2026 | Sep 07, 2026 18:07 UTC |
 | JPMorgan Chase | [Data Scientist Lead-Vice President](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-lead-vice-president-210788390) | SeniorDataAiMl | United States | Sep 07, 2026 | Sep 07, 2026 17:46 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Bloomberg | [Senior SAP ABAP Software Engineer - Pune](https://www.scoutjob.me/jobs/bloomberg-senior-sap-abap-software-engineer-pune-20448) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 08:09 UTC |
 | AMD | [Senior Firmware Engineer](https://www.scoutjob.me/jobs/amd-senior-firmware-engineer-91840) | SeniorHardwareEngineering | Serbia | Sep 07, 2026 | Sep 07, 2026 08:08 UTC |
 | JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210785887) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 07:47 UTC |
-| AMD | [Lead SoC validation with ARM exp](https://www.scoutjob.me/jobs/amd-lead-soc-validation-with-arm-exp-92000) | SeniorHardwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 07:32 UTC |
-| Apple | [Camera Systems Engineer](https://www.scoutjob.me/jobs/apple-camera-systems-engineer-200682191) | SoftwareEngineeringExtensive | Israel | Sep 07, 2026 | Sep 07, 2026 07:21 UTC |

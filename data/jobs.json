@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-09-07T20:21:55.426197+00:00",
+  "generatedAtUtc": "2026-09-07T23:12:25.306770+00:00",
   "publicDelayMinutes": 60,
-  "total": 140,
+  "total": 141,
   "jobs": [
+    {
+      "id": "02b89f04-cdb2-439e-9f77-60d7716194f0",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "title": "Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start",
+      "roleCategory": "DataAiMlIntern",
+      "country": "Canada",
+      "location": "Canada",
+      "isRemote": false,
+      "isInternship": true,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-09-07T20:37:05.193321Z",
+      "lastVerifiedAtUtc": "2026-09-07T20:37:05.193321Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/bytedance-multi-cloud-cdn-data-platform-engineer-graduate-cdn-platform-2027-start-7673632479987992837",
+      "sourceUrl": "https://joinbytedance.com/careers?pid=7673632479987992837"
+    },
+    {
+      "id": "17971693-afbd-4142-849b-998ead877d55",
+      "company": "Zoom",
+      "companySlug": "zoom",
+      "title": "DevOps Engineer",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "Remote",
+      "location": "Remote",
+      "isRemote": true,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-09-07T19:59:11.557478Z",
+      "lastVerifiedAtUtc": "2026-09-07T19:59:11.557478Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-remote-united-states-13f0b5c5-0b2b-446b-b5cc-4a65981e6649",
+      "sourceUrl": "https://careers.zoom.us/jobs/devops-engineer-remote-united-states-13f0b5c5-0b2b-446b-b5cc-4a65981e6649"
+    },
     {
       "id": "b1730eb5-13d7-48c8-9fb2-9703e5602120",
       "company": "Amazon",
@@ -2226,22 +2258,6 @@
       "lastVerifiedAtUtc": "2026-09-06T00:15:42.208507Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-system-software-engineer-wsd-1970393556986837",
       "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1970393556986837"
-    },
-    {
-      "id": "d3bab671-2b77-488f-b427-83393b40a630",
-      "company": "ServiceNow",
-      "companySlug": "servicenow",
-      "title": "Staff Full-Stack Engineer, Experience Team",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "Remote",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-09-05T21:05:18.498523Z",
-      "lastVerifiedAtUtc": "2026-09-05T21:05:18.498523Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/servicenow-staff-full-stack-engineer-experience-team-jb0075117",
-      "sourceUrl": "https://careers.servicenow.com/jobs/744000147650939/staff-full-stack-engineer-experience-team"
     }
   ]
 }
