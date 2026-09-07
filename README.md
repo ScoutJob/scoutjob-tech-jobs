@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer II , Amazon Cross Border Tech](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-cross-border-tech-79a88cb2-f125-47bc-9fb5-0f6eaa4059ab) | SoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 18:08 UTC |
+| Amazon | [Software Development Manager, Measurements and Data Science (MADS)](https://www.scoutjob.me/jobs/amazon-software-development-manager-measurements-and-data-science-mads-43b0d9f7-1fd9-48a1-8207-20072ed661e8) | EngineeringManagement | India | Sep 07, 2026 | Sep 07, 2026 18:07 UTC |
+| JPMorgan Chase | [Data Scientist Lead-Vice President](https://www.scoutjob.me/jobs/jpmorgan-data-scientist-lead-vice-president-210788390) | SeniorDataAiMl | United States | Sep 07, 2026 | Sep 07, 2026 17:46 UTC |
+| Bloomberg | [Senior Software Engineer - Runtime Diagnostics](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-runtime-diagnostics-21942) | SeniorSoftwareEngineering | Ireland | Sep 07, 2026 | Sep 07, 2026 17:10 UTC |
 | AMD | [Database & Data Platform Engineer](https://www.scoutjob.me/jobs/amd-database-data-platform-engineer-91537) | DataAiMl | Ireland | Sep 07, 2026 | Sep 07, 2026 15:47 UTC |
 | Dropbox | [PARENT - Software Engineering Intern (Summer 2027)](https://www.scoutjob.me/jobs/dropbox-parent-software-engineering-intern-summer-2027-8106224) | SoftwareEngineeringIntern | Remote | Sep 07, 2026 | Sep 07, 2026 15:09 UTC |
 | Lyft | [Security Assurance Analyst, Security and Privacy](https://www.scoutjob.me/jobs/lyft-security-assurance-analyst-security-and-privacy-8783345002) | Analyst | Mexico | Sep 07, 2026 | Sep 07, 2026 14:59 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210785887) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 07:47 UTC |
 | AMD | [Lead SoC validation with ARM exp](https://www.scoutjob.me/jobs/amd-lead-soc-validation-with-arm-exp-92000) | SeniorHardwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 07:32 UTC |
 | Apple | [Camera Systems Engineer](https://www.scoutjob.me/jobs/apple-camera-systems-engineer-200682191) | SoftwareEngineeringExtensive | Israel | Sep 07, 2026 | Sep 07, 2026 07:21 UTC |
-| Amazon | [Software Development Engineer, International Emerging Stores Sub-same Day](https://www.scoutjob.me/jobs/amazon-software-development-engineer-international-emerging-stores-sub-same-day-45ba46f5-67e8-4de6-bca9-d056518e6d45) | SoftwareEngineering | United States | Sep 07, 2026 | Sep 07, 2026 07:21 UTC |
-| Amazon | [Sr. Software Engineer- AI/ML, AWS Neuron](https://www.scoutjob.me/jobs/amazon-sr-software-engineer-ai-ml-aws-neuron-fba8fa4b-f055-4047-a1d2-f47bba880dca) | SeniorSoftwareEngineering | United States | Sep 07, 2026 | Sep 07, 2026 07:21 UTC |
-| JPMorgan Chase | [Software Engineer III, Asset Management Trading Technology](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-asset-management-trading-technology-210788583) | SeniorSoftwareEngineering | Hong Kong | Sep 07, 2026 | Sep 07, 2026 07:11 UTC |
-| Qualcomm | [Mechanical/Hardware Engineer, Staff- Technical Standards – Data Center Systems Infrastructure](https://www.scoutjob.me/jobs/qualcomm-mechanical-hardware-engineer-staff-technical-standards-data-center-systems-infrastructure-446719918998) | SeniorHardwareEngineering | Taiwan | Sep 07, 2026 | Sep 07, 2026 07:11 UTC |
