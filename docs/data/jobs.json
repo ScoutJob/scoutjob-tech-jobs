@@ -1,8 +1,40 @@
 {
-  "generatedAtUtc": "2026-09-07T23:12:25.306770+00:00",
+  "generatedAtUtc": "2026-09-08T02:21:47.999694+00:00",
   "publicDelayMinutes": 60,
-  "total": 141,
+  "total": 140,
   "jobs": [
+    {
+      "id": "1ff12e2b-a481-44fc-b6b9-b686272971cb",
+      "company": "Amazon",
+      "companySlug": "amazon",
+      "title": "Data Center Technical Operations Engineer, SYD - East DCEO",
+      "roleCategory": "SoftwareEngineeringExtensive",
+      "country": "Australia",
+      "location": "Australia",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-09-08T00:36:29.037204Z",
+      "lastVerifiedAtUtc": "2026-09-08T00:36:29.037204Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/amazon-data-center-technical-operations-engineer-syd-east-dceo-44e81874-980b-4fee-997e-c051a28b3e2a",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/10531292/data-center-technical-operations-engineer-syd-east-dceo"
+    },
+    {
+      "id": "77f191d1-d4d5-4b0e-91de-e47fdde57440",
+      "company": "Apple",
+      "companySlug": "apple",
+      "title": "Machine Learning Manager",
+      "roleCategory": "SeniorDataAiMl",
+      "country": "China",
+      "location": "China",
+      "isRemote": false,
+      "isInternship": false,
+      "datePostedUtc": "",
+      "firstDiscoveredAtUtc": "2026-09-07T23:25:25.908646Z",
+      "lastVerifiedAtUtc": "2026-09-07T23:25:25.908646Z",
+      "scoutJobUrl": "https://www.scoutjob.me/jobs/apple-machine-learning-manager-200681931",
+      "sourceUrl": "https://jobs.apple.com/en-us/details/200681931/machine-learning-manager"
+    },
     {
       "id": "02b89f04-cdb2-439e-9f77-60d7716194f0",
       "company": "ByteDance",
@@ -2210,54 +2242,6 @@
       "lastVerifiedAtUtc": "2026-09-06T06:53:27.894267Z",
       "scoutJobUrl": "https://www.scoutjob.me/jobs/amd-sr-rtl-design-engineer-91609",
       "sourceUrl": "https://careers.amd.com/careers-home/jobs/91609"
-    },
-    {
-      "id": "834291b4-20ce-41b2-955c-78da1f9ae366",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Responsible Content Analyst 2",
-      "roleCategory": "Analyst",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-09-06T00:15:42.26918Z",
-      "lastVerifiedAtUtc": "2026-09-06T00:15:42.26918Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-responsible-content-analyst-2-1970393556982985",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1970393556982985"
-    },
-    {
-      "id": "c8b23820-d52a-421c-ac92-87731eaba6ac",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "Senior Security Solution Engineer",
-      "roleCategory": "SeniorSoftwareEngineeringExtensive",
-      "country": "United States",
-      "location": "United States",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-09-06T00:15:42.238225Z",
-      "lastVerifiedAtUtc": "2026-09-06T00:15:42.238225Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-senior-security-solution-engineer-1970393556984182",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1970393556984182"
-    },
-    {
-      "id": "c026a2e0-8f13-411d-968e-7dc101a0ea9e",
-      "company": "Microsoft",
-      "companySlug": "microsoft",
-      "title": "System Software Engineer - WSD",
-      "roleCategory": "SoftwareEngineering",
-      "country": "Czech Republic",
-      "location": "Czech Republic",
-      "isRemote": false,
-      "isInternship": false,
-      "datePostedUtc": "",
-      "firstDiscoveredAtUtc": "2026-09-06T00:15:42.208507Z",
-      "lastVerifiedAtUtc": "2026-09-06T00:15:42.208507Z",
-      "scoutJobUrl": "https://www.scoutjob.me/jobs/microsoft-system-software-engineer-wsd-1970393556986837",
-      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1970393556986837"
     }
   ]
 }

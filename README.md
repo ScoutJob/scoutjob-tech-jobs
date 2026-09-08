@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Data Center Technical Operations Engineer, SYD - East DCEO](https://www.scoutjob.me/jobs/amazon-data-center-technical-operations-engineer-syd-east-dceo-44e81874-980b-4fee-997e-c051a28b3e2a) | SoftwareEngineeringExtensive | Australia | Sep 08, 2026 | Sep 08, 2026 00:36 UTC |
+| Apple | [Machine Learning Manager](https://www.scoutjob.me/jobs/apple-machine-learning-manager-200681931) | SeniorDataAiMl | China | Sep 07, 2026 | Sep 07, 2026 23:25 UTC |
 | ByteDance | [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.scoutjob.me/jobs/bytedance-multi-cloud-cdn-data-platform-engineer-graduate-cdn-platform-2027-start-7673632479987992837) | DataAiMlIntern | Canada | Sep 07, 2026 | Sep 07, 2026 20:37 UTC |
 | Zoom | [DevOps Engineer](https://www.scoutjob.me/jobs/zoom-devops-engineer-devops-engineer-remote-united-states-13f0b5c5-0b2b-446b-b5cc-4a65981e6649) | SoftwareEngineeringExtensive | Remote | Sep 07, 2026 | Sep 07, 2026 19:59 UTC |
 | Amazon | [Software Development Engineer II , Amazon Cross Border Tech](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-cross-border-tech-79a88cb2-f125-47bc-9fb5-0f6eaa4059ab) | SoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 18:08 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Sys/Test Validation Engineer](https://www.scoutjob.me/jobs/amd-sys-test-validation-engineer-91915) | SoftwareEngineeringExtensive | Taiwan | Sep 07, 2026 | Sep 07, 2026 08:19 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer Java Spring boor Gen AI](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-java-spring-boor-gen-ai-210765117) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 08:11 UTC |
 | Bloomberg | [Senior SAP ABAP Software Engineer - Pune](https://www.scoutjob.me/jobs/bloomberg-senior-sap-abap-software-engineer-pune-20448) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 08:09 UTC |
-| AMD | [Senior Firmware Engineer](https://www.scoutjob.me/jobs/amd-senior-firmware-engineer-91840) | SeniorHardwareEngineering | Serbia | Sep 07, 2026 | Sep 07, 2026 08:08 UTC |
-| JPMorgan Chase | [Software Engineer III - Java](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-210785887) | SeniorSoftwareEngineering | India | Sep 07, 2026 | Sep 07, 2026 07:47 UTC |
