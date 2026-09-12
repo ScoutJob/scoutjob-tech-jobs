@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| OpenAI | [Software Engineer, Silicon Design Methodology](https://www.scoutjob.me/jobs/openai-software-engineer-silicon-design-methodology-e961c9df-caa0-4b29-b37c-a3e02c564615) | SoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 16:55 UTC |
 | Cisco | [Security Engineer (Remote)](https://www.scoutjob.me/jobs/cisco-security-engineer-remote-ciscisglobal2025594externalenglobal) | SoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 16:12 UTC |
 | Cisco | [Principal Software Engineer](https://www.scoutjob.me/jobs/cisco-principal-software-engineer-ciscisglobal2025605externalenglobal) | SeniorSoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 16:12 UTC |
 | Microsoft | [Software Engineer 2](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-1970393556991893) | SoftwareEngineering | India | Sep 12, 2026 | Sep 12, 2026 15:55 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Solutions Architect, Robotics Simulation](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-robotics-simulation-893397662801) | SeniorDataAiMl | Remote | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
 | NVIDIA | [Senior High Performance AI Engineer, Agentic AI](https://www.scoutjob.me/jobs/nvidia-senior-high-performance-ai-engineer-agentic-ai-893397574044) | SeniorDataAiMl | Remote | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
 | NVIDIA | [Senior Staff Engineer - Employee Productivity](https://www.scoutjob.me/jobs/nvidia-senior-staff-engineer-employee-productivity-893397662811) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
-| NVIDIA | [Senior Software Engineer, AI Agent Compute](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-ai-agent-compute-893397662832) | SeniorDataAiMl | Remote | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
