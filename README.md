@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Okta | [Staff Software Engineer-Salesforce development](https://www.scoutjob.me/jobs/okta-staff-software-engineer-salesforce-development-8053763) | SeniorSoftwareEngineering | India | Sep 12, 2026 | Sep 12, 2026 09:35 UTC |
+| Okta | [Senior Data Engineer](https://www.scoutjob.me/jobs/okta-senior-data-engineer-8132163) | SeniorDataAiMl | India | Sep 12, 2026 | Sep 12, 2026 09:35 UTC |
 | Microsoft | [Software Engineer II - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-ctj-poly-1970393556995354) | SoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 05:00 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556995518) | SeniorSoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 05:00 UTC |
 | Discord | [Manager, IT Ops Engineering](https://www.scoutjob.me/jobs/discord-manager-it-ops-engineering-8801498002) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 04:16 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Software Engineer - C++](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-c-1970393556982282) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:15 UTC |
 | Cisco | [Leader, Semiconductor Product Engineering](https://www.scoutjob.me/jobs/cisco-leader-semiconductor-product-engineering-ciscisglobal2024238externalenglobal) | SeniorHardwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:12 UTC |
 | Cisco | [Senior Software Engineer, Control Plane (Go) - Hypershield](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-control-plane-go-hypershield-ciscisglobal2022480externalenglobal) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:12 UTC |
-| NVIDIA | [Senior Solutions Architect, Generative AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-generative-ai-893397662274) | SeniorDataAiMl | India | Sep 11, 2026 | Sep 11, 2026 22:11 UTC |
-| Oracle | [Software Developer 5](https://www.scoutjob.me/jobs/oracle-software-developer-5-345296) | SoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 21:57 UTC |
