@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Director - Cyber Security / Agentic AI - IAM Engineering](https://www.scoutjob.me/jobs/americanexpress-director-cyber-security-agentic-ai-iam-engineering-26013692) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 22:37 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-344732) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 20:35 UTC |
 | JPMorgan Chase | [Lead Architect: AI enablement](https://www.scoutjob.me/jobs/jpmorgan-lead-architect-ai-enablement-210777990) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 19:23 UTC |
 | JPMorgan Chase | [Senior Lead Site Reliability Engineer](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-site-reliability-engineer-210786327) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 19:23 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cloudflare | [Rack Integration Operations Engineer](https://www.scoutjob.me/jobs/cloudflare-rack-integration-operations-engineer-8196631) | SoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:52 UTC |
 | NVIDIA | [Silicon Co-design Intern - 2027](https://www.scoutjob.me/jobs/nvidia-silicon-co-design-intern-2027-893397662806) | HardwareEngineeringIntern | China | Sep 11, 2026 | Sep 11, 2026 22:46 UTC |
 | Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-345241) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:46 UTC |
-| AMD | [Principal Cloud & AI Workload Performance Analysis Engineer](https://www.scoutjob.me/jobs/amd-principal-cloud-ai-workload-performance-analysis-engineer-91443) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:41 UTC |
