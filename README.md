@@ -26,6 +26,16 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Security Engineer (Remote)](https://www.scoutjob.me/jobs/cisco-security-engineer-remote-ciscisglobal2025594externalenglobal) | SoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 16:12 UTC |
+| Cisco | [Principal Software Engineer](https://www.scoutjob.me/jobs/cisco-principal-software-engineer-ciscisglobal2025605externalenglobal) | SeniorSoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 16:12 UTC |
+| Microsoft | [Software Engineer 2](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-1970393556991893) | SoftwareEngineering | India | Sep 12, 2026 | Sep 12, 2026 15:55 UTC |
+| Microsoft | [Software Engineer 2](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-1970393556980655) | SoftwareEngineering | India | Sep 12, 2026 | Sep 12, 2026 15:55 UTC |
+| Apple | [Principal Quality Engineer](https://www.scoutjob.me/jobs/apple-principal-quality-engineer-200679737) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 14:48 UTC |
+| CVS Health | [Senior Data Scientist](https://www.scoutjob.me/jobs/cvs-senior-data-scientist-r0983818) | SeniorDataAiMl | United States | Sep 12, 2026 | Sep 12, 2026 14:30 UTC |
+| CVS Health | [Senior Software Engineer - Android](https://www.scoutjob.me/jobs/cvs-senior-software-engineer-android-r1015774) | SeniorSoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 14:30 UTC |
+| CVS Health | [Distinguished Engineer – AI Security](https://www.scoutjob.me/jobs/cvs-distinguished-engineer-ai-security-r0850210) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 14:30 UTC |
+| CVS Health | [AVP, Digital Engineering](https://www.scoutjob.me/jobs/cvs-avp-digital-engineering-r0994665) | SoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 14:30 UTC |
+| Amazon | [Software Development Engineer II — Ads Reporting, Programmatic Reporting Interfaces](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-ads-reporting-programmatic-reporting-interfaces-73cbc300-d6a2-4586-a64b-3ee1ca8868eb) | SoftwareEngineering | Canada | Sep 12, 2026 | Sep 12, 2026 14:00 UTC |
 | AMD | [SerDes RTL Design Engineer](https://www.scoutjob.me/jobs/amd-serdes-rtl-design-engineer-91913) | HardwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 11:38 UTC |
 | Okta | [Staff Software Engineer-Salesforce development](https://www.scoutjob.me/jobs/okta-staff-software-engineer-salesforce-development-8053763) | SeniorSoftwareEngineering | India | Sep 12, 2026 | Sep 12, 2026 09:35 UTC |
 | Okta | [Senior Data Engineer](https://www.scoutjob.me/jobs/okta-senior-data-engineer-8132163) | SeniorDataAiMl | India | Sep 12, 2026 | Sep 12, 2026 09:35 UTC |
@@ -91,13 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior High Performance AI Engineer, Agentic AI](https://www.scoutjob.me/jobs/nvidia-senior-high-performance-ai-engineer-agentic-ai-893397574044) | SeniorDataAiMl | Remote | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
 | NVIDIA | [Senior Staff Engineer - Employee Productivity](https://www.scoutjob.me/jobs/nvidia-senior-staff-engineer-employee-productivity-893397662811) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
 | NVIDIA | [Senior Software Engineer, AI Agent Compute](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-ai-agent-compute-893397662832) | SeniorDataAiMl | Remote | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
-| NVIDIA | [Senior AI and ML Software Engineer](https://www.scoutjob.me/jobs/nvidia-senior-ai-and-ml-software-engineer-893397662805) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
-| NVIDIA | [Staff Unified Communications Engineer](https://www.scoutjob.me/jobs/nvidia-staff-unified-communications-engineer-893397662777) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:39 UTC |
-| JPMorgan Chase | [Software Engineer III - Java/AWS/Python](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-java-aws-python-210787340) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:32 UTC |
-| Discord | [Senior Software Engineer, Machine Learning (Safety)](https://www.scoutjob.me/jobs/discord-senior-software-engineer-machine-learning-safety-8369347002) | SeniorDataAiMl | United States | Sep 11, 2026 | Sep 11, 2026 22:29 UTC |
-| Apple | [Health Sensing Hardware - Sensor Engineer](https://www.scoutjob.me/jobs/apple-health-sensing-hardware-sensor-engineer-200683078) | HardwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:19 UTC |
-| AMD | [Compute and Enterprise AI Engineering Operations Leader](https://www.scoutjob.me/jobs/amd-compute-and-enterprise-ai-engineering-operations-leader-90974) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:18 UTC |
-| Microsoft | [Critical Environment Electrical Engineer](https://www.scoutjob.me/jobs/microsoft-critical-environment-electrical-engineer-1970393556990417) | HardwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:15 UTC |
-| Microsoft | [Software Engineer - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineer-ctj-poly-1970393556991324) | SoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:15 UTC |
-| Microsoft | [Senior Software Engineer - C++](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-c-1970393556982282) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:15 UTC |
-| Cisco | [Leader, Semiconductor Product Engineering](https://www.scoutjob.me/jobs/cisco-leader-semiconductor-product-engineering-ciscisglobal2024238externalenglobal) | SeniorHardwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 22:12 UTC |
