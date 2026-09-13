@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Engineer, Associate](https://www.scoutjob.me/jobs/qualcomm-engineer-associate-446720933648) | SoftwareEngineeringExtensive | India | Sep 13, 2026 | Sep 13, 2026 19:38 UTC |
+| Apple | [System Engineer - Business & Education](https://www.scoutjob.me/jobs/apple-system-engineer-business-education-200683331) | SoftwareEngineeringExtensive | Colombia | Sep 13, 2026 | Sep 13, 2026 18:57 UTC |
 | Qualcomm | [Physical Design Engineer](https://www.scoutjob.me/jobs/qualcomm-physical-design-engineer-446721073497) | HardwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 17:15 UTC |
 | Qualcomm | [Embedded DSP Software Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-embedded-dsp-software-engineer-senior-446721046163) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 17:15 UTC |
 | JPMorgan Chase | [2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore](https://www.scoutjob.me/jobs/jpmorgan-2027-markets-quantitative-trading-research-analyst-program-off-cycle-internship-singapore-210784366) | Analyst | Singapore | Sep 13, 2026 | Sep 13, 2026 16:20 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Sr. Software Engineering Manager, Foundation - Wallet, Payments & Commerce](https://www.scoutjob.me/jobs/apple-sr-software-engineering-manager-foundation-wallet-payments-commerce-200682848) | EngineeringManagement | United States | Sep 11, 2026 | Sep 11, 2026 23:55 UTC |
 | Anthropic | [Technical Architect](https://www.scoutjob.me/jobs/anthropic-technical-architect-5421566008) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:41 UTC |
 | Oracle | [Senior Manager, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-platform-software-engineering-344558) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:23 UTC |
-| Microsoft | [Applied Scientist](https://www.scoutjob.me/jobs/microsoft-applied-scientist-1970393556994920) | DataAiMl | China | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556994893) | SoftwareEngineering | China | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
