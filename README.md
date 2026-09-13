@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Security Engineer - Google Cloud.](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-security-engineer-google-cloud-210783046) | SeniorSoftwareEngineeringExtensive | Ireland | Sep 13, 2026 | Sep 13, 2026 15:35 UTC |
+| Snowflake | [Solution Engineer](https://www.scoutjob.me/jobs/snowflake-solution-engineer-sncous43a8340593c143b5973fd53ae4b8df86externalenus737e26ff7ac1493e8385868093ec4b78) | SoftwareEngineeringExtensive | United States | Sep 13, 2026 | Sep 13, 2026 14:55 UTC |
+| Cisco | [Data Engineer](https://www.scoutjob.me/jobs/cisco-data-engineer-ciscisglobal2023841externalenglobal) | DataAiMl | United States | Sep 13, 2026 | Sep 13, 2026 14:18 UTC |
+| American Express | [Agentic AI Cybersecurity Engineer - Identity Access Lifecycle Managementgmt](https://www.scoutjob.me/jobs/americanexpress-agentic-ai-cybersecurity-engineer-identity-access-lifecycle-managementgmt-26013455) | SoftwareEngineeringExtensive | United States | Sep 13, 2026 | Sep 13, 2026 12:58 UTC |
 | American Express | [Analyst-Data Science](https://www.scoutjob.me/jobs/americanexpress-analyst-data-science-26013533) | Analyst | India | Sep 13, 2026 | Sep 13, 2026 11:55 UTC |
 | Atlassian | [Senior Data Engineer (P50) — Reliability Process Group (RPG)](https://www.scoutjob.me/jobs/atlassian-senior-data-engineer-p50-reliability-process-group-rpg-27198) | SeniorDataAiMl | Remote | Sep 13, 2026 | Sep 13, 2026 04:29 UTC |
 | ByteDance | [Senior Software Engineer - Data Agent & Agentic Search](https://www.scoutjob.me/jobs/bytedance-senior-software-engineer-data-agent-agentic-search-7680327698443946293) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 04:14 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Solution Engineer- AI App Modernization](https://www.scoutjob.me/jobs/microsoft-solution-engineer-ai-app-modernization-1970393556981795) | SoftwareEngineeringExtensive | Mexico | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
 | NVIDIA | [Senior Solution Architect, AI Infrastructure](https://www.scoutjob.me/jobs/nvidia-senior-solution-architect-ai-infrastructure-893397662827) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
 | NVIDIA | [Senior Staff Site Reliability Operations Technical Lead](https://www.scoutjob.me/jobs/nvidia-senior-staff-site-reliability-operations-technical-lead-893397662766) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
-| NVIDIA | [Senior Staff Site Reliability Operations](https://www.scoutjob.me/jobs/nvidia-senior-staff-site-reliability-operations-893397662823) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
-| NVIDIA | [Senior Solutions Architect, Networking Solutions](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-networking-solutions-893397663020) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
-| Anthropic | [Staff Software Engineer, Search](https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-search-5422684008) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:17 UTC |
-| Anthropic | [Senior Engineering Manager, Capacity Engineering](https://www.scoutjob.me/jobs/anthropic-senior-engineering-manager-capacity-engineering-5363210008) | EngineeringManagement | United States | Sep 11, 2026 | Sep 11, 2026 23:17 UTC |
