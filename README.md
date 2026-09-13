@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Vice President Lead Java Software Engineer](https://www.scoutjob.me/jobs/jpmorgan-vice-president-lead-java-software-engineer-210790530) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 22:03 UTC |
+| Canva | [Staff Software Engineer - (Portable Libraries) Rust/C++](https://www.scoutjob.me/jobs/canva-staff-software-engineer-portable-libraries-rust-c-6000000001400368) | SeniorSoftwareEngineering | Australia | Sep 13, 2026 | Sep 13, 2026 21:45 UTC |
 | Qualcomm | [Engineer, Associate](https://www.scoutjob.me/jobs/qualcomm-engineer-associate-446720933648) | SoftwareEngineeringExtensive | India | Sep 13, 2026 | Sep 13, 2026 19:38 UTC |
 | Apple | [System Engineer - Business & Education](https://www.scoutjob.me/jobs/apple-system-engineer-business-education-200683331) | SoftwareEngineeringExtensive | Colombia | Sep 13, 2026 | Sep 13, 2026 18:57 UTC |
 | Qualcomm | [Physical Design Engineer](https://www.scoutjob.me/jobs/qualcomm-physical-design-engineer-446721073497) | HardwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 17:15 UTC |
@@ -97,7 +99,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2023750externalenglobal) | SoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 00:11 UTC |
 | Cisco | [DevOps Software Engineer Hybrid](https://www.scoutjob.me/jobs/cisco-devops-software-engineer-hybrid-ciscisglobal2023709externalenglobal) | SoftwareEngineering | United States | Sep 12, 2026 | Sep 12, 2026 00:11 UTC |
 | Cisco | [Sales Operations Analyst Hybrid](https://www.scoutjob.me/jobs/cisco-sales-operations-analyst-hybrid-ciscisglobal2023707externalenglobal) | Analyst | United States | Sep 12, 2026 | Sep 12, 2026 00:11 UTC |
-| Apple | [RFIC Layout Engineer](https://www.scoutjob.me/jobs/apple-rfic-layout-engineer-200683238) | SoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 23:55 UTC |
-| Apple | [Sr. Software Engineering Manager, Foundation - Wallet, Payments & Commerce](https://www.scoutjob.me/jobs/apple-sr-software-engineering-manager-foundation-wallet-payments-commerce-200682848) | EngineeringManagement | United States | Sep 11, 2026 | Sep 11, 2026 23:55 UTC |
-| Anthropic | [Technical Architect](https://www.scoutjob.me/jobs/anthropic-technical-architect-5421566008) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:41 UTC |
-| Oracle | [Senior Manager, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-platform-software-engineering-344558) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:23 UTC |
