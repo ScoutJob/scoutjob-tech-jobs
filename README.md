@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [Physical Design Engineer](https://www.scoutjob.me/jobs/qualcomm-physical-design-engineer-446721073497) | HardwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 17:15 UTC |
+| Qualcomm | [Embedded DSP Software Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-embedded-dsp-software-engineer-senior-446721046163) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 17:15 UTC |
+| JPMorgan Chase | [2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore](https://www.scoutjob.me/jobs/jpmorgan-2027-markets-quantitative-trading-research-analyst-program-off-cycle-internship-singapore-210784366) | Analyst | Singapore | Sep 13, 2026 | Sep 13, 2026 16:20 UTC |
 | JPMorgan Chase | [Senior Lead Security Engineer - Google Cloud.](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-security-engineer-google-cloud-210783046) | SeniorSoftwareEngineeringExtensive | Ireland | Sep 13, 2026 | Sep 13, 2026 15:35 UTC |
 | Snowflake | [Solution Engineer](https://www.scoutjob.me/jobs/snowflake-solution-engineer-sncous43a8340593c143b5973fd53ae4b8df86externalenus737e26ff7ac1493e8385868093ec4b78) | SoftwareEngineeringExtensive | United States | Sep 13, 2026 | Sep 13, 2026 14:55 UTC |
 | Cisco | [Data Engineer](https://www.scoutjob.me/jobs/cisco-data-engineer-ciscisglobal2023841externalenglobal) | DataAiMl | United States | Sep 13, 2026 | Sep 13, 2026 14:18 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Oracle | [Senior Manager, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-platform-software-engineering-344558) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:23 UTC |
 | Microsoft | [Applied Scientist](https://www.scoutjob.me/jobs/microsoft-applied-scientist-1970393556994920) | DataAiMl | China | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556994893) | SoftwareEngineering | China | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
-| Microsoft | [Solution Engineer- AI App Modernization](https://www.scoutjob.me/jobs/microsoft-solution-engineer-ai-app-modernization-1970393556981795) | SoftwareEngineeringExtensive | Mexico | Sep 11, 2026 | Sep 11, 2026 23:20 UTC |
-| NVIDIA | [Senior Solution Architect, AI Infrastructure](https://www.scoutjob.me/jobs/nvidia-senior-solution-architect-ai-infrastructure-893397662827) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
-| NVIDIA | [Senior Staff Site Reliability Operations Technical Lead](https://www.scoutjob.me/jobs/nvidia-senior-staff-site-reliability-operations-technical-lead-893397662766) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
