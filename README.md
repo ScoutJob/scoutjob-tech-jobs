@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Senior Software Engineer](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-ciscisglobal2021200externalenglobal) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 00:19 UTC |
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556988747) | SeniorSoftwareEngineering | India | Sep 13, 2026 | Sep 13, 2026 00:17 UTC |
 | American Express | [Director - Cyber Security / Agentic AI - IAM Engineering](https://www.scoutjob.me/jobs/americanexpress-director-cyber-security-agentic-ai-iam-engineering-26013692) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 22:37 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-344732) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 20:35 UTC |
 | JPMorgan Chase | [Lead Architect: AI enablement](https://www.scoutjob.me/jobs/jpmorgan-lead-architect-ai-enablement-210777990) | SeniorSoftwareEngineeringExtensive | United States | Sep 12, 2026 | Sep 12, 2026 19:23 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [CPU Server Physical Design Methodology, Infrastructure and Automation Engineer](https://www.scoutjob.me/jobs/qualcomm-cpu-server-physical-design-methodology-infrastructure-and-automation-engineer-446721064463) | HardwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:15 UTC |
 | Apple | [Senior Machine Learning Engineer, Natural Language Generation](https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-natural-language-generation-200683336) | SeniorDataAiMl | United States | Sep 11, 2026 | Sep 11, 2026 23:06 UTC |
 | Cloudflare | [Rack Integration Operations Engineer](https://www.scoutjob.me/jobs/cloudflare-rack-integration-operations-engineer-8196631) | SoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:52 UTC |
-| NVIDIA | [Silicon Co-design Intern - 2027](https://www.scoutjob.me/jobs/nvidia-silicon-co-design-intern-2027-893397662806) | HardwareEngineeringIntern | China | Sep 11, 2026 | Sep 11, 2026 22:46 UTC |
-| Oracle | [Principal Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-principal-core-infrastructure-engineer-345241) | SeniorSoftwareEngineeringExtensive | United States | Sep 11, 2026 | Sep 11, 2026 22:46 UTC |
