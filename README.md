@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Analyst-Data Science](https://www.scoutjob.me/jobs/americanexpress-analyst-data-science-26013533) | Analyst | India | Sep 13, 2026 | Sep 13, 2026 11:55 UTC |
 | Atlassian | [Senior Data Engineer (P50) — Reliability Process Group (RPG)](https://www.scoutjob.me/jobs/atlassian-senior-data-engineer-p50-reliability-process-group-rpg-27198) | SeniorDataAiMl | Remote | Sep 13, 2026 | Sep 13, 2026 04:29 UTC |
 | ByteDance | [Senior Software Engineer - Data Agent & Agentic Search](https://www.scoutjob.me/jobs/bytedance-senior-software-engineer-data-agent-agentic-search-7680327698443946293) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 04:14 UTC |
 | Oracle | [Senior Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-senior-platform-software-engineer-345266) | SeniorSoftwareEngineering | United States | Sep 13, 2026 | Sep 13, 2026 02:21 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Solutions Architect, Networking Solutions](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-networking-solutions-893397663020) | SeniorSoftwareEngineeringExtensive | Remote | Sep 11, 2026 | Sep 11, 2026 23:19 UTC |
 | Anthropic | [Staff Software Engineer, Search](https://www.scoutjob.me/jobs/anthropic-staff-software-engineer-search-5422684008) | SeniorSoftwareEngineering | United States | Sep 11, 2026 | Sep 11, 2026 23:17 UTC |
 | Anthropic | [Senior Engineering Manager, Capacity Engineering](https://www.scoutjob.me/jobs/anthropic-senior-engineering-manager-capacity-engineering-5363210008) | EngineeringManagement | United States | Sep 11, 2026 | Sep 11, 2026 23:17 UTC |
-| Qualcomm | [Machine Learning Engineer, AI Processors (New Grad to Engineer Level)](https://www.scoutjob.me/jobs/qualcomm-machine-learning-engineer-ai-processors-new-grad-to-engineer-level-446721063770) | DataAiMlIntern | Canada | Sep 11, 2026 | Sep 11, 2026 23:15 UTC |
