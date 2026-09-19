@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Software Engineering Technical Leader - SRE](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-sre-ciscisglobal2023565externalenglobal) | SeniorSoftwareEngineering | United States | Sep 19, 2026 | Sep 19, 2026 00:10 UTC |
+| Cisco | [AI Operations Engineer](https://www.scoutjob.me/jobs/cisco-ai-operations-engineer-ciscisglobal2021485externalenglobal) | SoftwareEngineeringExtensive | United States | Sep 19, 2026 | Sep 19, 2026 00:10 UTC |
+| Apple | [Senior Graphics Software Engineer](https://www.scoutjob.me/jobs/apple-senior-graphics-software-engineer-200683324) | SeniorSoftwareEngineering | United States | Sep 19, 2026 | Sep 19, 2026 00:04 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-342974) | SeniorSoftwareEngineeringExtensive | United States | Sep 18, 2026 | Sep 18, 2026 23:44 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-342907) | SeniorSoftwareEngineeringExtensive | United States | Sep 18, 2026 | Sep 18, 2026 23:44 UTC |
 | Apple | [Senior AI Enablement Engineering Manager, Apps Team](https://www.scoutjob.me/jobs/apple-senior-ai-enablement-engineering-manager-apps-team-200683656) | EngineeringManagement | United States | Sep 18, 2026 | Sep 18, 2026 23:40 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Physical Design Engineer](https://www.scoutjob.me/jobs/microsoft-senior-physical-design-engineer-1970393556998702) | SeniorHardwareEngineering | United States | Sep 18, 2026 | Sep 18, 2026 20:22 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556992543) | SeniorSoftwareEngineering | India | Sep 18, 2026 | Sep 18, 2026 20:22 UTC |
 | Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393556995513) | SeniorSoftwareEngineering | United States | Sep 18, 2026 | Sep 18, 2026 20:22 UTC |
-| Microsoft | [Software Engineer II - CTJ- POLY](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-ctj-poly-1970393556999149) | SoftwareEngineering | United States | Sep 18, 2026 | Sep 18, 2026 20:22 UTC |
-| Oracle | [Senior Software Engineer, Core Infrastructure](https://www.scoutjob.me/jobs/oracle-senior-software-engineer-core-infrastructure-345682) | SeniorSoftwareEngineering | United States | Sep 18, 2026 | Sep 18, 2026 20:16 UTC |
-| Rippling | [Senior Manager of Product Design, AI Platform](https://www.scoutjob.me/jobs/rippling-senior-manager-of-product-design-ai-platform-9ce687f0-7d25-450b-989c-cd29ee713d8b) | SeniorDataAiMl | United States | Sep 18, 2026 | Sep 18, 2026 20:15 UTC |
