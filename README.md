@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [NPU AI/Processor Synthesis Engineer- Sr Lead](https://www.scoutjob.me/jobs/qualcomm-npu-ai-processor-synthesis-engineer-sr-lead-446720780780) | SeniorSoftwareEngineeringExtensive | India | Sep 26, 2026 | Sep 26, 2026 20:35 UTC |
+| Qualcomm | [Engineer - BT/UWB validation and system integration](https://www.scoutjob.me/jobs/qualcomm-engineer-bt-uwb-validation-and-system-integration-446721255550) | SoftwareEngineeringExtensive | India | Sep 26, 2026 | Sep 26, 2026 20:35 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-nb-bathurst-03003-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Sep 26, 2026 | Sep 26, 2026 18:22 UTC |
 | Microsoft | [Member of Technical Staff, Microsoft Robotics (Spatial AI)](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-microsoft-robotics-spatial-ai-1970393556866702) | SeniorDataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 18:01 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-210789226) | SeniorSoftwareEngineering | India | Sep 26, 2026 | Sep 26, 2026 11:06 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Atlassian | [Principal Software Engineer](https://www.scoutjob.me/jobs/atlassian-principal-software-engineer-27407) | SeniorSoftwareEngineering | Remote | Sep 25, 2026 | Sep 25, 2026 23:41 UTC |
 | Snowflake | [Software Engineer - Postgres](https://www.scoutjob.me/jobs/snowflake-software-engineer-postgres-sncousf7de0ace454b4992aee8d2db1b232226externalenus6e96b818235046018bdd7ddd6c4a5f6d) | SoftwareEngineering | United States | Sep 25, 2026 | Sep 25, 2026 23:28 UTC |
 | Discord | [Senior Data Science Manager, Developer Platform](https://www.scoutjob.me/jobs/discord-senior-data-science-manager-developer-platform-8821508002) | SeniorDataAiMl | United States | Sep 25, 2026 | Sep 25, 2026 23:18 UTC |
-| Roblox | [Senior Software Engineer (Backend/Product focus, AIaaS)](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-backend-product-focus-aiaas-8231343) | SeniorSoftwareEngineering | United States | Sep 25, 2026 | Sep 25, 2026 22:47 UTC |
-| xAI | [Expert Team Lead, Engineering](https://www.scoutjob.me/jobs/xai-expert-team-lead-engineering-5249795007) | SeniorSoftwareEngineeringExtensive | Remote | Sep 25, 2026 | Sep 25, 2026 22:35 UTC |
