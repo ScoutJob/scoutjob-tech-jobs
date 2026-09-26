@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-nb-bathurst-03003-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Sep 26, 2026 | Sep 26, 2026 18:22 UTC |
+| Microsoft | [Member of Technical Staff, Microsoft Robotics (Spatial AI)](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-microsoft-robotics-spatial-ai-1970393556866702) | SeniorDataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 18:01 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-210789226) | SeniorSoftwareEngineering | India | Sep 26, 2026 | Sep 26, 2026 11:06 UTC |
 | JPMorgan Chase | [Lead Software Engineer- Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-210789227) | SeniorSoftwareEngineering | India | Sep 26, 2026 | Sep 26, 2026 11:06 UTC |
 | Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-flin-flon-mb) | SeniorSoftwareEngineeringExtensive | Canada | Sep 26, 2026 | Sep 26, 2026 08:51 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Discord | [Senior Data Science Manager, Developer Platform](https://www.scoutjob.me/jobs/discord-senior-data-science-manager-developer-platform-8821508002) | SeniorDataAiMl | United States | Sep 25, 2026 | Sep 25, 2026 23:18 UTC |
 | Roblox | [Senior Software Engineer (Backend/Product focus, AIaaS)](https://www.scoutjob.me/jobs/roblox-senior-software-engineer-backend-product-focus-aiaas-8231343) | SeniorSoftwareEngineering | United States | Sep 25, 2026 | Sep 25, 2026 22:47 UTC |
 | xAI | [Expert Team Lead, Engineering](https://www.scoutjob.me/jobs/xai-expert-team-lead-engineering-5249795007) | SeniorSoftwareEngineeringExtensive | Remote | Sep 25, 2026 | Sep 25, 2026 22:35 UTC |
-| Amazon | [Software Development Engineer , Customer Service Technologies](https://www.scoutjob.me/jobs/amazon-software-development-engineer-customer-service-technologies-e2087f56-52ae-41e0-8768-33099e5048f5) | SoftwareEngineering | Canada | Sep 25, 2026 | Sep 25, 2026 22:30 UTC |
-| Amazon | [Software Development Engineer, Customer Service Technologies](https://www.scoutjob.me/jobs/amazon-software-development-engineer-customer-service-technologies-8b3e6d0b-42dc-46bf-bfed-2427072bd2de) | SoftwareEngineering | United States | Sep 25, 2026 | Sep 25, 2026 22:30 UTC |
