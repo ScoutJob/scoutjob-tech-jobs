@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Development Engineer, AWS Security](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-security-6ce00baf-93ec-4e35-bd28-6bd4f18a7e5a) | SoftwareEngineering | United Kingdom | Sep 27, 2026 | Sep 27, 2026 06:33 UTC |
 | Walmart Global Tech | [Optical Associate, Non-Certified – Sam’s Club](https://www.scoutjob.me/jobs/walmart-optical-associate-non-certified-sam-s-club-usa-nm-santa-fe-06408-sams-club) | HardwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 01:14 UTC |
 | Apple | [Senior Machine Learning Engineer, NLP, Input Experience](https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-nlp-input-experience-200651071) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 01:08 UTC |
 | Cisco | [Principal Hardware Engineer](https://www.scoutjob.me/jobs/cisco-principal-hardware-engineer-ciscisglobal2024112externalenglobal) | SeniorHardwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 00:17 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Signal and Power Integrity Engineer](https://www.scoutjob.me/jobs/microsoft-principal-signal-and-power-integrity-engineer-1970393556869925) | SeniorSoftwareEngineeringExtensive | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Software Engineer I - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineer-i-ctj-poly-1970393556995496) | SoftwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Software Engineer II - C++](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-c-1970393556982278) | SoftwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Software Engineer II - Operating Systems](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-operating-systems-1970393557006899) | SoftwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
