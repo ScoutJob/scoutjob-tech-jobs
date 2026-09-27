@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r0990429) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Lead Director - Artificial Intelligence, Machine Learning and Data Engineering](https://www.scoutjob.me/jobs/cvs-lead-director-artificial-intelligence-machine-learning-and-data-engineering-r0885076) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r1033584) | SoftwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Staff Software Engineer (Agentic AI & Cloud Solutions)](https://www.scoutjob.me/jobs/cvs-staff-software-engineer-agentic-ai-cloud-solutions-r0970084) | SeniorSoftwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r1038482) | SoftwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Software Development Engineer In Test](https://www.scoutjob.me/jobs/cvs-software-development-engineer-in-test-r1018285) | SoftwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| CVS Health | [Senior Machine Learning Engineer](https://www.scoutjob.me/jobs/cvs-senior-machine-learning-engineer-r0994513) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
+| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-can-mb-steinbach-01141-wm-supercenter) | SoftwareEngineeringExtensive | Canada | Sep 27, 2026 | Sep 27, 2026 09:38 UTC |
 | Amazon | [Software Development Engineer, AWS Security](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-security-6ce00baf-93ec-4e35-bd28-6bd4f18a7e5a) | SoftwareEngineering | United Kingdom | Sep 27, 2026 | Sep 27, 2026 06:33 UTC |
 | Walmart Global Tech | [Optical Associate, Non-Certified – Sam’s Club](https://www.scoutjob.me/jobs/walmart-optical-associate-non-certified-sam-s-club-usa-nm-santa-fe-06408-sams-club) | HardwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 01:14 UTC |
 | Apple | [Senior Machine Learning Engineer, NLP, Input Experience](https://www.scoutjob.me/jobs/apple-senior-machine-learning-engineer-nlp-input-experience-200651071) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 01:08 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Senior Data & Applied Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-applied-scientist-1970393556972760) | SeniorDataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Cloud Solution Architect - Copilot](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-copilot-1970393556962965) | SeniorSoftwareEngineeringExtensive | Hong Kong | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Cloud Solution Architect - Azure Infra](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-azure-infra-1970393556914539) | SeniorSoftwareEngineeringExtensive | India | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Cloud Solution Architect](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-1970393556978761) | SeniorSoftwareEngineeringExtensive | Singapore | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Cloud Solution Architect - Cloud & AI Data](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-cloud-ai-data-1970393556956885) | SeniorSoftwareEngineeringExtensive | Hong Kong | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Outside Plant Telecom Engineer](https://www.scoutjob.me/jobs/microsoft-outside-plant-telecom-engineer-1970393556998672) | SoftwareEngineeringExtensive | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Data Scientist II, M365 Copilot](https://www.scoutjob.me/jobs/microsoft-data-scientist-ii-m365-copilot-1970393557007477) | DataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Senior Silicon Design Verification Engineer](https://www.scoutjob.me/jobs/microsoft-senior-silicon-design-verification-engineer-1970393556962139) | SeniorHardwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Principal Signal and Power Integrity Engineer](https://www.scoutjob.me/jobs/microsoft-principal-signal-and-power-integrity-engineer-1970393556869925) | SeniorSoftwareEngineeringExtensive | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Software Engineer I - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineer-i-ctj-poly-1970393556995496) | SoftwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Software Engineer II - C++](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-c-1970393556982278) | SoftwareEngineering | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
