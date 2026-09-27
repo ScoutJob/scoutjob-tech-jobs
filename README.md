@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| ServiceNow | [Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal](https://www.scoutjob.me/jobs/servicenow-staff-software-engineer-data-platform-kubernetes-distributed-systems-federal-jb0075469) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 15:32 UTC |
+| Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-thompson-mb) | SoftwareEngineeringExtensive | Canada | Sep 27, 2026 | Sep 27, 2026 15:23 UTC |
+| ServiceNow | [Senior Staff Software Engineer - Data Platform - Kubernetes - Distributed Systems - Federal](https://www.scoutjob.me/jobs/servicenow-senior-staff-software-engineer-data-platform-kubernetes-distributed-systems-federal-jb0075465) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 15:07 UTC |
 | CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r0990429) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
 | CVS Health | [Lead Director - Artificial Intelligence, Machine Learning and Data Engineering](https://www.scoutjob.me/jobs/cvs-lead-director-artificial-intelligence-machine-learning-and-data-engineering-r0885076) | SeniorDataAiMl | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
 | CVS Health | [Software Development Engineer](https://www.scoutjob.me/jobs/cvs-software-development-engineer-r1033584) | SoftwareEngineering | United States | Sep 27, 2026 | Sep 27, 2026 11:32 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Forward Deployed Engineer - Data Scientist](https://www.scoutjob.me/jobs/microsoft-principal-forward-deployed-engineer-data-scientist-1970393556945399) | SeniorDataAiMl | Japan | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Senior Data & Applied Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-applied-scientist-1970393556957550) | SeniorDataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393556874038) | SeniorDataAiMl | Australia | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Senior Data & Applied Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-applied-scientist-1970393556972760) | SeniorDataAiMl | United States | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Cloud Solution Architect - Copilot](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-copilot-1970393556962965) | SeniorSoftwareEngineeringExtensive | Hong Kong | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
-| Microsoft | [Cloud Solution Architect - Azure Infra](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-azure-infra-1970393556914539) | SeniorSoftwareEngineeringExtensive | India | Sep 26, 2026 | Sep 26, 2026 00:16 UTC |
