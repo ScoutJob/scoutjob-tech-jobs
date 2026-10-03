@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Security Cloud Solution Architect- CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-security-cloud-solution-architect-ctj-poly-1970393556885286) | SeniorSoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 20:13 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-dieppe-nb) | SoftwareEngineeringExtensive | Canada | Oct 03, 2026 | Oct 03, 2026 17:43 UTC |
 | Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-can-mb-portage-la-prairie-03069-wm-supercenter) | SeniorSoftwareEngineeringExtensive | Canada | Oct 03, 2026 | Oct 03, 2026 17:43 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-taber-ab) | SoftwareEngineeringExtensive | Canada | Oct 03, 2026 | Oct 03, 2026 17:43 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Software Engineer-Fullstack-CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-fullstack-coreai-1970393556753780) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
 | Microsoft | [Senior Software Engineer - Azure Reliability](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-reliability-1970393556998574) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
 | Microsoft | [Senior Security Research Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-research-engineer-1970393557019158) | SeniorDataAiMl | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Security Engineer - Red Team](https://www.scoutjob.me/jobs/microsoft-security-engineer-red-team-1970393557022445) | SoftwareEngineeringExtensive | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
