@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Cloud Engineering Consultant - CTJ - TS/SCI](https://www.scoutjob.me/jobs/microsoft-cloud-engineering-consultant-ctj-ts-sci-1970393557019090) | SoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 14:25 UTC |
+| Microsoft | [DevOps Cloud Engineering Consultant- CTJ- TS/SCI](https://www.scoutjob.me/jobs/microsoft-devops-cloud-engineering-consultant-ctj-ts-sci-1970393557019058) | SoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 14:25 UTC |
+| AMD | [Lead Engineer- Behind-the-Meter Power Infrastructure](https://www.scoutjob.me/jobs/amd-lead-engineer-behind-the-meter-power-infrastructure-92894) | SeniorSoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 14:14 UTC |
 | Cisco | [Software Security Lead (Remote)](https://www.scoutjob.me/jobs/cisco-software-security-lead-remote-ciscisglobal2021111externalenglobal) | SeniorSoftwareEngineering | United States | Oct 03, 2026 | Oct 03, 2026 11:24 UTC |
 | Microsoft | [Cloud Solution Architect - Infra](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-infra-1970393556981565) | SeniorSoftwareEngineeringExtensive | Hong Kong | Oct 03, 2026 | Oct 03, 2026 11:21 UTC |
 | Microsoft | [Senior Strategy & Investment Analyst - AI Experiences](https://www.scoutjob.me/jobs/microsoft-senior-strategy-investment-analyst-ai-experiences-1970393557023200) | SeniorAnalyst | United States | Oct 03, 2026 | Oct 03, 2026 09:10 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | OpenAI | [Applied AI Engineer](https://www.scoutjob.me/jobs/openai-applied-ai-engineer-2226c39d-371b-4dec-bf60-2d76dbe4c445) | DataAiMl | United Arab Emirates | Oct 02, 2026 | Oct 02, 2026 22:14 UTC |
 | OpenAI | [Machine Learning Engineer, Multimodal Perception and Authentication](https://www.scoutjob.me/jobs/openai-machine-learning-engineer-multimodal-perception-and-authentication-1b268692-70d8-46c2-a347-2f7705b5c174) | DataAiMl | United States | Oct 02, 2026 | Oct 02, 2026 22:14 UTC |
 | Amazon | [Software Development Engineer, Network Capacity management Services](https://www.scoutjob.me/jobs/amazon-software-development-engineer-network-capacity-management-services-9ebd2007-9bc0-4b33-a7dc-012babf6c45e) | SoftwareEngineering | Ireland | Oct 02, 2026 | Oct 02, 2026 22:12 UTC |
-| Airbnb | [Data Scientist – Algorithms, Community Support](https://www.scoutjob.me/jobs/airbnb-data-scientist-algorithms-community-support-8031901) | DataAiMl | Remote | Oct 02, 2026 | Oct 02, 2026 21:56 UTC |
-| Amazon | [Software Development Engineer, Ad Performance & Delivery](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ad-performance-delivery-45de7473-b4ab-43b6-ba4a-71debf5145e3) | SoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 21:56 UTC |
-| AMD | [Systems Design Engineer](https://www.scoutjob.me/jobs/amd-systems-design-engineer-93240) | SoftwareEngineeringExtensive | United States | Oct 02, 2026 | Oct 02, 2026 21:55 UTC |
