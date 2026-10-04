@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Solutions Architect - Generative AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-generative-ai-893379882775) | SeniorDataAiMl | India | Oct 04, 2026 | Oct 04, 2026 00:30 UTC |
+| NVIDIA | [Senior Solutions Architect, Generative AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-generative-ai-893396811321) | SeniorDataAiMl | Remote | Oct 04, 2026 | Oct 04, 2026 00:30 UTC |
+| NVIDIA | [Senior Solutions Architect, Agentic AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-agentic-ai-893396384102) | SeniorSoftwareEngineeringExtensive | Remote | Oct 04, 2026 | Oct 04, 2026 00:30 UTC |
+| NVIDIA | [Senior ASIC Design Engineer - XBAR IP](https://www.scoutjob.me/jobs/nvidia-senior-asic-design-engineer-xbar-ip-893392589955) | SeniorHardwareEngineering | India | Oct 04, 2026 | Oct 04, 2026 00:30 UTC |
+| NVIDIA | [Senior ASIC Design Engineer - Agentic AI](https://www.scoutjob.me/jobs/nvidia-senior-asic-design-engineer-agentic-ai-893395979969) | SeniorHardwareEngineering | United States | Oct 04, 2026 | Oct 04, 2026 00:30 UTC |
+| Oracle | [Senior Manager, Security Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-security-engineering-346674) | SeniorSoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 21:38 UTC |
 | Microsoft | [Security Cloud Solution Architect- CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-security-cloud-solution-architect-ctj-poly-1970393556885286) | SeniorSoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 20:13 UTC |
 | Walmart Global Tech | [(CAN) Front End Checkout Team Associate](https://www.scoutjob.me/jobs/walmart-can-front-end-checkout-team-associate-dieppe-nb) | SoftwareEngineeringExtensive | Canada | Oct 03, 2026 | Oct 03, 2026 17:43 UTC |
 | Walmart Global Tech | [(CAN) Front End Team Lead](https://www.scoutjob.me/jobs/walmart-can-front-end-team-lead-can-mb-portage-la-prairie-03069-wm-supercenter) | SeniorSoftwareEngineeringExtensive | Canada | Oct 03, 2026 | Oct 03, 2026 17:43 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | OpenAI | [Applied AI Engineer, Digital Natives](https://www.scoutjob.me/jobs/openai-applied-ai-engineer-digital-natives-7be58f3a-6005-42ed-86fa-77773ebfb294) | DataAiMl | United Kingdom | Oct 02, 2026 | Oct 02, 2026 22:43 UTC |
 | Microsoft | [Senior Software Engineer - AI Infrastructure](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-ai-infrastructure-1970393557008744) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393556938687) | SeniorDataAiMl | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://www.scoutjob.me/jobs/microsoft-data-science-ai-experiences-phd-internship-opportunities-redmond-1970393556986137) | DataAiMlIntern | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Senior Software Engineer - CTJ - TS/SCI](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-ctj-ts-sci-1970393557022883) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Principal Hardware Engineer - Networking](https://www.scoutjob.me/jobs/microsoft-principal-hardware-engineer-networking-1970393557019464) | SeniorHardwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Principal Software Engineer-Fullstack-CoreAI](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-fullstack-coreai-1970393556753780) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Senior Software Engineer - Azure Reliability](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-reliability-1970393556998574) | SeniorSoftwareEngineering | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
-| Microsoft | [Senior Security Research Engineer](https://www.scoutjob.me/jobs/microsoft-senior-security-research-engineer-1970393557019158) | SeniorDataAiMl | United States | Oct 02, 2026 | Oct 02, 2026 22:37 UTC |
