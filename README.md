@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Atlassian | [Principal Analyst, Sales Strategy & Operations - EMEA Sales](https://www.scoutjob.me/jobs/atlassian-principal-analyst-sales-strategy-operations-emea-sales-27616) | SeniorAnalyst | Remote | Oct 04, 2026 | Oct 04, 2026 13:49 UTC |
+| American Express | [Analyst-Control Managment](https://www.scoutjob.me/jobs/americanexpress-analyst-control-managment-26014484) | Analyst | India | Oct 04, 2026 | Oct 04, 2026 11:23 UTC |
+| Qualcomm | [Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)](https://www.scoutjob.me/jobs/qualcomm-senior-computer-vision-algorithm-engineer-hardware-co-optimization-edge-ai-soc-446716574518) | SeniorDataAiMl | Taiwan | Oct 04, 2026 | Oct 04, 2026 11:21 UTC |
+| Amazon | [Software Development Engineer, AWS DynamoDB](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-dynamodb-faea5be2-759f-4d0b-b1d3-319de6164268) | SoftwareEngineering | India | Oct 04, 2026 | Oct 04, 2026 10:36 UTC |
 | Microsoft | [Senior Data Scientist - Media Data Science & Analytics](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-media-data-science-analytics-1970393556953138) | SeniorDataAiMl | United States | Oct 04, 2026 | Oct 04, 2026 07:23 UTC |
 | NVIDIA | [Research Scientist, Deep Learning and Computer Vision - New College Graduate](https://www.scoutjob.me/jobs/nvidia-research-scientist-deep-learning-and-computer-vision-new-college-graduate-893395293387) | DataAiMlIntern | Taiwan | Oct 04, 2026 | Oct 04, 2026 06:11 UTC |
 | Qualcomm | [System Level Test Engineer, Senior](https://www.scoutjob.me/jobs/qualcomm-system-level-test-engineer-senior-446720512959) | SeniorSoftwareEngineeringExtensive | Taiwan | Oct 04, 2026 | Oct 04, 2026 02:42 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Teamcenter Site Reliability Engineer, Enterprise Technology Services](https://www.scoutjob.me/jobs/apple-teamcenter-site-reliability-engineer-enterprise-technology-services-200663858) | SoftwareEngineeringExtensive | United States | Oct 03, 2026 | Oct 03, 2026 00:35 UTC |
 | Cisco | [Software Engineer, Compute Performance](https://www.scoutjob.me/jobs/cisco-software-engineer-compute-performance-ciscisglobal2027345externalenglobal) | SoftwareEngineering | United States | Oct 03, 2026 | Oct 03, 2026 00:28 UTC |
 | Qualcomm | [Program Analyst](https://www.scoutjob.me/jobs/qualcomm-program-analyst-446718783531) | Analyst | United States | Oct 03, 2026 | Oct 03, 2026 00:05 UTC |
-| Qualcomm | [Staff Windows Developer - Debugger](https://www.scoutjob.me/jobs/qualcomm-staff-windows-developer-debugger-446721376068) | SeniorSoftwareEngineeringExtensive | Remote | Oct 03, 2026 | Oct 03, 2026 00:05 UTC |
-| Qualcomm | [Computer Vision Systems Engineer](https://www.scoutjob.me/jobs/qualcomm-computer-vision-systems-engineer-446721376227) | DataAiMl | United States | Oct 03, 2026 | Oct 03, 2026 00:05 UTC |
-| Qualcomm | [Sr. IT Engineer – Git Operations Support](https://www.scoutjob.me/jobs/qualcomm-sr-it-engineer-git-operations-support-446719400571) | SeniorSoftwareEngineeringExtensive | Mexico | Oct 03, 2026 | Oct 03, 2026 00:05 UTC |
-| Oracle | [Senior Manager, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-senior-manager-core-infrastructure-engineering-342849) | SeniorSoftwareEngineeringExtensive | United States | Oct 02, 2026 | Oct 02, 2026 23:59 UTC |
