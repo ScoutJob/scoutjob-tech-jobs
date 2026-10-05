@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Lead Software Engineer and ML Engineer - Sales Copilot](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-and-ml-engineer-sales-copilot-210795927) | SeniorDataAiMl | United States | Oct 05, 2026 | Oct 05, 2026 00:21 UTC |
+| NVIDIA | [ASIC Verification Engineer - Clocks](https://www.scoutjob.me/jobs/nvidia-asic-verification-engineer-clocks-893397988287) | HardwareEngineering | India | Oct 04, 2026 | Oct 04, 2026 23:31 UTC |
+| NVIDIA | [Verification Engineer, PCIE](https://www.scoutjob.me/jobs/nvidia-verification-engineer-pcie-893397988286) | HardwareEngineering | India | Oct 04, 2026 | Oct 04, 2026 23:04 UTC |
+| Apple | [Softgoods Product Design Engineer](https://www.scoutjob.me/jobs/apple-softgoods-product-design-engineer-200686523) | HardwareEngineering | China | Oct 04, 2026 | Oct 04, 2026 21:15 UTC |
 | Microsoft | [Principal Software Engineer, Perception Platform and AI Systems](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-perception-platform-and-ai-systems-1970393557022469) | SeniorSoftwareEngineering | United States | Oct 04, 2026 | Oct 04, 2026 20:48 UTC |
 | Cisco | [Software Engineering Technical Leader](https://www.scoutjob.me/jobs/cisco-software-engineering-technical-leader-ciscisglobal2022691externalenglobal) | SeniorSoftwareEngineering | United States | Oct 04, 2026 | Oct 04, 2026 20:21 UTC |
 | JPMorgan Chase | [Software Engineer III - Back-end Engineer - Chase UK](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-back-end-engineer-chase-uk-210714912) | SeniorSoftwareEngineering | India | Oct 04, 2026 | Oct 04, 2026 20:03 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior System Software Engineer, Agentic Retrieval](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-agentic-retrieval-893397975874) | SeniorSoftwareEngineering | Remote | Oct 03, 2026 | Oct 03, 2026 02:49 UTC |
 | NVIDIA | [Senior Production Engineer - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-senior-production-engineer-dgx-cloud-893397975884) | SeniorSoftwareEngineeringExtensive | Remote | Oct 03, 2026 | Oct 03, 2026 02:49 UTC |
 | NVIDIA | [Senior ASIC Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-893394352602) | SeniorHardwareEngineering | United States | Oct 03, 2026 | Oct 03, 2026 02:49 UTC |
-| NVIDIA | [Field Application Engineer](https://www.scoutjob.me/jobs/nvidia-field-application-engineer-893397964805) | SoftwareEngineeringExtensive | Remote | Oct 03, 2026 | Oct 03, 2026 02:49 UTC |
-| NVIDIA | [Senior AI Compute Engineer - NVIS](https://www.scoutjob.me/jobs/nvidia-senior-ai-compute-engineer-nvis-893397964707) | SeniorSoftwareEngineeringExtensive | Remote | Oct 03, 2026 | Oct 03, 2026 02:49 UTC |
-| Microsoft | [Senior Software Engineers + Software Engineer IIs](https://www.scoutjob.me/jobs/microsoft-senior-software-engineers-software-engineer-iis-1970393556953612) | SeniorSoftwareEngineering | United States | Oct 03, 2026 | Oct 03, 2026 02:26 UTC |
-| Amazon | [Software Development Engineer (SDE2), AWS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-sde2-aws-3b1644e4-b350-47f0-a84f-d966a037de6f) | SoftwareEngineering | United States | Oct 03, 2026 | Oct 03, 2026 01:58 UTC |
