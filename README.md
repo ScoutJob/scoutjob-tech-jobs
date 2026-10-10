@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Senior Associate - Tech Operations Engineering](https://www.scoutjob.me/jobs/americanexpress-senior-associate-tech-operations-engineering-26014921) | SeniorSoftwareEngineeringExtensive | India | Oct 10, 2026 | Oct 10, 2026 14:39 UTC |
+| Qualcomm | [Principal Engineer/Director-Engineering, Linux Kernel Development](https://www.scoutjob.me/jobs/qualcomm-principal-engineer-director-engineering-linux-kernel-development-446715788744) | SeniorSoftwareEngineeringExtensive | India | Oct 10, 2026 | Oct 10, 2026 13:38 UTC |
+| Amazon | [Software Dev Engineer II, AWS Healthcare AI](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-aws-healthcare-ai-8b54cbe2-1b12-4f8e-8363-7e721a0ca065) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 12:32 UTC |
 | Oracle | [Senior Core Infrastructure Engineer](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-347172) | SeniorSoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 08:30 UTC |
 | Microsoft | [Copilot Solution Engineer](https://www.scoutjob.me/jobs/microsoft-copilot-solution-engineer-1970393557026995) | SoftwareEngineeringExtensive | Australia | Oct 10, 2026 | Oct 10, 2026 07:56 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557026236) | SoftwareEngineering | India | Oct 10, 2026 | Oct 10, 2026 07:56 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Machine Learning Engineer, Evaluation, Agentic Search Capabilities](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-evaluation-agentic-search-capabilities-200670397) | DataAiMl | United States | Oct 09, 2026 | Oct 09, 2026 22:00 UTC |
 | Rippling | [Analytics Engineer](https://www.scoutjob.me/jobs/rippling-analytics-engineer-4695a2e2-ecc3-4aeb-87b2-719b6bb8cebe) | DataAiMl | United States | Oct 09, 2026 | Oct 09, 2026 21:49 UTC |
 | Microsoft | [Security Solution Engineer (Presales) - Majors Growth](https://www.scoutjob.me/jobs/microsoft-security-solution-engineer-presales-majors-growth-1970393557006260) | SoftwareEngineeringExtensive | Germany | Oct 09, 2026 | Oct 09, 2026 21:48 UTC |
-| JPMorgan Chase | [Sr. Lead Software Engineer: Data Engineering](https://www.scoutjob.me/jobs/jpmorgan-sr-lead-software-engineer-data-engineering-210795688) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 21:48 UTC |
-| JPMorgan Chase | [Full-Stack Java/Python React Software Engineer III - Trading Platform](https://www.scoutjob.me/jobs/jpmorgan-full-stack-java-python-react-software-engineer-iii-trading-platform-210799182) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 21:48 UTC |
-| Apple | [Integration Engineering - Software Engineer](https://www.scoutjob.me/jobs/apple-integration-engineering-software-engineer-200686704) | SoftwareEngineering | India | Oct 09, 2026 | Oct 09, 2026 21:45 UTC |
