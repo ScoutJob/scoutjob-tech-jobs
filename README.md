@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| AMD | [2027 Masters Thermal Engineering Intern/Co-Op](https://www.scoutjob.me/jobs/amd-2027-masters-thermal-engineering-intern-co-op-93646) | HardwareEngineeringIntern | United States | Oct 11, 2026 | Oct 11, 2026 04:00 UTC |
+| AMD | [2027 Masters Thermal Engineering Intern/Co-Op](https://www.scoutjob.me/jobs/amd-2027-masters-thermal-engineering-intern-co-op-93645) | HardwareEngineeringIntern | United States | Oct 11, 2026 | Oct 11, 2026 03:47 UTC |
+| AMD | [2027 Undergrad Thermal Engineering Intern/Co-Op](https://www.scoutjob.me/jobs/amd-2027-undergrad-thermal-engineering-intern-co-op-93644) | HardwareEngineeringIntern | United States | Oct 11, 2026 | Oct 11, 2026 03:32 UTC |
+| AMD | [Senior Staff Test Engineering Lead](https://www.scoutjob.me/jobs/amd-senior-staff-test-engineering-lead-93305) | SeniorSoftwareEngineeringExtensive | Singapore | Oct 11, 2026 | Oct 11, 2026 01:55 UTC |
+| Microsoft | [Member of Technical Staff, Microsoft Robotics (Robotics Simulation)](https://www.scoutjob.me/jobs/microsoft-member-of-technical-staff-microsoft-robotics-robotics-simulation-1970393557037678) | SeniorDataAiMl | United States | Oct 11, 2026 | Oct 11, 2026 01:52 UTC |
+| Apple | [Human Factors Engineer-ARC](https://www.scoutjob.me/jobs/apple-human-factors-engineer-arc-200688368) | SoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 23:36 UTC |
 | TikTok | [Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer](https://www.scoutjob.me/jobs/tiktok-machine-learning-engineer-intern-data-global-e-commerce-search-2027-summer-7668396597746862341) | DataAiMlIntern | United States | Oct 10, 2026 | Oct 10, 2026 22:31 UTC |
 | ByteDance | [Senior Software Engineer - Search & Vector Database Infrastructure](https://www.scoutjob.me/jobs/bytedance-senior-software-engineer-search-vector-database-infrastructure-7680424310557673781) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 20:58 UTC |
 | Cisco | [Business Analyst I (Intern) United States](https://www.scoutjob.me/jobs/cisco-business-analyst-i-intern-united-states-ciscisglobal2024552externalenglobal) | Analyst | United States | Oct 10, 2026 | Oct 10, 2026 18:16 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557026448) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393557026452) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556955733) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
-| Microsoft | [Principal Software Engineer, Storage Infrastructure](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-storage-infrastructure-1970393557024780) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
-| Microsoft | [Senior Software Engineer - Azure Bot Service Team](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-azure-bot-service-team-1970393557007489) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
-| Microsoft | [Software Engineer II, Minecraft](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-minecraft-1970393557021741) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:37 UTC |
-| Apple | [Senior Software Engineer - Intelligence Platform Data Foundations, Proactive](https://www.scoutjob.me/jobs/apple-senior-software-engineer-intelligence-platform-data-foundations-proactive-200674386) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:16 UTC |
-| AMD | [RTL Design Engineer](https://www.scoutjob.me/jobs/amd-rtl-design-engineer-93349) | HardwareEngineering | Canada | Oct 09, 2026 | Oct 09, 2026 22:40 UTC |
-| Roblox | [Software Engineer, ROS](https://www.scoutjob.me/jobs/roblox-software-engineer-ros-8262223) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 22:31 UTC |
