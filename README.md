@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Graphics Software Engineer](https://www.scoutjob.me/jobs/apple-graphics-software-engineer-200688305) | SoftwareEngineering | United States | Oct 11, 2026 | Oct 11, 2026 16:03 UTC |
+| Cisco | [Software Development Test Engineer, Hybrid, Milpitas, CA](https://www.scoutjob.me/jobs/cisco-software-development-test-engineer-hybrid-milpitas-ca-ciscisglobal2026350externalenglobal) | SoftwareEngineering | United States | Oct 11, 2026 | Oct 11, 2026 15:53 UTC |
 | Rippling | [Software Engineer I - Backend Leaning FullStack](https://www.scoutjob.me/jobs/rippling-software-engineer-i-backend-leaning-fullstack-acf82f7d-5595-47c4-8e08-45c9d9a93529) | SoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 11:46 UTC |
 | PayPal | [Senior DevOps](https://www.scoutjob.me/jobs/paypal-senior-devops-274922606003) | SeniorSoftwareEngineeringExtensive | Israel | Oct 11, 2026 | Oct 11, 2026 11:19 UTC |
 | Apple | [Wireless Testing Engineer](https://www.scoutjob.me/jobs/apple-wireless-testing-engineer-200626600) | SoftwareEngineeringExtensive | Israel | Oct 11, 2026 | Oct 11, 2026 11:18 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | AMD | [Senior AI Inference Engineer](https://www.scoutjob.me/jobs/amd-senior-ai-inference-engineer-92012) | SeniorSoftwareEngineeringExtensive | China | Oct 10, 2026 | Oct 10, 2026 01:03 UTC |
 | Amazon | [Software Development Engineer, Global From Day1](https://www.scoutjob.me/jobs/amazon-software-development-engineer-global-from-day1-a03ab166-ab20-4cab-9ca2-94f3f68aa26f) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:49 UTC |
 | Intuit | [Director, Software Engineering](https://www.scoutjob.me/jobs/intuit-director-software-engineering-101762082176-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstate) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:35 UTC |
-| Amazon | [Software Development Engineer, AWS Payments & Fraud Prevention](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-payments-fraud-prevention-1d6bd926-fd4c-4a66-aefd-ff72dd57d7b6) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:19 UTC |
-| Amazon | [Software Development Engineer, AWS Payments & Fraud Prevention](https://www.scoutjob.me/jobs/amazon-software-development-engineer-aws-payments-fraud-prevention-b7a2f563-96bb-4741-8fad-f1511fc14200) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:19 UTC |
