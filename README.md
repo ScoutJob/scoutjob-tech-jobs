@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| TikTok | [Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer](https://www.scoutjob.me/jobs/tiktok-machine-learning-engineer-intern-data-global-e-commerce-search-2027-summer-7668396597746862341) | DataAiMlIntern | United States | Oct 10, 2026 | Oct 10, 2026 22:31 UTC |
+| ByteDance | [Senior Software Engineer - Search & Vector Database Infrastructure](https://www.scoutjob.me/jobs/bytedance-senior-software-engineer-search-vector-database-infrastructure-7680424310557673781) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 20:58 UTC |
 | Cisco | [Business Analyst I (Intern) United States](https://www.scoutjob.me/jobs/cisco-business-analyst-i-intern-united-states-ciscisglobal2024552externalenglobal) | Analyst | United States | Oct 10, 2026 | Oct 10, 2026 18:16 UTC |
 | Cisco | [Hardware Engineer I (Intern) - United States](https://www.scoutjob.me/jobs/cisco-hardware-engineer-i-intern-united-states-ciscisglobal2024535externalenglobal) | HardwareEngineeringIntern | United States | Oct 10, 2026 | Oct 10, 2026 18:16 UTC |
 | Oracle | [Director, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-director-platform-software-engineering-346952) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 18:15 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Senior Software Engineer - Intelligence Platform Data Foundations, Proactive](https://www.scoutjob.me/jobs/apple-senior-software-engineer-intelligence-platform-data-foundations-proactive-200674386) | SeniorSoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 23:16 UTC |
 | AMD | [RTL Design Engineer](https://www.scoutjob.me/jobs/amd-rtl-design-engineer-93349) | HardwareEngineering | Canada | Oct 09, 2026 | Oct 09, 2026 22:40 UTC |
 | Roblox | [Software Engineer, ROS](https://www.scoutjob.me/jobs/roblox-software-engineer-ros-8262223) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 22:31 UTC |
-| Amazon | [Software Development Engineer II, Amazon Leo](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-amazon-leo-ffa43892-874f-490d-8569-b2abe6f4c9e2) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 22:29 UTC |
-| Apple | [Graphics Software Engineer](https://www.scoutjob.me/jobs/apple-graphics-software-engineer-200688303) | SoftwareEngineering | United States | Oct 09, 2026 | Oct 09, 2026 22:28 UTC |
