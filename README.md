@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| American Express | [Analyst, UK Chief Risk Officer, Ops Risk](https://www.scoutjob.me/jobs/americanexpress-analyst-uk-chief-risk-officer-ops-risk-26014437) | Analyst | United Kingdom | Oct 11, 2026 | Oct 11, 2026 20:31 UTC |
+| NVIDIA | [Senior System Software Engineer, Firmware – NVLink](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-firmware-nvlink-893396344292) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 20:16 UTC |
+| JPMorgan Chase | [Lead Software Engineer - AWS SRE](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-aws-sre-210796855) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 20:10 UTC |
+| Qualcomm | [Linux BSP Dev (CE)- Engineer](https://www.scoutjob.me/jobs/qualcomm-linux-bsp-dev-ce-engineer-446717480769) | SoftwareEngineeringExtensive | India | Oct 11, 2026 | Oct 11, 2026 17:34 UTC |
+| Qualcomm | [Senior Engineer- Display software (CE)](https://www.scoutjob.me/jobs/qualcomm-senior-engineer-display-software-ce-446718568446) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 17:34 UTC |
+| Qualcomm | [DV Power Vectors & Window Extraction Engineer (Staff/Sr Staff)](https://www.scoutjob.me/jobs/qualcomm-dv-power-vectors-window-extraction-engineer-staff-sr-staff-446721152333) | SeniorSoftwareEngineeringExtensive | India | Oct 11, 2026 | Oct 11, 2026 17:34 UTC |
 | Apple | [Graphics Software Engineer](https://www.scoutjob.me/jobs/apple-graphics-software-engineer-200688305) | SoftwareEngineering | United States | Oct 11, 2026 | Oct 11, 2026 16:03 UTC |
 | Cisco | [Software Development Test Engineer, Hybrid, Milpitas, CA](https://www.scoutjob.me/jobs/cisco-software-development-test-engineer-hybrid-milpitas-ca-ciscisglobal2026350externalenglobal) | SoftwareEngineering | United States | Oct 11, 2026 | Oct 11, 2026 15:53 UTC |
 | Rippling | [Software Engineer I - Backend Leaning FullStack](https://www.scoutjob.me/jobs/rippling-software-engineer-i-backend-leaning-fullstack-acf82f7d-5595-47c4-8e08-45c9d9a93529) | SoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 11:46 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [HSIO Execution Engineer](https://www.scoutjob.me/jobs/nvidia-hsio-execution-engineer-893398060214) | SoftwareEngineeringExtensive | India | Oct 10, 2026 | Oct 10, 2026 01:53 UTC |
 | Snowflake | [Account Engineer](https://www.scoutjob.me/jobs/snowflake-account-engineer-sncous3be6b87c654548468356cbd8fbbbfc55externalenus4d33c57c655c4784b0f0d37a07ad68a0) | SoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 01:38 UTC |
 | Qualcomm | [DFT Engineer](https://www.scoutjob.me/jobs/qualcomm-dft-engineer-446721493810) | HardwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 01:15 UTC |
-| Qualcomm | [Sr. Director - Engineering](https://www.scoutjob.me/jobs/qualcomm-sr-director-engineering-446721490743) | SeniorSoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 01:15 UTC |
-| Amazon | [Software Development Engineer II, Fulfillment by Amazon (FBA)](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-fulfillment-by-amazon-fba-9b31c18b-9c2c-44e8-9ea5-3aecc15cdcbe) | SoftwareEngineering | India | Oct 10, 2026 | Oct 10, 2026 01:03 UTC |
-| Amazon | [Software Development Engineer, FBA Defect Prevention](https://www.scoutjob.me/jobs/amazon-software-development-engineer-fba-defect-prevention-623dbd37-0847-44ae-b4c5-6f38730d0186) | SoftwareEngineering | India | Oct 10, 2026 | Oct 10, 2026 01:03 UTC |
-| AMD | [Senior AI Inference Engineer](https://www.scoutjob.me/jobs/amd-senior-ai-inference-engineer-92012) | SeniorSoftwareEngineeringExtensive | China | Oct 10, 2026 | Oct 10, 2026 01:03 UTC |
-| Amazon | [Software Development Engineer, Global From Day1](https://www.scoutjob.me/jobs/amazon-software-development-engineer-global-from-day1-a03ab166-ab20-4cab-9ca2-94f3f68aa26f) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:49 UTC |
-| Intuit | [Director, Software Engineering](https://www.scoutjob.me/jobs/intuit-director-software-engineering-101762082176-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstate) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 00:35 UTC |
