@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Software Engineer - IT Infrastructure](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-it-infrastructure-893398107701) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 22:21 UTC |
+| Palantir | [Operations Analyst - US Government Security](https://www.scoutjob.me/jobs/palantir-operations-analyst-us-government-security-5f3f9547-2aea-4ac2-995d-e8fa53b16e39) | Analyst | United States | Oct 11, 2026 | Oct 11, 2026 21:48 UTC |
 | American Express | [Analyst, UK Chief Risk Officer, Ops Risk](https://www.scoutjob.me/jobs/americanexpress-analyst-uk-chief-risk-officer-ops-risk-26014437) | Analyst | United Kingdom | Oct 11, 2026 | Oct 11, 2026 20:31 UTC |
 | NVIDIA | [Senior System Software Engineer, Firmware – NVLink](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-firmware-nvlink-893396344292) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 20:16 UTC |
 | JPMorgan Chase | [Lead Software Engineer - AWS SRE](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-aws-sre-210796855) | SeniorSoftwareEngineering | India | Oct 11, 2026 | Oct 11, 2026 20:10 UTC |
@@ -93,11 +95,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Measurement Strategist (Data Analyst) - Apple Ads, Greater China](https://www.scoutjob.me/jobs/apple-measurement-strategist-data-analyst-apple-ads-greater-china-200688123) | DataAiMl | China | Oct 10, 2026 | Oct 10, 2026 02:29 UTC |
 | Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393557037774) | SoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 02:14 UTC |
 | Microsoft | [Principal Silicon Operations Engineering Lead](https://www.scoutjob.me/jobs/microsoft-principal-silicon-operations-engineering-lead-1970393557026599) | SeniorHardwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 02:14 UTC |
-| xAI | [Infrastructure Security Engineer (Bare Metal & Platform)](https://www.scoutjob.me/jobs/xai-infrastructure-security-engineer-bare-metal-platform-5262880007) | SoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 01:55 UTC |
-| JPMorgan Chase | [Lead Software Engineer — Workflow Orchestration (React \| Camunda \| Java/Python) Full Stack](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-workflow-orchestration-react-camunda-java-python-full-stack-210796996) | SeniorSoftwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 01:54 UTC |
-| NVIDIA | [Senior QA Automation Engineer, Network Simulation Platform](https://www.scoutjob.me/jobs/nvidia-senior-qa-automation-engineer-network-simulation-platform-893395368627) | SeniorSoftwareEngineeringExtensive | Remote | Oct 10, 2026 | Oct 10, 2026 01:53 UTC |
-| NVIDIA | [Senior Deep Learning Compiler Engineer](https://www.scoutjob.me/jobs/nvidia-senior-deep-learning-compiler-engineer-893394980294) | SeniorDataAiMl | Remote | Oct 10, 2026 | Oct 10, 2026 01:53 UTC |
-| NVIDIA | [Software Engineer, SRE and Production Engineering - DGX Cloud](https://www.scoutjob.me/jobs/nvidia-software-engineer-sre-and-production-engineering-dgx-cloud-893398092323) | SoftwareEngineering | Remote | Oct 10, 2026 | Oct 10, 2026 01:53 UTC |
-| NVIDIA | [HSIO Execution Engineer](https://www.scoutjob.me/jobs/nvidia-hsio-execution-engineer-893398060214) | SoftwareEngineeringExtensive | India | Oct 10, 2026 | Oct 10, 2026 01:53 UTC |
-| Snowflake | [Account Engineer](https://www.scoutjob.me/jobs/snowflake-account-engineer-sncous3be6b87c654548468356cbd8fbbbfc55externalenus4d33c57c655c4784b0f0d37a07ad68a0) | SoftwareEngineeringExtensive | United States | Oct 10, 2026 | Oct 10, 2026 01:38 UTC |
-| Qualcomm | [DFT Engineer](https://www.scoutjob.me/jobs/qualcomm-dft-engineer-446721493810) | HardwareEngineering | United States | Oct 10, 2026 | Oct 10, 2026 01:15 UTC |
