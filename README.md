@@ -26,6 +26,23 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Site Reliability Engineer II - Python, AWS, Unix](https://www.scoutjob.me/jobs/jpmorgan-site-reliability-engineer-ii-python-aws-unix-210796266) | SoftwareEngineeringExtensive | India | Oct 14, 2026 | Oct 14, 2026 06:28 UTC |
+| JPMorgan Chase | [Software Engineer II - Java, Kubernetes and AWS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-ii-java-kubernetes-and-aws-210799198) | SoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 06:28 UTC |
+| Apple | [Data Scientist](https://www.scoutjob.me/jobs/apple-data-scientist-200688673) | DataAiMl | China | Oct 14, 2026 | Oct 14, 2026 06:11 UTC |
+| American Express | [Infrastructure Engineer III](https://www.scoutjob.me/jobs/americanexpress-infrastructure-engineer-iii-26015094) | SeniorSoftwareEngineeringExtensive | India | Oct 14, 2026 | Oct 14, 2026 06:10 UTC |
+| Airbnb | [Operations Engineer, Tech Foundations](https://www.scoutjob.me/jobs/airbnb-operations-engineer-tech-foundations-8083137) | SoftwareEngineeringExtensive | Remote | Oct 14, 2026 | Oct 14, 2026 05:59 UTC |
+| Amazon | [Senior Software Development Engineer, AWS DynamoDB](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-aws-dynamodb-086cbede-18e3-4426-b9c1-a1f51c1b0b80) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 05:48 UTC |
+| JPMorgan Chase | [Lead Security Engineer - Infrastructure, HSM](https://www.scoutjob.me/jobs/jpmorgan-lead-security-engineer-infrastructure-hsm-210798081) | SeniorSoftwareEngineeringExtensive | India | Oct 14, 2026 | Oct 14, 2026 05:37 UTC |
+| Amazon | [Data Engineer , Worldwide Global Selling -AIT](https://www.scoutjob.me/jobs/amazon-data-engineer-worldwide-global-selling-ait-0a73193f-61ce-432d-8201-848293d17cc6) | DataAiMl | China | Oct 14, 2026 | Oct 14, 2026 05:36 UTC |
+| Apple | [Senior Software Engineer, Find My](https://www.scoutjob.me/jobs/apple-senior-software-engineer-find-my-200685001) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 05:36 UTC |
+| Oracle | [Lead Principal Electrical Engineer- Data Center](https://www.scoutjob.me/jobs/oracle-lead-principal-electrical-engineer-data-center-347548) | SeniorHardwareEngineering | United States | Oct 14, 2026 | Oct 14, 2026 05:27 UTC |
+| American Express | [Software Engineer III](https://www.scoutjob.me/jobs/americanexpress-software-engineer-iii-26015232) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 05:23 UTC |
+| Canva | [Cloud Hosting Finance Analyst](https://www.scoutjob.me/jobs/canva-cloud-hosting-finance-analyst-6000000001487232) | Analyst | Australia | Oct 14, 2026 | Oct 14, 2026 05:22 UTC |
+| Canva | [Cloud Hosting Finance Analyst](https://www.scoutjob.me/jobs/canva-cloud-hosting-finance-analyst-6000000001487237) | Analyst | United States | Oct 14, 2026 | Oct 14, 2026 05:22 UTC |
+| JPMorgan Chase | [Lead Site Reliability Engineer- Athena Core](https://www.scoutjob.me/jobs/jpmorgan-lead-site-reliability-engineer-athena-core-210799559) | SeniorSoftwareEngineeringExtensive | India | Oct 14, 2026 | Oct 14, 2026 05:12 UTC |
+| American Express | [Senior Financial Analyst](https://www.scoutjob.me/jobs/americanexpress-senior-financial-analyst-26015180) | SeniorAnalyst | India | Oct 14, 2026 | Oct 14, 2026 05:09 UTC |
+| American Express | [Analyst-Data Analytics (Agentic)](https://www.scoutjob.me/jobs/americanexpress-analyst-data-analytics-agentic-26015040) | Analyst | India | Oct 14, 2026 | Oct 14, 2026 04:58 UTC |
+| JPMorgan Chase | [Lead Software Engineer Java](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-210776712) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 04:48 UTC |
 | Microsoft | [Research Intern - Machine Learning and Statistics](https://www.scoutjob.me/jobs/microsoft-research-intern-machine-learning-and-statistics-1970393557040502) | DataAiMlIntern | United States | Oct 14, 2026 | Oct 14, 2026 04:30 UTC |
 | Microsoft | [Senior and/or Principal Software Engineer - AI Infrastructure](https://www.scoutjob.me/jobs/microsoft-senior-and-or-principal-software-engineer-ai-infrastructure-1970393557038998) | SeniorSoftwareEngineering | United States | Oct 14, 2026 | Oct 14, 2026 04:30 UTC |
 | Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393557039197) | SeniorSoftwareEngineering | United States | Oct 14, 2026 | Oct 14, 2026 04:30 UTC |
@@ -84,20 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [SOX IT Compliance Analyst](https://www.scoutjob.me/jobs/nvidia-sox-it-compliance-analyst-893393179952) | Analyst | India | Oct 14, 2026 | Oct 14, 2026 03:02 UTC |
 | NVIDIA | [Senior GPU System/Fabrics Architect](https://www.scoutjob.me/jobs/nvidia-senior-gpu-system-fabrics-architect-893392147838) | SeniorSoftwareEngineeringExtensive | India | Oct 14, 2026 | Oct 14, 2026 03:02 UTC |
 | NVIDIA | [Senior GPU Architect](https://www.scoutjob.me/jobs/nvidia-senior-gpu-architect-893394351414) | SeniorSoftwareEngineeringExtensive | United States | Oct 14, 2026 | Oct 14, 2026 02:52 UTC |
-| Oracle | [Director, Core Infrastructure Engineering](https://www.scoutjob.me/jobs/oracle-director-core-infrastructure-engineering-347552) | SeniorSoftwareEngineeringExtensive | United States | Oct 14, 2026 | Oct 14, 2026 02:26 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393556842726) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 02:14 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393557014716) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 02:14 UTC |
-| Microsoft | [Principal Software Engineer - Platforms](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-platforms-1970393557037495) | SeniorSoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 02:14 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393557027226) | SoftwareEngineering | Czech Republic | Oct 14, 2026 | Oct 14, 2026 02:14 UTC |
-| JPMorgan Chase | [Lead Software Engineer- Python / Quant](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-python-quant-210800425) | SeniorSoftwareEngineering | United States | Oct 14, 2026 | Oct 14, 2026 02:13 UTC |
-| Amazon | [Software Development Engineer, SW-Device OS](https://www.scoutjob.me/jobs/amazon-software-development-engineer-sw-device-os-606b07c4-9491-4dce-91be-10559be0d64c) | SoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 02:10 UTC |
-| Oracle | [Principal Application Software Engineer, Java & Cloud](https://www.scoutjob.me/jobs/oracle-principal-application-software-engineer-java-cloud-347562) | SeniorSoftwareEngineering | United States | Oct 14, 2026 | Oct 14, 2026 01:20 UTC |
-| Apple | [Machine Learning Engineer](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-200687877) | DataAiMl | China | Oct 14, 2026 | Oct 14, 2026 00:59 UTC |
-| Apple | [Machine Learning Engineer](https://www.scoutjob.me/jobs/apple-machine-learning-engineer-200687876) | DataAiMl | China | Oct 14, 2026 | Oct 14, 2026 00:59 UTC |
-| xAI | [Data Visualization Engineer](https://www.scoutjob.me/jobs/xai-data-visualization-engineer-5265194007) | SoftwareEngineeringExtensive | United States | Oct 14, 2026 | Oct 14, 2026 00:49 UTC |
-| Apple | [Power Technology Development Engineer](https://www.scoutjob.me/jobs/apple-power-technology-development-engineer-200688863) | SoftwareEngineeringExtensive | United States | Oct 14, 2026 | Oct 14, 2026 00:43 UTC |
-| GitHub | [Staff Software Engineer](https://www.scoutjob.me/jobs/github-staff-software-engineer-5609) | SeniorSoftwareEngineering | Remote | Oct 14, 2026 | Oct 14, 2026 00:28 UTC |
-| Apple | [Intern - Full Stack Engineer](https://www.scoutjob.me/jobs/apple-intern-full-stack-engineer-200688776) | SoftwareEngineeringIntern | Czech Republic | Oct 14, 2026 | Oct 14, 2026 00:28 UTC |
-| Apple | [Module Engineering Project Specialist](https://www.scoutjob.me/jobs/apple-module-engineering-project-specialist-200688498) | SoftwareEngineeringExtensive | United States | Oct 14, 2026 | Oct 14, 2026 00:28 UTC |
-| Microsoft | [Senior Silicon Engineer - Front -End CAD](https://www.scoutjob.me/jobs/microsoft-senior-silicon-engineer-front-end-cad-1970393557037663) | SeniorHardwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 00:19 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557039349) | SoftwareEngineering | India | Oct 14, 2026 | Oct 14, 2026 00:19 UTC |
