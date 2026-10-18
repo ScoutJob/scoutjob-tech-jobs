@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [UI Desktop Engineer Hybird, North Carolina Hybrid](https://www.scoutjob.me/jobs/cisco-ui-desktop-engineer-hybird-north-carolina-hybrid-ciscisglobal2023263externalenglobal) | SoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 14:49 UTC |
+| Qualcomm | [Sr. Engineer, System Level Test](https://www.scoutjob.me/jobs/qualcomm-sr-engineer-system-level-test-446720841373) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 14:22 UTC |
+| Qualcomm | [Audio Tuning SW Application Engineer](https://www.scoutjob.me/jobs/qualcomm-audio-tuning-sw-application-engineer-446721556248) | SoftwareEngineeringExtensive | Taiwan | Oct 18, 2026 | Oct 18, 2026 14:22 UTC |
+| Qualcomm | [Staff Engineer - Camera Firmware](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-camera-firmware-446721560335) | SeniorHardwareEngineering | India | Oct 18, 2026 | Oct 18, 2026 14:22 UTC |
+| Anthropic | [Principal Engineer Capacity/Compute](https://www.scoutjob.me/jobs/anthropic-principal-engineer-capacity-compute-5456039008) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 14:18 UTC |
+| Apple | [Failure Analysis Engineer, Singapore](https://www.scoutjob.me/jobs/apple-failure-analysis-engineer-singapore-200690045) | SoftwareEngineeringExtensive | Singapore | Oct 18, 2026 | Oct 18, 2026 12:06 UTC |
 | Microsoft | [Senior Physical Verification CAD Engineer](https://www.scoutjob.me/jobs/microsoft-senior-physical-verification-cad-engineer-1970393556984680) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 08:42 UTC |
 | Microsoft | [Business Analyst Manager, Japan](https://www.scoutjob.me/jobs/microsoft-business-analyst-manager-japan-1970393557040575) | SeniorAnalyst | Japan | Oct 18, 2026 | Oct 18, 2026 08:42 UTC |
 | Microsoft | [Principal Software Engineer--M365 Directory team](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-m365-directory-team-1970393557041446) | SeniorSoftwareEngineering | China | Oct 18, 2026 | Oct 18, 2026 08:42 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [DSP Micro-Architect RTL Engineer](https://www.scoutjob.me/jobs/qualcomm-dsp-micro-architect-rtl-engineer-446721591743) | SeniorHardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [Graphics System-on-Chip](https://www.scoutjob.me/jobs/qualcomm-graphics-system-on-chip-446721476002) | HardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [CPU SRAM Design Engineer, Senior - Cork, Ireland](https://www.scoutjob.me/jobs/qualcomm-cpu-sram-design-engineer-senior-cork-ireland-446721565424) | SeniorSoftwareEngineeringExtensive | Ireland | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Engineer, Staff- CPU/GPU performance Optimization Engineer (CE)](https://www.scoutjob.me/jobs/qualcomm-engineer-staff-cpu-gpu-performance-optimization-engineer-ce-446717777589) | SeniorSoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [RF & Channel Emulation Systems Engineer](https://www.scoutjob.me/jobs/qualcomm-rf-channel-emulation-systems-engineer-446718388725) | SoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-senior-engineer-446720952925) | SeniorSoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [NPU Physical Design Engineer (Lead/Staff/Sr Staff)](https://www.scoutjob.me/jobs/qualcomm-npu-physical-design-engineer-lead-staff-sr-staff-446720953655) | SeniorHardwareEngineering | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [NPU STA/Timing Engineer](https://www.scoutjob.me/jobs/qualcomm-npu-sta-timing-engineer-446720953656) | SoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Associate Engineer](https://www.scoutjob.me/jobs/qualcomm-associate-engineer-446721019961) | SoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
