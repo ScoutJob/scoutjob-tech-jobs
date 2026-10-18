@@ -26,6 +26,11 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Cloud and AI Platform Specialist Manager](https://www.scoutjob.me/jobs/microsoft-cloud-and-ai-platform-specialist-manager-1970393557041015) | SeniorDataAiMl | United States | Oct 18, 2026 | Oct 18, 2026 20:29 UTC |
+| Oracle | [Senior Core Infrastructure Engineer (Nashville-TN)](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-nashville-tn-347612) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 20:00 UTC |
+| Atlassian | [Senior Backend Software Engineer, DX](https://www.scoutjob.me/jobs/atlassian-senior-backend-software-engineer-dx-27730) | SeniorSoftwareEngineering | Remote | Oct 18, 2026 | Oct 18, 2026 18:28 UTC |
+| Atlassian | [Fullstack Software Engineer, DX](https://www.scoutjob.me/jobs/atlassian-fullstack-software-engineer-dx-27729) | SoftwareEngineering | Remote | Oct 18, 2026 | Oct 18, 2026 18:28 UTC |
+| Atlassian | [Backend Software Engineer, DX](https://www.scoutjob.me/jobs/atlassian-backend-software-engineer-dx-27728) | SoftwareEngineering | Remote | Oct 18, 2026 | Oct 18, 2026 18:28 UTC |
 | NVIDIA | [Senior Solutions Architect, Gen AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-gen-ai-893395388415) | SeniorSoftwareEngineeringExtensive | Remote | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
 | NVIDIA | [Senior Machine Learning Engineer, Prediction - Autonomous Driving](https://www.scoutjob.me/jobs/nvidia-senior-machine-learning-engineer-prediction-autonomous-driving-893398212041) | SeniorDataAiMl | Remote | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
 | NVIDIA | [Senior Engineer, Local AI - Agents and Systems](https://www.scoutjob.me/jobs/nvidia-senior-engineer-local-ai-agents-and-systems-893396587198) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
@@ -96,8 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Principal/Manager, SoC Systems Validation Engineering](https://www.scoutjob.me/jobs/qualcomm-principal-manager-soc-systems-validation-engineering-446721613425) | SeniorHardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://www.scoutjob.me/jobs/qualcomm-fy27-intern-automotive-engineering-internship-canada-16-months-446721615591) | SoftwareEngineeringIntern | Canada | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [Quality Systems Engineer - Data Center](https://www.scoutjob.me/jobs/qualcomm-quality-systems-engineer-data-center-446721616382) | SoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Solutions Engineer](https://www.scoutjob.me/jobs/qualcomm-solutions-engineer-446721208050) | SoftwareEngineeringExtensive | Remote | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Sr Staff Engineer- Android Telephony](https://www.scoutjob.me/jobs/qualcomm-sr-staff-engineer-android-telephony-446721438588) | SeniorSoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Serdes PHY Analog Design Engineer](https://www.scoutjob.me/jobs/qualcomm-serdes-phy-analog-design-engineer-446721526104) | HardwareEngineering | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446721549211) | SoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Engineer, Senior BTSW-HOST](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-btsw-host-446721549215) | SeniorSoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
