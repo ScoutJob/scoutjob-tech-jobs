@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| NVIDIA | [Senior Solutions Architect, Gen AI](https://www.scoutjob.me/jobs/nvidia-senior-solutions-architect-gen-ai-893395388415) | SeniorSoftwareEngineeringExtensive | Remote | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
+| NVIDIA | [Senior Machine Learning Engineer, Prediction - Autonomous Driving](https://www.scoutjob.me/jobs/nvidia-senior-machine-learning-engineer-prediction-autonomous-driving-893398212041) | SeniorDataAiMl | Remote | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
+| NVIDIA | [Senior Engineer, Local AI - Agents and Systems](https://www.scoutjob.me/jobs/nvidia-senior-engineer-local-ai-agents-and-systems-893396587198) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
+| NVIDIA | [Principal Data Scientist - Cloud Gaming and AI](https://www.scoutjob.me/jobs/nvidia-principal-data-scientist-cloud-gaming-and-ai-893395763514) | SeniorDataAiMl | Remote | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
+| NVIDIA | [Principal Engineer, Local AI - Agents and Systems](https://www.scoutjob.me/jobs/nvidia-principal-engineer-local-ai-agents-and-systems-893396750283) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
+| NVIDIA | [Senior Staff Software Engineer — Agentic Workflows](https://www.scoutjob.me/jobs/nvidia-senior-staff-software-engineer-agentic-workflows-893398171489) | SeniorSoftwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 15:57 UTC |
 | Cisco | [UI Desktop Engineer Hybird, North Carolina Hybrid](https://www.scoutjob.me/jobs/cisco-ui-desktop-engineer-hybird-north-carolina-hybrid-ciscisglobal2023263externalenglobal) | SoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 14:49 UTC |
 | Qualcomm | [Sr. Engineer, System Level Test](https://www.scoutjob.me/jobs/qualcomm-sr-engineer-system-level-test-446720841373) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 14:22 UTC |
 | Qualcomm | [Audio Tuning SW Application Engineer](https://www.scoutjob.me/jobs/qualcomm-audio-tuning-sw-application-engineer-446721556248) | SoftwareEngineeringExtensive | Taiwan | Oct 18, 2026 | Oct 18, 2026 14:22 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Serdes PHY Analog Design Engineer](https://www.scoutjob.me/jobs/qualcomm-serdes-phy-analog-design-engineer-446721526104) | HardwareEngineering | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [Engineer](https://www.scoutjob.me/jobs/qualcomm-engineer-446721549211) | SoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [Engineer, Senior BTSW-HOST](https://www.scoutjob.me/jobs/qualcomm-engineer-senior-btsw-host-446721549215) | SeniorSoftwareEngineeringExtensive | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Circuit Analysis and Modeling Engineer, Senior - Cork, Ireland](https://www.scoutjob.me/jobs/qualcomm-circuit-analysis-and-modeling-engineer-senior-cork-ireland-446721565426) | SeniorHardwareEngineering | Ireland | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Robotics Product Expert (m/f/d) - Europe](https://www.scoutjob.me/jobs/qualcomm-robotics-product-expert-m-f-d-europe-446721587936) | SeniorDataAiMl | Germany | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Robotics Technical Systems Expert (m/f/d) - Europe](https://www.scoutjob.me/jobs/qualcomm-robotics-technical-systems-expert-m-f-d-europe-446721587942) | SeniorDataAiMl | Germany | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [DSP Micro-Architect RTL Engineer](https://www.scoutjob.me/jobs/qualcomm-dsp-micro-architect-rtl-engineer-446721591743) | SeniorHardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Graphics System-on-Chip](https://www.scoutjob.me/jobs/qualcomm-graphics-system-on-chip-446721476002) | HardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [CPU SRAM Design Engineer, Senior - Cork, Ireland](https://www.scoutjob.me/jobs/qualcomm-cpu-sram-design-engineer-senior-cork-ireland-446721565424) | SeniorSoftwareEngineeringExtensive | Ireland | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
