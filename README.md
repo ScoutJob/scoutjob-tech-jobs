@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Atlassian | [Solutions Engineer - SMB](https://www.scoutjob.me/jobs/atlassian-solutions-engineer-smb-27483) | SoftwareEngineeringExtensive | Remote | Oct 18, 2026 | Oct 18, 2026 23:37 UTC |
+| Microsoft | [Enterprise Cloud Solution Architect - Cloud & AI Platforms](https://www.scoutjob.me/jobs/microsoft-enterprise-cloud-solution-architect-cloud-ai-platforms-1970393557037445) | SeniorSoftwareEngineeringExtensive | Australia | Oct 18, 2026 | Oct 18, 2026 22:21 UTC |
+| JPMorgan Chase | [Lead Software Engineer – Market Risk Reporting & Visualization](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-market-risk-reporting-visualization-210800952) | SeniorSoftwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 21:24 UTC |
+| JPMorgan Chase | [Software Engineer III – Market Risk Reporting & Visualization](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-market-risk-reporting-visualization-210800953) | SeniorSoftwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 21:24 UTC |
 | Microsoft | [Cloud and AI Platform Specialist Manager](https://www.scoutjob.me/jobs/microsoft-cloud-and-ai-platform-specialist-manager-1970393557041015) | SeniorDataAiMl | United States | Oct 18, 2026 | Oct 18, 2026 20:29 UTC |
 | Oracle | [Senior Core Infrastructure Engineer (Nashville-TN)](https://www.scoutjob.me/jobs/oracle-senior-core-infrastructure-engineer-nashville-tn-347612) | SeniorSoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 20:00 UTC |
 | Atlassian | [Senior Backend Software Engineer, DX](https://www.scoutjob.me/jobs/atlassian-senior-backend-software-engineer-dx-27730) | SeniorSoftwareEngineering | Remote | Oct 18, 2026 | Oct 18, 2026 18:28 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Lead SoC Performance Architect](https://www.scoutjob.me/jobs/qualcomm-lead-soc-performance-architect-446718717733) | SeniorHardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [Data Management Analyst (EMEA Time Zone)](https://www.scoutjob.me/jobs/qualcomm-data-management-analyst-emea-time-zone-446721594560) | Analyst | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
 | Qualcomm | [EVA Design Verification Engineer, Senior - Cork, Ireland](https://www.scoutjob.me/jobs/qualcomm-eva-design-verification-engineer-senior-cork-ireland-446721603807) | SeniorHardwareEngineering | Ireland | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Staff Engineer, Data Centre Software Test Engineer (Server)](https://www.scoutjob.me/jobs/qualcomm-staff-engineer-data-centre-software-test-engineer-server-446721605745) | SeniorSoftwareEngineering | India | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Principal/Manager, SoC Systems Validation Engineering](https://www.scoutjob.me/jobs/qualcomm-principal-manager-soc-systems-validation-engineering-446721613425) | SeniorHardwareEngineering | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://www.scoutjob.me/jobs/qualcomm-fy27-intern-automotive-engineering-internship-canada-16-months-446721615591) | SoftwareEngineeringIntern | Canada | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
-| Qualcomm | [Quality Systems Engineer - Data Center](https://www.scoutjob.me/jobs/qualcomm-quality-systems-engineer-data-center-446721616382) | SoftwareEngineeringExtensive | United States | Oct 18, 2026 | Oct 18, 2026 06:43 UTC |
