@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Qualcomm | [DDR STA/Timing Engineer, Lead](https://www.scoutjob.me/jobs/qualcomm-ddr-sta-timing-engineer-lead-446721599870) | SeniorSoftwareEngineeringExtensive | India | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
+| Qualcomm | [Engineering Technician, Senior](https://www.scoutjob.me/jobs/qualcomm-engineering-technician-senior-446721639103) | SeniorSoftwareEngineeringExtensive | Taiwan | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
+| Qualcomm | [RF Product and Test Development Engineer](https://www.scoutjob.me/jobs/qualcomm-rf-product-and-test-development-engineer-446721693319) | SoftwareEngineeringExtensive | Taiwan | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-backend-engineering-java-kotlin-210705851) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
 | JPMorgan Chase | [Software Engineer III - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-backend-engineering-java-kotlin-210588623) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-backend-engineering-java-kotlin-210587260) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Senior Software Systems Engineer, Wireless Technologies & Ecosystems](https://www.scoutjob.me/jobs/apple-senior-software-systems-engineer-wireless-technologies-ecosystems-200691333) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 00:38 UTC |
 | JPMorgan Chase | [Senior Lead Software Engineer - Java/Python/AWS/AI/LLM](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-java-python-aws-ai-llm-210796515) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 00:00 UTC |
 | JPMorgan Chase | [Lead Software Engineer - Java/Python/AWS/AI/LLM](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-python-aws-ai-llm-210796278) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 00:00 UTC |
-| Apple | [Engineering Manager, Security Server Applications - Enterprise Technology Services (ETS)](https://www.scoutjob.me/jobs/apple-engineering-manager-security-server-applications-enterprise-technology-services-ets-200690989) | EngineeringManagement | United States | Oct 23, 2026 | Oct 23, 2026 23:59 UTC |
-| Airbnb | [CS Forecasting and Demand Planning Analyst](https://www.scoutjob.me/jobs/airbnb-cs-forecasting-and-demand-planning-analyst-7839229) | Analyst | Remote | Oct 23, 2026 | Oct 23, 2026 23:59 UTC |
-| Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393557044567) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
