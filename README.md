@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Senior Lead Software Engineer - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-backend-engineering-java-kotlin-210705851) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
+| JPMorgan Chase | [Software Engineer III - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-backend-engineering-java-kotlin-210588623) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
+| JPMorgan Chase | [Lead Software Engineer - Backend Engineering - Java/Kotlin](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-backend-engineering-java-kotlin-210587260) | SeniorSoftwareEngineering | United Kingdom | Oct 24, 2026 | Oct 24, 2026 16:23 UTC |
 | Apple | [Acoustics Test Engineer](https://www.scoutjob.me/jobs/apple-acoustics-test-engineer-200690656) | HardwareEngineering | China | Oct 24, 2026 | Oct 24, 2026 13:20 UTC |
 | Microsoft | [Solution Engineering (Early in Profession)- Copilot & Agents](https://www.scoutjob.me/jobs/microsoft-solution-engineering-early-in-profession-copilot-agents-1970393557045604) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
 | Microsoft | [FastTrack Full Stack Engineer](https://www.scoutjob.me/jobs/microsoft-fasttrack-full-stack-engineer-1970393557043367) | SoftwareEngineeringExtensive | Spain | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Engineering Manager, Security Server Applications - Enterprise Technology Services (ETS)](https://www.scoutjob.me/jobs/apple-engineering-manager-security-server-applications-enterprise-technology-services-ets-200690989) | EngineeringManagement | United States | Oct 23, 2026 | Oct 23, 2026 23:59 UTC |
 | Airbnb | [CS Forecasting and Demand Planning Analyst](https://www.scoutjob.me/jobs/airbnb-cs-forecasting-and-demand-planning-analyst-7839229) | Analyst | Remote | Oct 23, 2026 | Oct 23, 2026 23:59 UTC |
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393557044567) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Software Engineering II - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineering-ii-ctj-poly-1970393557045309) | SoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Principal Applied Scientist - Copilot Quality](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-copilot-quality-1970393557044751) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393557044882) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
