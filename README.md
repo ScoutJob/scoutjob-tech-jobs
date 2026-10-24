@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Acoustics Test Engineer](https://www.scoutjob.me/jobs/apple-acoustics-test-engineer-200690656) | HardwareEngineering | China | Oct 24, 2026 | Oct 24, 2026 13:20 UTC |
 | Microsoft | [Solution Engineering (Early in Profession)- Copilot & Agents](https://www.scoutjob.me/jobs/microsoft-solution-engineering-early-in-profession-copilot-agents-1970393557045604) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
 | Microsoft | [FastTrack Full Stack Engineer](https://www.scoutjob.me/jobs/microsoft-fasttrack-full-stack-engineer-1970393557043367) | SoftwareEngineeringExtensive | Spain | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
 | American Express | [Senior Site Reliability Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-site-reliability-engineer-i-26013312) | SeniorSoftwareEngineeringExtensive | India | Oct 24, 2026 | Oct 24, 2026 08:48 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineering II - CTJ - Poly](https://www.scoutjob.me/jobs/microsoft-software-engineering-ii-ctj-poly-1970393557045309) | SoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
 | Microsoft | [Principal Applied Scientist - Copilot Quality](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-copilot-quality-1970393557044751) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393557044882) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557042246) | SoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
