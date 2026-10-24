@@ -26,6 +26,14 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Solution Engineering (Early in Profession)- Copilot & Agents](https://www.scoutjob.me/jobs/microsoft-solution-engineering-early-in-profession-copilot-agents-1970393557045604) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
+| Microsoft | [FastTrack Full Stack Engineer](https://www.scoutjob.me/jobs/microsoft-fasttrack-full-stack-engineer-1970393557043367) | SoftwareEngineeringExtensive | Spain | Oct 24, 2026 | Oct 24, 2026 09:16 UTC |
+| American Express | [Senior Site Reliability Engineer I](https://www.scoutjob.me/jobs/americanexpress-senior-site-reliability-engineer-i-26013312) | SeniorSoftwareEngineeringExtensive | India | Oct 24, 2026 | Oct 24, 2026 08:48 UTC |
+| Qualcomm | [IOT Camera Software Engineer, Senior/Staff](https://www.scoutjob.me/jobs/qualcomm-iot-camera-software-engineer-senior-staff-446715678436) | SeniorSoftwareEngineering | China | Oct 24, 2026 | Oct 24, 2026 08:33 UTC |
+| Intel | [Senior Software Development Engineer (Contract Position)](https://www.scoutjob.me/jobs/intel-senior-software-development-engineer-contract-position-jr0287775) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 07:52 UTC |
+| Apple | [Sr. Computer Vision and Machine Learning Engineer, Creativity Apps](https://www.scoutjob.me/jobs/apple-sr-computer-vision-and-machine-learning-engineer-creativity-apps-200691415) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 07:19 UTC |
+| NVIDIA | [Senior Verification Engineer, PCIE](https://www.scoutjob.me/jobs/nvidia-senior-verification-engineer-pcie-893382615132) | SeniorHardwareEngineering | India | Oct 24, 2026 | Oct 24, 2026 06:03 UTC |
+| NVIDIA | [Power Analysis and Optimization Engineer - New College Graduate 2027](https://www.scoutjob.me/jobs/nvidia-power-analysis-and-optimization-engineer-new-college-graduate-2027-893398228724) | SoftwareEngineeringIntern | China | Oct 24, 2026 | Oct 24, 2026 06:03 UTC |
 | Microsoft | [Principal Firmware Development Engineer](https://www.scoutjob.me/jobs/microsoft-principal-firmware-development-engineer-1970393557042245) | SeniorHardwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 03:49 UTC |
 | NVIDIA | [Research Scientist - Nemotron India](https://www.scoutjob.me/jobs/nvidia-research-scientist-nemotron-india-893398312936) | DataAiMl | India | Oct 24, 2026 | Oct 24, 2026 03:17 UTC |
 | NVIDIA | [Senior Package Layout Engineer - Hardware](https://www.scoutjob.me/jobs/nvidia-senior-package-layout-engineer-hardware-893398312945) | SeniorHardwareEngineering | India | Oct 24, 2026 | Oct 24, 2026 03:17 UTC |
@@ -93,11 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Principal Applied Scientist - Copilot Quality](https://www.scoutjob.me/jobs/microsoft-principal-applied-scientist-copilot-quality-1970393557044751) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
 | Microsoft | [Senior Data Scientist](https://www.scoutjob.me/jobs/microsoft-senior-data-scientist-1970393557044882) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557042246) | SoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393557045539) | SeniorSoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Principal ML Engineer](https://www.scoutjob.me/jobs/microsoft-principal-ml-engineer-1970393557044178) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Cloud & AI Platform Solution Engineer Manager](https://www.scoutjob.me/jobs/microsoft-cloud-ai-platform-solution-engineer-manager-1970393557042154) | SeniorDataAiMl | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Senior Firmware & System Debug Engineer](https://www.scoutjob.me/jobs/microsoft-senior-firmware-system-debug-engineer-1970393557043857) | SeniorHardwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Principal Firmware Debug & Dev Engineer](https://www.scoutjob.me/jobs/microsoft-principal-firmware-debug-dev-engineer-1970393557043862) | SeniorHardwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557044529) | SoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393557045288) | SeniorSoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393557044532) | SeniorSoftwareEngineering | United States | Oct 23, 2026 | Oct 23, 2026 23:56 UTC |
