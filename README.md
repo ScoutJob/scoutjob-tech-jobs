@@ -26,6 +26,10 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [Senior Network Engineer, Infrastructure Services](https://www.scoutjob.me/jobs/apple-senior-network-engineer-infrastructure-services-200690976) | SeniorSoftwareEngineeringExtensive | United States | Oct 24, 2026 | Oct 24, 2026 22:13 UTC |
+| Oracle | [Director, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-director-platform-software-engineering-348718) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 20:26 UTC |
+| Microsoft | [Solution Engineering (Early in Profession)-Cloud Endpoint](https://www.scoutjob.me/jobs/microsoft-solution-engineering-early-in-profession-cloud-endpoint-1970393557045603) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 20:25 UTC |
+| Amazon | [Senior Software Development Engineer , AWS Transform Migrations](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-aws-transform-migrations-d6f487c8-f2c8-4025-b4bc-1f00a8f1bd6e) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 20:23 UTC |
 | Qualcomm | [DDR STA/Timing Engineer, Lead](https://www.scoutjob.me/jobs/qualcomm-ddr-sta-timing-engineer-lead-446721599870) | SeniorSoftwareEngineeringExtensive | India | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
 | Qualcomm | [Engineering Technician, Senior](https://www.scoutjob.me/jobs/qualcomm-engineering-technician-senior-446721639103) | SeniorSoftwareEngineeringExtensive | Taiwan | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
 | Qualcomm | [RF Product and Test Development Engineer](https://www.scoutjob.me/jobs/qualcomm-rf-product-and-test-development-engineer-446721693319) | SoftwareEngineeringExtensive | Taiwan | Oct 24, 2026 | Oct 24, 2026 19:35 UTC |
@@ -97,7 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557043515) | SoftwareEngineering | Canada | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
 | Apple | [Senior Software Engineering Manager, Agentic Infrastructure](https://www.scoutjob.me/jobs/apple-senior-software-engineering-manager-agentic-infrastructure-200688205) | EngineeringManagement | United States | Oct 24, 2026 | Oct 24, 2026 00:48 UTC |
 | Intuit | [Manager 2, Engineering - Payments](https://www.scoutjob.me/jobs/intuit-manager-2-engineering-payments-102353534096-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstate) | SeniorSoftwareEngineeringExtensive | United States | Oct 24, 2026 | Oct 24, 2026 00:38 UTC |
-| Okta | [Staff Software Engineer, AI Platform & Infrastructure](https://www.scoutjob.me/jobs/okta-staff-software-engineer-ai-platform-infrastructure-8319285) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 00:38 UTC |
-| Apple | [Senior Software Systems Engineer, Wireless Technologies & Ecosystems](https://www.scoutjob.me/jobs/apple-senior-software-systems-engineer-wireless-technologies-ecosystems-200691333) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 00:38 UTC |
-| JPMorgan Chase | [Senior Lead Software Engineer - Java/Python/AWS/AI/LLM](https://www.scoutjob.me/jobs/jpmorgan-senior-lead-software-engineer-java-python-aws-ai-llm-210796515) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 00:00 UTC |
-| JPMorgan Chase | [Lead Software Engineer - Java/Python/AWS/AI/LLM](https://www.scoutjob.me/jobs/jpmorgan-lead-software-engineer-java-python-aws-ai-llm-210796278) | SeniorDataAiMl | United States | Oct 24, 2026 | Oct 24, 2026 00:00 UTC |
