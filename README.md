@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Bloomberg | [Senior Software Engineer - Platform Services, Pune](https://www.scoutjob.me/jobs/bloomberg-senior-software-engineer-platform-services-pune-45785) | SeniorSoftwareEngineering | India | Oct 25, 2026 | Oct 25, 2026 08:56 UTC |
 | Cisco | [Software Engineer](https://www.scoutjob.me/jobs/cisco-software-engineer-ciscisglobal2027979externalenglobal) | SoftwareEngineering | United States | Oct 25, 2026 | Oct 25, 2026 06:23 UTC |
 | CVS Health | [Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Graduate](https://www.scoutjob.me/jobs/cvs-innovation-technology-internship-software-engineering-data-intelligence-summer-2027-gradua-r1081128) | SoftwareEngineeringIntern | United States | Oct 25, 2026 | Oct 25, 2026 02:53 UTC |
 | CVS Health | [Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad](https://www.scoutjob.me/jobs/cvs-innovation-technology-internship-software-engineering-data-intelligence-summer-2027-underg-r1081114) | SoftwareEngineeringIntern | United States | Oct 25, 2026 | Oct 25, 2026 02:53 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Embedded System Software Engineer - Hypervisor and Virtualization](https://www.scoutjob.me/jobs/nvidia-senior-embedded-system-software-engineer-hypervisor-and-virtualization-893396814433) | SeniorSoftwareEngineering | Taiwan | Oct 24, 2026 | Oct 24, 2026 03:00 UTC |
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893394620783) | SeniorSoftwareEngineering | South Korea | Oct 24, 2026 | Oct 24, 2026 03:00 UTC |
 | NVIDIA | [Senior System Software Engineer - Automotive](https://www.scoutjob.me/jobs/nvidia-senior-system-software-engineer-automotive-893395041714) | SeniorSoftwareEngineering | South Korea | Oct 24, 2026 | Oct 24, 2026 03:00 UTC |
-| NVIDIA | [Signal and Power Integrity Engineer](https://www.scoutjob.me/jobs/nvidia-signal-and-power-integrity-engineer-893395109082) | SoftwareEngineeringExtensive | China | Oct 24, 2026 | Oct 24, 2026 03:00 UTC |
