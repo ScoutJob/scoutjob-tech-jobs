@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393557045291) | SeniorSoftwareEngineering | India | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
+| Microsoft | [Principal Software Engineer](https://www.scoutjob.me/jobs/microsoft-principal-software-engineer-1970393557045292) | SeniorSoftwareEngineering | India | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
+| Microsoft | [Safeguarding Payment Analyst](https://www.scoutjob.me/jobs/microsoft-safeguarding-payment-analyst-1970393557040664) | Analyst | Ireland | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
+| Microsoft | [Device Validation Engineer -II](https://www.scoutjob.me/jobs/microsoft-device-validation-engineer-ii-1970393557045370) | SoftwareEngineeringExtensive | India | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
+| Microsoft | [Sr. Device Validation Engineer](https://www.scoutjob.me/jobs/microsoft-sr-device-validation-engineer-1970393557045319) | SeniorSoftwareEngineeringExtensive | India | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
+| Microsoft | [Senior Wafer-Scale Cryogenic Probing Engineer](https://www.scoutjob.me/jobs/microsoft-senior-wafer-scale-cryogenic-probing-engineer-1970393557044285) | SeniorSoftwareEngineeringExtensive | Denmark | Oct 25, 2026 | Oct 25, 2026 00:43 UTC |
 | Apple | [Senior Network Engineer, Infrastructure Services](https://www.scoutjob.me/jobs/apple-senior-network-engineer-infrastructure-services-200690976) | SeniorSoftwareEngineeringExtensive | United States | Oct 24, 2026 | Oct 24, 2026 22:13 UTC |
 | Oracle | [Director, Platform Software Engineering](https://www.scoutjob.me/jobs/oracle-director-platform-software-engineering-348718) | SeniorSoftwareEngineering | United States | Oct 24, 2026 | Oct 24, 2026 20:26 UTC |
 | Microsoft | [Solution Engineering (Early in Profession)-Cloud Endpoint](https://www.scoutjob.me/jobs/microsoft-solution-engineering-early-in-profession-cloud-endpoint-1970393557045603) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 20:25 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Cloud & AI Software Solution Engineer (大手法人のお客様向け GitHub Presales)](https://www.scoutjob.me/jobs/microsoft-cloud-ai-software-solution-engineer-github-presales-1970393557044878) | SoftwareEngineering | Japan | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
 | Microsoft | [Software Engineer 2 - C# + Azure](https://www.scoutjob.me/jobs/microsoft-software-engineer-2-c-azure-1970393557043876) | SoftwareEngineering | India | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
 | Microsoft | [Customer Experience Engineering 2](https://www.scoutjob.me/jobs/microsoft-customer-experience-engineering-2-1970393557042178) | SoftwareEngineeringExtensive | Australia | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
-| Microsoft | [Cloud Solutions Architect Manager - Global Accounts](https://www.scoutjob.me/jobs/microsoft-cloud-solutions-architect-manager-global-accounts-1970393557042291) | SeniorSoftwareEngineeringExtensive | India | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
-| Microsoft | [Senior Software Engineer](https://www.scoutjob.me/jobs/microsoft-senior-software-engineer-1970393557044152) | SeniorSoftwareEngineering | Canada | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557043513) | SoftwareEngineering | Canada | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557043515) | SoftwareEngineering | Canada | Oct 24, 2026 | Oct 24, 2026 01:02 UTC |
-| Apple | [Senior Software Engineering Manager, Agentic Infrastructure](https://www.scoutjob.me/jobs/apple-senior-software-engineering-manager-agentic-infrastructure-200688205) | EngineeringManagement | United States | Oct 24, 2026 | Oct 24, 2026 00:48 UTC |
-| Intuit | [Manager 2, Engineering - Payments](https://www.scoutjob.me/jobs/intuit-manager-2-engineering-payments-102353534096-k-software-2bengineer-2bdata-2bengineer-2bmachine-2blearning-l-united-2bstate) | SeniorSoftwareEngineeringExtensive | United States | Oct 24, 2026 | Oct 24, 2026 00:38 UTC |
