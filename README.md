@@ -26,6 +26,13 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III - Cloud Platform](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-cloud-platform-210776181) | SeniorSoftwareEngineering | United Kingdom | Oct 31, 2026 | Oct 31, 2026 17:55 UTC |
+| NVIDIA | [Principal Open-Source Networking Architect](https://www.scoutjob.me/jobs/nvidia-principal-open-source-networking-architect-893395176584) | SeniorSoftwareEngineeringExtensive | Israel | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
+| NVIDIA | [Senior Software Engineer - Applied Research in Robotics](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-applied-research-in-robotics-893396530321) | SeniorDataAiMl | India | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
+| NVIDIA | [SoC Clocks Design Automation Engineer](https://www.scoutjob.me/jobs/nvidia-soc-clocks-design-automation-engineer-893392396022) | HardwareEngineering | Israel | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
+| NVIDIA | [Senior Chip Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-chip-design-engineer-893391005721) | SeniorHardwareEngineering | Israel | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
+| NVIDIA | [Senior SOC Clocks RTL Design Engineer](https://www.scoutjob.me/jobs/nvidia-senior-soc-clocks-rtl-design-engineer-893396825024) | SeniorHardwareEngineering | Israel | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
+| JPMorgan Chase | [Client Technical Onboarding Analyst](https://www.scoutjob.me/jobs/jpmorgan-client-technical-onboarding-analyst-210805043) | Analyst | India | Oct 31, 2026 | Oct 31, 2026 14:01 UTC |
 | Qualcomm | [Senior Lead Engineer - Android OS System Security](https://www.scoutjob.me/jobs/qualcomm-senior-lead-engineer-android-os-system-security-446716901382) | SeniorSoftwareEngineeringExtensive | India | Oct 31, 2026 | Oct 31, 2026 09:03 UTC |
 | Workday | [Sr. IAM Cybersecurity Engineer, Enterprise Identity](https://www.scoutjob.me/jobs/workday-sr-iam-cybersecurity-engineer-enterprise-identity-jr-0111070) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 07:39 UTC |
 | Workday | [Sales Development Manager – Ascent Program](https://www.scoutjob.me/jobs/workday-sales-development-manager-ascent-program-jr-0108419) | EngineeringManagement | United States | Oct 31, 2026 | Oct 31, 2026 07:39 UTC |
@@ -94,10 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Apple | [Lead Systems Integration Engineer - AirPods](https://www.scoutjob.me/jobs/apple-lead-systems-integration-engineer-airpods-200678303) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 01:42 UTC |
 | Amazon | [Software Development Engineer](https://www.scoutjob.me/jobs/amazon-software-development-engineer-fd6b49f9-b435-4160-9712-fe0dd8eebb2e) | SoftwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 01:28 UTC |
 | NVIDIA | [System Software Engineering Lead](https://www.scoutjob.me/jobs/nvidia-system-software-engineering-lead-893396599915) | SeniorSoftwareEngineering | Remote | Oct 31, 2026 | Oct 31, 2026 01:15 UTC |
-| NVIDIA | [Power Methodology and Modeling Engineer - New College Grad 2026](https://www.scoutjob.me/jobs/nvidia-power-methodology-and-modeling-engineer-new-college-grad-2026-893395016029) | SoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 01:15 UTC |
-| NVIDIA | [Senior ASIC Verification Engineer](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-893396838351) | SeniorHardwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 01:15 UTC |
-| NVIDIA | [Distinguished Engineer, End-to-End Scaling Performance Architecture](https://www.scoutjob.me/jobs/nvidia-distinguished-engineer-end-to-end-scaling-performance-architecture-893396778492) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 01:15 UTC |
-| NVIDIA | [Hardware Design Engineer – Interconnect Design](https://www.scoutjob.me/jobs/nvidia-hardware-design-engineer-interconnect-design-893395368619) | HardwareEngineering | Denmark | Oct 31, 2026 | Oct 31, 2026 00:58 UTC |
-| NVIDIA | [Senior AI Compiler Engineer, Algorithms and Code-Generation](https://www.scoutjob.me/jobs/nvidia-senior-ai-compiler-engineer-algorithms-and-code-generation-893396340682) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 00:58 UTC |
-| Apple | [SoC Power Validation Engineer](https://www.scoutjob.me/jobs/apple-soc-power-validation-engineer-200657081) | HardwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 00:37 UTC |
-| Apple | [SoC Power Spec Engineer](https://www.scoutjob.me/jobs/apple-soc-power-spec-engineer-200645449) | HardwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 00:37 UTC |
