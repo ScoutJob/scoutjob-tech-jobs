@@ -26,6 +26,8 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Amazon | [Software Dev Engineer II, Global WHS](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-global-whs-f1621094-abf3-4ef2-b90e-11b6c1839fb4) | SoftwareEngineering | India | Oct 31, 2026 | Oct 31, 2026 19:14 UTC |
+| Cisco | [Adoption Engineer - Federal - ThousandEyes (Remote)](https://www.scoutjob.me/jobs/cisco-adoption-engineer-federal-thousandeyes-remote-ciscisglobal2028419externalenglobal) | SoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 18:20 UTC |
 | JPMorgan Chase | [Software Engineer III - Cloud Platform](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-cloud-platform-210776181) | SeniorSoftwareEngineering | United Kingdom | Oct 31, 2026 | Oct 31, 2026 17:55 UTC |
 | NVIDIA | [Principal Open-Source Networking Architect](https://www.scoutjob.me/jobs/nvidia-principal-open-source-networking-architect-893395176584) | SeniorSoftwareEngineeringExtensive | Israel | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
 | NVIDIA | [Senior Software Engineer - Applied Research in Robotics](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-applied-research-in-robotics-893396530321) | SeniorDataAiMl | India | Oct 31, 2026 | Oct 31, 2026 15:10 UTC |
@@ -99,5 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | NVIDIA | [Senior Math Libraries Engineer - Direct Sparse Solvers](https://www.scoutjob.me/jobs/nvidia-senior-math-libraries-engineer-direct-sparse-solvers-893395507247) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 01:44 UTC |
 | NVIDIA | [Senior Inference Engineer, GPU Kernel Optimization](https://www.scoutjob.me/jobs/nvidia-senior-inference-engineer-gpu-kernel-optimization-893396599937) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 01:44 UTC |
 | Apple | [Lead Systems Integration Engineer - AirPods](https://www.scoutjob.me/jobs/apple-lead-systems-integration-engineer-airpods-200678303) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 01:42 UTC |
-| Amazon | [Software Development Engineer](https://www.scoutjob.me/jobs/amazon-software-development-engineer-fd6b49f9-b435-4160-9712-fe0dd8eebb2e) | SoftwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 01:28 UTC |
-| NVIDIA | [System Software Engineering Lead](https://www.scoutjob.me/jobs/nvidia-system-software-engineering-lead-893396599915) | SeniorSoftwareEngineering | Remote | Oct 31, 2026 | Oct 31, 2026 01:15 UTC |
