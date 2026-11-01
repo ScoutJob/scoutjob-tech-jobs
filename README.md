@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| JPMorgan Chase | [Software Engineer III - iOS](https://www.scoutjob.me/jobs/jpmorgan-software-engineer-iii-ios-210805314) | SeniorSoftwareEngineering | India | Nov 01, 2026 | Nov 01, 2026 21:07 UTC |
+| ByteDance | [Senior Software Engineer / Researcher, AI-Native database systems](https://www.scoutjob.me/jobs/bytedance-senior-software-engineer-researcher-ai-native-database-systems-7542987377129457938) | SeniorSoftwareEngineering | Canada | Nov 01, 2026 | Nov 01, 2026 20:25 UTC |
+| TikTok | [Machine Learning Engineer Intern (Global E-Commerce, Platform Governance) - 2027 Start](https://www.scoutjob.me/jobs/tiktok-machine-learning-engineer-intern-global-e-commerce-platform-governance-2027-start-7666296106317678901) | DataAiMlIntern | Canada | Nov 01, 2026 | Nov 01, 2026 19:48 UTC |
 | Amazon | [Software Dev Engineer II - AMZ27373.1](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-amz27373-1-724de7b4-b236-4383-9767-974a5298ef9f) | SoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 16:50 UTC |
 | Amazon | [Software Dev Engineer III - AMZ26892.1](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-iii-amz26892-1-2d764116-8f75-4b7f-b711-cb5e02a528d7) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 16:50 UTC |
 | Amazon | [Software Dev Engineer II - AMZ26548.2](https://www.scoutjob.me/jobs/amazon-software-dev-engineer-ii-amz26548-2-e1062c05-154b-4db8-a797-dcd43408b397) | SoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 16:50 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Amazon | [Software Development Engineer, PXT Central Science](https://www.scoutjob.me/jobs/amazon-software-development-engineer-pxt-central-science-664ae592-5a49-4b4b-bd36-e2d88a0b9939) | SoftwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 06:33 UTC |
 | NVIDIA | [Manager, Compiler Engineering](https://www.scoutjob.me/jobs/nvidia-manager-compiler-engineering-893394206096) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 04:38 UTC |
 | Microsoft | [Financial Analyst: Finance Rotation Program (FRP)](https://www.scoutjob.me/jobs/microsoft-financial-analyst-finance-rotation-program-frp-1970393557051199) | Analyst | United States | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Principal Software Development Engineer - XBOX Product Growth](https://www.scoutjob.me/jobs/microsoft-principal-software-development-engineer-xbox-product-growth-1970393557051158) | SeniorSoftwareEngineering | Canada | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Software Engineer](https://www.scoutjob.me/jobs/microsoft-software-engineer-1970393556955128) | SoftwareEngineering | India | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Cloud Solution Architect (CSA) Manager](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-csa-manager-1970393557045634) | SeniorSoftwareEngineeringExtensive | Norway | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
