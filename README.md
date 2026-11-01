@@ -26,6 +26,15 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Oracle | [Lead Principal Platform Software Engineer](https://www.scoutjob.me/jobs/oracle-lead-principal-platform-software-engineer-349111) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 14:21 UTC |
+| AMD | [Systems Design Engineer](https://www.scoutjob.me/jobs/amd-systems-design-engineer-96054) | SoftwareEngineeringExtensive | Malaysia | Nov 01, 2026 | Nov 01, 2026 14:16 UTC |
+| NVIDIA | [Senior Firmware Design Engineer, Optics](https://www.scoutjob.me/jobs/nvidia-senior-firmware-design-engineer-optics-893393497044) | SeniorHardwareEngineering | Israel | Nov 01, 2026 | Nov 01, 2026 13:17 UTC |
+| PayPal | [Senior Software Engineer - Backend (Java)](https://www.scoutjob.me/jobs/paypal-senior-software-engineer-backend-java-274922788515) | SeniorSoftwareEngineering | India | Nov 01, 2026 | Nov 01, 2026 11:01 UTC |
+| ByteDance | [Cloud Acceleration Engineer – DPU & AI Infra](https://www.scoutjob.me/jobs/bytedance-cloud-acceleration-engineer-dpu-ai-infra-7553557021388785938) | SoftwareEngineeringExtensive | Canada | Nov 01, 2026 | Nov 01, 2026 08:36 UTC |
+| Apple | [Physics & Optical Simulation Software Engineer - Q](https://www.scoutjob.me/jobs/apple-physics-optical-simulation-software-engineer-q-200692526) | SoftwareEngineering | Israel | Nov 01, 2026 | Nov 01, 2026 08:28 UTC |
+| Apple | [Deep Learning Research Engineer - ML & Physics - Q](https://www.scoutjob.me/jobs/apple-deep-learning-research-engineer-ml-physics-q-200692511) | DataAiMl | Israel | Nov 01, 2026 | Nov 01, 2026 08:28 UTC |
+| Apple | [CAD RTL/FE Manager](https://www.scoutjob.me/jobs/apple-cad-rtl-fe-manager-200692786) | SeniorHardwareEngineering | Israel | Nov 01, 2026 | Nov 01, 2026 08:15 UTC |
+| Qualcomm | [CPU STA CAD & Methodology Engineer (Staff/Sr Staff)](https://www.scoutjob.me/jobs/qualcomm-cpu-sta-cad-methodology-engineer-staff-sr-staff-446721467716) | SeniorSoftwareEngineeringExtensive | India | Nov 01, 2026 | Nov 01, 2026 07:40 UTC |
 | Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2027847externalenglobal) | SoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 06:29 UTC |
 | CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r1065518) | SeniorDataAiMl | United States | Nov 01, 2026 | Nov 01, 2026 06:09 UTC |
 | CVS Health | [Senior Software Development Engineer](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-r1040012) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 06:09 UTC |
@@ -92,12 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Architect Data & AI](https://www.scoutjob.me/jobs/microsoft-architect-data-ai-1970393556938683) | SeniorSoftwareEngineeringExtensive | India | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
 | Microsoft | [Software Engineer II - Azure SRE Agent](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-azure-sre-agent-1970393557046973) | SoftwareEngineering | China | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
 | Microsoft | [Software Engineer II - Agentic Sandbox](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-agentic-sandbox-1970393557046974) | SoftwareEngineering | China | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Senior Silicon Validation Engineer](https://www.scoutjob.me/jobs/microsoft-senior-silicon-validation-engineer-1970393557047988) | SeniorHardwareEngineering | India | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Business Architect](https://www.scoutjob.me/jobs/microsoft-business-architect-1970393557045585) | SeniorSoftwareEngineeringExtensive | Australia | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Senior Researcher/Engineer: AI for biomolecular modelling and simulation](https://www.scoutjob.me/jobs/microsoft-senior-researcher-engineer-ai-for-biomolecular-modelling-and-simulation-1970393557048767) | SeniorSoftwareEngineeringExtensive | United Kingdom | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Microsoft | [Software Engineer II](https://www.scoutjob.me/jobs/microsoft-software-engineer-ii-1970393557047620) | SoftwareEngineering | India | Oct 31, 2026 | Oct 31, 2026 04:11 UTC |
-| Cisco | [ASIC Failure Analysis Engineer (Onsite)](https://www.scoutjob.me/jobs/cisco-asic-failure-analysis-engineer-onsite-ciscisglobal2030027externalenglobal) | HardwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 03:30 UTC |
-| NVIDIA | [Senior Compiler Engineer – Rust GPU](https://www.scoutjob.me/jobs/nvidia-senior-compiler-engineer-rust-gpu-893396499127) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 03:28 UTC |
-| Microsoft | [Cloud Solution Architect - PowerApps/Copilot Studio - CTJ - Top Secret](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-powerapps-copilot-studio-ctj-top-secret-1970393557048183) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 03:10 UTC |
-| NVIDIA | [Senior Manager, Storage Production Engineering](https://www.scoutjob.me/jobs/nvidia-senior-manager-storage-production-engineering-893396796036) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 03:01 UTC |
-| NVIDIA | [Senior Memory System Architect](https://www.scoutjob.me/jobs/nvidia-senior-memory-system-architect-893396838362) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 03:01 UTC |
