@@ -26,6 +26,12 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Software Engineer (Hybrid)](https://www.scoutjob.me/jobs/cisco-software-engineer-hybrid-ciscisglobal2027847externalenglobal) | SoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 06:29 UTC |
+| CVS Health | [Senior Data Engineer](https://www.scoutjob.me/jobs/cvs-senior-data-engineer-r1065518) | SeniorDataAiMl | United States | Nov 01, 2026 | Nov 01, 2026 06:09 UTC |
+| CVS Health | [Senior Software Development Engineer](https://www.scoutjob.me/jobs/cvs-senior-software-development-engineer-r1040012) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 06:09 UTC |
+| CVS Health | [Senior Software Engineer (.NET/Python)](https://www.scoutjob.me/jobs/cvs-senior-software-engineer-net-python-r1084923) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 06:09 UTC |
+| Apple | [Senior iOS App Development Engineer - Services Special Project](https://www.scoutjob.me/jobs/apple-senior-ios-app-development-engineer-services-special-project-200692779) | SeniorSoftwareEngineeringExtensive | United States | Nov 01, 2026 | Nov 01, 2026 04:15 UTC |
+| Amazon | [Senior Software Development Engineer, Appstream](https://www.scoutjob.me/jobs/amazon-senior-software-development-engineer-appstream-3012e20b-f513-4197-9b6f-f836e0b7138d) | SeniorSoftwareEngineering | United States | Nov 01, 2026 | Nov 01, 2026 01:00 UTC |
 | Atlassian | [Senior Software Engineer](https://www.scoutjob.me/jobs/atlassian-senior-software-engineer-27568) | SeniorSoftwareEngineering | Remote | Nov 01, 2026 | Nov 01, 2026 00:22 UTC |
 | Atlassian | [Senior Principal Forward Deployed Engineer](https://www.scoutjob.me/jobs/atlassian-senior-principal-forward-deployed-engineer-27617) | SeniorSoftwareEngineeringExtensive | Remote | Nov 01, 2026 | Nov 01, 2026 00:22 UTC |
 | Atlassian | [Senior Principal Engineering Manager / Head of Engineering](https://www.scoutjob.me/jobs/atlassian-senior-principal-engineering-manager-head-of-engineering-28404) | EngineeringManagement | Remote | Nov 01, 2026 | Nov 01, 2026 00:22 UTC |
@@ -95,9 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Microsoft | [Cloud Solution Architect - PowerApps/Copilot Studio - CTJ - Top Secret](https://www.scoutjob.me/jobs/microsoft-cloud-solution-architect-powerapps-copilot-studio-ctj-top-secret-1970393557048183) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 03:10 UTC |
 | NVIDIA | [Senior Manager, Storage Production Engineering](https://www.scoutjob.me/jobs/nvidia-senior-manager-storage-production-engineering-893396796036) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 03:01 UTC |
 | NVIDIA | [Senior Memory System Architect](https://www.scoutjob.me/jobs/nvidia-senior-memory-system-architect-893396838362) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 03:01 UTC |
-| NVIDIA | [Principal Developer, AI Networking](https://www.scoutjob.me/jobs/nvidia-principal-developer-ai-networking-893395427213) | SeniorSoftwareEngineeringExtensive | Remote | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
-| NVIDIA | [Senior Research Scientist, Circuits](https://www.scoutjob.me/jobs/nvidia-senior-research-scientist-circuits-893394445768) | SeniorDataAiMl | United States | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
-| NVIDIA | [Senior ASIC Verification Engineer, Coherent High Speed Interconnect](https://www.scoutjob.me/jobs/nvidia-senior-asic-verification-engineer-coherent-high-speed-interconnect-893395031193) | SeniorHardwareEngineering | Canada | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
-| NVIDIA | [Senior Software Engineer, CUTLASS Platform](https://www.scoutjob.me/jobs/nvidia-senior-software-engineer-cutlass-platform-893395379554) | SeniorSoftwareEngineering | United States | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
-| NVIDIA | [Senior Manager, Post-Silicon Bring-Up](https://www.scoutjob.me/jobs/nvidia-senior-manager-post-silicon-bring-up-893396778280) | SeniorHardwareEngineering | India | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
-| NVIDIA | [Principal Graphics Developer Tools Engineer](https://www.scoutjob.me/jobs/nvidia-principal-graphics-developer-tools-engineer-893395673674) | SeniorSoftwareEngineeringExtensive | United States | Oct 31, 2026 | Oct 31, 2026 02:51 UTC |
