@@ -26,6 +26,9 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Cisco | [Senior Data Engineer, Network Platform](https://www.scoutjob.me/jobs/cisco-senior-data-engineer-network-platform-ciscisglobal2028935externalenglobal) | SeniorDataAiMl | United States | Nov 07, 2026 | Nov 07, 2026 18:24 UTC |
+| Cisco | [Senior Software Engineer, Network Platform Security](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-network-platform-security-ciscisglobal2026949externalenglobal) | SeniorSoftwareEngineering | United States | Nov 07, 2026 | Nov 07, 2026 18:24 UTC |
+| Amazon | [Software Development Engineer II — Regression Infrastructure, Trainium Manufacturing Infrastucture](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-regression-infrastructure-trainium-manufacturing-infrastu-9207a7a7-357d-4fd5-90fa-a6033e3759bb) | SoftwareEngineering | United States | Nov 07, 2026 | Nov 07, 2026 17:55 UTC |
 | Qualcomm | [RTL Design - Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-rtl-design-sr-engineer-446721283305) | SeniorHardwareEngineering | India | Nov 07, 2026 | Nov 07, 2026 13:40 UTC |
 | Qualcomm | [NOC Design - Sr Engineer](https://www.scoutjob.me/jobs/qualcomm-noc-design-sr-engineer-446721283511) | SeniorSoftwareEngineeringExtensive | India | Nov 07, 2026 | Nov 07, 2026 13:40 UTC |
 | Qualcomm | [ServiceNow Systems Analyst](https://www.scoutjob.me/jobs/qualcomm-servicenow-systems-analyst-446721992887) | Analyst | Mexico | Nov 07, 2026 | Nov 07, 2026 13:40 UTC |
@@ -98,6 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Network Engineer](https://www.scoutjob.me/jobs/qualcomm-network-engineer-446721798626) | SoftwareEngineeringExtensive | Mexico | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
 | Qualcomm | [DFT - Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-dft-senior-engineer-446721867346) | SeniorHardwareEngineering | India | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
 | Qualcomm | [FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork](https://www.scoutjob.me/jobs/qualcomm-fy27-intern-cpu-engineering-internship-2027-6-months-cork-446721979476) | SoftwareEngineeringIntern | Ireland | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
-| Qualcomm | [Sr Engineer - Peripheral Validation](https://www.scoutjob.me/jobs/qualcomm-sr-engineer-peripheral-validation-446721835593) | SeniorSoftwareEngineeringExtensive | India | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
-| AMD | [Sr. System Design Mechanical Engineer](https://www.scoutjob.me/jobs/amd-sr-system-design-mechanical-engineer-88885) | SeniorHardwareEngineering | United States | Nov 07, 2026 | Nov 07, 2026 01:33 UTC |
-| xAI | [Sr. Model Engineer, Voice](https://www.scoutjob.me/jobs/xai-sr-model-engineer-voice-5286973007) | SeniorSoftwareEngineeringExtensive | United States | Nov 07, 2026 | Nov 07, 2026 01:25 UTC |
