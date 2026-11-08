@@ -26,6 +26,7 @@ When a company-provided posting date is unavailable, the displayed date is the d
 
 | Company | Job | Category | Location | Date posted or discovered | Time added (UTC) |
 |---|---|---|---|---|---|
+| Apple | [SRAM Compiler Circuit Designer](https://www.scoutjob.me/jobs/apple-sram-compiler-circuit-designer-200623884) | HardwareEngineering | Germany | Nov 07, 2026 | Nov 07, 2026 21:38 UTC |
 | Cisco | [Senior Data Engineer, Network Platform](https://www.scoutjob.me/jobs/cisco-senior-data-engineer-network-platform-ciscisglobal2028935externalenglobal) | SeniorDataAiMl | United States | Nov 07, 2026 | Nov 07, 2026 18:24 UTC |
 | Cisco | [Senior Software Engineer, Network Platform Security](https://www.scoutjob.me/jobs/cisco-senior-software-engineer-network-platform-security-ciscisglobal2026949externalenglobal) | SeniorSoftwareEngineering | United States | Nov 07, 2026 | Nov 07, 2026 18:24 UTC |
 | Amazon | [Software Development Engineer II — Regression Infrastructure, Trainium Manufacturing Infrastucture](https://www.scoutjob.me/jobs/amazon-software-development-engineer-ii-regression-infrastructure-trainium-manufacturing-infrastu-9207a7a7-357d-4fd5-90fa-a6033e3759bb) | SoftwareEngineering | United States | Nov 07, 2026 | Nov 07, 2026 17:55 UTC |
@@ -100,4 +101,3 @@ When a company-provided posting date is unavailable, the displayed date is the d
 | Qualcomm | [Embedded Software Security Engineer - Cork, IRL](https://www.scoutjob.me/jobs/qualcomm-embedded-software-security-engineer-cork-irl-446721982429) | SoftwareEngineering | Ireland | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
 | Qualcomm | [Network Engineer](https://www.scoutjob.me/jobs/qualcomm-network-engineer-446721798626) | SoftwareEngineeringExtensive | Mexico | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
 | Qualcomm | [DFT - Senior Engineer](https://www.scoutjob.me/jobs/qualcomm-dft-senior-engineer-446721867346) | SeniorHardwareEngineering | India | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
-| Qualcomm | [FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork](https://www.scoutjob.me/jobs/qualcomm-fy27-intern-cpu-engineering-internship-2027-6-months-cork-446721979476) | SoftwareEngineeringIntern | Ireland | Nov 07, 2026 | Nov 07, 2026 01:38 UTC |
